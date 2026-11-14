@@ -1,0 +1,36 @@
+name: Relevé social quotidien
+
+on:
+  schedule:
+    - cron: "10 5 * * *"   # 6h10 à Paris en hiver, 7h10 en été
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: releve
+  cancel-in-progress: false
+
+jobs:
+  releve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Installer yt-dlp
+        run: pip install --upgrade yt-dlp
+      - name: Relever les comptes
+        env:
+          BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
+        run: python scrape.py
+      - name: Enregistrer le résultat
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "veille-bot@users.noreply.github.com"
+          git add data/social.json
+          git diff --cached --quiet || git commit -m "Relevé du $(date -u +%F)"
+          git push
