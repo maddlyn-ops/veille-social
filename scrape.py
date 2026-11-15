@@ -30,6 +30,9 @@ OUT = ROOT / "data" / "social.json"
 OUT_TAGS = ROOT / "data" / "hashtags.json"
 DIGEST = ROOT / "data" / "digest.md"
 OUT_FEEDS = ROOT / "data" / "feeds.json"
+OUT_USAGE = ROOT / "data" / "usage.json"
+OUT_BOARD = ROOT / "data" / "board.json"
+BD_MONTHLY_QUOTA = 5000  # enregistrements gratuits par mois chez Bright Data
 BD_API = "https://api.brightdata.com/datasets/v3"
 BD_INSTAGRAM_POSTS = "gd_lk5ns7kz21pck8jpis"  # Instagram posts, discover by URL
 BD_TIKTOK_POSTS = "gd_lu702nij2f790tmv9h"     # TikTok posts, discover by keyword
@@ -348,6 +351,82 @@ def write_digest(result, tags_result, feeds=None):
     DIGEST.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+# ------------------------------------------- consommation et fichier board
+
+def record_usage(instagram=0, hashtags=0):
+    """Cumule par mois le nombre d'enregistrements Bright Data reçus (estimation de la consommation)."""
+    usage = load_json(OUT_USAGE) or {"months": {}}
+    month = datetime.now(timezone.utc).strftime("%Y-%m")
+    day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    m = usage["months"].setdefault(month, {"instagram": 0, "hashtags": 0, "runs": 0, "days": {}})
+    m["instagram"] += instagram
+    m["hashtags"] += hashtags
+    m["runs"] += 1
+    d = m["days"].setdefault(day, {"instagram": 0, "hashtags": 0, "runs": 0})
+    d["instagram"] += instagram
+    d["hashtags"] += hashtags
+    d["runs"] += 1
+    usage["months"] = dict(sorted(usage["months"].items())[-3:])
+    OUT_USAGE.write_text(json.dumps(usage, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    return usage
+
+
+def per_week(posts):
+    dates = sorted(p["date"] for p in posts if p.get("date"))
+    if len(dates) < 2:
+        return None
+    span = (datetime.strptime(dates[-1], "%Y-%m-%d") - datetime.strptime(dates[0], "%Y-%m-%d")).days
+    return round((len(dates) - 1) / max(span, 1) * 7, 1)
+
+
+def write_board(result, tags_result, feeds, usage, cfg):
+    """Fichier compact lu par la plateforme : comptes, hashtags, flux, consommation."""
+    accounts = []
+    for a in result["accounts"]:
+        posts = a.get("posts") or []
+        rates = [p["likes"] / p["views"] for p in posts if p.get("likes") and p.get("views")]
+        com = [p["comments"] for p in posts if p.get("comments") is not None]
+        accounts.append({
+            "platform": a["platform"], "handle": a["handle"], "status": a["status"],
+            "error": a.get("error") if a["status"] != "ok" else None,
+            "metric": a["metric"], "median": a.get("median"), "fetched_at": a.get("fetched_at"),
+            "like_rate": round(statistics.median(rates), 4) if rates else None,
+            "median_comments": statistics.median(com) if com else None,
+            "per_week": per_week(posts),
+            "posts": [{"url": p.get("url"), "date": p.get("date"), "views": p.get("views"), "likes": p.get("likes"),
+                       "comments": p.get("comments"), "shares": p.get("shares"), "ratio": p.get("ratio"),
+                       "type": p.get("type"), "caption": short(p.get("caption"), 110)} for p in posts],
+        })
+    tags = None
+    if tags_result and tags_result.get("status") == "ok":
+        tags = {
+            "updated": tags_result["generated_at"],
+            "keywords": [{"keyword": k["keyword"], "found": k["found"], "median_views": k["median_views"],
+                          "top": [{"url": p.get("url"), "author": p.get("author"), "date": p.get("date"),
+                                   "views": p.get("views"), "caption": short(p.get("caption"), 90)} for p in k["top"][:2]]}
+                         for k in tags_result["keywords"]],
+            "tags": [t for t in tags_result["hashtags"] if t["hashtag"] not in ("fyp", "foryou", "foryoupage", "viral")][:20],
+        }
+    month = datetime.now(timezone.utc).strftime("%Y-%m")
+    m = (usage or {}).get("months", {}).get(month, {"instagram": 0, "hashtags": 0, "runs": 0, "days": {}})
+    board = {
+        "generated_at": result["generated_at"],
+        "repo": "https://github.com/maddlyn-ops/veille-social",
+        "accounts": accounts,
+        "hashtags": tags,
+        "feeds": [{"name": f["name"], "status": f["status"], "items": [{"title": i["title"], "url": i["url"], "date": i["date"]} for i in f["items"][:5]]} for f in (feeds or [])],
+        "usage": {
+            "month": month, "quota": BD_MONTHLY_QUOTA,
+            "instagram": m["instagram"], "hashtags": m["hashtags"], "runs": m["runs"],
+            "days": m.get("days", {}),
+            "plan": {"tiktok_accounts": len(cfg.get("tiktok", [])), "instagram_accounts": len(cfg.get("instagram", [])),
+                     "keywords": len(cfg.get("hashtags", [])), "posts_per_account": cfg.get("posts_per_account", 10),
+                     "posts_per_hashtag": cfg.get("posts_per_hashtag", 8), "feeds": len(cfg.get("feeds", []))},
+        },
+    }
+    OUT_BOARD.write_text(json.dumps(board, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
+
+
 # ------------------------------------------------------------------ main
 
 def build_account(platform, handle, posts, error, previous):
@@ -392,6 +471,7 @@ def main():
 
     ig_handles = [h.lower() for h in cfg.get("instagram", [])]
     ig_posts, ig_error, ig_keys = {}, None, None
+    used_instagram, used_hashtags = 0, 0
     # Instagram : un jour sur deux (quota gratuit), sur demande, ou si un compte n'a jamais été relevé
     ig_due = (os.environ.get("RUN_INSTAGRAM") == "1"
               or datetime.now(timezone.utc).timetuple().tm_yday % 2 == 0
@@ -407,6 +487,7 @@ def main():
         try:
             inputs = [{"url": f"https://www.instagram.com/{h}/", "num_of_posts": limit} for h in ig_handles]
             records = bd_collect(BD_INSTAGRAM_POSTS, "url", inputs, token)
+            used_instagram = len(records)
             ig_keys = sorted(records[0].keys())[:60] if records and isinstance(records[0], dict) else None
             ig_posts = parse_instagram(records, ig_handles, limit)
         except Exception as exc:
@@ -435,6 +516,7 @@ def main():
             try:
                 inputs = [{"search_keyword": k, "num_of_posts": per_kw} for k in keywords]
                 records = bd_collect(BD_TIKTOK_POSTS, "keyword", inputs, token)
+                used_hashtags += len(records)
                 posts = parse_tiktok_search(records)
                 got = {str(p.get("keyword") or "").lower() for p in posts}
                 missing = [k for k in keywords if k.lower() not in got]
@@ -442,6 +524,7 @@ def main():
                     try:
                         retry = bd_collect(BD_TIKTOK_POSTS, "keyword",
                                            [{"search_keyword": k, "num_of_posts": per_kw} for k in missing], token)
+                        used_hashtags += len(retry)
                         posts += parse_tiktok_search(retry)
                     except Exception as exc:
                         print(f"hashtags: deuxième essai en échec ({str(exc)[:100]})")
@@ -460,6 +543,8 @@ def main():
     feeds = collect_feeds(cfg.get("feeds", []))
     OUT_FEEDS.write_text(json.dumps({"generated_at": now_iso(), "feeds": feeds}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     write_digest(result, tags_result, feeds)
+    usage = record_usage(used_instagram, used_hashtags)
+    write_board(result, tags_result, feeds, usage, cfg)
     print(f"Terminé : {ok}/{len(accounts)} comptes relevés.")
     return 0
 
