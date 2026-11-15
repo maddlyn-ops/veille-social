@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T10:06:05Z",
+  "generated_at": "2026-11-15T12:43:52Z",
   "feeds": [
     {
       "name": "Medium : Dolly Borade Solanki",
@@ -284,6 +284,71 @@
       "status": "ok",
       "items": [
         {
+          "title": "Henry Ford never said “faster horses.” Design teams keep using it anyway",
+          "url": "https://medium.com/design-bootcamp/henry-ford-never-said-faster-horses-design-teams-keep-using-it-anyway-2ebc8ffc6d7e",
+          "date": "2026-11-15",
+          "author": "Lucky Ekezie",
+          "tags": [
+            "design",
+            "technology",
+            "ux-research",
+            "ai",
+            "chatgpt"
+          ]
+        },
+        {
+          "title": "Case Study: Wi-App (Electoral Accessibility App)",
+          "url": "https://medium.com/design-bootcamp/case-study-wi-app-electoral-accessibility-app-b365616b2142",
+          "date": "2026-11-15",
+          "author": "Temi Owoade",
+          "tags": [
+            "accessibility",
+            "ux",
+            "design-for-accessibility",
+            "ui",
+            "design"
+          ]
+        },
+        {
+          "title": "What is an approval in your product?",
+          "url": "https://medium.com/design-bootcamp/what-is-an-approval-in-your-product-4743b5c99e70",
+          "date": "2026-11-15",
+          "author": "Derek Niedringhaus",
+          "tags": [
+            "product-design",
+            "artificial-intelligence",
+            "ux-design",
+            "ai-agent",
+            "design-systems"
+          ]
+        },
+        {
+          "title": "Case Study: Streamlining Operations for a Global Marketing Brand",
+          "url": "https://medium.com/design-bootcamp/case-study-streamlining-operations-for-a-global-marketing-brand-b060595181fb",
+          "date": "2026-11-15",
+          "author": "Temi Owoade",
+          "tags": [
+            "b2b",
+            "ui",
+            "marketing",
+            "design",
+            "ux"
+          ]
+        },
+        {
+          "title": "De Bono’s Six Thinking Hats, Rebuilt for AI Agents: Eleven Perspectives and a Human Gate",
+          "url": "https://medium.com/design-bootcamp/de-bonos-six-thinking-hats-rebuilt-for-ai-agents-eleven-perspectives-and-a-human-gate-0f6fa588ef4a",
+          "date": "2026-11-15",
+          "author": "Fabio Lalli",
+          "tags": [
+            "claude-code",
+            "ai-agent",
+            "artificial-intelligence",
+            "open-source",
+            "decision-making"
+          ]
+        },
+        {
           "title": "Handmade toasters, AI, and new business opportunities",
           "url": "https://medium.com/design-bootcamp/handmade-toasters-ai-and-new-business-opportunities-7574966ec1c5",
           "date": "2026-11-14",
@@ -346,67 +411,6 @@
             "software-architecture",
             "ios-app-development",
             "siri"
-          ]
-        },
-        {
-          "title": "AI makes more things possible. Not all of them worth doing.",
-          "url": "https://medium.com/design-bootcamp/ai-makes-more-things-possible-not-all-of-them-worth-doing-549288683205",
-          "date": "2026-11-13",
-          "author": "Esther Streich",
-          "tags": [
-            "ui-design",
-            "ai",
-            "ux-design",
-            "ux",
-            "ui"
-          ]
-        },
-        {
-          "title": "Adoption, competence and value",
-          "url": "https://medium.com/design-bootcamp/adoption-competence-and-value-143a47bbb32c",
-          "date": "2026-11-13",
-          "author": "Marian",
-          "tags": [
-            "artificial-intelligence",
-            "software-development",
-            "ux",
-            "accessibility",
-            "product-management"
-          ]
-        },
-        {
-          "title": "Why I Built Spark Index a Resource library",
-          "url": "https://medium.com/design-bootcamp/why-i-built-spark-index-a-resource-library-106d06a2f24b",
-          "date": "2026-11-13",
-          "author": "Ronald Rosales",
-          "tags": [
-            "resource-library",
-            "generative-ai-tools",
-            "product-design"
-          ]
-        },
-        {
-          "title": "Amazing, Useless Things I’ve Invented",
-          "url": "https://medium.com/design-bootcamp/amazing-useless-things-ive-invented-c8e2ccaf75fc",
-          "date": "2026-11-13",
-          "author": "Alessandro Romano",
-          "tags": [
-            "diy",
-            "raspberry-pi",
-            "3d-printing",
-            "claude-code",
-            "genai"
-          ]
-        },
-        {
-          "title": "Everything I have done is prehistory",
-          "url": "https://medium.com/design-bootcamp/everything-i-have-done-is-prehistory-a454e3724cfa",
-          "date": "2026-11-13",
-          "author": "Dàniel Dalia",
-          "tags": [
-            "ux",
-            "ai",
-            "interview"
           ]
         }
       ]
