@@ -1,41 +1,160 @@
-# Relevé social du 2026-11-15T07:06:55Z
+# Relevé social du 2026-11-15T09:16:24Z
 
-Comptes relevés : 5 sur 15
+Comptes relevés : 16 sur 17
 
 ## Comptes
 
-- tiktok @marcelodesignx : ok, médiane 4674 views sur 10 posts
-- tiktok @daramint : ok, médiane 2702 views sur 10 posts
-- tiktok @hana_siya : ERREUR, ERROR: [tiktok:user] hana_siya: This user's account is private. Log into an account that has access. Use --cookies-from-browser or --cookies for the authenticat
-- tiktok @bri_bossy : ok, médiane 12106 views sur 10 posts
-- tiktok @innermudd : ok, médiane 8796 views sur 10 posts
+- tiktok @marcelodesignx : ok, médiane 4702 views sur 10 posts
+- tiktok @daramint : ok, médiane 2709 views sur 10 posts
+- tiktok @hana_siya5 : ok, médiane 2571 views sur 10 posts
+- tiktok @bri_bossy : ok, médiane 12108 views sur 10 posts
+- tiktok @innermudd : ok, médiane 8854 views sur 10 posts
 - tiktok @tabeadesign : ok, médiane 2732 views sur 10 posts
-- instagram @0xloucash : ERREUR, Bright Data trigger 400: Customer is not active
-- instagram @juicelab.uiux : ERREUR, Bright Data trigger 400: Customer is not active
-- instagram @khushidotjpeg : ERREUR, Bright Data trigger 400: Customer is not active
-- instagram @meshytimes : ERREUR, Bright Data trigger 400: Customer is not active
-- instagram @the.bohdana : ERREUR, Bright Data trigger 400: Customer is not active
-- instagram @heigijeong : ERREUR, Bright Data trigger 400: Customer is not active
-- instagram @maggieindata : ERREUR, Bright Data trigger 400: Customer is not active
-- instagram @asia.does.uxui : ERREUR, Bright Data trigger 400: Customer is not active
-- instagram @sandracreates : ERREUR, Bright Data trigger 400: Customer is not active
+- instagram @0xloucash : ok, médiane 1648 likes sur 10 posts
+- instagram @loucash : ERREUR, aucun post renvoyé
+- instagram @juicelab.uiux : ok, médiane 211 likes sur 10 posts
+- instagram @khushidotjpeg : ok, médiane 141 likes sur 10 posts
+- instagram @meshtimes : ok, médiane 5187 likes sur 10 posts
+- instagram @marisa : ok, médiane 410 likes sur 10 posts
+- instagram @the.bohdana : ok, médiane 240 likes sur 10 posts
+- instagram @heigijeong : ok, médiane 3819 likes sur 10 posts
+- instagram @maggieindata : ok, médiane 204 likes sur 10 posts
+- instagram @asia.does.uxui : ok, médiane 287 likes sur 10 posts
+- instagram @sandracreatess : ok, médiane 1459 likes sur 10 posts
 
 ## Posts au moins 2 fois au-dessus de la médiane de leur compte (90 derniers jours)
 
-- 2026-11-11 | tiktok @marcelodesignx | ratio 2.61 | vues 12200 | likes 644 | commentaires 10 | partages 43 | https://www.tiktok.com/@marcelodesignx/video/7707046884640181505 | ✋Stop using white instead use this. Save this and thank me later! #webdesign #colorpalettes #websites #webdesigner
-- 2026-11-10 | tiktok @innermudd | ratio 2.59 | vues 22800 | likes 1457 | commentaires 3 | partages 58 | https://www.tiktok.com/@innermudd/video/7706646029948456244 | Just got a new iPad? Here are 3 tricks you should try! 👀 Which one is your favorite? #iPadTips #iPadTricks #AppleTips #iPadHacks #Apple
-- 2026-11-09 | tiktok @marcelodesignx | ratio 3.51 | vues 16400 | likes 614 | commentaires 42 | partages 79 | https://www.tiktok.com/@marcelodesignx/video/7706310613718322439 | It’s game over. Wait for it! 🔥 Comment “library” to get access to these templates and power up your AI agents. #Claude #webdesign #webdesigner #websites #Horiz…
-- 2026-11-09 | tiktok @innermudd | ratio 2.32 | vues 20400 | likes 1013 | commentaires 6 | partages 35 | https://www.tiktok.com/@innermudd/video/7706243394267303220 | 4 Mac apps I use almost every day to make my workflow easier and keep everything organized. From managing emails to tracking all my projects, these apps have b…
-- 2026-11-08 | tiktok @marcelodesignx | ratio 9.99 | vues 46700 | likes 3283 | commentaires 71 | partages 398 | https://www.tiktok.com/@marcelodesignx/video/7705670051336064263 | Your most viral Reel, reimagined 🔥 Upload it to Higgsfield Shorts Studio and recreate it in a different visual style. Same idea, fresh look. Comment “SHORTS” a…
-- 2026-11-06 | tiktok @innermudd | ratio 3.87 | vues 34000 | likes 2151 | commentaires 1 | partages 86 | https://www.tiktok.com/@innermudd/video/7705099716446391553 | 3 Mac shortcuts you'll wish you knew sooner 👀 Screenshot your entire screen, capture a specific area, or record your screen in seconds. Save this for the next …
-- 2026-10-25 | tiktok @innermudd | ratio 15.38 | vues 135300 | likes 9248 | commentaires 91 | partages 135 | https://www.tiktok.com/@innermudd/video/7700657995788700929 | Still using the MacBook Air M2 in 2026. Is it still worth it? 💻 #MacBookAirM2 #MacBook #Apple #MacBookTips #TechReview
-- 2026-10-19 | tiktok @bri_bossy | ratio 4.12 | vues 49900 | likes 7971 | commentaires 155 | partages 520 | https://www.tiktok.com/@bri_bossy/video/7698409257598848289 | Le jeu s’appelle YAP J’ai créé un jeu pour m’aider à m’améliorer en anglais ! Et franchement il est beaucoup trop cool 🌟♥️
-- 2026-10-17 | tiktok @daramint | ratio 11.7 | vues 31600 | likes 3881 | commentaires 38 | partages 88 | https://www.tiktok.com/@daramint/video/7697587941928881440 | A Full Day of Work As A UX/UI Designer 👩‍💻🎧 It’s been a while since my last #dayinmylife vlog! @anua_global #uxdesigner #9to5 #wfhvlog #pdrncream
-- 2026-10-13 | tiktok @daramint | ratio 3.74 | vues 10100 | likes 1198 | commentaires 22 | partages 44 | https://www.tiktok.com/@daramint/video/7696113873622945057 | What to put in your UX Design portfolio, based on where you actually are in your career 👩‍💻🎨 #portfolio #uxui #uxdesigner #portfoliotips #creativecareer
-- 2026-10-08 | tiktok @daramint | ratio 2.5 | vues 6744 | likes 620 | commentaires 23 | partages 39 | https://www.tiktok.com/@daramint/video/7694300991000284448 | #uxdesign #uxui #figmaplugin #designresources #designtools
-- 2026-10-01 | tiktok @daramint | ratio 25.13 | vues 67900 | likes 6066 | commentaires 90 | partages 124 | https://www.tiktok.com/@daramint/video/7691697060487253281 | How my conversations be going this year 🫠 #uxui #uxdesigner #relatable #ai #design
-- 2026-08-26 | tiktok @tabeadesign | ratio 20.61 | vues 56300 | likes 10500 | commentaires 69 | partages 315 | https://www.tiktok.com/@tabeadesign/video/7678300657475980566 | my petition to become your new creative bestie 🩵 #branddesigner #creative #designer #designerlife #graphicdesigner
+- 2026-11-12 | instagram @juicelab.uiux | ratio 2.13 | vues None | likes 449 | commentaires 50 | partages None | https://www.instagram.com/p/DfpLqEvmatW | A law firm doesn’t just manage cases. It manages trust, time, and people’s futures. Meet Aurelis — a legal dashboard concept designed to make complex firm oper…
+- 2026-11-11 | tiktok @marcelodesignx | ratio 2.62 | vues 12300 | likes 649 | commentaires 10 | partages 47 | https://www.tiktok.com/@marcelodesignx/video/7707046884640181505 | ✋Stop using white instead use this. Save this and thank me later! #webdesign #colorpalettes #websites #webdesigner
+- 2026-11-11 | instagram @meshtimes | ratio 6.82 | vues None | likes 35388 | commentaires 5940 | partages None | https://www.instagram.com/reel/DfnEUR7toXd | the doors are open!! 🎄 this year’s advent calendar is live ♡ i can’t believe we’re on year 3 already 🥹 in 2024, it started as a little figma template. in 2025,…
+- 2026-11-10 | tiktok @innermudd | ratio 2.68 | vues 23700 | likes 1529 | commentaires 3 | partages 66 | https://www.tiktok.com/@innermudd/video/7706646029948456244 | Just got a new iPad? Here are 3 tricks you should try! 👀 Which one is your favorite? #iPadTips #iPadTricks #AppleTips #iPadHacks #Apple
+- 2026-11-10 | instagram @0xloucash | ratio 2.76 | vues None | likes 4555 | commentaires 4051 | partages None | https://www.instagram.com/reel/DfkawApIS_- | Claude ne sait pas nativement créer des effets sonores, alors voici mon top 3 des repos GitHub pour ajouter des effets sonores/sfx à tes agents ia :) #sfx #cla…
+- 2026-11-10 | instagram @khushidotjpeg | ratio 4.82 | vues None | likes 680 | commentaires 7 | partages None | https://www.instagram.com/reel/Dfjqm_ZOtCb | easy figma gradients pt.1 🎨 the simple way to make a gradient that doesn’t look default. no plugins, no fancy tricks, just the basics done properly. pt.2 is co…
+- 2026-11-09 | tiktok @marcelodesignx | ratio 3.51 | vues 16500 | likes 619 | commentaires 42 | partages 79 | https://www.tiktok.com/@marcelodesignx/video/7706310613718322439 | It’s game over. Wait for it! 🔥 Comment “library” to get access to these templates and power up your AI agents. #Claude #webdesign #webdesigner #websites #Horiz…
+- 2026-11-09 | tiktok @innermudd | ratio 2.3 | vues 20400 | likes 1022 | commentaires 6 | partages 35 | https://www.tiktok.com/@innermudd/video/7706243394267303220 | 4 Mac apps I use almost every day to make my workflow easier and keep everything organized. From managing emails to tracking all my projects, these apps have b…
+- 2026-11-08 | tiktok @marcelodesignx | ratio 9.95 | vues 46800 | likes 3285 | commentaires 71 | partages 399 | https://www.tiktok.com/@marcelodesignx/video/7705670051336064263 | Your most viral Reel, reimagined 🔥 Upload it to Higgsfield Shorts Studio and recreate it in a different visual style. Same idea, fresh look. Comment “SHORTS” a…
+- 2026-11-06 | tiktok @innermudd | ratio 3.86 | vues 34200 | likes 2159 | commentaires 1 | partages 86 | https://www.tiktok.com/@innermudd/video/7705099716446391553 | 3 Mac shortcuts you'll wish you knew sooner 👀 Screenshot your entire screen, capture a specific area, or record your screen in seconds. Save this for the next …
+- 2026-11-06 | instagram @juicelab.uiux | ratio 5.32 | vues None | likes 1122 | commentaires 44 | partages None | https://www.instagram.com/p/DfZqckAmd0e | Money management should feel effortless, not overwhelming. 💳 Introducing a modern finance dashboard concept designed to make every transaction, card, and finan…
+- 2026-11-06 | instagram @sandracreatess | ratio 4.78 | vues None | likes 6976 | commentaires 10 | partages None | https://www.instagram.com/p/DfZI8iBNcIP | Happy Fridayyyyy :)))))))
+- 2026-11-05 | instagram @0xloucash | ratio 3.96 | vues None | likes 6524 | commentaires 1698 | partages None | https://www.instagram.com/reel/DfYD2R7oc2b | Voici un outil qui permet de trouver où ton pseudo traîne parmi plus de 400 sites, afin de pouvoir trouver les informations qui traînent sur toi… :) #ai #osint…
+- 2026-11-05 | instagram @khushidotjpeg | ratio 2.07 | vues None | likes 292 | commentaires 12 | partages None | https://www.instagram.com/p/DfXLcuPDoJX | Your design stack might be holding you back. 👀 I rounded up 4 of the best UX/UI design tools for 2026 to help designers work faster, collaborate better, and sh…
+- 2026-11-04 | instagram @maggieindata | ratio 4.71 | vues None | likes 964 | commentaires 14 | partages None | https://www.instagram.com/p/DfUG_MtG8US | When you spend hours on a data analysis and the decision was made with ‘gut feelings’ 🥲
+- 2026-11-03 | instagram @khushidotjpeg | ratio 3.29 | vues None | likes 464 | commentaires 24 | partages None | https://www.instagram.com/reel/DfSDLb7OBoO | if i had to start my ux design journey all over again, these are the resources i’d start with 🫶🏻 from learning design principles to understanding ux psychology…
+- 2026-10-27 | instagram @the.bohdana | ratio 2.44 | vues None | likes 585 | commentaires 14 | partages None | https://www.instagram.com/p/DfAN7p7EatQ | which model to use when vibe coding your portfolio👀 #portfolio #productdesign
+- 2026-10-26 | instagram @sandracreatess | ratio 2.52 | vues None | likes 3678 | commentaires 21 | partages None | https://www.instagram.com/p/De81OAnNUNQ | Either way, I’m complaining😅
+- 2026-10-25 | tiktok @innermudd | ratio 15.32 | vues 135600 | likes 9277 | commentaires 91 | partages 135 | https://www.tiktok.com/@innermudd/video/7700657995788700929 | Still using the MacBook Air M2 in 2026. Is it still worth it? 💻 #MacBookAirM2 #MacBook #Apple #MacBookTips #TechReview
+- 2026-10-21 | instagram @asia.does.uxui | ratio 2.49 | vues None | likes 714 | commentaires 12 | partages None | https://www.instagram.com/reel/DewhV4pqGe1 | want to do the same? Ever since I started my 12 apps in 12 months challenge I’ve been living in my own creative world. Creating whatever I want and whatever I …
+- 2026-10-21 | instagram @sandracreatess | ratio 2.03 | vues None | likes 2961 | commentaires 24 | partages None | https://www.instagram.com/p/Dev214ENAj8 | me after creating 47 imaginary scenarios in my head 🎀
+- 2026-10-19 | tiktok @bri_bossy | ratio 4.13 | vues 50000 | likes 7975 | commentaires 155 | partages 520 | https://www.tiktok.com/@bri_bossy/video/7698409257598848289 | Le jeu s’appelle YAP J’ai créé un jeu pour m’aider à m’améliorer en anglais ! Et franchement il est beaucoup trop cool 🌟♥️
+- 2026-10-19 | instagram @sandracreatess | ratio 31.67 | vues None | likes 46208 | commentaires 66 | partages None | https://www.instagram.com/p/DeqwevTBD2W | *Schedules a crying session for next year* Tag someone who's always fully booked🫠
+- 2026-10-17 | tiktok @daramint | ratio 11.7 | vues 31700 | likes 3893 | commentaires 38 | partages 88 | https://www.tiktok.com/@daramint/video/7697587941928881440 | A Full Day of Work As A UX/UI Designer 👩‍💻🎧 It’s been a while since my last #dayinmylife vlog! @anua_global #uxdesigner #9to5 #wfhvlog #pdrncream
+- 2026-10-13 | tiktok @daramint | ratio 3.73 | vues 10100 | likes 1199 | commentaires 22 | partages 44 | https://www.tiktok.com/@daramint/video/7696113873622945057 | What to put in your UX Design portfolio, based on where you actually are in your career 👩‍💻🎨 #portfolio #uxui #uxdesigner #portfoliotips #creativecareer
+- 2026-10-11 | instagram @heigijeong | ratio 5.68 | vues None | likes 21676 | commentaires 125 | partages None | https://www.instagram.com/reel/DeW2TrQCkCZ | we all wanted to climb the corporate ladder then now we are trying to quietly climb back down #careerpivot #careerbreak
+- 2026-10-08 | tiktok @daramint | ratio 2.49 | vues 6745 | likes 620 | commentaires 23 | partages 39 | https://www.tiktok.com/@daramint/video/7694300991000284448 | #uxdesign #uxui #figmaplugin #designresources #designtools
+- 2026-10-02 | tiktok @hana_siya5 | ratio 3.8 | vues 9766 | likes 613 | commentaires 4 | partages 122 | https://www.tiktok.com/@hana_siya5/video/7692116078805142792 | #fyp #foryou #foryoupage #viral #uiuxdesign
+- 2026-10-01 | tiktok @daramint | ratio 25.06 | vues 67900 | likes 6074 | commentaires 90 | partages 124 | https://www.tiktok.com/@daramint/video/7691697060487253281 | How my conversations be going this year 🫠 #uxui #uxdesigner #relatable #ai #design
+- 2026-09-28 | tiktok @hana_siya5 | ratio 2.61 | vues 6715 | likes 398 | commentaires 5 | partages 70 | https://www.tiktok.com/@hana_siya5/video/7690656669797190930 | Figma is evolving from a design tool into an entire creative workspace @figma #Figma2026 #explore #UIDesign #UXDesign #aitrend
+- 2026-09-01 | instagram @juicelab.uiux | ratio 9.11 | vues None | likes 1923 | commentaires 96 | partages None | https://www.instagram.com/p/DcvzsyPEhy8 | Finance, made beautifully simple. A refined fintech experience focused on effortless payments, smarter card management, and seamless money movement. Designed t…
+- 2026-08-26 | tiktok @tabeadesign | ratio 20.6 | vues 56300 | likes 10500 | commentaires 69 | partages 315 | https://www.tiktok.com/@tabeadesign/video/7678300657475980566 | my petition to become your new creative bestie 🩵 #branddesigner #creative #designer #designerlife #graphicdesigner
+- 2026-08-20 | instagram @juicelab.uiux | ratio 4.74 | vues None | likes 1001 | commentaires 46 | partages None | https://www.instagram.com/p/DcQ-9vOElTy | Travel planning, reimagined with AI. A smarter travel experience designed to make discovering destinations, building itineraries, and planning every detail fee…
 
 ## Hashtags et mots-clés TikTok (relevé hebdomadaire)
 
-- pas encore de relevé
+Relevé du 2026-11-15T09:28:16Z.
+
+### Par mot-clé : médiane de vues des vidéos trouvées, puis les 3 meilleures
+
+- workinggirl : 8 vidéos, médiane 746750.0 vues
+    - 2025-07-20 | @Clara Griffith | vues 11100000 | likes 1200000 | partages 9965 | https://www.tiktok.com/@coppercowgirl.0/video/7528964770167278903 | May need to consider bulking… #feedstore #working #cowgirl #feed #redhead #ginger #imjustagirl #fyp #viral #viralvideo #foryou #murdochs A …
+    - 2025-08-18 | @adriana 🧸ྀི | vues 1300000 | likes 228400 | partages 4163 | https://www.tiktok.com/@adridiaries/video/7539976164324953375 | romanticizing my 6am work grind like it’s a gilmore girls episode 🍂☕️ #grwm #corporategirly #morningroutine #skin1004 #skin1004skincare @SK…
+    - 2026-02-04 | @Julietagonzs | vues 932400 | likes 56100 | partages 4161 | https://www.tiktok.com/@julietagonzs/video/7603072823266905364 | IG julietagonzs That feeling when you're a 25-year-old teenager at your big girl office job. A relatable moment for anyone who's ever felt …
+- product design : 8 vidéos, médiane 351900.0 vues
+    - 2023-05-16 | @sketchyken | vues 2400000 | likes 208300 | partages 2237 | https://www.tiktok.com/@sketchykennn/video/7233717232889548038 | In this course we were tasked to design a lamp inspired by beautiful forms. #productdesign #industrialdesign See a student's product design…
+    - 2026-11-10 | @LesinskiDesigns | vues 1100000 | likes 59100 | partages 6924 | https://www.tiktok.com/@lesinskidesigns/video/7706619934914153741 | Chessboard redesign. I’m working on developing both a 3d printable kit as well as a high end board with metal and hardwood. #chess #design …
+    - 2026-09-16 | @Movemate | vues 506700 | likes 22700 | partages 4037 | https://www.tiktok.com/@letsmovemate/video/7686190295205104914 | It may look simple, but that’s the result of a clever design. Movemate’s 14 individually crafted slats are carefully shaped to help you mov…
+- uidesigner : 8 vidéos, médiane 273500.0 vues
+    - 2023-04-09 | @Olivia | UX/UI Designer | vues 1700000 | likes 132100 | partages 5064 | https://www.tiktok.com/@designvoodoo/video/7220068787826019589 | If you wanna start making 6 figures doing sweet nothing, learn Figma and become a UI designer! #uxhumor #designhumor #uiux #figmadesign #fi…
+    - 2024-02-07 | @Nolan | vues 501200 | likes 42100 | partages 1722 | https://www.tiktok.com/@radnolan/video/7332963160267263278 | Mastering spacing is the secret that elevates a product designer from good to great. It's a crucial UI design skill that elevates the user …
+    - 2025-05-27 | @Design With Dara | vues 415600 | likes 29600 | partages 1056 | https://www.tiktok.com/@daramint/video/7509250801399827735 | Trying out a new tool during my WFH day — Trickle lets you build full websites just by typing a prompt 🤓🚀 #dayinmylife #wfh #workvlog #uxde…
+- uxuidesigner : 8 vidéos, médiane 194350.0 vues
+    - 2025-05-27 | @Design With Dara | vues 415600 | likes 29600 | partages 1056 | https://www.tiktok.com/@daramint/video/7509250801399827735 | Trying out a new tool during my WFH day — Trickle lets you build full websites just by typing a prompt 🤓🚀 #dayinmylife #wfh #workvlog #uxde…
+    - 2026-11-07 | @Charles Liu | vues 401200 | likes 26100 | partages 2597 | https://www.tiktok.com/@charles.unemployed/video/7705468598260665618 | Helping unslop the internet one day at a time 🧹 #uiux #uidesign #claude #tech #designengineering A design-focused look at helping improve t…
+    - 2025-09-05 | @Patty | Design & Tech | vues 240000 | likes 26900 | partages 1148 | https://www.tiktok.com/@fluxpat/video/7546569875246927112 | UX Bootcamp ep1 - Day 16/60. UX design teaches you critical thinking, empathy, creativity and problem solving. I strongly believe that if e…
+- figma : 8 vidéos, médiane 108400.0 vues
+    - 2024-10-07 | @Adrien Ninet | vues 1200000 | likes 76000 | partages 5911 | https://www.tiktok.com/@adrien.ninet/video/7423065788279459105 | Impress Your Future Clients by Creatibg Stunning Mockups 🤩 #webdesigner #figmadesign #figmatips #website #figma Learn how to create a stunn…
+    - 2026-04-24 | @roma guliaev | vues 810800 | likes 100200 | partages 4526 | https://www.tiktok.com/@romgliev/video/7632304680441236744 | been terrifying figma without auto layout skills Figma without auto layout can feel chaotic. See why designers struggle when frames, layers…
+    - 2026-02-17 | @Agatha | Design Engineer | vues 135800 | likes 12500 | partages 838 | https://www.tiktok.com/@itsdesignely/video/7607857639753649430 | Part 16 | Hidden Figma plugins you should try in your next project - ripple effect - rain drop effect - wave craft - cmyk halftones #figmap…
+- tech girl : 8 vidéos, médiane 91950.0 vues
+    - 2026-05-04 | @zoobidoobi.xo ✿ | vues 558300 | likes 37900 | partages 3231 | https://www.tiktok.com/@zoobidoobi.xo/video/7636039739342081298 | getting laid off in 2026 be like ‘it’s not you… it’s AI’ 💋 #layoffs #tech #lost #fyp
+    - 2025-04-08 | @khris.sheer | vues 389800 | likes 22000 | partages 1526 | https://www.tiktok.com/@khris.sheer/video/7490941192251657494 | Welcome to The Founder Experiments series - my solo journey to build something real, one app at a time. #founder #solopreneur #coding #ai #…
+    - 2024-09-17 | @Masa’s Tech Life | vues 240000 | likes 24500 | partages 825 | https://www.tiktok.com/@mashstatic/video/7415587681205341472 | I have to. #tech #techtok #programming #coding #softwareengineer #softwaredeveloper #softwaredevelopment #womenintech #girlswhocode #womeni…
+- ux : 8 vidéos, médiane 81900.0 vues
+    - 2026-10-10 | @#CodeVibes | vues 211600 | likes 30600 | partages 3266 | https://www.tiktok.com/@codevibes_1/video/7695054265777278240 | The Insane Gap Between Average and World-class UI/UX Design. watch Till End you learn more . Don't Forget to Like and follow for more inter…
+    - 2026-05-27 | @Erika | vues 156200 | likes 15300 | partages 1187 | https://www.tiktok.com/@maiahii.maiahuu/video/7644608526093946119 | AI quietly changed my UX job way faster than I think most people realize #techtok #ai #uxdesign #work #corporatetok A UX designer in big te…
+    - 2026-08-24 | @UX Snacks | vues 127200 | likes 7915 | partages 496 | https://www.tiktok.com/@ux_snacks/video/7677553997699550485 | Check the link in the bio to master UX/UI Design! #ui #uiuxdesign #uidesign #uxdesign #uxui
+- uxui : 8 vidéos, médiane 53750.0 vues
+    - 2025-05-27 | @Design With Dara | vues 415600 | likes 29600 | partages 1056 | https://www.tiktok.com/@daramint/video/7509250801399827735 | Trying out a new tool during my WFH day — Trickle lets you build full websites just by typing a prompt 🤓🚀 #dayinmylife #wfh #workvlog #uxde…
+    - 2026-07-16 | @eileen yang | vues 179500 | likes 19500 | partages 1060 | https://www.tiktok.com/@eileenxyang/video/7663246383926824222 | uiux design for beginners! aka what ive learned in the last few months :) @Replit #uiux #designtips #uiuxdesign Begin UI/UX design from scr…
+    - 2026-10-01 | @Design With Dara | vues 67900 | likes 6074 | partages 124 | https://www.tiktok.com/@daramint/video/7691697060487253281 | How my conversations be going this year 🫠 #uxui #uxdesigner #relatable #ai #design Short take showing common UX/UI designer lines and react…
+- workflow ia : 8 vidéos, médiane 48100.0 vues
+    - 2024-04-07 | @Sophie | vues 1600000 | likes 90600 | partages 16200 | https://www.tiktok.com/@teach2ai/video/7355161354417769733 | free site literally everyone should know about to save you HOURS #ai #aiforeducation #productivity #aitool #aiforbusiness #productivityhack…
+    - 2026-10-26 | @Quiet Growth Tips | vues 107200 | likes 5841 | partages 844 | https://www.tiktok.com/@coffeewithsimon/video/7700777492059098375 | ✨ The workflow that puts your job on autopilot! Get the prompts in my profile link! I wish I had thought of this sooner because it's such a…
+    - 2026-04-18 | @eggintech | vues 88200 | likes 5565 | partages 445 | https://www.tiktok.com/@eggintech/video/7630185416620117279 | comment ‘workflow’ and i will send you this list of ideas! the list will also be at the link in my bio! #workflows #workflowautomation #aia…
+- ui : 8 vidéos, médiane 47900.0 vues
+    - 2026-05-24 | @𝑳𝑼𝑪𝑲𝒀 🍀 | vues 1800000 | likes 233300 | partages 9445 | https://www.tiktok.com/@cvrlucky/video/7643494658739375382 | Autonomous Ultra Instinct 👀🔥 || Goku Edit || Long Intro Edit || #goku #gokuedit #ultrainstinct #ui #targetaudience
+    - 2025-11-02 | @Crema Agria #MikuExpo2026 | vues 604000 | likes 69700 | partages 2104 | https://www.tiktok.com/@sourxcreme/video/7568253915225935122 | si leí las letras, y si estan implícitas de acoso #vocaloid #ui #voisona #anime #animetiktok Análisis de las canciones de UI Voisona que se…
+    - 2026-09-07 | @UI | vues 411400 | likes 23400 | partages 143 | https://www.tiktok.com/@ui_avantgardey/video/7682715378421697812 | What animal do I look like?🐶🐱 #avantgardey #アバンギャルディ #ウイアバンギャルディ Short playful face quiz: guess which animal I look like and see reactions.…
+- claude code : 8 vidéos, médiane 37850.0 vues
+    - 2026-08-25 | @dupodev | AI & Notion Workflow | vues 469300 | likes 19700 | partages 3582 | https://www.tiktok.com/@dupodev/video/7677832234824486165 | Here is a link to openrouter https://openrouter.ai #claude #claudecode #ai #free #openai
+    - 2026-11-14 | @Alex Tsoi | AI with Alex | vues 99600 | likes 6563 | partages 419 | https://www.tiktok.com/@alextsoi.ai/video/7707948429116198166 | follow for part 2 of things I built with Claude Code Part 1: Agent Huddle 1. A little widget in the corner shows every Claude Code agent I'…
+    - 2026-11-07 | @Mr. Union | vues 47100 | likes 2671 | partages 333 | https://www.tiktok.com/@mr..unionn/video/7705296685081316629 | Did you know Claude can create animated Reels using code? 🎬🧡 Every frame of this Reel was created by Claude using code. No video AI generat…
+- codex : 8 vidéos, médiane 29900.0 vues
+    - 2026-10-17 | @тгк: sapargalikz | vues 656100 | likes 55200 | partages 7770 | https://www.tiktok.com/@sapargalikz/video/7697780196975316245 | Как и обещал — выложил видео, где я заставил ИИ полноценно работать за меня. 32 минуты чистого мяса: разобрали инструмент Codex от абсолютн…
+    - 2026-09-17 | @Nas Daily | vues 244200 | likes 14500 | partages 2144 | https://www.tiktok.com/@nasdaily/video/7686491877499243797 | AI saved me $100,000 I hope this helps you like it helped me. See you next week! A creator describes how AI saved them $100,000 and shares …
+    - 2026-09-06 | @SHER studios 🎬 | vues 107100 | likes 2231 | partages 711 | https://www.tiktok.com/@sher_studios/video/7682504680492125462 | Chat GPT 6 Astra + Codex building on Blender (Concept Demo) #gpt6astra #chatgpt6 #chatgpt6astra
+- product builder : 8 vidéos, médiane 19550.0 vues
+    - 2026-09-24 | @HTX Studio | vues 9400000 | likes 1700000 | partages 151500 | https://www.tiktok.com/@htx_studio/video/7689051915304455454 | We Built the Product Apple Gave Up On... A short video showing a team building a wireless charger inspired by Apple’s AirPower concept. We …
+    - 2026-07-15 | @Adam 🚀 Startups | vues 35900 | likes 2839 | partages 475 | https://www.tiktok.com/@adam_ha_yes/video/7662630424102866189 | If you wanna be able the product like the top 1% of designers you need to look at what they’re already doing #startup #productdesigners Lea…
+    - 2025-11-19 | @Sarah✨ | vues 26100 | likes 1592 | partages 51 | https://www.tiktok.com/@sarahkchey/video/7574247337254604045 | no I didn’t major in chemistry☺️ storytime of how I got into product development in beauty. HUGE shoutout to all the women & mentors that g…
+- designengineer : 8 vidéos, médiane 11713.0 vues
+    - 2026-03-09 | @Kadz | vues 503700 | likes 8287 | partages 320 | https://www.tiktok.com/@kadz.yt/video/7615382739268717844 | Creative sign design ⚙️ #meme #memes #genius #creative #engineer A creative engineer sign design meme showing a clever open/closed sign con…
+    - 2025-03-26 | @meshtimes | vues 181900 | likes 20300 | partages 380 | https://www.tiktok.com/@meshtimes/video/7485914650991775018 | Just a designer on a journey to become a design engineer. I love pushing the boundaries of everyday software and turning physical experienc…
+    - 2026-09-03 | @itscamillesy | vues 108000 | likes 4711 | partages 87 | https://www.tiktok.com/@itscamillesy/video/7681258953090567444 | some days, im a meeting engineer 🤓 Learn what a meeting engineer is, common tasks and why someone would call themselves a “meeting engineer…
+- product designer : 0 vidéos, médiane None vues
+- uxdesigner : 0 vidéos, médiane None vues
+- product discovery : 0 vidéos, médiane None vues
+- product management : 0 vidéos, médiane None vues
+- vibe coding : 0 vidéos, médiane None vues
+- figma make : 0 vidéos, médiane None vues
+- workflow product : 0 vidéos, médiane None vues
+
+### Hashtags les plus présents sur ces vidéos, classés par médiane de vues
+
+- #figmadesign : 4 vidéos, médiane 667900 vues
+- #tech : 4 vidéos, médiane 320600 vues
+- #uiux : 8 vidéos, médiane 273500 vues
+- #coding : 3 vidéos, médiane 240000 vues
+- #foryou : 3 vidéos, médiane 211600 vues
+- #productdesign : 10 vidéos, médiane 194700 vues
+- #fyp : 8 vidéos, médiane 139850 vues
+- #uidesigner : 3 vidéos, médiane 135800 vues
+- #uxdesign : 10 vidéos, médiane 111450 vues
+- #productivity : 4 vidéos, médiane 103400 vues
+- #engineering : 4 vidéos, médiane 94963 vues
+- #design : 10 vidéos, médiane 81800 vues
+- #figma : 9 vidéos, médiane 68100 vues
+- #ai : 15 vidéos, médiane 67900 vues
+- #uxui : 9 vidéos, médiane 67900 vues
+- #uxdesigner : 8 vidéos, médiane 63150 vues
+- #ui : 11 vidéos, médiane 49400 vues
+- #uidesign : 6 vidéos, médiane 48650 vues
+- #claude : 9 vidéos, médiane 44000 vues
+- #ux : 4 vidéos, médiane 43000 vues
+- #aitools : 4 vidéos, médiane 40400 vues
+- #claudecode : 8 vidéos, médiane 28900 vues
+- #techtok : 6 vidéos, médiane 26200 vues
+- #codex : 5 vidéos, médiane 26100 vues
+- #startup : 4 vidéos, médiane 25700 vues
+- #aiautomation : 4 vidéos, médiane 13350 vues
+- #vibecoding : 7 vidéos, médiane 13300 vues
+- #designengineer : 3 vidéos, médiane 4340 vues
