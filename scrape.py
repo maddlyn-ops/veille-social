@@ -19,7 +19,9 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
 from collections import defaultdict
+from email.utils import parsedate_to_datetime
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -27,6 +29,7 @@ ROOT = Path(__file__).parent
 OUT = ROOT / "data" / "social.json"
 OUT_TAGS = ROOT / "data" / "hashtags.json"
 DIGEST = ROOT / "data" / "digest.md"
+OUT_FEEDS = ROOT / "data" / "feeds.json"
 BD_API = "https://api.brightdata.com/datasets/v3"
 BD_INSTAGRAM_POSTS = "gd_lk5ns7kz21pck8jpis"  # Instagram posts, discover by URL
 BD_TIKTOK_POSTS = "gd_lu702nij2f790tmv9h"     # TikTok posts, discover by keyword
@@ -246,9 +249,48 @@ def build_hashtag_report(keywords, posts, per_keyword):
     return keyword_rows, tags[:40]
 
 
+# ------------------------------------------------- flux d'articles (RSS)
+
+def fetch_feed(url, limit=10):
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; veille-bot)"})
+    with urllib.request.urlopen(req, timeout=60) as resp:
+        root = ET.fromstring(resp.read())
+    items = []
+    for it in root.iter("item"):
+        date = None
+        try:
+            date = parsedate_to_datetime(it.findtext("pubDate") or "").astimezone(timezone.utc).strftime("%Y-%m-%d")
+        except (TypeError, ValueError):
+            pass
+        author = it.findtext("{http://purl.org/dc/elements/1.1/}creator")
+        items.append({
+            "title": short(it.findtext("title"), 200),
+            "url": (it.findtext("link") or "").split("?source=")[0],
+            "date": date,
+            "author": short(author, 80) if author else None,
+            "tags": [short(c.text, 40) for c in it.findall("category") if c.text][:6],
+        })
+        if len(items) >= limit:
+            break
+    return items
+
+
+def collect_feeds(feeds):
+    out = []
+    for f in feeds:
+        entry = {"name": f["name"], "source": f.get("source", "web"), "url": f["url"]}
+        try:
+            entry.update({"status": "ok", "items": fetch_feed(f["url"])})
+        except Exception as exc:
+            entry.update({"status": "erreur", "error": short(str(exc), 200), "items": []})
+        print(f"flux {f['name']}: {entry['status']} {len(entry['items'])}")
+        out.append(entry)
+    return out
+
+
 # ---------------------------------------------------------------- digest
 
-def write_digest(result, tags_result):
+def write_digest(result, tags_result, feeds=None):
     lines = [f"# Relevé social du {result['generated_at']}", "",
              f"Comptes relevés : {result['ok']} sur {result['total']}", "", "## Comptes", ""]
     for a in result["accounts"]:
@@ -290,6 +332,19 @@ def write_digest(result, tags_result):
         lines += ["", "### Hashtags les plus présents sur ces vidéos, classés par médiane de vues", ""]
         for t in tags_result["hashtags"][:30]:
             lines.append(f"- #{t['hashtag']} : {t['videos']} vidéos, médiane {t['median_views']:.0f} vues")
+    lines += ["", "## Articles récents des sources suivies (30 derniers jours)", ""]
+    cutoff30 = datetime.fromtimestamp(time.time() - 30 * 86400, timezone.utc).strftime("%Y-%m-%d")
+    for f in feeds or []:
+        if f["status"] != "ok":
+            lines.append(f"- {f['name']} : ERREUR, {f.get('error')}")
+            continue
+        recent = [i for i in f["items"] if (i.get("date") or "") >= cutoff30]
+        lines.append(f"- {f['name']} (source {f['source']}) : {len(recent)} articles récents")
+        for i in recent:
+            by = f" | par {i['author']}" if i.get("author") else ""
+            lines.append(f"    - {i['date']} | {i['title']}{by} | {i['url']} | {', '.join(i['tags'])}")
+    if not feeds:
+        lines.append("- aucun flux configuré")
     DIGEST.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
@@ -402,7 +457,9 @@ def main():
             tags_result = new
             OUT_TAGS.write_text(json.dumps(new, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
-    write_digest(result, tags_result)
+    feeds = collect_feeds(cfg.get("feeds", []))
+    OUT_FEEDS.write_text(json.dumps({"generated_at": now_iso(), "feeds": feeds}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    write_digest(result, tags_result, feeds)
     print(f"Terminé : {ok}/{len(accounts)} comptes relevés.")
     return 0
 

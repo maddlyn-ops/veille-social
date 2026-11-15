@@ -52,5 +52,32 @@
     "codex",
     "workflow ia",
     "workflow product"
+  ],
+  "feeds": [
+    {
+      "name": "Medium : Dolly Borade Solanki",
+      "source": "medium",
+      "url": "https://medium.com/feed/@dollyborade07"
+    },
+    {
+      "name": "Medium : Michal Malewicz",
+      "source": "medium",
+      "url": "https://medium.com/feed/@michalmalewicz"
+    },
+    {
+      "name": "Medium : Bootcamp",
+      "source": "medium",
+      "url": "https://medium.com/feed/design-bootcamp"
+    },
+    {
+      "name": "Romina Kavcic : The Design System Guide (newsletter)",
+      "source": "web",
+      "url": "https://learn.thedesignsystem.guide/feed"
+    },
+    {
+      "name": "Lenny's Newsletter",
+      "source": "lenny",
+      "url": "https://www.lennysnewsletter.com/feed"
+    }
   ]
 }

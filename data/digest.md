@@ -61,6 +61,7 @@ Comptes relevés : 16 sur 17
 ## Hashtags et mots-clés TikTok (relevé hebdomadaire)
 
 Relevé du 2026-11-15T09:28:16Z.
+À lire avec prudence : ce sont les vidéos les mieux classées par la recherche TikTok, toutes dates confondues (regarder la date de chaque vidéo). Les médianes montrent où existent de grosses vidéos, pas ce qu'obtient une vidéo moyenne. Les mots-clés très larges (ux, ui, workinggirl, product design) ramènent du contenu hors sujet.
 
 ### Par mot-clé : médiane de vues des vidéos trouvées, puis les 3 meilleures
 
@@ -158,3 +159,48 @@ Relevé du 2026-11-15T09:28:16Z.
 - #aiautomation : 4 vidéos, médiane 13350 vues
 - #vibecoding : 7 vidéos, médiane 13300 vues
 - #designengineer : 3 vidéos, médiane 4340 vues
+
+## Articles récents des sources suivies (30 derniers jours)
+
+- Medium : Dolly Borade Solanki (source medium) : 5 articles récents
+    - 2026-11-14 | 7-Point UX Portfolio Formula I’d Use To Get Noticed by Global Product Companies | par Dolly Borade Solanki | https://medium.com/@dollyborade07/7-point-ux-portfolio-formula-id-use-to-get-noticed-by-global-product-companies-71824ab51b7b | ux-research, ux, ux-design, ai, ui-ux-design
+    - 2026-11-05 | What I’d Stop Showing in My UX Design Portfolio(And What I’d Show Instead) | par Dolly Borade Solanki | https://medium.com/@dollyborade07/what-id-stop-showing-in-my-ux-design-portfolio-and-what-i-d-show-instead-d847b3bcf7f7 | ux, ui-ux, ux-research, ux-design, ui-ux-design
+    - 2026-10-28 | The $3000 UX Designer Blueprint: Skills, Clients, and Pricing Strategies | par Dolly Borade Solanki | https://medium.com/@dollyborade07/the-3000-ux-designer-blueprint-skills-clients-and-pricing-strategies-0879e32a58b6 | ai, ux-design, ui-ux, ui-ux-design, ux
+    - 2026-10-24 | The UX Designer’s Skill Stack for 2027 — Don’t Miss This | par Dolly Borade Solanki | https://medium.com/@dollyborade07/the-ux-designers-skill-stack-for-2027-don-t-miss-this-089de9880d52 | ai, ui-ux, ux-design, ui-ux-design, ux
+    - 2026-10-22 | The UX Hiring Reality Check 2027: From Portfolio Views to Interview Calls | par Dolly Borade Solanki | https://medium.com/@dollyborade07/the-ux-hiring-reality-check-2027-from-portfolio-views-to-interview-calls-21dbbbdaa69a | ux-hiring, ui-ux-design, ux-design, ux, ui-ux
+- Medium : Michal Malewicz (source medium) : 9 articles récents
+    - 2026-11-14 | Vibe Coding vs Vice City. GTA 6 vs Anthropic. | par Michal Malewicz | https://michalmalewicz.medium.com/november-19th-brings-the-biggest-threat-for-ai-ever-c823ce5bdbb4 | ai, finance, marketing, artificial-intelligence, technology
+    - 2026-11-02 | The day AI agents died and killed vibe-coding. | par Michal Malewicz | https://michalmalewicz.medium.com/the-day-ai-agents-died-and-killed-vibe-coding-7ecd4ef2b689 | ai, technology, artificial-intelligence, finance, coding
+    - 2026-10-30 | Why they stopped believing AI is worth investing in. | par Michal Malewicz | https://michalmalewicz.medium.com/october-29th-was-the-day-investors-stopped-believing-in-ai-1db81e8f7d2e | design, artificial-intelligence, stock-market, finance, ai
+    - 2026-10-28 | Touchscreen MacBook proves Apple’s out of touch | par Michal Malewicz | https://michalmalewicz.medium.com/touchscreen-macbook-proves-apples-out-of-touch-999981e0722e | design, apple, future, technology, innovation
+    - 2026-10-27 | The AI bubble finally burst yesterday. | par Michal Malewicz | https://michalmalewicz.medium.com/the-ai-bubble-finally-burst-yesterday-08c919925f42 | finance, future, technology, ai, artificial-intelligence
+    - 2026-10-25 | The future is softwareless. | par Michal Malewicz | https://michalmalewicz.medium.com/today-was-the-most-hilarious-day-in-all-of-indie-hacking-7fab19772cd3 | software-development, design, artificial-intelligence, technology, ai
+    - 2026-10-23 | 90% of UX design is now automated. | par Michal Malewicz | https://michalmalewicz.medium.com/90-of-ux-design-is-now-automated-484f24f50364 | ux, web-development, design, artificial-intelligence, ai
+    - 2026-10-20 | Revolut went down, and that’s just the beginning. | par Michal Malewicz | https://michalmalewicz.medium.com/revolut-went-down-and-thats-just-the-beginning-76e721389054 | finance, money, artificial-intelligence, technology, ai
+    - 2026-10-18 | Your smart home isn’t safe anymore. | par Michal Malewicz | https://michalmalewicz.medium.com/your-smart-home-isnt-safe-anymore-492a74352371 | design, artificial-intelligence, technology, future, ai
+- Medium : Bootcamp (source medium) : 10 articles récents
+    - 2026-11-14 | Handmade toasters, AI, and new business opportunities | par Sergey Slavinsky | https://medium.com/design-bootcamp/handmade-toasters-ai-and-new-business-opportunities-7574966ec1c5 | entrepreneurship, business, startup, artificial-intelligence, future
+    - 2026-11-14 | The First Law of Microgravity | par Ivan Kashlakov | https://medium.com/design-bootcamp/the-first-law-of-microgravity-b0db428617cc | microgravity, minimalism, creative-process, art-direction, design-strategy
+    - 2026-11-13 | Taste in 20 minutes | par Ojasvika (Oz) | https://medium.com/design-bootcamp/taste-in-20-minutes-99c50773395d | creativity, art, ux-design, design, philosophy
+    - 2026-11-13 | 5 UX principles for designing AI assistants that are genuinely useful. | par Parthavi Patel | https://medium.com/design-bootcamp/5-ux-principles-for-designing-ai-assistants-that-are-genuinely-useful-5ca7efb85144 | ux, chatbots, product-design, ai, ux-design
+    - 2026-11-13 | Our customers had already told us what Siri should say | par Dominique Siacci | https://medium.com/design-bootcamp/our-customers-had-already-told-us-what-siri-should-say-dfebcebd8a88 | ai-agent, product-design, software-architecture, ios-app-development, siri
+    - 2026-11-13 | AI makes more things possible. Not all of them worth doing. | par Esther Streich | https://medium.com/design-bootcamp/ai-makes-more-things-possible-not-all-of-them-worth-doing-549288683205 | ui-design, ai, ux-design, ux, ui
+    - 2026-11-13 | Adoption, competence and value | par Marian | https://medium.com/design-bootcamp/adoption-competence-and-value-143a47bbb32c | artificial-intelligence, software-development, ux, accessibility, product-management
+    - 2026-11-13 | Why I Built Spark Index a Resource library | par Ronald Rosales | https://medium.com/design-bootcamp/why-i-built-spark-index-a-resource-library-106d06a2f24b | resource-library, generative-ai-tools, product-design
+    - 2026-11-13 | Amazing, Useless Things I’ve Invented | par Alessandro Romano | https://medium.com/design-bootcamp/amazing-useless-things-ive-invented-c8e2ccaf75fc | diy, raspberry-pi, 3d-printing, claude-code, genai
+    - 2026-11-13 | Everything I have done is prehistory | par Dàniel Dalia | https://medium.com/design-bootcamp/everything-i-have-done-is-prehistory-a454e3724cfa | ux, ai, interview
+- Romina Kavcic : The Design System Guide (newsletter) (source web) : 3 articles récents
+    - 2026-11-06 | How I use AI | par Romina Kavcic | https://learn.thedesignsystem.guide/p/how-i-use-ai | 
+    - 2026-10-24 | Half my design system metrics don't work anymore | par Romina Kavcic | https://learn.thedesignsystem.guide/p/half-my-design-system-metrics-dont | 
+    - 2026-10-16 | 34 AI UX patterns most design systems have no components for yet | par Romina Kavcic | https://learn.thedesignsystem.guide/p/34-ai-ux-patterns-most-design-systems | 
+- Lenny's Newsletter (source lenny) : 10 articles récents
+    - 2026-11-14 | 🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more | par Kiyani | https://www.lennysnewsletter.com/p/community-wisdom-when-you-become | 
+    - 2026-11-11 | Claude Code + Obsidian: My family’s AI brain | Scott Farrar | par Claire Vo | https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai | 
+    - 2026-11-10 | State of the tech job market: late 2026 | par Lenny Rachitsky | https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late | 
+    - 2026-11-09 | Claude Fable 5.2 review: fast, creative, and finally not annoying | par Claire Vo | https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative | 
+    - 2026-11-09 | 🎙️ How I AI: How this founder built a better Duolingo with Codex | par Lenny Rachitsky | https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a | 
+    - 2026-11-09 | How this founder built a better Duolingo with Codex | William Imoh | par Claire Vo | https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo | 
+    - 2026-11-08 | Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini) | par Lenny Rachitsky | https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier | 
+    - 2026-11-03 | Lenny’s Newsletter holiday gift guide 2026 | par Lenny Rachitsky | https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057 | 
+    - 2026-11-02 | 🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day | par Lenny Rachitsky | https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet | 
+    - 2026-11-02 | How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma) | par Claire Vo | https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every | 
