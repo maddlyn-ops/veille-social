@@ -279,6 +279,9 @@ def write_digest(result, tags_result):
         lines.append(f"- ERREUR au relevé du {tags_result.get('generated_at')} : {str(tags_result.get('error'))[:200]}")
     else:
         lines.append(f"Relevé du {tags_result['generated_at']}.")
+        lines.append("À lire avec prudence : ce sont les vidéos les mieux classées par la recherche TikTok, toutes dates confondues "
+                     "(regarder la date de chaque vidéo). Les médianes montrent où existent de grosses vidéos, pas ce qu'obtient une vidéo moyenne. "
+                     "Les mots-clés très larges (ux, ui, workinggirl, product design) ramènent du contenu hors sujet.")
         lines += ["", "### Par mot-clé : médiane de vues des vidéos trouvées, puis les 3 meilleures", ""]
         for k in sorted(tags_result["keywords"], key=lambda r: r["median_views"] or 0, reverse=True):
             lines.append(f"- {k['keyword']} : {k['found']} vidéos, médiane {k['median_views']} vues")
@@ -334,6 +337,15 @@ def main():
 
     ig_handles = [h.lower() for h in cfg.get("instagram", [])]
     ig_posts, ig_error, ig_keys = {}, None, None
+    # Instagram : un jour sur deux (quota gratuit), sur demande, ou si un compte n'a jamais été relevé
+    ig_due = (os.environ.get("RUN_INSTAGRAM") == "1"
+              or datetime.now(timezone.utc).timetuple().tm_yday % 2 == 0
+              or any(("instagram", h) not in previous for h in ig_handles))
+    if ig_handles and not ig_due:
+        for handle in ig_handles:
+            accounts.append(previous[("instagram", handle)])
+        print("instagram: pas de relevé aujourd'hui (un jour sur deux), chiffres précédents conservés")
+        ig_handles = []
     if ig_handles and not token:
         ig_error = "secret BRIGHTDATA_API_KEY absent : Instagram non relevé"
     elif ig_handles:
@@ -369,6 +381,15 @@ def main():
                 inputs = [{"search_keyword": k, "num_of_posts": per_kw} for k in keywords]
                 records = bd_collect(BD_TIKTOK_POSTS, "keyword", inputs, token)
                 posts = parse_tiktok_search(records)
+                got = {str(p.get("keyword") or "").lower() for p in posts}
+                missing = [k for k in keywords if k.lower() not in got]
+                if missing:  # deuxième essai pour les mots-clés revenus vides
+                    try:
+                        retry = bd_collect(BD_TIKTOK_POSTS, "keyword",
+                                           [{"search_keyword": k, "num_of_posts": per_kw} for k in missing], token)
+                        posts += parse_tiktok_search(retry)
+                    except Exception as exc:
+                        print(f"hashtags: deuxième essai en échec ({str(exc)[:100]})")
                 rows, tags = build_hashtag_report(keywords, posts, per_kw)
                 new = {"generated_at": now_iso(), "status": "ok",
                        "debug_fields": sorted(records[0].keys())[:80] if records and isinstance(records[0], dict) else None,

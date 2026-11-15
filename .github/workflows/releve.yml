@@ -9,6 +9,10 @@ on:
         description: "Relever aussi les hashtags TikTok (consomme du quota Bright Data)"
         type: boolean
         default: true
+      instagram:
+        description: "Relever Instagram maintenant (sinon un jour sur deux, consomme du quota Bright Data)"
+        type: boolean
+        default: true
 
 permissions:
   contents: write
@@ -34,6 +38,7 @@ jobs:
         env:
           BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
           RUN_HASHTAGS: ${{ (github.event_name == 'workflow_dispatch' && inputs.hashtags) && '1' || '0' }}
+          RUN_INSTAGRAM: ${{ (github.event_name == 'workflow_dispatch' && inputs.instagram) && '1' || '0' }}
         run: python scrape.py
       - name: Enregistrer le résultat
         run: |
