@@ -20,6 +20,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent
 OUT = ROOT / "data" / "social.json"
+DIGEST = ROOT / "data" / "digest.md"
 BD_DATASET_POSTS = "gd_lk5ns7kz21pck8jpis"  # Instagram posts, discover by URL
 BD_API = "https://api.brightdata.com/datasets/v3"
 
@@ -176,6 +177,38 @@ def parse_instagram(records, handles, limit):
     return {h: posts[:limit] for h, posts in by_handle.items()}
 
 
+# ---------------------------------------------------------------- digest
+
+def write_digest(result):
+    """Résumé texte compact, facile à lire sans ouvrir le JSON complet."""
+    lines = [f"# Relevé social du {result['generated_at']}", "",
+             f"Comptes relevés : {result['ok']} sur {result['total']}", "",
+             "## Comptes", ""]
+    for a in result["accounts"]:
+        if a["status"] == "ok":
+            lines.append(f"- {a['platform']} @{a['handle']} : ok, médiane {a['median']:.0f} {a['metric']} sur {len(a['posts'])} posts")
+        else:
+            lines.append(f"- {a['platform']} @{a['handle']} : ERREUR, {a.get('error', '')[:160]}")
+    lines += ["", "## Posts au moins 2 fois au-dessus de la médiane de leur compte (90 derniers jours)", ""]
+    rows = []
+    for a in result["accounts"]:
+        if a["status"] != "ok":
+            continue
+        for p in a["posts"]:
+            if (p.get("ratio") or 0) >= 2:
+                rows.append((p.get("date") or "", a, p))
+    cutoff = datetime.fromtimestamp(time.time() - 90 * 86400, timezone.utc).strftime("%Y-%m-%d")
+    rows = [r for r in rows if r[0] >= cutoff]
+    for date, a, p in sorted(rows, key=lambda r: r[0], reverse=True):
+        lines.append(
+            f"- {date} | {a['platform']} @{a['handle']} | ratio {p['ratio']} | vues {p.get('views')} | likes {p.get('likes')} "
+            f"| commentaires {p.get('comments')} | partages {p.get('shares')} | {p.get('url')} | {short(p.get('caption'), 160)}"
+        )
+    if not rows:
+        lines.append("- aucun")
+    DIGEST.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
 # ------------------------------------------------------------------ main
 
 def build_account(platform, handle, posts, error, previous):
@@ -244,6 +277,7 @@ def main():
     result = {"generated_at": now_iso(), "ok": ok, "total": len(accounts), "accounts": accounts}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    write_digest(result)
     print(f"Terminé : {ok}/{len(accounts)} comptes relevés.")
     return 0
 
