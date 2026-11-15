@@ -35,3 +35,7 @@ Comptes relevés : 5 sur 15
 - 2026-10-08 | tiktok @daramint | ratio 2.5 | vues 6744 | likes 620 | commentaires 23 | partages 39 | https://www.tiktok.com/@daramint/video/7694300991000284448 | #uxdesign #uxui #figmaplugin #designresources #designtools
 - 2026-10-01 | tiktok @daramint | ratio 25.13 | vues 67900 | likes 6066 | commentaires 90 | partages 124 | https://www.tiktok.com/@daramint/video/7691697060487253281 | How my conversations be going this year 🫠 #uxui #uxdesigner #relatable #ai #design
 - 2026-08-26 | tiktok @tabeadesign | ratio 20.61 | vues 56300 | likes 10500 | commentaires 69 | partages 315 | https://www.tiktok.com/@tabeadesign/video/7678300657475980566 | my petition to become your new creative bestie 🩵 #branddesigner #creative #designer #designerlife #graphicdesigner
+
+## Hashtags et mots-clés TikTok (relevé hebdomadaire)
+
+- pas encore de relevé

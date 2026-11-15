@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "10 5 * * *"   # 6h10 à Paris en hiver, 7h10 en été
   workflow_dispatch:
+    inputs:
+      hashtags:
+        description: "Relever aussi les hashtags TikTok (consomme du quota Bright Data)"
+        type: boolean
+        default: true
 
 permissions:
   contents: write
@@ -15,9 +20,11 @@ concurrency:
 jobs:
   releve:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main          # toujours la dernière version, même en cas de relance
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -26,11 +33,17 @@ jobs:
       - name: Relever les comptes
         env:
           BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
+          RUN_HASHTAGS: ${{ (github.event_name == 'workflow_dispatch' && inputs.hashtags) && '1' || '0' }}
         run: python scrape.py
       - name: Enregistrer le résultat
         run: |
           git config user.name "veille-bot"
           git config user.email "veille-bot@users.noreply.github.com"
+          # Repartir de la dernière version du dépôt pour éviter tout rejet à l'envoi
+          rm -rf /tmp/releve && cp -r data /tmp/releve
+          git fetch origin main
+          git reset --hard origin/main
+          mkdir -p data && cp -r /tmp/releve/. data/
           git add data
           git diff --cached --quiet || git commit -m "Relevé du $(date -u +%F)"
-          git push
+          git push origin HEAD:main
