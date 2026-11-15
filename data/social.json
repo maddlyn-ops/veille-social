@@ -1,0 +1,707 @@
+{
+  "generated_at": "2026-11-15T07:06:55Z",
+  "ok": 5,
+  "total": 15,
+  "accounts": [
+    {
+      "platform": "tiktok",
+      "handle": "marcelodesignx",
+      "metric": "views",
+      "status": "ok",
+      "fetched_at": "2026-11-15T07:04:14Z",
+      "median": 4673.5,
+      "posts": [
+        {
+          "url": "https://www.tiktok.com/@marcelodesignx/video/7708189963933781256",
+          "caption": "Fable 5.2 + HorizonX = Insane 🤯 comment “link” to get the template for free #claude #webdesign #websites #uiux",
+          "date": "2026-11-15",
+          "views": 1292,
+          "likes": 81,
+          "comments": 2,
+          "shares": 2,
+          "type": "video",
+          "ratio": 0.28
+        },
+        {
+          "url": "https://www.tiktok.com/@marcelodesignx/video/7707925546906242322",
+          "caption": "Seedance 2.5 4K is real cinema. @higgsfield.ai #HiggsfieldCreator #blowthisup",
+          "date": "2026-11-14",
+          "views": 3138,
+          "likes": 131,
+          "comments": 4,
+          "shares": 5,
+          "type": "video",
+          "ratio": 0.67
+        },
+        {
+          "url": "https://www.tiktok.com/@marcelodesignx/video/7707768524688706823",
+          "caption": "just a Venezuelan kid with a PC and a dream. #webdesign #blowthisup #websites #uiux #websites",
+          "date": "2026-11-13",
+          "views": 2684,
+          "likes": 160,
+          "comments": 12,
+          "shares": 5,
+          "type": "video",
+          "ratio": 0.57
+        },
+        {
+          "url": "https://www.tiktok.com/@marcelodesignx/video/7707411550243491079",
+          "caption": "Wait for it 🔥🔥 A lot of decisiones need to be made when designing an app! This is why UI/UX it’s so important #Claude #webdesign #websites #webdesigner #uiux",
+          "date": "2026-11-12",
+          "views": 5432,
+          "likes": 246,
+          "comments": 7,
+          "shares": 5,
+          "type": "video",
+          "ratio": 1.16
+        },
+        {
+          "url": "https://www.tiktok.com/@marcelodesignx/video/7707149130925149458",
+          "caption": "Your most viral Reel, reimagined 🔥 Upload it to Higgsfield Shorts Studio and recreate it in a different visual style. Same idea, fresh look. Comment “SHORTS” and I’ll send you the link in a DM 🔗 @higgsfield.ai #Higgsfie…",
+          "date": "2026-11-12",
+          "views": 2933,
+          "likes": 119,
+          "comments": 9,
+          "shares": 5,
+          "type": "video",
+          "ratio": 0.63
+        },
+        {
+          "url": "https://www.tiktok.com/@marcelodesignx/video/7707046884640181505",
+          "caption": "✋Stop using white instead use this. Save this and thank me later! #webdesign #colorpalettes #websites #webdesigner",
+          "date": "2026-11-11",
+          "views": 12200,
+          "likes": 644,
+          "comments": 10,
+          "shares": 43,
+          "type": "video",
+          "ratio": 2.61
+        },
+        {
+          "url": "https://www.tiktok.com/@marcelodesignx/video/7706676183420767496",
+          "caption": "Websites you can’t stop scrolling. Save this for inspiration! #webdesign #websites #webdesigner #blowthisup",
+          "date": "2026-11-10",
+          "views": 3915,
+          "likes": 226,
+          "comments": 4,
+          "shares": 11,
+          "type": "video",
+          "ratio": 0.84
+        },
+        {
+          "url": "https://www.tiktok.com/@marcelodesignx/video/7706310613718322439",
+          "caption": "It’s game over. Wait for it! 🔥 Comment “library” to get access to these templates and power up your AI agents. #Claude #webdesign #webdesigner #websites #HorizonX",
+          "date": "2026-11-09",
+          "views": 16400,
+          "likes": 614,
+          "comments": 42,
+          "shares": 79,
+          "type": "video",
+          "ratio": 3.51
+        },
+        {
+          "url": "https://www.tiktok.com/@marcelodesignx/video/7706021344843992327",
+          "caption": "Stop creating AI slop. Use this library to build stunning websites. 🔥 Comment “link” and I’ll send you the link in a DM 🔗 #claude #blowthisup #HorizonX #webdesign #websites",
+          "date": "2026-11-09",
+          "views": 6824,
+          "likes": 446,
+          "comments": 39,
+          "shares": 27,
+          "type": "video",
+          "ratio": 1.46
+        },
+        {
+          "url": "https://www.tiktok.com/@marcelodesignx/video/7705670051336064263",
+          "caption": "Your most viral Reel, reimagined 🔥 Upload it to Higgsfield Shorts Studio and recreate it in a different visual style. Same idea, fresh look. Comment “SHORTS” and I’ll send you the link in a DM 🔗 @higgsfield.ai #Higgsfie…",
+          "date": "2026-11-08",
+          "views": 46700,
+          "likes": 3283,
+          "comments": 71,
+          "shares": 398,
+          "type": "video",
+          "ratio": 9.99
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "handle": "daramint",
+      "metric": "views",
+      "status": "ok",
+      "fetched_at": "2026-11-15T07:04:20Z",
+      "median": 2702.0,
+      "posts": [
+        {
+          "url": "https://www.tiktok.com/@daramint/video/7707822514809933078",
+          "caption": "What to put on your resume as a UXUI Designer 📃👩‍💻 #uxui #uxdesigner #resumetips #careeradvice #jobhunt",
+          "date": "2026-11-14",
+          "views": 976,
+          "likes": 117,
+          "comments": 1,
+          "shares": 3,
+          "type": "video",
+          "ratio": 0.36
+        },
+        {
+          "url": "https://www.tiktok.com/@daramint/video/7707316541674802454",
+          "caption": "#uxui #uxdesigner #designresources #designinspo #designtools",
+          "date": "2026-11-12",
+          "views": 1297,
+          "likes": 133,
+          "comments": 1,
+          "shares": 4,
+          "type": "video",
+          "ratio": 0.48
+        },
+        {
+          "url": "https://www.tiktok.com/@daramint/video/7706159968487034134",
+          "caption": "Parts in my Design Workflow that I Don’t Mind Using AI as a UXUI Designer 📚👌🏻 #uxui #uxdesigner #ai #aiworkflow #designtips",
+          "date": "2026-11-09",
+          "views": 2422,
+          "likes": 235,
+          "comments": 4,
+          "shares": 10,
+          "type": "video",
+          "ratio": 0.9
+        },
+        {
+          "url": "https://www.tiktok.com/@daramint/video/7703926413623151894",
+          "caption": "Perfectionism is killing your ux design process. 4 things to do instead so your work actually ships 📝 #uxdesign #uxui #learndesign #designtips #figma",
+          "date": "2026-11-03",
+          "views": 2142,
+          "likes": 206,
+          "comments": 3,
+          "shares": 5,
+          "type": "video",
+          "ratio": 0.79
+        },
+        {
+          "url": "https://www.tiktok.com/@daramint/video/7699840025449598240",
+          "caption": "#uxdesign #uxui #codelayers #designresources #learndesign",
+          "date": "2026-10-23",
+          "views": 2982,
+          "likes": 210,
+          "comments": 2,
+          "shares": 9,
+          "type": "video",
+          "ratio": 1.1
+        },
+        {
+          "url": "https://www.tiktok.com/@daramint/video/7697587941928881440",
+          "caption": "A Full Day of Work As A UX/UI Designer 👩‍💻🎧 It’s been a while since my last #dayinmylife vlog! @anua_global #uxdesigner #9to5 #wfhvlog #pdrncream",
+          "date": "2026-10-17",
+          "views": 31600,
+          "likes": 3881,
+          "comments": 38,
+          "shares": 88,
+          "type": "video",
+          "ratio": 11.7
+        },
+        {
+          "url": "https://www.tiktok.com/@daramint/video/7696113873622945057",
+          "caption": "What to put in your UX Design portfolio, based on where you actually are in your career 👩‍💻🎨 #portfolio #uxui #uxdesigner #portfoliotips #creativecareer",
+          "date": "2026-10-13",
+          "views": 10100,
+          "likes": 1198,
+          "comments": 22,
+          "shares": 44,
+          "type": "video",
+          "ratio": 3.74
+        },
+        {
+          "url": "https://www.tiktok.com/@daramint/video/7694300991000284448",
+          "caption": "#uxdesign #uxui #figmaplugin #designresources #designtools",
+          "date": "2026-10-08",
+          "views": 6744,
+          "likes": 620,
+          "comments": 23,
+          "shares": 39,
+          "type": "video",
+          "ratio": 2.5
+        },
+        {
+          "url": "https://www.tiktok.com/@daramint/video/7693597711022525729",
+          "caption": "What I Designed to in September 🎧 New songs I discovered and have been vibing to at my desk last month! @WIM🦩 @Greg Shilling @remy @public library commute @Jesse Barrera",
+          "date": "2026-10-06",
+          "views": 1526,
+          "likes": 99,
+          "comments": 2,
+          "shares": 3,
+          "type": "video",
+          "ratio": 0.56
+        },
+        {
+          "url": "https://www.tiktok.com/@daramint/video/7691697060487253281",
+          "caption": "How my conversations be going this year 🫠 #uxui #uxdesigner #relatable #ai #design",
+          "date": "2026-10-01",
+          "views": 67900,
+          "likes": 6066,
+          "comments": 90,
+          "shares": 124,
+          "type": "video",
+          "ratio": 25.13
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "handle": "hana_siya",
+      "metric": "views",
+      "status": "erreur",
+      "error": "ERROR: [tiktok:user] hana_siya: This user's account is private. Log into an account that has access. Use --cookies-from-browser or --cookies for the authentication. See https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp for how to manually pass cookies",
+      "fetched_at": null,
+      "median": null,
+      "posts": []
+    },
+    {
+      "platform": "tiktok",
+      "handle": "bri_bossy",
+      "metric": "views",
+      "status": "ok",
+      "fetched_at": "2026-11-15T07:06:36Z",
+      "median": 12106.5,
+      "posts": [
+        {
+          "url": "https://www.tiktok.com/@bri_bossy/video/7705187314892410144",
+          "caption": "À chaque fois que j’explique le pourquoi j’ai choisis l’informatique en tant que créative personne ne comprend vraiment 🤔",
+          "date": "2026-11-06",
+          "views": 16100,
+          "likes": 2606,
+          "comments": 63,
+          "shares": 56,
+          "type": "video",
+          "ratio": 1.33
+        },
+        {
+          "url": "https://www.tiktok.com/@bri_bossy/video/7702150068677184800",
+          "caption": "Avant de lancer ton app, revois ton design !!",
+          "date": "2026-10-29",
+          "views": 5259,
+          "likes": 852,
+          "comments": 14,
+          "shares": 31,
+          "type": "video",
+          "ratio": 0.43
+        },
+        {
+          "url": "https://www.tiktok.com/@bri_bossy/video/7698409257598848289",
+          "caption": "Le jeu s’appelle YAP J’ai créé un jeu pour m’aider à m’améliorer en anglais ! Et franchement il est beaucoup trop cool 🌟♥️",
+          "date": "2026-10-19",
+          "views": 49900,
+          "likes": 7971,
+          "comments": 155,
+          "shares": 520,
+          "type": "video",
+          "ratio": 4.12
+        },
+        {
+          "url": "https://www.tiktok.com/@bri_bossy/video/7666785215603363105",
+          "caption": "Tu veux te lancer dans les app mobiles et tu sais pas trop quel ordinateur choisir ? Attends je t’explique touuut 🌟",
+          "date": "2026-07-26",
+          "views": 14900,
+          "likes": 2148,
+          "comments": 59,
+          "shares": 83,
+          "type": "video",
+          "ratio": 1.23
+        },
+        {
+          "url": "https://www.tiktok.com/@bri_bossy/video/7666066841718000928",
+          "caption": "J’ai l’impression que il y a plus besoin de rien apprendre sauf que j’adore apprendre purée 💔",
+          "date": "2026-07-24",
+          "views": 9313,
+          "likes": 832,
+          "comments": 74,
+          "shares": 23,
+          "type": "video",
+          "ratio": 0.77
+        },
+        {
+          "url": "https://www.tiktok.com/@bri_bossy/video/7662409734435245345",
+          "caption": "Je suis app builder et voici mon métier ♥️🌟",
+          "date": "2026-07-14",
+          "views": 54200,
+          "likes": 8599,
+          "comments": 170,
+          "shares": 409,
+          "type": "video",
+          "ratio": 4.48
+        },
+        {
+          "url": "https://www.tiktok.com/@bri_bossy/video/7634557950144564502",
+          "caption": "Ça va être trop sympa à développer j’ai hâte !! Je code l’app de skibidi tentafruit 🍌🍓",
+          "date": "2026-04-30",
+          "views": 6831,
+          "likes": 541,
+          "comments": 19,
+          "shares": 7,
+          "type": "video",
+          "ratio": 0.56
+        },
+        {
+          "url": "https://www.tiktok.com/@bri_bossy/video/7632816250321784067",
+          "caption": "Alors vous en pensez quoi de ma tenue ?? Le retour de l’Asie pique trop je dois m’occuper comme je peux 😫",
+          "date": "2026-04-25",
+          "views": 3125,
+          "likes": 259,
+          "comments": 5,
+          "shares": 1,
+          "type": "video",
+          "ratio": 0.26
+        },
+        {
+          "url": "https://www.tiktok.com/@bri_bossy/video/7630070647204433174",
+          "caption": "L’étape de la soumission chez Apple est assez relou, mais plus tu fais une app quali avec une bonne base d’utilisateur et plus tes soumissions seront plus rapide ! 🌟",
+          "date": "2026-04-18",
+          "views": 53900,
+          "likes": 5185,
+          "comments": 65,
+          "shares": 205,
+          "type": "video",
+          "ratio": 4.45
+        },
+        {
+          "url": "https://www.tiktok.com/@bri_bossy/video/7618799214662798614",
+          "caption": "Rien de mieux que de continuer d’exercer un métier qui te passionne en voyageant 🌟",
+          "date": "2026-03-19",
+          "views": 4150,
+          "likes": 248,
+          "comments": 11,
+          "shares": 0,
+          "type": "video",
+          "ratio": 0.34
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "handle": "innermudd",
+      "metric": "views",
+      "status": "ok",
+      "fetched_at": "2026-11-15T07:06:43Z",
+      "median": 8796.0,
+      "posts": [
+        {
+          "url": "https://www.tiktok.com/@innermudd/video/7707726045138455860",
+          "caption": "Apple CarPlay, but with more possibilities. 👀 Telecar lets you watch YouTube, Instagram, and more directly on your car display. Your iPhone even works as a cursor to control everything. @telecarapp Check out Telecar on …",
+          "date": "2026-11-13",
+          "views": 1301,
+          "likes": 33,
+          "comments": 1,
+          "shares": 3,
+          "type": "video",
+          "ratio": 0.15
+        },
+        {
+          "url": "https://www.tiktok.com/@innermudd/video/7706646029948456244",
+          "caption": "Just got a new iPad? Here are 3 tricks you should try! 👀 Which one is your favorite? #iPadTips #iPadTricks #AppleTips #iPadHacks #Apple",
+          "date": "2026-11-10",
+          "views": 22800,
+          "likes": 1457,
+          "comments": 3,
+          "shares": 58,
+          "type": "video",
+          "ratio": 2.59
+        },
+        {
+          "url": "https://www.tiktok.com/@innermudd/video/7706243394267303220",
+          "caption": "4 Mac apps I use almost every day to make my workflow easier and keep everything organized. From managing emails to tracking all my projects, these apps have become part of my daily routine. Which one are you trying fir…",
+          "date": "2026-11-09",
+          "views": 20400,
+          "likes": 1013,
+          "comments": 6,
+          "shares": 35,
+          "type": "video",
+          "ratio": 2.32
+        },
+        {
+          "url": "https://www.tiktok.com/@innermudd/video/7705500826638290228",
+          "caption": "Curious how it works? Comment “TAP” and I’ll send you the link! What if your MacBook could work like a touchscreen? 👀 Lidtap lets you add customizable tap controls to your MacBook, with 4–9 taps you can assign to differ…",
+          "date": "2026-11-07",
+          "views": 12200,
+          "likes": 313,
+          "comments": 15,
+          "shares": 33,
+          "type": "video",
+          "ratio": 1.39
+        },
+        {
+          "url": "https://www.tiktok.com/@innermudd/video/7705099716446391553",
+          "caption": "3 Mac shortcuts you'll wish you knew sooner 👀 Screenshot your entire screen, capture a specific area, or record your screen in seconds. Save this for the next time you need it! Follow for more Mac tips. #MacBookTips #Ma…",
+          "date": "2026-11-06",
+          "views": 34000,
+          "likes": 2151,
+          "comments": 1,
+          "shares": 86,
+          "type": "video",
+          "ratio": 3.87
+        },
+        {
+          "url": "https://www.tiktok.com/@innermudd/video/7704410200178052404",
+          "caption": "If you want to try it, check the link in my bio or comment SENTIENT and I’ll send you the link. Use my code: 502PMS #SentientOS #MacAI #MacProductivity #AIForMac #MacApps",
+          "date": "2026-11-04",
+          "views": 2303,
+          "likes": 107,
+          "comments": 2,
+          "shares": 11,
+          "type": "video",
+          "ratio": 0.26
+        },
+        {
+          "url": "https://www.tiktok.com/@innermudd/video/7703971297763675393",
+          "caption": "Better nights, better mornings. 🌙 Take control of your screen time with Twilock. Lock distracting apps during bedtime and morning hours, and enjoy more time away from your phone. Twilock on the App Store. #Twilock #Scre…",
+          "date": "2026-11-03",
+          "views": 1995,
+          "likes": 41,
+          "comments": 1,
+          "shares": 2,
+          "type": "video",
+          "ratio": 0.23
+        },
+        {
+          "url": "https://www.tiktok.com/@innermudd/video/7701784595120868614",
+          "caption": "Changed my MacBook setup with just $33 👀 A secondhand Samsung 24-inch monitor might be one of the best budget upgrades for a more productive desk setup. Would you say it’s worth it? #Macbook #DeskSetup #Samsung #Monitor…",
+          "date": "2026-10-28",
+          "views": 5392,
+          "likes": 125,
+          "comments": 3,
+          "shares": 2,
+          "type": "video",
+          "ratio": 0.61
+        },
+        {
+          "url": "https://www.tiktok.com/@innermudd/video/7701391327384046900",
+          "caption": "Notion system through the link in bio. Plan your entire week of content in just 1 hour #Notion #ContentPlanning #ContentCreator #Productivity #NotionTemplate",
+          "date": "2026-10-27",
+          "views": 3110,
+          "likes": 158,
+          "comments": 3,
+          "shares": 6,
+          "type": "video",
+          "ratio": 0.35
+        },
+        {
+          "url": "https://www.tiktok.com/@innermudd/video/7700657995788700929",
+          "caption": "Still using the MacBook Air M2 in 2026. Is it still worth it? 💻 #MacBookAirM2 #MacBook #Apple #MacBookTips #TechReview",
+          "date": "2026-10-25",
+          "views": 135300,
+          "likes": 9248,
+          "comments": 91,
+          "shares": 135,
+          "type": "video",
+          "ratio": 15.38
+        }
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "handle": "tabeadesign",
+      "metric": "views",
+      "status": "ok",
+      "fetched_at": "2026-11-15T07:06:49Z",
+      "median": 2731.5,
+      "posts": [
+        {
+          "url": "https://www.tiktok.com/@tabeadesign/video/7703555636994247958",
+          "caption": "design a pilates brand with me ⭐️ a bts of the design process for one of my client projects.. so obsessed with how it turned out what do you think?? 💗 #branding #branddesign #pilatesbrand #designprocess #designer",
+          "date": "2026-11-02",
+          "views": 2572,
+          "likes": 368,
+          "comments": 3,
+          "shares": 11,
+          "type": "video",
+          "ratio": 0.94
+        },
+        {
+          "url": "https://www.tiktok.com/@tabeadesign/video/7689026796796562691",
+          "caption": "your sign to be delulu and believe in yourself and make life and work FUN 🩵 It’s so easy to get stuck in a routine and stay in your comfort zone but saying yes to things even if they’re scary is how you grow and how you…",
+          "date": "2026-09-24",
+          "views": 1484,
+          "likes": 51,
+          "comments": 3,
+          "shares": 1,
+          "type": "video",
+          "ratio": 0.54
+        },
+        {
+          "url": "https://www.tiktok.com/@tabeadesign/video/7687882837558856962",
+          "caption": "I built my own fashion app so I can play dress up 👚 I want to get more into tech and building apps and when I was a kid I used to love playing dress up games so I thought this was the perfect thing to create 🤭 should I …",
+          "date": "2026-09-21",
+          "views": 2282,
+          "likes": 90,
+          "comments": 1,
+          "shares": 0,
+          "type": "video",
+          "ratio": 0.84
+        },
+        {
+          "url": "https://www.tiktok.com/@tabeadesign/video/7686045970295049494",
+          "caption": "watch me create a portfolio website ⭐️ had so much fun creating this portfolio and I love how it turned out. I used @readymag to create it what do you think?? #webdesign #webdesigner #portfoliodesign #creative #designer",
+          "date": "2026-09-16",
+          "views": 2995,
+          "likes": 166,
+          "comments": 5,
+          "shares": 2,
+          "type": "video",
+          "ratio": 1.1
+        },
+        {
+          "url": "https://www.tiktok.com/@tabeadesign/video/7683864626731289878",
+          "caption": "cool girls design cool websites pt. 3 🩵 had the honor of creating the portfolio for floofysocials and I cannot tell you how obsessed I am with how it turned out!! SO MUCH FUN what do you think?? #webdesign #websitedesig…",
+          "date": "2026-09-10",
+          "views": 5137,
+          "likes": 354,
+          "comments": 6,
+          "shares": 8,
+          "type": "video",
+          "ratio": 1.88
+        },
+        {
+          "url": "https://www.tiktok.com/@tabeadesign/video/7683086519321529622",
+          "caption": "come on a creative coffee date with me ⭐️🩵 while I’m working on my fashion App.. will show more soon!! #designer #creativedate #solodate #graphicdesigner #appdesign",
+          "date": "2026-09-08",
+          "views": 2557,
+          "likes": 122,
+          "comments": 2,
+          "shares": 2,
+          "type": "video",
+          "ratio": 0.94
+        },
+        {
+          "url": "https://www.tiktok.com/@tabeadesign/video/7678978054202379542",
+          "caption": "just a girl who loves working from home and chasing her dreams ⭐️ p.s. I have no idea why the exe patches are soo huge wth #workfromhome #wfhgirly #designer #creative #graphicdesigner",
+          "date": "2026-08-28",
+          "views": 2891,
+          "likes": 161,
+          "comments": 1,
+          "shares": 3,
+          "type": "video",
+          "ratio": 1.06
+        },
+        {
+          "url": "https://www.tiktok.com/@tabeadesign/video/7678300657475980566",
+          "caption": "my petition to become your new creative bestie 🩵 #branddesigner #creative #designer #designerlife #graphicdesigner",
+          "date": "2026-08-26",
+          "views": 56300,
+          "likes": 10500,
+          "comments": 69,
+          "shares": 315,
+          "type": "video",
+          "ratio": 20.61
+        },
+        {
+          "url": "https://www.tiktok.com/@tabeadesign/video/7677916955822624022",
+          "caption": "the most stunning hotel you’ll ever see 🤎 I was so inspired by my upcoming travel that I felt the urge to design my dream hotel branding and omg I am obsessed with this the type, the colors, the space, the feel, ALL OF …",
+          "date": "2026-08-25",
+          "views": 2119,
+          "likes": 61,
+          "comments": 1,
+          "shares": 1,
+          "type": "video",
+          "ratio": 0.78
+        },
+        {
+          "url": "https://www.tiktok.com/@tabeadesign/video/7675709850927549718",
+          "caption": "bts of designing the branding for a skincare brand ⭐️ this is a rundown of how I approach all branding projects, and I follow this process by heart. I am also super happy with how this branding turned out! Obsessed with…",
+          "date": "2026-08-19",
+          "views": 3495,
+          "likes": 155,
+          "comments": 1,
+          "shares": 5,
+          "type": "video",
+          "ratio": 1.28
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "handle": "0xloucash",
+      "metric": "likes",
+      "status": "erreur",
+      "error": "Bright Data trigger 400: Customer is not active",
+      "fetched_at": null,
+      "median": null,
+      "posts": []
+    },
+    {
+      "platform": "instagram",
+      "handle": "juicelab.uiux",
+      "metric": "likes",
+      "status": "erreur",
+      "error": "Bright Data trigger 400: Customer is not active",
+      "fetched_at": null,
+      "median": null,
+      "posts": []
+    },
+    {
+      "platform": "instagram",
+      "handle": "khushidotjpeg",
+      "metric": "likes",
+      "status": "erreur",
+      "error": "Bright Data trigger 400: Customer is not active",
+      "fetched_at": null,
+      "median": null,
+      "posts": []
+    },
+    {
+      "platform": "instagram",
+      "handle": "meshytimes",
+      "metric": "likes",
+      "status": "erreur",
+      "error": "Bright Data trigger 400: Customer is not active",
+      "fetched_at": null,
+      "median": null,
+      "posts": []
+    },
+    {
+      "platform": "instagram",
+      "handle": "the.bohdana",
+      "metric": "likes",
+      "status": "erreur",
+      "error": "Bright Data trigger 400: Customer is not active",
+      "fetched_at": null,
+      "median": null,
+      "posts": []
+    },
+    {
+      "platform": "instagram",
+      "handle": "heigijeong",
+      "metric": "likes",
+      "status": "erreur",
+      "error": "Bright Data trigger 400: Customer is not active",
+      "fetched_at": null,
+      "median": null,
+      "posts": []
+    },
+    {
+      "platform": "instagram",
+      "handle": "maggieindata",
+      "metric": "likes",
+      "status": "erreur",
+      "error": "Bright Data trigger 400: Customer is not active",
+      "fetched_at": null,
+      "median": null,
+      "posts": []
+    },
+    {
+      "platform": "instagram",
+      "handle": "asia.does.uxui",
+      "metric": "likes",
+      "status": "erreur",
+      "error": "Bright Data trigger 400: Customer is not active",
+      "fetched_at": null,
+      "median": null,
+      "posts": []
+    },
+    {
+      "platform": "instagram",
+      "handle": "sandracreates",
+      "metric": "likes",
+      "status": "erreur",
+      "error": "Bright Data trigger 400: Customer is not active",
+      "fetched_at": null,
+      "median": null,
+      "posts": []
+    }
+  ]
+}
