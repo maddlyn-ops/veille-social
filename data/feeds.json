@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T12:43:52Z",
+  "generated_at": "2026-11-16T14:04:47Z",
   "feeds": [
     {
       "name": "Medium : Dolly Borade Solanki",
@@ -284,6 +284,102 @@
       "status": "ok",
       "items": [
         {
+          "title": "Before you ship your Wrapped, Schrödinger’s Nvidia, Infinite tokens",
+          "url": "https://medium.com/design-bootcamp/before-you-ship-your-wrapped-schr%C3%B6dingers-nvidia-infinite-tokens-a3476f81d727",
+          "date": "2026-11-16",
+          "author": "UX Collective Editors",
+          "tags": [
+            "product-management",
+            "ai",
+            "productivity",
+            "user-experience",
+            "ux-design"
+          ]
+        },
+        {
+          "title": "The Trap of AI Theater: Why Rejecting a Designer for Using Figma Misses the Entire Point",
+          "url": "https://medium.com/design-bootcamp/the-trap-of-ai-theater-why-rejecting-a-designer-for-using-figma-misses-the-entire-point-f9becc831eb0",
+          "date": "2026-11-16",
+          "author": "Eman Ismael",
+          "tags": []
+        },
+        {
+          "title": "Case Study: A Design System AI Can Build From (Ongoing)",
+          "url": "https://medium.com/design-bootcamp/case-study-a-design-system-ai-can-build-from-ongoing-9da2b424d869",
+          "date": "2026-11-16",
+          "author": "Temi Owoade",
+          "tags": [
+            "ai-agent",
+            "design-systems",
+            "ux",
+            "design",
+            "ai"
+          ]
+        },
+        {
+          "title": "The Fireworks AI Breach Didn’t Hit Live AI Requests. It Hit the Copies Kept for Later.",
+          "url": "https://medium.com/design-bootcamp/the-fireworks-ai-breach-didnt-hit-live-ai-requests-it-hit-the-copies-kept-for-later-0c0b6a73c4e3",
+          "date": "2026-11-16",
+          "author": "Amajuoyi Udochukwu Deborah",
+          "tags": [
+            "artificial-intelligence",
+            "product-management",
+            "cybersecurity",
+            "ai-agent",
+            "data-privacy"
+          ]
+        },
+        {
+          "title": "How I decided what my app wouldn’t do",
+          "url": "https://medium.com/design-bootcamp/how-i-decided-what-my-app-wouldnt-do-0aa94f0f4607",
+          "date": "2026-11-15",
+          "author": "Hanna Kamyshanska",
+          "tags": [
+            "product-thinking",
+            "product-management",
+            "gardening",
+            "user-research",
+            "jobs-to-be-done"
+          ]
+        },
+        {
+          "title": "The Price of Constant Scrutiny: How Employee Monitoring Erodes Trust and Performance",
+          "url": "https://medium.com/design-bootcamp/the-price-of-constant-scrutiny-how-employee-monitoring-erodes-trust-and-performance-e4144b8bead7",
+          "date": "2026-11-15",
+          "author": "Akis Apostoliadis",
+          "tags": [
+            "performance",
+            "employee-engagement",
+            "employee-experience"
+          ]
+        },
+        {
+          "title": "10 lines changed the reviews. Not the game.",
+          "url": "https://medium.com/design-bootcamp/10-lines-changed-the-reviews-not-the-game-b220df454947",
+          "date": "2026-11-15",
+          "author": "Gaya Kim",
+          "tags": [
+            "future-of-work",
+            "steam",
+            "technology",
+            "ux",
+            "ai"
+          ]
+        },
+        {
+          "title": "Case Study: Automating Annual Training Plans for an Oil and Gas Company",
+          "url": "https://medium.com/design-bootcamp/case-study-automating-annual-training-plans-for-an-oil-and-gas-company-b10e5980f76e",
+          "date": "2026-11-15",
+          "author": "Temi Owoade",
+          "tags": [
+            "ui",
+            "b2b",
+            "ux",
+            "enterprise-technology",
+            "design"
+          ]
+        },
+        {
           "title": "Henry Ford never said “faster horses.” Design teams keep using it anyway",
           "url": "https://medium.com/design-bootcamp/henry-ford-never-said-faster-horses-design-teams-keep-using-it-anyway-2ebc8ffc6d7e",
           "date": "2026-11-15",
@@ -307,110 +403,6 @@
             "design-for-accessibility",
             "ui",
             "design"
-          ]
-        },
-        {
-          "title": "What is an approval in your product?",
-          "url": "https://medium.com/design-bootcamp/what-is-an-approval-in-your-product-4743b5c99e70",
-          "date": "2026-11-15",
-          "author": "Derek Niedringhaus",
-          "tags": [
-            "product-design",
-            "artificial-intelligence",
-            "ux-design",
-            "ai-agent",
-            "design-systems"
-          ]
-        },
-        {
-          "title": "Case Study: Streamlining Operations for a Global Marketing Brand",
-          "url": "https://medium.com/design-bootcamp/case-study-streamlining-operations-for-a-global-marketing-brand-b060595181fb",
-          "date": "2026-11-15",
-          "author": "Temi Owoade",
-          "tags": [
-            "b2b",
-            "ui",
-            "marketing",
-            "design",
-            "ux"
-          ]
-        },
-        {
-          "title": "De Bono’s Six Thinking Hats, Rebuilt for AI Agents: Eleven Perspectives and a Human Gate",
-          "url": "https://medium.com/design-bootcamp/de-bonos-six-thinking-hats-rebuilt-for-ai-agents-eleven-perspectives-and-a-human-gate-0f6fa588ef4a",
-          "date": "2026-11-15",
-          "author": "Fabio Lalli",
-          "tags": [
-            "claude-code",
-            "ai-agent",
-            "artificial-intelligence",
-            "open-source",
-            "decision-making"
-          ]
-        },
-        {
-          "title": "Handmade toasters, AI, and new business opportunities",
-          "url": "https://medium.com/design-bootcamp/handmade-toasters-ai-and-new-business-opportunities-7574966ec1c5",
-          "date": "2026-11-14",
-          "author": "Sergey Slavinsky",
-          "tags": [
-            "entrepreneurship",
-            "business",
-            "startup",
-            "artificial-intelligence",
-            "future"
-          ]
-        },
-        {
-          "title": "The First Law of Microgravity",
-          "url": "https://medium.com/design-bootcamp/the-first-law-of-microgravity-b0db428617cc",
-          "date": "2026-11-14",
-          "author": "Ivan Kashlakov",
-          "tags": [
-            "microgravity",
-            "minimalism",
-            "creative-process",
-            "art-direction",
-            "design-strategy"
-          ]
-        },
-        {
-          "title": "Taste in 20 minutes",
-          "url": "https://medium.com/design-bootcamp/taste-in-20-minutes-99c50773395d",
-          "date": "2026-11-13",
-          "author": "Ojasvika (Oz)",
-          "tags": [
-            "creativity",
-            "art",
-            "ux-design",
-            "design",
-            "philosophy"
-          ]
-        },
-        {
-          "title": "5 UX principles for designing AI assistants that are genuinely useful.",
-          "url": "https://medium.com/design-bootcamp/5-ux-principles-for-designing-ai-assistants-that-are-genuinely-useful-5ca7efb85144",
-          "date": "2026-11-13",
-          "author": "Parthavi Patel",
-          "tags": [
-            "ux",
-            "chatbots",
-            "product-design",
-            "ai",
-            "ux-design"
-          ]
-        },
-        {
-          "title": "Our customers had already told us what Siri should say",
-          "url": "https://medium.com/design-bootcamp/our-customers-had-already-told-us-what-siri-should-say-dfebcebd8a88",
-          "date": "2026-11-13",
-          "author": "Dominique Siacci",
-          "tags": [
-            "ai-agent",
-            "product-design",
-            "software-architecture",
-            "ios-app-development",
-            "siri"
           ]
         }
       ]
@@ -500,6 +492,20 @@
       "status": "ok",
       "items": [
         {
+          "title": "How I fight token fraud as a solo founder",
+          "url": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
+          "date": "2026-11-16",
+          "author": "Claire Vo",
+          "tags": []
+        },
+        {
+          "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
+          "url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
+          "date": "2026-11-15",
+          "author": "Lenny Rachitsky",
+          "tags": []
+        },
+        {
           "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
           "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
           "date": "2026-11-14",
@@ -553,20 +559,6 @@
           "url": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
           "date": "2026-11-03",
           "author": "Lenny Rachitsky",
-          "tags": []
-        },
-        {
-          "title": "🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
-          "date": "2026-11-02",
-          "author": "Lenny Rachitsky",
-          "tags": []
-        },
-        {
-          "title": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
-          "url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
-          "date": "2026-11-02",
-          "author": "Claire Vo",
           "tags": []
         }
       ]
