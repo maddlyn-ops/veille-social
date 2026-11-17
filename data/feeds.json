@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:04:47Z",
+  "generated_at": "2026-11-17T14:19:39Z",
   "feeds": [
     {
       "name": "Medium : Dolly Borade Solanki",
@@ -284,125 +284,130 @@
       "status": "ok",
       "items": [
         {
-          "title": "Before you ship your Wrapped, Schrödinger’s Nvidia, Infinite tokens",
-          "url": "https://medium.com/design-bootcamp/before-you-ship-your-wrapped-schr%C3%B6dingers-nvidia-infinite-tokens-a3476f81d727",
-          "date": "2026-11-16",
-          "author": "UX Collective Editors",
+          "title": "How to vibe code the app: from idea to App Store",
+          "url": "https://medium.com/design-bootcamp/how-to-vibe-code-the-app-from-idea-to-app-store-a2e20fca0295",
+          "date": "2026-11-17",
+          "author": "Ross Horbi",
+          "tags": [
+            "vibe-coding",
+            "mobile-app-development",
+            "startup",
+            "mobile",
+            "apps"
+          ]
+        },
+        {
+          "title": "The quiet parts, out loud",
+          "url": "https://medium.com/design-bootcamp/the-quiet-parts-out-loud-b309da8f9189",
+          "date": "2026-11-17",
+          "author": "Liz Dugan",
+          "tags": [
+            "ux-design",
+            "ux",
+            "ux-research"
+          ]
+        },
+        {
+          "title": "Different Rules for Jensen Huang",
+          "url": "https://medium.com/design-bootcamp/different-rules-for-jensen-huang-9c0c93c5a10b",
+          "date": "2026-11-17",
+          "author": "Christine Ying",
+          "tags": [
+            "nvidia",
+            "corporate-governance",
+            "asian-american",
+            "silicon-valley",
+            "opinion"
+          ]
+        },
+        {
+          "title": "How I use Claude to translate Figma designs into production-ready code for our CMS",
+          "url": "https://medium.com/design-bootcamp/how-i-use-claude-to-translate-figma-designs-into-production-ready-code-for-our-cms-0118db0155a3",
+          "date": "2026-11-17",
+          "author": "Wyatt Kay",
+          "tags": [
+            "claude-skills",
+            "figma",
+            "ux-design",
+            "mcps",
+            "web-development"
+          ]
+        },
+        {
+          "title": "The Easy Button and the Kill Switch",
+          "url": "https://medium.com/design-bootcamp/the-easy-button-and-the-kill-switch-eb7991e3d5cc",
+          "date": "2026-11-17",
+          "author": "Robert Otto",
           "tags": [
             "product-management",
-            "ai",
-            "productivity",
-            "user-experience",
-            "ux-design"
-          ]
-        },
-        {
-          "title": "The Trap of AI Theater: Why Rejecting a Designer for Using Figma Misses the Entire Point",
-          "url": "https://medium.com/design-bootcamp/the-trap-of-ai-theater-why-rejecting-a-designer-for-using-figma-misses-the-entire-point-f9becc831eb0",
-          "date": "2026-11-16",
-          "author": "Eman Ismael",
-          "tags": []
-        },
-        {
-          "title": "Case Study: A Design System AI Can Build From (Ongoing)",
-          "url": "https://medium.com/design-bootcamp/case-study-a-design-system-ai-can-build-from-ongoing-9da2b424d869",
-          "date": "2026-11-16",
-          "author": "Temi Owoade",
-          "tags": [
-            "ai-agent",
-            "design-systems",
-            "ux",
-            "design",
-            "ai"
-          ]
-        },
-        {
-          "title": "The Fireworks AI Breach Didn’t Hit Live AI Requests. It Hit the Copies Kept for Later.",
-          "url": "https://medium.com/design-bootcamp/the-fireworks-ai-breach-didnt-hit-live-ai-requests-it-hit-the-copies-kept-for-later-0c0b6a73c4e3",
-          "date": "2026-11-16",
-          "author": "Amajuoyi Udochukwu Deborah",
-          "tags": [
+            "technology",
             "artificial-intelligence",
-            "product-management",
-            "cybersecurity",
-            "ai-agent",
-            "data-privacy"
+            "startup",
+            "business"
           ]
         },
         {
-          "title": "How I decided what my app wouldn’t do",
-          "url": "https://medium.com/design-bootcamp/how-i-decided-what-my-app-wouldnt-do-0aa94f0f4607",
-          "date": "2026-11-15",
-          "author": "Hanna Kamyshanska",
+          "title": "Designers Are Panicking Because of This One Post on X",
+          "url": "https://medium.com/design-bootcamp/designers-are-panicking-because-of-this-one-post-on-x-6c5482d967ab",
+          "date": "2026-11-17",
+          "author": "Punit Chawla",
           "tags": [
-            "product-thinking",
-            "product-management",
-            "gardening",
-            "user-research",
-            "jobs-to-be-done"
-          ]
-        },
-        {
-          "title": "The Price of Constant Scrutiny: How Employee Monitoring Erodes Trust and Performance",
-          "url": "https://medium.com/design-bootcamp/the-price-of-constant-scrutiny-how-employee-monitoring-erodes-trust-and-performance-e4144b8bead7",
-          "date": "2026-11-15",
-          "author": "Akis Apostoliadis",
-          "tags": [
-            "performance",
-            "employee-engagement",
-            "employee-experience"
-          ]
-        },
-        {
-          "title": "10 lines changed the reviews. Not the game.",
-          "url": "https://medium.com/design-bootcamp/10-lines-changed-the-reviews-not-the-game-b220df454947",
-          "date": "2026-11-15",
-          "author": "Gaya Kim",
-          "tags": [
-            "future-of-work",
-            "steam",
-            "technology",
-            "ux",
-            "ai"
-          ]
-        },
-        {
-          "title": "Case Study: Automating Annual Training Plans for an Oil and Gas Company",
-          "url": "https://medium.com/design-bootcamp/case-study-automating-annual-training-plans-for-an-oil-and-gas-company-b10e5980f76e",
-          "date": "2026-11-15",
-          "author": "Temi Owoade",
-          "tags": [
-            "ui",
-            "b2b",
-            "ux",
-            "enterprise-technology",
-            "design"
-          ]
-        },
-        {
-          "title": "Henry Ford never said “faster horses.” Design teams keep using it anyway",
-          "url": "https://medium.com/design-bootcamp/henry-ford-never-said-faster-horses-design-teams-keep-using-it-anyway-2ebc8ffc6d7e",
-          "date": "2026-11-15",
-          "author": "Lucky Ekezie",
-          "tags": [
-            "design",
-            "technology",
-            "ux-research",
             "ai",
-            "chatgpt"
+            "ui-design",
+            "design",
+            "ux-design",
+            "ux"
           ]
         },
         {
-          "title": "Case Study: Wi-App (Electoral Accessibility App)",
-          "url": "https://medium.com/design-bootcamp/case-study-wi-app-electoral-accessibility-app-b365616b2142",
-          "date": "2026-11-15",
-          "author": "Temi Owoade",
+          "title": "Understanding Agentic UI: A Step-by-Step Guide for Product Designers",
+          "url": "https://medium.com/design-bootcamp/understanding-agentic-ui-a-step-by-step-guide-for-product-designers-13beab454b0b",
+          "date": "2026-11-17",
+          "author": "Parthavi Patel",
           "tags": [
-            "accessibility",
+            "ui-design",
+            "agentic-ai",
+            "ai",
             "ux",
-            "design-for-accessibility",
-            "ui",
-            "design"
+            "product-design"
+          ]
+        },
+        {
+          "title": "Is UI/UX Design Still a Good Career Choice in 2027?",
+          "url": "https://medium.com/design-bootcamp/is-ui-ux-design-still-a-good-career-choice-in-2027-d757b2690ecb",
+          "date": "2026-11-17",
+          "author": "Heshan.Design",
+          "tags": [
+            "ai",
+            "ui-design",
+            "ux-design",
+            "product-design",
+            "design-career"
+          ]
+        },
+        {
+          "title": "Your Customers Don’t Buy Products. They Buy Confidence in Their Decisions.",
+          "url": "https://medium.com/design-bootcamp/your-customers-dont-buy-products-they-buy-confidence-in-their-decisions-b4004ebf326b",
+          "date": "2026-11-17",
+          "author": "Vijay Ram",
+          "tags": [
+            "ux-design",
+            "customer-experience",
+            "psychology",
+            "product-design"
+          ]
+        },
+        {
+          "title": "A Prototype Is Not an Argument",
+          "url": "https://medium.com/design-bootcamp/a-prototype-is-not-an-argument-fef78e7825ec",
+          "date": "2026-11-17",
+          "author": "Ritesh Tiwari",
+          "tags": [
+            "ux",
+            "ai",
+            "ui-ux-design",
+            "ep",
+            "design-thinking"
           ]
         }
       ]
@@ -492,6 +497,13 @@
       "status": "ok",
       "items": [
         {
+          "title": "🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
+          "date": "2026-11-16",
+          "author": "Lenny Rachitsky",
+          "tags": []
+        },
+        {
           "title": "How I fight token fraud as a solo founder",
           "url": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
           "date": "2026-11-16",
@@ -551,13 +563,6 @@
           "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
           "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
           "date": "2026-11-08",
-          "author": "Lenny Rachitsky",
-          "tags": []
-        },
-        {
-          "title": "Lenny’s Newsletter holiday gift guide 2026",
-          "url": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
-          "date": "2026-11-03",
           "author": "Lenny Rachitsky",
           "tags": []
         }
