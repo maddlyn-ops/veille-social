@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T14:19:39Z",
+  "generated_at": "2026-11-18T13:59:13Z",
   "feeds": [
     {
       "name": "Medium : Dolly Borade Solanki",
@@ -284,130 +284,133 @@
       "status": "ok",
       "items": [
         {
-          "title": "How to vibe code the app: from idea to App Store",
-          "url": "https://medium.com/design-bootcamp/how-to-vibe-code-the-app-from-idea-to-app-store-a2e20fca0295",
-          "date": "2026-11-17",
-          "author": "Ross Horbi",
+          "title": "What OpenAI’s Rogue Agents Reveal About the Future of Marketing",
+          "url": "https://medium.com/design-bootcamp/what-openais-rogue-agents-reveal-about-the-future-of-marketing-084ea273fb28",
+          "date": "2026-11-18",
+          "author": "Mark Sage",
           "tags": [
-            "vibe-coding",
-            "mobile-app-development",
-            "startup",
-            "mobile",
-            "apps"
-          ]
-        },
-        {
-          "title": "The quiet parts, out loud",
-          "url": "https://medium.com/design-bootcamp/the-quiet-parts-out-loud-b309da8f9189",
-          "date": "2026-11-17",
-          "author": "Liz Dugan",
-          "tags": [
-            "ux-design",
-            "ux",
-            "ux-research"
-          ]
-        },
-        {
-          "title": "Different Rules for Jensen Huang",
-          "url": "https://medium.com/design-bootcamp/different-rules-for-jensen-huang-9c0c93c5a10b",
-          "date": "2026-11-17",
-          "author": "Christine Ying",
-          "tags": [
-            "nvidia",
-            "corporate-governance",
-            "asian-american",
-            "silicon-valley",
-            "opinion"
-          ]
-        },
-        {
-          "title": "How I use Claude to translate Figma designs into production-ready code for our CMS",
-          "url": "https://medium.com/design-bootcamp/how-i-use-claude-to-translate-figma-designs-into-production-ready-code-for-our-cms-0118db0155a3",
-          "date": "2026-11-17",
-          "author": "Wyatt Kay",
-          "tags": [
-            "claude-skills",
-            "figma",
-            "ux-design",
-            "mcps",
-            "web-development"
-          ]
-        },
-        {
-          "title": "The Easy Button and the Kill Switch",
-          "url": "https://medium.com/design-bootcamp/the-easy-button-and-the-kill-switch-eb7991e3d5cc",
-          "date": "2026-11-17",
-          "author": "Robert Otto",
-          "tags": [
-            "product-management",
-            "technology",
-            "artificial-intelligence",
-            "startup",
-            "business"
-          ]
-        },
-        {
-          "title": "Designers Are Panicking Because of This One Post on X",
-          "url": "https://medium.com/design-bootcamp/designers-are-panicking-because-of-this-one-post-on-x-6c5482d967ab",
-          "date": "2026-11-17",
-          "author": "Punit Chawla",
-          "tags": [
-            "ai",
-            "ui-design",
-            "design",
-            "ux-design",
-            "ux"
-          ]
-        },
-        {
-          "title": "Understanding Agentic UI: A Step-by-Step Guide for Product Designers",
-          "url": "https://medium.com/design-bootcamp/understanding-agentic-ui-a-step-by-step-guide-for-product-designers-13beab454b0b",
-          "date": "2026-11-17",
-          "author": "Parthavi Patel",
-          "tags": [
-            "ui-design",
+            "marketing",
+            "digital-marketing",
             "agentic-ai",
             "ai",
+            "branding"
+          ]
+        },
+        {
+          "title": "Technology Intelligence Platform for Engineers : UX Case Study",
+          "url": "https://medium.com/design-bootcamp/technology-intelligence-platform-for-engineers-ux-case-study-257eeb8f0aee",
+          "date": "2026-11-18",
+          "author": "Sourabhpanwar",
+          "tags": [
             "ux",
+            "intelligence",
+            "knowledge",
+            "web-design",
             "product-design"
           ]
         },
         {
-          "title": "Is UI/UX Design Still a Good Career Choice in 2027?",
-          "url": "https://medium.com/design-bootcamp/is-ui-ux-design-still-a-good-career-choice-in-2027-d757b2690ecb",
-          "date": "2026-11-17",
+          "title": "The Porsche Mission S Is a Greatest Hits Album on Wheels",
+          "url": "https://medium.com/design-bootcamp/the-porsche-mission-s-is-a-greatest-hits-album-on-wheels-6bcca559bc27",
+          "date": "2026-11-18",
+          "author": "Favian Rafif",
+          "tags": [
+            "design",
+            "product-design",
+            "cars",
+            "self-driving-cars",
+            "technology"
+          ]
+        },
+        {
+          "title": "How to Survive as a UI/UX Designer in the AI Era",
+          "url": "https://medium.com/design-bootcamp/how-to-survive-as-a-ui-ux-designer-in-the-ai-era-a06573019b45",
+          "date": "2026-11-18",
           "author": "Heshan.Design",
           "tags": [
-            "ai",
-            "ui-design",
             "ux-design",
+            "artificial-intelligence",
+            "ui-design",
             "product-design",
             "design-career"
           ]
         },
         {
-          "title": "Your Customers Don’t Buy Products. They Buy Confidence in Their Decisions.",
-          "url": "https://medium.com/design-bootcamp/your-customers-dont-buy-products-they-buy-confidence-in-their-decisions-b4004ebf326b",
+          "title": "When Accessibility Limits Choice: Investigating PickMe’s Ride-Hailing Experience in Sri Lanka",
+          "url": "https://medium.com/design-bootcamp/when-accessibility-limits-choice-investigating-pickmes-ride-hailing-experience-in-sri-lanka-f4721e2a6665",
           "date": "2026-11-17",
-          "author": "Vijay Ram",
+          "author": "Tharindu Piyasena",
           "tags": [
-            "ux-design",
-            "customer-experience",
-            "psychology",
-            "product-design"
+            "assistive-technology",
+            "user-experience",
+            "accessibility",
+            "wcag",
+            "pickme"
           ]
         },
         {
-          "title": "A Prototype Is Not an Argument",
-          "url": "https://medium.com/design-bootcamp/a-prototype-is-not-an-argument-fef78e7825ec",
+          "title": "Free during preview: the MCP surcharge coming to your design tool",
+          "url": "https://medium.com/design-bootcamp/free-during-preview-the-mcp-surcharge-coming-to-your-design-tool-a4d34f274219",
           "date": "2026-11-17",
-          "author": "Ritesh Tiwari",
+          "author": "Gareth Wheeler",
           "tags": [
-            "ux",
-            "ai",
-            "ui-ux-design",
-            "ep",
-            "design-thinking"
+            "mcps",
+            "web-design",
+            "figma",
+            "ux-design",
+            "framer"
+          ]
+        },
+        {
+          "title": "5 Claude Skills Every Product Person Needs to Survive 2027",
+          "url": "https://medium.com/design-bootcamp/5-claude-skills-every-product-person-needs-to-survive-2027-6dce2652f5a2",
+          "date": "2026-11-17",
+          "author": "Rishi Sharma",
+          "tags": [
+            "claude",
+            "artificial-intelligence",
+            "product-design",
+            "product-management",
+            "ai-tools"
+          ]
+        },
+        {
+          "title": "Copywriting taught me to write. UX writing taught me to get out of the way.",
+          "url": "https://medium.com/design-bootcamp/copywriting-taught-me-to-write-ux-writing-taught-me-to-get-out-of-the-way-ebfd5f5cb0d5",
+          "date": "2026-11-17",
+          "author": "Grazia Tarantino",
+          "tags": [
+            "writing",
+            "ux-writing",
+            "content-design",
+            "ux-design",
+            "copywriting"
+          ]
+        },
+        {
+          "title": "The Designer’s 2027 Skill Stack: What to Learn, What to Drop, and What Still Matters",
+          "url": "https://medium.com/design-bootcamp/the-designers-2027-skill-stack-what-to-learn-what-to-drop-and-what-still-matters-abd230467141",
+          "date": "2026-11-17",
+          "author": "Ayushi Sharma",
+          "tags": [
+            "design-trends",
+            "product-design",
+            "design-career",
+            "ux-design",
+            "ai"
+          ]
+        },
+        {
+          "title": "The end of open source as we know it?",
+          "url": "https://medium.com/design-bootcamp/the-end-of-open-source-as-we-know-it-49e614d1216f",
+          "date": "2026-11-17",
+          "author": "Dàniel Dalia",
+          "tags": [
+            "software-development",
+            "product-management",
+            "open-source",
+            "artificial-intelligence",
+            "ux-design"
           ]
         }
       ]
@@ -497,6 +500,13 @@
       "status": "ok",
       "items": [
         {
+          "title": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
+          "url": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
+          "date": "2026-11-17",
+          "author": "Lenny Rachitsky",
+          "tags": []
+        },
+        {
           "title": "🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS",
           "url": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
           "date": "2026-11-16",
@@ -557,13 +567,6 @@
           "url": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
           "date": "2026-11-09",
           "author": "Claire Vo",
-          "tags": []
-        },
-        {
-          "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
-          "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
-          "date": "2026-11-08",
-          "author": "Lenny Rachitsky",
           "tags": []
         }
       ]
