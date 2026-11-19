@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:59:13Z",
+  "generated_at": "2026-11-19T14:25:59Z",
   "feeds": [
     {
       "name": "Medium : Dolly Borade Solanki",
@@ -284,133 +284,125 @@
       "status": "ok",
       "items": [
         {
-          "title": "What OpenAI’s Rogue Agents Reveal About the Future of Marketing",
-          "url": "https://medium.com/design-bootcamp/what-openais-rogue-agents-reveal-about-the-future-of-marketing-084ea273fb28",
-          "date": "2026-11-18",
-          "author": "Mark Sage",
+          "title": "How do you evolve an AI feature? A Product designer’s blueprint",
+          "url": "https://medium.com/design-bootcamp/how-do-you-evolve-an-ai-feature-a-product-designers-blueprint-871b6c701c36",
+          "date": "2026-11-19",
+          "author": "Parthavi Patel",
           "tags": [
-            "marketing",
-            "digital-marketing",
-            "agentic-ai",
-            "ai",
-            "branding"
-          ]
-        },
-        {
-          "title": "Technology Intelligence Platform for Engineers : UX Case Study",
-          "url": "https://medium.com/design-bootcamp/technology-intelligence-platform-for-engineers-ux-case-study-257eeb8f0aee",
-          "date": "2026-11-18",
-          "author": "Sourabhpanwar",
-          "tags": [
+            "ux-design",
             "ux",
-            "intelligence",
-            "knowledge",
-            "web-design",
-            "product-design"
-          ]
-        },
-        {
-          "title": "The Porsche Mission S Is a Greatest Hits Album on Wheels",
-          "url": "https://medium.com/design-bootcamp/the-porsche-mission-s-is-a-greatest-hits-album-on-wheels-6bcca559bc27",
-          "date": "2026-11-18",
-          "author": "Favian Rafif",
-          "tags": [
-            "design",
             "product-design",
-            "cars",
-            "self-driving-cars",
-            "technology"
-          ]
-        },
-        {
-          "title": "How to Survive as a UI/UX Designer in the AI Era",
-          "url": "https://medium.com/design-bootcamp/how-to-survive-as-a-ui-ux-designer-in-the-ai-era-a06573019b45",
-          "date": "2026-11-18",
-          "author": "Heshan.Design",
-          "tags": [
-            "ux-design",
-            "artificial-intelligence",
-            "ui-design",
-            "product-design",
-            "design-career"
-          ]
-        },
-        {
-          "title": "When Accessibility Limits Choice: Investigating PickMe’s Ride-Hailing Experience in Sri Lanka",
-          "url": "https://medium.com/design-bootcamp/when-accessibility-limits-choice-investigating-pickmes-ride-hailing-experience-in-sri-lanka-f4721e2a6665",
-          "date": "2026-11-17",
-          "author": "Tharindu Piyasena",
-          "tags": [
-            "assistive-technology",
-            "user-experience",
-            "accessibility",
-            "wcag",
-            "pickme"
-          ]
-        },
-        {
-          "title": "Free during preview: the MCP surcharge coming to your design tool",
-          "url": "https://medium.com/design-bootcamp/free-during-preview-the-mcp-surcharge-coming-to-your-design-tool-a4d34f274219",
-          "date": "2026-11-17",
-          "author": "Gareth Wheeler",
-          "tags": [
-            "mcps",
-            "web-design",
-            "figma",
-            "ux-design",
-            "framer"
-          ]
-        },
-        {
-          "title": "5 Claude Skills Every Product Person Needs to Survive 2027",
-          "url": "https://medium.com/design-bootcamp/5-claude-skills-every-product-person-needs-to-survive-2027-6dce2652f5a2",
-          "date": "2026-11-17",
-          "author": "Rishi Sharma",
-          "tags": [
-            "claude",
-            "artificial-intelligence",
-            "product-design",
-            "product-management",
-            "ai-tools"
-          ]
-        },
-        {
-          "title": "Copywriting taught me to write. UX writing taught me to get out of the way.",
-          "url": "https://medium.com/design-bootcamp/copywriting-taught-me-to-write-ux-writing-taught-me-to-get-out-of-the-way-ebfd5f5cb0d5",
-          "date": "2026-11-17",
-          "author": "Grazia Tarantino",
-          "tags": [
-            "writing",
-            "ux-writing",
-            "content-design",
-            "ux-design",
-            "copywriting"
-          ]
-        },
-        {
-          "title": "The Designer’s 2027 Skill Stack: What to Learn, What to Drop, and What Still Matters",
-          "url": "https://medium.com/design-bootcamp/the-designers-2027-skill-stack-what-to-learn-what-to-drop-and-what-still-matters-abd230467141",
-          "date": "2026-11-17",
-          "author": "Ayushi Sharma",
-          "tags": [
-            "design-trends",
-            "product-design",
-            "design-career",
-            "ux-design",
+            "agentic-ai",
             "ai"
           ]
         },
         {
-          "title": "The end of open source as we know it?",
-          "url": "https://medium.com/design-bootcamp/the-end-of-open-source-as-we-know-it-49e614d1216f",
-          "date": "2026-11-17",
-          "author": "Dàniel Dalia",
+          "title": "Designing with Claude: my new product design process",
+          "url": "https://medium.com/design-bootcamp/designing-with-claude-my-new-product-design-process-e2efe9471ed7",
+          "date": "2026-11-19",
+          "author": "Nishank Kumbhalwar",
           "tags": [
-            "software-development",
-            "product-management",
-            "open-source",
+            "ai",
+            "claude",
+            "ux-design",
+            "product-design",
+            "design-process"
+          ]
+        },
+        {
+          "title": "The speed trap",
+          "url": "https://medium.com/design-bootcamp/the-speed-trap-e15e778fbc45",
+          "date": "2026-11-19",
+          "author": "Gemma Rubio Rodrigo",
+          "tags": [
+            "communication",
+            "leadership",
+            "business-strategy",
+            "business"
+          ]
+        },
+        {
+          "title": "Building Shopscan’s credibility audit: from a checklist to a reviewable workflow",
+          "url": "https://medium.com/design-bootcamp/building-shopscans-credibility-audit-from-a-checklist-to-a-reviewable-workflow-5dec3d2dfa3b",
+          "date": "2026-11-19",
+          "author": "Aneetta Davis",
+          "tags": [
+            "redesign",
+            "audit",
+            "store-audit",
+            "ux-research",
+            "shopify"
+          ]
+        },
+        {
+          "title": "How I moved into a product role",
+          "url": "https://medium.com/design-bootcamp/how-i-moved-into-a-product-role-18170253b3ea",
+          "date": "2026-11-19",
+          "author": "Thomas Wright",
+          "tags": []
+        },
+        {
+          "title": "The Hidden Cost of Competence",
+          "url": "https://medium.com/design-bootcamp/the-hidden-cost-of-competence-e1532d96a14c",
+          "date": "2026-11-19",
+          "author": "Janine Rosado",
+          "tags": [
+            "ux-design",
+            "organizational-culture",
+            "design-leadership",
+            "ways-of-working",
+            "employee-burnout"
+          ]
+        },
+        {
+          "title": "The Golden Age of JRPGs: How the 90s Changed Games Forever (A Game Designer Looks Back)",
+          "url": "https://medium.com/design-bootcamp/the-golden-age-of-jrpgs-how-the-90s-changed-games-forever-a-game-designer-looks-back-a70a8edc960b",
+          "date": "2026-11-19",
+          "author": "Sam Liberty",
+          "tags": [
+            "technology",
+            "history",
+            "games",
+            "japan",
+            "game-design"
+          ]
+        },
+        {
+          "title": "Meta’s AI Changed a Bookseller’s Ad Without Asking.",
+          "url": "https://medium.com/design-bootcamp/metas-ai-changed-a-bookseller-s-ad-without-asking-c8205c9965aa",
+          "date": "2026-11-19",
+          "author": "Amajuoyi Udochukwu Deborah",
+          "tags": [
             "artificial-intelligence",
-            "ux-design"
+            "advertising",
+            "ux-design",
+            "meta",
+            "product-management"
+          ]
+        },
+        {
+          "title": "Balancing accessibility with the human behind the wheel — Automotive UX",
+          "url": "https://medium.com/design-bootcamp/balancing-accessibility-with-the-human-behind-the-wheel-automotive-ux-3e8531f1fb88",
+          "date": "2026-11-18",
+          "author": "Sourabhpanwar",
+          "tags": [
+            "automotive-industry",
+            "domain-driven-design",
+            "ux-design",
+            "accessibility"
+          ]
+        },
+        {
+          "title": "Amazon Didn’t Kill Cash on Delivery. It Priced It.",
+          "url": "https://medium.com/design-bootcamp/amazon-didnt-kill-cash-on-delivery-it-priced-it-a0f70bfe32de",
+          "date": "2026-11-18",
+          "author": "Jayendra More",
+          "tags": [
+            "fintech",
+            "product-design",
+            "amazon-payments",
+            "ecommerce",
+            "product-management"
           ]
         }
       ]

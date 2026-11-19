@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-18T13:59:12Z",
-  "ok": 25,
-  "total": 25,
+  "generated_at": "2026-11-19T14:25:58Z",
+  "ok": 26,
+  "total": 26,
   "debug_instagram_fields": [
     "alt_text",
     "audio",
@@ -12,7 +12,6 @@
     "description",
     "discovery_input",
     "followers",
-    "hashtags",
     "images",
     "input",
     "is_verified",
@@ -44,118 +43,118 @@
       "handle": "marcelodesignx",
       "metric": "views",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:53:10Z",
-      "median": 5108.5,
+      "fetched_at": "2026-11-19T14:21:40Z",
+      "median": 5388.0,
       "posts": [
+        {
+          "url": "https://www.tiktok.com/@marcelodesignx/video/7709690603730160903",
+          "caption": "Steal these interactions to make your Website feel premium. 🥷 Save this for next! #webdesign #webdesigner #3Dwebsites #uiux #blowthisup",
+          "date": "2026-11-19",
+          "views": 9616,
+          "likes": 941,
+          "comments": 8,
+          "shares": 62,
+          "type": "video",
+          "ratio": 1.78
+        },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7709382403562704135",
           "caption": "Comment “link” to get this template. I’m sorry but Claude does not have this taste #claude #webdesign #ai #webdesigner #blowthisup",
           "date": "2026-11-18",
-          "views": 748,
-          "likes": 48,
-          "comments": 1,
-          "shares": 1,
+          "views": 1072,
+          "likes": 61,
+          "comments": 5,
+          "shares": 3,
           "type": "video",
-          "ratio": 0.15
+          "ratio": 0.2
         },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7709256388874177799",
           "caption": "Claude vs Human designer 😂 #Claude #webdesign #websites #webdesigner #blowthisup",
           "date": "2026-11-17",
-          "views": 9698,
-          "likes": 513,
-          "comments": 9,
-          "shares": 11,
+          "views": 12400,
+          "likes": 703,
+          "comments": 11,
+          "shares": 15,
           "type": "video",
-          "ratio": 1.9
+          "ratio": 2.3
         },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7708893359976222004",
           "caption": "A slow website could be costing you visitors before they even see your offer. ⏳ Google research found that the probability of a mobile visitor bouncing increases by **32%** when page load time goes from 1 to 3 seconds. …",
           "date": "2026-11-16",
-          "views": 1297,
-          "likes": 67,
+          "views": 1523,
+          "likes": 76,
           "comments": 5,
-          "shares": 3,
+          "shares": 4,
           "type": "video",
-          "ratio": 0.25
+          "ratio": 0.28
         },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7708550273857244423",
           "caption": "POV: You mastered 3D Websites #websites #webdesigner #webdesign #uiux #blowthisup",
           "date": "2026-11-15",
-          "views": 8890,
-          "likes": 593,
+          "views": 9516,
+          "likes": 629,
           "comments": 16,
-          "shares": 49,
+          "shares": 56,
           "type": "video",
-          "ratio": 1.74
+          "ratio": 1.77
         },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7708189963933781256",
           "caption": "Fable 5.2 + HorizonX = Insane 🤯 comment “link” to get the template for free #claude #webdesign #websites #uiux",
           "date": "2026-11-15",
-          "views": 5334,
-          "likes": 235,
+          "views": 5673,
+          "likes": 246,
           "comments": 9,
-          "shares": 22,
+          "shares": 25,
           "type": "video",
-          "ratio": 1.04
+          "ratio": 1.05
         },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7707925546906242322",
           "caption": "Seedance 2.5 4K is real cinema. @higgsfield.ai #HiggsfieldCreator #blowthisup",
           "date": "2026-11-14",
-          "views": 4883,
-          "likes": 201,
+          "views": 5103,
+          "likes": 208,
           "comments": 4,
-          "shares": 7,
+          "shares": 9,
           "type": "video",
-          "ratio": 0.96
+          "ratio": 0.95
         },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7707768524688706823",
           "caption": "just a Venezuelan kid with a PC and a dream. #webdesign #blowthisup #websites #uiux #websites",
           "date": "2026-11-13",
-          "views": 3942,
-          "likes": 212,
-          "comments": 15,
-          "shares": 5,
+          "views": 4105,
+          "likes": 219,
+          "comments": 16,
+          "shares": 6,
           "type": "video",
-          "ratio": 0.77
+          "ratio": 0.76
         },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7707411550243491079",
           "caption": "Wait for it 🔥🔥 A lot of decisiones need to be made when designing an app! This is why UI/UX it’s so important #Claude #webdesign #websites #webdesigner #uiux",
           "date": "2026-11-12",
-          "views": 6294,
-          "likes": 279,
+          "views": 6475,
+          "likes": 284,
           "comments": 10,
           "shares": 8,
           "type": "video",
-          "ratio": 1.23
+          "ratio": 1.2
         },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7707149130925149458",
           "caption": "Your most viral Reel, reimagined 🔥 Upload it to Higgsfield Shorts Studio and recreate it in a different visual style. Same idea, fresh look. Comment “SHORTS” and I’ll send you the link in a DM 🔗 @higgsfield.ai #Higgsfie…",
           "date": "2026-11-12",
-          "views": 3537,
-          "likes": 132,
+          "views": 3648,
+          "likes": 135,
           "comments": 10,
-          "shares": 10,
+          "shares": 11,
           "type": "video",
-          "ratio": 0.69
-        },
-        {
-          "url": "https://www.tiktok.com/@marcelodesignx/video/7707046884640181505",
-          "caption": "✋Stop using white instead use this. Save this and thank me later! #webdesign #colorpalettes #websites #webdesigner",
-          "date": "2026-11-11",
-          "views": 14600,
-          "likes": 775,
-          "comments": 11,
-          "shares": 60,
-          "type": "video",
-          "ratio": 2.86
+          "ratio": 0.68
         }
       ]
     },
@@ -164,118 +163,118 @@
       "handle": "daramint",
       "metric": "views",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:53:18Z",
-      "median": 3022.0,
+      "fetched_at": "2026-11-19T14:21:47Z",
+      "median": 3097.0,
       "posts": [
         {
           "url": "https://www.tiktok.com/@daramint/video/7707822514809933078",
           "caption": "What to put on your resume as a UXUI Designer 📃👩‍💻 #uxui #uxdesigner #resumetips #careeradvice #jobhunt",
           "date": "2026-11-14",
-          "views": 2456,
-          "likes": 270,
-          "comments": 6,
+          "views": 2662,
+          "likes": 291,
+          "comments": 7,
           "shares": 5,
           "type": "video",
-          "ratio": 0.81
+          "ratio": 0.86
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7707316541674802454",
           "caption": "#uxui #uxdesigner #designresources #designinspo #designtools",
           "date": "2026-11-12",
-          "views": 1706,
-          "likes": 171,
+          "views": 1783,
+          "likes": 178,
           "comments": 1,
           "shares": 6,
           "type": "video",
-          "ratio": 0.56
+          "ratio": 0.58
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7706159968487034134",
           "caption": "Parts in my Design Workflow that I Don’t Mind Using AI as a UXUI Designer 📚👌🏻 #uxui #uxdesigner #ai #aiworkflow #designtips",
           "date": "2026-11-09",
-          "views": 2907,
-          "likes": 280,
+          "views": 3022,
+          "likes": 288,
           "comments": 6,
-          "shares": 12,
+          "shares": 13,
           "type": "video",
-          "ratio": 0.96
+          "ratio": 0.98
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7703926413623151894",
           "caption": "Perfectionism is killing your ux design process. 4 things to do instead so your work actually ships 📝 #uxdesign #uxui #learndesign #designtips #figma",
           "date": "2026-11-03",
-          "views": 2344,
-          "likes": 225,
+          "views": 2394,
+          "likes": 230,
           "comments": 3,
           "shares": 5,
           "type": "video",
-          "ratio": 0.78
+          "ratio": 0.77
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7699840025449598240",
           "caption": "#uxdesign #uxui #codelayers #designresources #learndesign",
           "date": "2026-10-23",
-          "views": 3137,
-          "likes": 218,
+          "views": 3172,
+          "likes": 221,
           "comments": 2,
           "shares": 9,
           "type": "video",
-          "ratio": 1.04
+          "ratio": 1.02
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7697587941928881440",
           "caption": "A Full Day of Work As A UX/UI Designer 👩‍💻🎧 It’s been a while since my last #dayinmylife vlog! @anua_global #uxdesigner #9to5 #wfhvlog #pdrncream",
           "date": "2026-10-17",
-          "views": 34600,
-          "likes": 4277,
+          "views": 35100,
+          "likes": 4375,
           "comments": 39,
           "shares": 96,
           "type": "video",
-          "ratio": 11.45
+          "ratio": 11.33
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7696113873622945057",
           "caption": "What to put in your UX Design portfolio, based on where you actually are in your career 👩‍💻🎨 #portfolio #uxui #uxdesigner #portfoliotips #creativecareer",
           "date": "2026-10-13",
-          "views": 10900,
-          "likes": 1299,
-          "comments": 22,
-          "shares": 47,
+          "views": 11200,
+          "likes": 1331,
+          "comments": 23,
+          "shares": 50,
           "type": "video",
-          "ratio": 3.61
+          "ratio": 3.62
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7694300991000284448",
           "caption": "#uxdesign #uxui #figmaplugin #designresources #designtools",
           "date": "2026-10-08",
-          "views": 6847,
-          "likes": 626,
+          "views": 6890,
+          "likes": 633,
           "comments": 23,
           "shares": 40,
           "type": "video",
-          "ratio": 2.27
+          "ratio": 2.22
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7693597711022525729",
           "caption": "What I Designed to in September 🎧 New songs I discovered and have been vibing to at my desk last month! @WIM🦩 @Greg Shilling @remy @public library commute @Jesse Barrera",
           "date": "2026-10-06",
-          "views": 1552,
+          "views": 1556,
           "likes": 100,
           "comments": 2,
           "shares": 3,
           "type": "video",
-          "ratio": 0.51
+          "ratio": 0.5
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7691697060487253281",
           "caption": "How my conversations be going this year 🫠 #uxui #uxdesigner #relatable #ai #design",
           "date": "2026-10-01",
-          "views": 71800,
-          "likes": 6426,
+          "views": 73300,
+          "likes": 6596,
           "comments": 94,
-          "shares": 130,
+          "shares": 133,
           "type": "video",
-          "ratio": 23.76
+          "ratio": 23.67
         }
       ]
     },
@@ -284,15 +283,15 @@
       "handle": "hana_siya5",
       "metric": "views",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:53:25Z",
-      "median": 2447.5,
+      "fetched_at": "2026-11-19T14:21:53Z",
+      "median": 2449.5,
       "posts": [
         {
           "url": "https://www.tiktok.com/@hana_siya5/video/7708446096695037192",
           "caption": "#figma#productdesign#advice #fyp #UIUXDesign",
           "date": "2026-11-15",
-          "views": 633,
-          "likes": 44,
+          "views": 648,
+          "likes": 45,
           "comments": 2,
           "shares": 5,
           "type": "video",
@@ -302,8 +301,8 @@
           "url": "https://www.tiktok.com/@hana_siya5/video/7694702487588195591",
           "caption": "Use Stitch to speed up prototyping during hackathons, not as a replacement for thoughtful design. Treat AI-generated UI as a starting point, then refine it with your own creativity and UX thinking. #UIUXDesign #GoogleSt…",
           "date": "2026-10-09",
-          "views": 1104,
-          "likes": 67,
+          "views": 1106,
+          "likes": 68,
           "comments": 4,
           "shares": 20,
           "type": "video",
@@ -313,40 +312,40 @@
           "url": "https://www.tiktok.com/@hana_siya5/video/7692116078805142792",
           "caption": "#fyp #foryou #foryoupage #viral #uiuxdesign",
           "date": "2026-10-02",
-          "views": 9946,
-          "likes": 618,
+          "views": 9993,
+          "likes": 622,
           "comments": 4,
-          "shares": 127,
+          "shares": 128,
           "type": "video",
-          "ratio": 4.06
+          "ratio": 4.08
         },
         {
           "url": "https://www.tiktok.com/@hana_siya5/video/7691787550456892690",
           "caption": "#Figma #explore #fyp #aitools #design",
           "date": "2026-10-01",
-          "views": 2533,
+          "views": 2536,
           "likes": 142,
           "comments": 2,
           "shares": 29,
           "type": "video",
-          "ratio": 1.03
+          "ratio": 1.04
         },
         {
           "url": "https://www.tiktok.com/@hana_siya5/video/7690656669797190930",
           "caption": "Figma is evolving from a design tool into an entire creative workspace @figma #Figma2026 #explore #UIDesign #UXDesign #aitrend",
           "date": "2026-09-28",
-          "views": 7057,
-          "likes": 424,
+          "views": 7155,
+          "likes": 433,
           "comments": 5,
-          "shares": 71,
+          "shares": 72,
           "type": "video",
-          "ratio": 2.88
+          "ratio": 2.92
         },
         {
           "url": "https://www.tiktok.com/@hana_siya5/video/7690268264492010770",
           "caption": "Great UX starts with understanding people, not just designing screens. Learn how to use empathy to create experiences that actually connect with users. #UXDesign #DesignThinking #EmpathyInDesign #UXTips#🇩🇿",
           "date": "2026-09-27",
-          "views": 4577,
+          "views": 4579,
           "likes": 237,
           "comments": 6,
           "shares": 36,
@@ -357,7 +356,7 @@
           "url": "https://www.tiktok.com/@hana_siya5/video/7689907366107581703",
           "caption": "#ai#aitools #explore #DesignerTools #DesignResources",
           "date": "2026-09-26",
-          "views": 663,
+          "views": 664,
           "likes": 39,
           "comments": 5,
           "shares": 1,
@@ -368,8 +367,8 @@
           "url": "https://www.tiktok.com/@hana_siya5/video/7689535080385039624",
           "caption": "#fyp #viral #algeria #webdesign #uidesign",
           "date": "2026-09-25",
-          "views": 918,
-          "likes": 82,
+          "views": 920,
+          "likes": 83,
           "comments": 11,
           "shares": 26,
           "type": "video",
@@ -384,18 +383,18 @@
           "comments": 7,
           "shares": 357,
           "type": "video",
-          "ratio": 15.32
+          "ratio": 15.31
         },
         {
           "url": "https://www.tiktok.com/@hana_siya5/video/7664675981440978183",
           "caption": "#Figma #UXDesign #UIDesign #DesignTips #DesignTok",
           "date": "2026-07-20",
-          "views": 2362,
+          "views": 2363,
           "likes": 145,
           "comments": 2,
           "shares": 30,
           "type": "video",
-          "ratio": 0.97
+          "ratio": 0.96
         }
       ]
     },
@@ -404,70 +403,81 @@
       "handle": "bri_bossy",
       "metric": "views",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:53:31Z",
-      "median": 12192.5,
+      "fetched_at": "2026-11-19T14:21:59Z",
+      "median": 12198.0,
       "posts": [
         {
-          "url": "https://www.tiktok.com/@bri_bossy/video/7709117723388808480",
-          "caption": "On s’équipe bien pour éviter les bug en prod 🫡",
-          "date": "2026-11-17",
-          "views": 16800,
-          "likes": 2077,
-          "comments": 26,
-          "shares": 210,
-          "type": "video",
-          "ratio": 1.38
-        },
-        {
-          "url": "https://www.tiktok.com/@bri_bossy/video/7708818418635377952",
-          "caption": "Comment je décompresse avec 10h/jours devant les écrans 🫡",
-          "date": "2026-11-16",
-          "views": 1531,
-          "likes": 196,
-          "comments": 6,
+          "url": "https://www.tiktok.com/@bri_bossy/video/7709544609864617248",
+          "caption": "Comment j’ai appris à ne plus avoir peur de paraître bête 🫪",
+          "date": "2026-11-18",
+          "views": 1637,
+          "likes": 220,
+          "comments": 2,
           "shares": 2,
           "type": "video",
           "ratio": 0.13
         },
         {
+          "url": "https://www.tiktok.com/@bri_bossy/video/7709117723388808480",
+          "caption": "On s’équipe bien pour éviter les bug en prod 🫡",
+          "date": "2026-11-17",
+          "views": 20900,
+          "likes": 2744,
+          "comments": 31,
+          "shares": 275,
+          "type": "video",
+          "ratio": 1.71
+        },
+        {
+          "url": "https://www.tiktok.com/@bri_bossy/video/7708818418635377952",
+          "caption": "Comment je décompresse avec 10h/jours devant les écrans 🫡",
+          "date": "2026-11-16",
+          "views": 1684,
+          "likes": 213,
+          "comments": 6,
+          "shares": 2,
+          "type": "video",
+          "ratio": 0.14
+        },
+        {
           "url": "https://www.tiktok.com/@bri_bossy/video/7705187314892410144",
           "caption": "À chaque fois que j’explique le pourquoi j’ai choisis l’informatique en tant que créative personne ne comprend vraiment 🤔",
           "date": "2026-11-06",
-          "views": 16600,
-          "likes": 2694,
+          "views": 16800,
+          "likes": 2718,
           "comments": 65,
-          "shares": 60,
+          "shares": 62,
           "type": "video",
-          "ratio": 1.36
+          "ratio": 1.38
         },
         {
           "url": "https://www.tiktok.com/@bri_bossy/video/7702150068677184800",
           "caption": "Avant de lancer ton app, revois ton design !!",
           "date": "2026-10-29",
-          "views": 6097,
-          "likes": 978,
-          "comments": 23,
-          "shares": 41,
+          "views": 6453,
+          "likes": 1024,
+          "comments": 24,
+          "shares": 48,
           "type": "video",
-          "ratio": 0.5
+          "ratio": 0.53
         },
         {
           "url": "https://www.tiktok.com/@bri_bossy/video/7698409257598848289",
           "caption": "Le jeu s’appelle YAP J’ai créé un jeu pour m’aider à m’améliorer en anglais ! Et franchement il est beaucoup trop cool 🌟♥️",
           "date": "2026-10-19",
-          "views": 50900,
-          "likes": 8131,
+          "views": 51200,
+          "likes": 8171,
           "comments": 157,
-          "shares": 524,
+          "shares": 532,
           "type": "video",
-          "ratio": 4.17
+          "ratio": 4.2
         },
         {
           "url": "https://www.tiktok.com/@bri_bossy/video/7666785215603363105",
           "caption": "Tu veux te lancer dans les app mobiles et tu sais pas trop quel ordinateur choisir ? Attends je t’explique touuut 🌟",
           "date": "2026-07-26",
           "views": 15000,
-          "likes": 2155,
+          "likes": 2156,
           "comments": 59,
           "shares": 83,
           "type": "video",
@@ -477,7 +487,7 @@
           "url": "https://www.tiktok.com/@bri_bossy/video/7666066841718000928",
           "caption": "J’ai l’impression que il y a plus besoin de rien apprendre sauf que j’adore apprendre purée 💔",
           "date": "2026-07-24",
-          "views": 9385,
+          "views": 9396,
           "likes": 835,
           "comments": 74,
           "shares": 23,
@@ -499,23 +509,12 @@
           "url": "https://www.tiktok.com/@bri_bossy/video/7634557950144564502",
           "caption": "Ça va être trop sympa à développer j’ai hâte !! Je code l’app de skibidi tentafruit 🍌🍓",
           "date": "2026-04-30",
-          "views": 6883,
+          "views": 6893,
           "likes": 541,
           "comments": 19,
           "shares": 7,
           "type": "video",
-          "ratio": 0.56
-        },
-        {
-          "url": "https://www.tiktok.com/@bri_bossy/video/7632816250321784067",
-          "caption": "Alors vous en pensez quoi de ma tenue ?? Le retour de l’Asie pique trop je dois m’occuper comme je peux 😫",
-          "date": "2026-04-25",
-          "views": 3150,
-          "likes": 260,
-          "comments": 5,
-          "shares": 1,
-          "type": "video",
-          "ratio": 0.26
+          "ratio": 0.57
         }
       ]
     },
@@ -524,114 +523,114 @@
       "handle": "innermudd",
       "metric": "views",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:53:38Z",
-      "median": 10363.0,
+      "fetched_at": "2026-11-19T14:22:05Z",
+      "median": 11112.0,
       "posts": [
         {
           "url": "https://www.tiktok.com/@innermudd/video/7709208263354633478",
           "caption": "few simple settings to give your Mac a whole new look. Which one is your favorite? Try them yourself! #MacBook #MacTips #MacOS #AppleSetup #Mac",
           "date": "2026-11-17",
-          "views": 21800,
-          "likes": 1121,
-          "comments": 2,
-          "shares": 45,
+          "views": 63500,
+          "likes": 3581,
+          "comments": 12,
+          "shares": 147,
           "type": "video",
-          "ratio": 2.1
+          "ratio": 5.71
         },
         {
           "url": "https://www.tiktok.com/@innermudd/video/7708837169565011201",
           "caption": "Not sure what to buy next? Let AI help you find the best option. Sifty compares real user reviews, up-to-date prices, and product specs to help you find the right products without spending hours researching. Try Sifty f…",
           "date": "2026-11-16",
-          "views": 1063,
-          "likes": 44,
+          "views": 1229,
+          "likes": 46,
           "comments": 0,
           "shares": 2,
           "type": "video",
-          "ratio": 0.1
+          "ratio": 0.11
         },
         {
           "url": "https://www.tiktok.com/@innermudd/video/7708451777967820038",
           "caption": "A little look at the lights I use for my desk setup and content creation. Some for the aesthetic, some for the actual work. #DeskSetup #MacSetup #DeskInspiration #ContentCreator #WorkspaceSetup",
           "date": "2026-11-15",
-          "views": 542,
+          "views": 636,
           "likes": 7,
           "comments": 0,
           "shares": 0,
           "type": "video",
-          "ratio": 0.05
+          "ratio": 0.06
         },
         {
           "url": "https://www.tiktok.com/@innermudd/video/7707726045138455860",
           "caption": "Apple CarPlay, but with more possibilities. 👀 Telecar lets you watch YouTube, Instagram, and more directly on your car display. Your iPhone even works as a cursor to control everything. @telecarapp Check out Telecar on …",
           "date": "2026-11-13",
-          "views": 2522,
-          "likes": 46,
+          "views": 2824,
+          "likes": 48,
           "comments": 3,
           "shares": 6,
           "type": "video",
-          "ratio": 0.24
+          "ratio": 0.25
         },
         {
           "url": "https://www.tiktok.com/@innermudd/video/7706646029948456244",
           "caption": "Just got a new iPad? Here are 3 tricks you should try! 👀 Which one is your favorite? #iPadTips #iPadTricks #AppleTips #iPadHacks #Apple",
           "date": "2026-11-10",
-          "views": 58100,
-          "likes": 4516,
-          "comments": 8,
-          "shares": 215,
+          "views": 68900,
+          "likes": 5489,
+          "comments": 11,
+          "shares": 271,
           "type": "video",
-          "ratio": 5.61
+          "ratio": 6.2
         },
         {
           "url": "https://www.tiktok.com/@innermudd/video/7706243394267303220",
           "caption": "4 Mac apps I use almost every day to make my workflow easier and keep everything organized. From managing emails to tracking all my projects, these apps have become part of my daily routine. Which one are you trying fir…",
           "date": "2026-11-09",
-          "views": 23600,
-          "likes": 1219,
+          "views": 24700,
+          "likes": 1290,
           "comments": 6,
-          "shares": 42,
+          "shares": 44,
           "type": "video",
-          "ratio": 2.28
+          "ratio": 2.22
         },
         {
           "url": "https://www.tiktok.com/@innermudd/video/7705500826638290228",
           "caption": "Curious how it works? Comment “TAP” and I’ll send you the link! What if your MacBook could work like a touchscreen? 👀 Lidtap lets you add customizable tap controls to your MacBook, with 4–9 taps you can assign to differ…",
           "date": "2026-11-07",
-          "views": 18200,
-          "likes": 491,
-          "comments": 25,
+          "views": 19400,
+          "likes": 532,
+          "comments": 26,
           "shares": 38,
           "type": "video",
-          "ratio": 1.76
+          "ratio": 1.75
         },
         {
           "url": "https://www.tiktok.com/@innermudd/video/7705099716446391553",
           "caption": "3 Mac shortcuts you'll wish you knew sooner 👀 Screenshot your entire screen, capture a specific area, or record your screen in seconds. Save this for the next time you need it! Follow for more Mac tips. #MacBookTips #Ma…",
           "date": "2026-11-06",
-          "views": 39000,
-          "likes": 2476,
+          "views": 40700,
+          "likes": 2607,
           "comments": 2,
-          "shares": 102,
+          "shares": 108,
           "type": "video",
-          "ratio": 3.76
+          "ratio": 3.66
         },
         {
           "url": "https://www.tiktok.com/@innermudd/video/7704410200178052404",
           "caption": "If you want to try it, check the link in my bio or comment SENTIENT and I’ll send you the link. Use my code: 502PMS #SentientOS #MacAI #MacProductivity #AIForMac #MacApps",
           "date": "2026-11-04",
-          "views": 2501,
-          "likes": 112,
+          "views": 2559,
+          "likes": 114,
           "comments": 3,
-          "shares": 12,
+          "shares": 13,
           "type": "video",
-          "ratio": 0.24
+          "ratio": 0.23
         },
         {
           "url": "https://www.tiktok.com/@innermudd/video/7703971297763675393",
           "caption": "Better nights, better mornings. 🌙 Take control of your screen time with Twilock. Lock distracting apps during bedtime and morning hours, and enjoy more time away from your phone. Twilock on the App Store. #Twilock #Scre…",
           "date": "2026-11-03",
-          "views": 2526,
-          "likes": 44,
+          "views": 2674,
+          "likes": 48,
           "comments": 1,
           "shares": 3,
           "type": "video",
@@ -644,118 +643,118 @@
       "handle": "tabeadesign",
       "metric": "views",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:53:44Z",
-      "median": 2680.5,
+      "fetched_at": "2026-11-19T14:22:10Z",
+      "median": 2735.0,
       "posts": [
         {
           "url": "https://www.tiktok.com/@tabeadesign/video/7709445647916600608",
           "caption": "I feel like I haven’t shown off my new website enough so here we go 🥹🤏🏻 truly so obsessed with how my website turned out and I love how it feels!! made in @readymag 🩵 #webdesign #websitedesign #webdesigner #creative",
           "date": "2026-11-18",
-          "views": 754,
-          "likes": 103,
-          "comments": 7,
-          "shares": 0,
+          "views": 1371,
+          "likes": 187,
+          "comments": 8,
+          "shares": 5,
           "type": "video",
-          "ratio": 0.28
+          "ratio": 0.5
         },
         {
           "url": "https://www.tiktok.com/@tabeadesign/video/7708744947704302870",
           "caption": "some of my fave brands I’ve designed in the past year 🩵 which one is your fave?? all created in @adobeillustrator #branding #branddesign #branddesigner #creative #designer",
           "date": "2026-11-16",
-          "views": 941,
-          "likes": 109,
+          "views": 989,
+          "likes": 115,
           "comments": 4,
           "shares": 4,
           "type": "video",
-          "ratio": 0.35
+          "ratio": 0.36
         },
         {
           "url": "https://www.tiktok.com/@tabeadesign/video/7703555636994247958",
           "caption": "design a pilates brand with me ⭐️ a bts of the design process for one of my client projects.. so obsessed with how it turned out what do you think?? 💗 #branding #branddesign #pilatesbrand #designprocess #designer",
           "date": "2026-11-02",
-          "views": 2767,
-          "likes": 385,
+          "views": 2870,
+          "likes": 396,
           "comments": 4,
-          "shares": 12,
+          "shares": 13,
           "type": "video",
-          "ratio": 1.03
+          "ratio": 1.05
         },
         {
           "url": "https://www.tiktok.com/@tabeadesign/video/7689026796796562691",
           "caption": "your sign to be delulu and believe in yourself and make life and work FUN 🩵 It’s so easy to get stuck in a routine and stay in your comfort zone but saying yes to things even if they’re scary is how you grow and how you…",
           "date": "2026-09-24",
-          "views": 1547,
+          "views": 1558,
           "likes": 54,
           "comments": 3,
           "shares": 1,
           "type": "video",
-          "ratio": 0.58
+          "ratio": 0.57
         },
         {
           "url": "https://www.tiktok.com/@tabeadesign/video/7687882837558856962",
           "caption": "I built my own fashion app so I can play dress up 👚 I want to get more into tech and building apps and when I was a kid I used to love playing dress up games so I thought this was the perfect thing to create 🤭 should I …",
           "date": "2026-09-21",
-          "views": 2337,
+          "views": 2344,
           "likes": 94,
           "comments": 1,
           "shares": 0,
           "type": "video",
-          "ratio": 0.87
+          "ratio": 0.86
         },
         {
           "url": "https://www.tiktok.com/@tabeadesign/video/7686045970295049494",
           "caption": "watch me create a portfolio website ⭐️ had so much fun creating this portfolio and I love how it turned out. I used @readymag to create it what do you think?? #webdesign #webdesigner #portfoliodesign #creative #designer",
           "date": "2026-09-16",
-          "views": 3054,
+          "views": 3060,
           "likes": 170,
           "comments": 5,
           "shares": 2,
           "type": "video",
-          "ratio": 1.14
+          "ratio": 1.12
         },
         {
           "url": "https://www.tiktok.com/@tabeadesign/video/7683864626731289878",
           "caption": "cool girls design cool websites pt. 3 🩵 had the honor of creating the portfolio for floofysocials and I cannot tell you how obsessed I am with how it turned out!! SO MUCH FUN what do you think?? #webdesign #websitedesig…",
           "date": "2026-09-10",
-          "views": 5238,
+          "views": 5266,
           "likes": 356,
           "comments": 6,
           "shares": 8,
           "type": "video",
-          "ratio": 1.95
+          "ratio": 1.93
         },
         {
           "url": "https://www.tiktok.com/@tabeadesign/video/7683086519321529622",
           "caption": "come on a creative coffee date with me ⭐️🩵 while I’m working on my fashion App.. will show more soon!! #designer #creativedate #solodate #graphicdesigner #appdesign",
           "date": "2026-09-08",
-          "views": 2594,
+          "views": 2600,
           "likes": 122,
           "comments": 2,
           "shares": 2,
           "type": "video",
-          "ratio": 0.97
+          "ratio": 0.95
         },
         {
           "url": "https://www.tiktok.com/@tabeadesign/video/7678978054202379542",
           "caption": "just a girl who loves working from home and chasing her dreams ⭐️ p.s. I have no idea why the exe patches are soo huge wth #workfromhome #wfhgirly #designer #creative #graphicdesigner",
           "date": "2026-08-28",
-          "views": 2918,
+          "views": 2921,
           "likes": 161,
           "comments": 1,
           "shares": 3,
           "type": "video",
-          "ratio": 1.09
+          "ratio": 1.07
         },
         {
           "url": "https://www.tiktok.com/@tabeadesign/video/7678300657475980566",
           "caption": "my petition to become your new creative bestie 🩵 #branddesigner #creative #designer #designerlife #graphicdesigner",
           "date": "2026-08-26",
-          "views": 57300,
+          "views": 57700,
           "likes": 10700,
           "comments": 69,
-          "shares": 317,
+          "shares": 320,
           "type": "video",
-          "ratio": 21.38
+          "ratio": 21.1
         }
       ]
     },
@@ -764,63 +763,19 @@
       "handle": "0xloucash",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
-      "median": 1403.0,
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 1405.0,
       "posts": [
         {
-          "url": "https://www.instagram.com/reel/Df0LS59oOb2",
-          "caption": "Le youtuber Colsto nous a prouvé, dans une vidéo de 30 minutes, comment il était possible de trouver ta position à partir du son de ta vidéo et des avions au-dessus de toi. Et ça, même si toi dans la vidéo, tu n'entends…",
-          "date": "2026-11-16",
+          "url": "https://www.instagram.com/reel/DfNziHmoPLn",
+          "caption": "En 2026, l’IA est de partout, et j’ai trouvé que c’est intéressant de sensibiliser du monde sur comment on peut réutiliser n’importe quelle photo et l’éditer avec l’intelligence artificielle. Alors, j’ai trouvé cet outi…",
+          "date": "2026-11-01",
           "views": null,
-          "likes": 607,
-          "comments": 49,
+          "likes": 1299,
+          "comments": 423,
           "shares": null,
           "type": "reel",
-          "ratio": 0.43
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfYD2R7oc2b",
-          "caption": "Voici un outil qui permet de trouver où ton pseudo traîne parmi plus de 400 sites, afin de pouvoir trouver les informations qui traînent sur toi… :) #ai #osint #tools",
-          "date": "2026-11-05",
-          "views": null,
-          "likes": 6863,
-          "comments": 1814,
-          "shares": null,
-          "type": "reel",
-          "ratio": 4.89
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfurOw4o1YT",
-          "caption": "Des scientifiques ont entraîné une IA qui écoute ton clavier pour deviner ton mot de passe, avec à 95 % de taux de réussite (oui oui, juste avec le son) Et je t’explique comment ils ont fait en une vidéo :) #hack #ai",
-          "date": "2026-11-14",
-          "views": null,
-          "likes": 883,
-          "comments": 173,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.63
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfshnDkotVo",
-          "caption": "Plus le temps passe et plus des modèles d’IA pointilleux font leur apparition, notamment dans la génération d’images ou de vidéos (attention Nolan t’as de la concurrence) et dans cette vidéo, je t’explique comment tu pe…",
-          "date": "2026-11-13",
-          "views": null,
-          "likes": 915,
-          "comments": 869,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.65
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfkawApIS_-",
-          "caption": "Claude ne sait pas nativement créer des effets sonores, alors voici mon top 3 des repos GitHub pour ajouter des effets sonores/sfx à tes agents ia :) #sfx #claude #ai",
-          "date": "2026-11-10",
-          "views": null,
-          "likes": 5079,
-          "comments": 4567,
-          "shares": null,
-          "type": "reel",
-          "ratio": 3.62
+          "ratio": 0.92
         },
         {
           "url": "https://www.instagram.com/p/DX9xESaiB6s",
@@ -834,48 +789,92 @@
           "ratio": 1.08
         },
         {
+          "url": "https://www.instagram.com/reel/DfshnDkotVo",
+          "caption": "Plus le temps passe et plus des modèles d’IA pointilleux font leur apparition, notamment dans la génération d’images ou de vidéos (attention Nolan t’as de la concurrence) et dans cette vidéo, je t’explique comment tu pe…",
+          "date": "2026-11-13",
+          "views": null,
+          "likes": 927,
+          "comments": 878,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.66
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfkawApIS_-",
+          "caption": "Claude ne sait pas nativement créer des effets sonores, alors voici mon top 3 des repos GitHub pour ajouter des effets sonores/sfx à tes agents ia :) #sfx #claude #ai",
+          "date": "2026-11-10",
+          "views": null,
+          "likes": 5158,
+          "comments": 4656,
+          "shares": null,
+          "type": "reel",
+          "ratio": 3.67
+        },
+        {
           "url": "https://www.instagram.com/reel/DfSUvy5o8fH",
           "caption": "J'ai trouvé un projet GitHub qui permet de faire une carte de ton application que t’as vibecodé pour comprendre ce qui est relié et à quoi. :) Chaque morceau de ton app est expliqué dans un langage simple, et pour chaqu…",
           "date": "2026-11-03",
           "views": null,
-          "likes": 2377,
-          "comments": 2098,
+          "likes": 2391,
+          "comments": 2108,
           "shares": null,
           "type": "reel",
-          "ratio": 1.69
+          "ratio": 1.7
         },
         {
           "url": "https://www.instagram.com/reel/Dfh4pVjIFsf",
           "caption": "J'ai développé et rendu open source un CRM (mission, contrôle, dashboard) qui permet de gérer toute ta société depuis une seule application web. Ça te permet de centraliser toutes tes automatisations, ta comptabilité av…",
           "date": "2026-11-09",
           "views": null,
-          "likes": 2015,
-          "comments": 3647,
+          "likes": 2060,
+          "comments": 3711,
           "shares": null,
           "type": "reel",
-          "ratio": 1.44
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfNziHmoPLn",
-          "caption": "En 2026, l’IA est de partout, et j’ai trouvé que c’est intéressant de sensibiliser du monde sur comment on peut réutiliser n’importe quelle photo et l’éditer avec l’intelligence artificielle. Alors, j’ai trouvé cet outi…",
-          "date": "2026-11-01",
-          "views": null,
-          "likes": 1295,
-          "comments": 423,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.92
+          "ratio": 1.47
         },
         {
           "url": "https://www.instagram.com/reel/DfVC2hUIEOB",
           "caption": "Un rapport d'un des plus gros fonds d'investissement de la Silicon Valley, A16Z, explique les 100 applications IA les plus utilisées. Et crois-moi, il faut que tu y prête attention #higgsfieldcreator @higgsfield.ai (Col…",
           "date": "2026-11-04",
           "views": null,
-          "likes": 1290,
-          "comments": 1176,
+          "likes": 1293,
+          "comments": 1178,
           "shares": null,
           "type": "reel",
           "ratio": 0.92
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfYD2R7oc2b",
+          "caption": "Voici un outil qui permet de trouver où ton pseudo traîne parmi plus de 400 sites, afin de pouvoir trouver les informations qui traînent sur toi… :) #ai #osint #tools",
+          "date": "2026-11-05",
+          "views": null,
+          "likes": 6922,
+          "comments": 1826,
+          "shares": null,
+          "type": "reel",
+          "ratio": 4.93
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfurOw4o1YT",
+          "caption": "Des scientifiques ont entraîné une IA qui écoute ton clavier pour deviner ton mot de passe, avec à 95 % de taux de réussite (oui oui, juste avec le son) Et je t’explique comment ils ont fait en une vidéo :) #hack #ai",
+          "date": "2026-11-14",
+          "views": null,
+          "likes": 900,
+          "comments": 177,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.64
+        },
+        {
+          "url": "https://www.instagram.com/reel/Df0LS59oOb2",
+          "caption": "Le youtuber Colsto nous a prouvé, dans une vidéo de 30 minutes, comment il était possible de trouver ta position à partir du son de ta vidéo et des avions au-dessus de toi. Et ça, même si toi dans la vidéo, tu n'entends…",
+          "date": "2026-11-16",
+          "views": null,
+          "likes": 643,
+          "comments": 49,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.46
         }
       ]
     },
@@ -884,118 +883,118 @@
       "handle": "juicelab.uiux",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
-      "median": 199.5,
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 187.5,
       "posts": [
         {
-          "url": "https://www.instagram.com/reel/Df2Iu-DS3nN",
-          "caption": "A website should do more than look good. It should create an experience worth remembering. Introducing RIDE, a premium automotive landing page concept brought to life through motion, immersive visuals, and refined inter…",
-          "date": "2026-11-17",
+          "url": "https://www.instagram.com/p/DfZqckAmd0e",
+          "caption": "Money management should feel effortless, not overwhelming. 💳 Introducing a modern finance dashboard concept designed to make every transaction, card, and financial insight feel clear and accessible. Clean interface. Sma…",
+          "date": "2026-11-06",
           "views": null,
-          "likes": 75,
-          "comments": 22,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.38
-        },
-        {
-          "url": "https://www.instagram.com/p/DcQ-9vOElTy",
-          "caption": "Travel planning, reimagined with AI. A smarter travel experience designed to make discovering destinations, building itineraries, and planning every detail feel effortless. From inspiration to the final trip, everything…",
-          "date": "2026-08-20",
-          "views": null,
-          "likes": 1011,
+          "likes": 1368,
           "comments": 47,
           "shares": null,
           "type": "carousel",
-          "ratio": 5.07
-        },
-        {
-          "url": "https://www.instagram.com/p/DfpLqEvmatW",
-          "caption": "A law firm doesn’t just manage cases. It manages trust, time, and people’s futures. Meet Aurelis — a legal dashboard concept designed to make complex firm operations feel effortless. From real-time case insights to an A…",
-          "date": "2026-11-12",
-          "views": null,
-          "likes": 811,
-          "comments": 52,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 4.07
-        },
-        {
-          "url": "https://www.instagram.com/p/DcvzsyPEhy8",
-          "caption": "Finance, made beautifully simple. A refined fintech experience focused on effortless payments, smarter card management, and seamless money movement. Designed to make everyday banking feel simpler, faster, and more intui…",
-          "date": "2026-09-01",
-          "views": null,
-          "likes": 1929,
-          "comments": 97,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 9.67
+          "ratio": 7.3
         },
         {
           "url": "https://www.instagram.com/p/DfxDlj1kuH7",
           "caption": "Logistics moves fast. Your operations should move smarter. Meet MOVENTRA, a modern logistics management dashboard concept designed to bring shipment tracking, fleet activity, load distribution, and dispatch operations i…",
           "date": "2026-11-15",
           "views": null,
-          "likes": 151,
+          "likes": 168,
           "comments": 36,
           "shares": null,
           "type": "carousel",
-          "ratio": 0.76
-        },
-        {
-          "url": "https://www.instagram.com/p/DfzaqmZEjbf",
-          "caption": "Shopping should feel effortless. Finding the right product should feel even better. Introducing a clean e-commerce app concept designed to make product discovery, personalized shopping, and checkout feel seamless. From …",
-          "date": "2026-11-16",
-          "views": null,
-          "likes": 113,
-          "comments": 34,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 0.57
-        },
-        {
-          "url": "https://www.instagram.com/p/DfuU709kkhd",
-          "caption": "Style is more than what you wear. It’s how you express who you are. Introducing FORME, a fashion brand website concept built around modern menswear, editorial storytelling, and timeless minimalism. From immersive visual…",
-          "date": "2026-11-14",
-          "views": null,
-          "likes": 205,
-          "comments": 36,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 1.03
-        },
-        {
-          "url": "https://www.instagram.com/p/Dfrsyk-ktSM",
-          "caption": "Travel planning should feel like an adventure, not another task. Meet a new AI-powered travel app concept designed to make discovering destinations, finding stays, booking flights, and planning your next getaway feel ef…",
-          "date": "2026-11-13",
-          "views": null,
-          "likes": 194,
-          "comments": 41,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 0.97
+          "ratio": 0.9
         },
         {
           "url": "https://www.instagram.com/p/Df4kQi6kqij",
           "caption": "A smarter way to manage clients, matters, and legal operations. ⚖️ Introducing AURELIS, a premium legal management dashboard designed to bring clarity, structure, and efficiency to complex workflows. Elegant interface. …",
           "date": "2026-11-18",
           "views": null,
-          "likes": 16,
-          "comments": 7,
+          "likes": 77,
+          "comments": 18,
           "shares": null,
           "type": "carousel",
-          "ratio": 0.08
+          "ratio": 0.41
         },
         {
-          "url": "https://www.instagram.com/p/DfZqckAmd0e",
-          "caption": "Money management should feel effortless, not overwhelming. 💳 Introducing a modern finance dashboard concept designed to make every transaction, card, and financial insight feel clear and accessible. Clean interface. Sma…",
-          "date": "2026-11-06",
+          "url": "https://www.instagram.com/p/DfuU709kkhd",
+          "caption": "Style is more than what you wear. It’s how you express who you are. Introducing FORME, a fashion brand website concept built around modern menswear, editorial storytelling, and timeless minimalism. From immersive visual…",
+          "date": "2026-11-14",
           "views": null,
-          "likes": 1310,
+          "likes": 222,
+          "comments": 37,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 1.18
+        },
+        {
+          "url": "https://www.instagram.com/reel/Df2Iu-DS3nN",
+          "caption": "A website should do more than look good. It should create an experience worth remembering. Introducing RIDE, a premium automotive landing page concept brought to life through motion, immersive visuals, and refined inter…",
+          "date": "2026-11-17",
+          "views": null,
+          "likes": 82,
+          "comments": 22,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.44
+        },
+        {
+          "url": "https://www.instagram.com/p/Df7OIz4kpet",
+          "caption": "Better habits. Deeper insights. A healthier everyday routine. ✦ Introducing a dark mode wellness app concept designed to bring fitness, sleep, heart health, and daily activity into one seamless experience. From intuitiv…",
+          "date": "2026-11-19",
+          "views": null,
+          "likes": 19,
+          "comments": 2,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 0.1
+        },
+        {
+          "url": "https://www.instagram.com/p/DcvzsyPEhy8",
+          "caption": "Finance, made beautifully simple. A refined fintech experience focused on effortless payments, smarter card management, and seamless money movement. Designed to make everyday banking feel simpler, faster, and more intui…",
+          "date": "2026-09-01",
+          "views": null,
+          "likes": 1931,
+          "comments": 97,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 10.3
+        },
+        {
+          "url": "https://www.instagram.com/p/DcQ-9vOElTy",
+          "caption": "Travel planning, reimagined with AI. A smarter travel experience designed to make discovering destinations, building itineraries, and planning every detail feel effortless. From inspiration to the final trip, everything…",
+          "date": "2026-08-20",
+          "views": null,
+          "likes": 1010,
           "comments": 47,
           "shares": null,
           "type": "carousel",
-          "ratio": 6.57
+          "ratio": 5.39
+        },
+        {
+          "url": "https://www.instagram.com/p/DfzaqmZEjbf",
+          "caption": "Shopping should feel effortless. Finding the right product should feel even better. Introducing a clean e-commerce app concept designed to make product discovery, personalized shopping, and checkout feel seamless. From …",
+          "date": "2026-11-16",
+          "views": null,
+          "likes": 120,
+          "comments": 35,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 0.64
+        },
+        {
+          "url": "https://www.instagram.com/p/Dfrsyk-ktSM",
+          "caption": "Travel planning should feel like an adventure, not another task. Meet a new AI-powered travel app concept designed to make discovering destinations, finding stays, booking flights, and planning your next getaway feel ef…",
+          "date": "2026-11-13",
+          "views": null,
+          "likes": 207,
+          "comments": 42,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 1.1
         }
       ]
     },
@@ -1004,63 +1003,30 @@
       "handle": "khushidotjpeg",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
-      "median": 107.5,
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 113.0,
       "posts": [
-        {
-          "url": "https://www.instagram.com/reel/Dfjqm_ZOtCb",
-          "caption": "easy figma gradients pt.1 🎨 the simple way to make a gradient that doesn’t look default. no plugins, no fancy tricks, just the basics done properly. pt.2 is coming soon, so follow along if you want the next part. save t…",
-          "date": "2026-11-10",
-          "views": null,
-          "likes": 737,
-          "comments": 8,
-          "shares": null,
-          "type": "reel",
-          "ratio": 6.86
-        },
         {
           "url": "https://www.instagram.com/reel/Dfw5HuwxH7x",
           "caption": "gradients in figma just make everything look 10x better ✨ here’s a simple gradient tutorial to add more depth and personality to your designs. save this for your next design project! [figma, gradient tutorial, figma tip…",
           "date": "2026-11-15",
           "views": null,
-          "likes": 110,
-          "comments": 0,
+          "likes": 111,
+          "comments": 1,
           "shares": null,
           "type": "reel",
-          "ratio": 1.02
+          "ratio": 0.98
         },
         {
-          "url": "https://www.instagram.com/p/DfhWCK4DshJ",
-          "caption": "duolingo’s tabs worked fine. so why did they redesign them? swipe for the lesson i’m taking from it. which do you break more: consistency or clarity? source: duolingo blog, “elevating craft: how we refreshed our core ta…",
-          "date": "2026-11-09",
+          "url": "https://www.instagram.com/reel/DfSDLb7OBoO",
+          "caption": "if i had to start my ux design journey all over again, these are the resources i’d start with 🫶🏻 from learning design principles to understanding ux psychology and practising ui design, bookmark these sites for your jou…",
+          "date": "2026-11-03",
           "views": null,
-          "likes": 96,
-          "comments": 2,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 0.89
-        },
-        {
-          "url": "https://www.instagram.com/p/Dfr-bUnjhEC",
-          "caption": "the ux job market in 2026 isn’t “designer vs ai.” it’s one role splitting into three. which one are you aiming for? 👇 carousel slides listing three ux roles in 2026: design engineer, design system specialist, and ux str…",
-          "date": "2026-11-13",
-          "views": null,
-          "likes": 270,
-          "comments": 5,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 2.51
-        },
-        {
-          "url": "https://www.instagram.com/reel/Df4nJDQudnW",
-          "caption": "found a library that makes my designs stop looking generic. templates, 3d, shaders, textures, all in one place. go explore it at horizonx.so @horizonx.so #horizonx #webdesign #uidesign #vibecoding #designinspiration",
-          "date": "2026-11-18",
-          "views": null,
-          "likes": 10,
-          "comments": 4,
+          "likes": 485,
+          "comments": 25,
           "shares": null,
           "type": "reel",
-          "ratio": 0.09
+          "ratio": 4.29
         },
         {
           "url": "https://www.instagram.com/reel/Dd1fzyUuc4Y",
@@ -1071,18 +1037,73 @@
           "comments": 5,
           "shares": null,
           "type": "reel",
-          "ratio": 0.98
+          "ratio": 0.93
         },
         {
-          "url": "https://www.instagram.com/reel/DfSDLb7OBoO",
-          "caption": "if i had to start my ux design journey all over again, these are the resources i’d start with 🫶🏻 from learning design principles to understanding ux psychology and practising ui design, bookmark these sites for your jou…",
-          "date": "2026-11-03",
+          "url": "https://www.instagram.com/reel/Df7GndUxSa5",
+          "caption": "AI is not taking your UX job… but the way some of us approach a design problem might be a bigger threat 😭 the real designer superpower isn’t just knowing how to use AI or Figma. it’s understanding people, solving proble…",
+          "date": "2026-11-19",
           "views": null,
-          "likes": 483,
-          "comments": 24,
+          "likes": 115,
+          "comments": 2,
           "shares": null,
           "type": "reel",
-          "ratio": 4.49
+          "ratio": 1.02
+        },
+        {
+          "url": "https://www.instagram.com/reel/Df4nJDQudnW",
+          "caption": "found a library that makes my designs stop looking generic. templates, 3d, shaders, textures, all in one place. go explore it at horizonx.so @horizonx.so #horizonx #webdesign #uidesign #vibecoding #designinspiration",
+          "date": "2026-11-18",
+          "views": null,
+          "likes": 86,
+          "comments": 9,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.76
+        },
+        {
+          "url": "https://www.instagram.com/p/DfXLcuPDoJX",
+          "caption": "Your design stack might be holding you back. 👀 I rounded up 4 of the best UX/UI design tools for 2026 to help designers work faster, collaborate better, and ship cleaner work. From prototyping and wireframing tools to A…",
+          "date": "2026-11-05",
+          "views": null,
+          "likes": 346,
+          "comments": 13,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 3.06
+        },
+        {
+          "url": "https://www.instagram.com/reel/Dfjqm_ZOtCb",
+          "caption": "easy figma gradients pt.1 🎨 the simple way to make a gradient that doesn’t look default. no plugins, no fancy tricks, just the basics done properly. pt.2 is coming soon, so follow along if you want the next part. save t…",
+          "date": "2026-11-10",
+          "views": null,
+          "likes": 742,
+          "comments": 8,
+          "shares": null,
+          "type": "reel",
+          "ratio": 6.57
+        },
+        {
+          "url": "https://www.instagram.com/p/Dfr-bUnjhEC",
+          "caption": "the ux job market in 2026 isn’t “designer vs ai.” it’s one role splitting into three. which one are you aiming for? 👇 carousel slides listing three ux roles in 2026: design engineer, design system specialist, and ux str…",
+          "date": "2026-11-13",
+          "views": null,
+          "likes": 289,
+          "comments": 5,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 2.56
+        },
+        {
+          "url": "https://www.instagram.com/p/DfhWCK4DshJ",
+          "caption": "duolingo’s tabs worked fine. so why did they redesign them? swipe for the lesson i’m taking from it. which do you break more: consistency or clarity? source: duolingo blog, “elevating craft: how we refreshed our core ta…",
+          "date": "2026-11-09",
+          "views": null,
+          "likes": 102,
+          "comments": 2,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 0.9
         },
         {
           "url": "https://www.instagram.com/p/Det3xe3jsRN",
@@ -1093,29 +1114,7 @@
           "comments": 2,
           "shares": null,
           "type": "carousel",
-          "ratio": 0.73
-        },
-        {
-          "url": "https://www.instagram.com/reel/DdWXiqeOK_z",
-          "caption": "CHECK OUT THE LINK IN BIO because this might be the easiest way to make presentations 👀 plus ai turns your ideas into polished slides without spending hours designing them. if you’re still making every slide from scratc…",
-          "date": "2026-09-16",
-          "views": null,
-          "likes": 35,
-          "comments": 14,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.33
-        },
-        {
-          "url": "https://www.instagram.com/p/DfXLcuPDoJX",
-          "caption": "Your design stack might be holding you back. 👀 I rounded up 4 of the best UX/UI design tools for 2026 to help designers work faster, collaborate better, and ship cleaner work. From prototyping and wireframing tools to A…",
-          "date": "2026-11-05",
-          "views": null,
-          "likes": 332,
-          "comments": 13,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 3.09
+          "ratio": 0.7
         }
       ]
     },
@@ -1124,63 +1123,96 @@
       "handle": "meshtimes",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
-      "median": 4466,
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 4474,
       "posts": [
         {
-          "url": "https://www.instagram.com/reel/DfTH9uMtZSm",
-          "caption": "my first time designing my first app on my Meta Ray-Ban Display!! 🥹♡ meet questie, a game i made for Meta Ray-Ban Display that turns my everyday to-do list into side quests! #ad i started with some sketches, designed th…",
-          "date": "2026-11-04",
+          "url": "https://www.instagram.com/reel/DemXQipNGml",
+          "caption": "sprinkle hair clip for sprinkle emergencies",
+          "date": "2026-10-17",
           "views": null,
-          "likes": 4172,
-          "comments": 89,
+          "likes": 5207,
+          "comments": 47,
           "shares": null,
           "type": "reel",
-          "ratio": 0.93
+          "ratio": 1.16
         },
         {
-          "url": "https://www.instagram.com/reel/DfK4hBDRsPg",
-          "caption": "dressed up as my least favorite chores for halloween",
+          "url": "https://www.instagram.com/reel/DfI7C77NV7O",
+          "caption": "#redkenpartner my personality is directly linked to my hair unfortunately. thank u @redken ♡ been loving the “redken acidic cleansing mist” for refreshing my day 3 hair without having to wash it. now accepting human int…",
           "date": "2026-10-31",
           "views": null,
-          "likes": 4466,
-          "comments": 22,
+          "likes": 1294,
+          "comments": 14,
           "shares": null,
           "type": "reel",
-          "ratio": 1.0
-        },
-        {
-          "url": "https://www.instagram.com/p/DabGMAylT8n",
-          "caption": "currently playing: my brain",
-          "date": "2026-07-05",
-          "views": null,
-          "likes": 14816,
-          "comments": 178,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 3.32
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfnEUR7toXd",
-          "caption": "the doors are open!! 🎄 this year’s advent calendar is live ♡ i can’t believe we’re on year 3 already 🥹 in 2024, it started as a little figma template. in 2025, we got a whole website with an editor, timezone, locking an…",
-          "date": "2026-11-11",
-          "views": null,
-          "likes": 37209,
-          "comments": 6372,
-          "shares": null,
-          "type": "reel",
-          "ratio": 8.33
+          "ratio": 0.29
         },
         {
           "url": "https://www.instagram.com/reel/DfDnGQWtf9B",
           "caption": "made a little ipod cover inspired by all the things that remind me of home!! just everyday objects 🇹🇭 a lottery ticket, the little silver bowl we use during songkran, a plastic stool you see everywhere, mosquito coils, …",
           "date": "2026-10-28",
           "views": null,
-          "likes": 3702,
+          "likes": 3714,
           "comments": 47,
           "shares": null,
           "type": "reel",
           "ratio": 0.83
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfTH9uMtZSm",
+          "caption": "my first time designing my first app on my Meta Ray-Ban Display!! 🥹♡ meet questie, a game i made for Meta Ray-Ban Display that turns my everyday to-do list into side quests! #ad i started with some sketches, designed th…",
+          "date": "2026-11-04",
+          "views": null,
+          "likes": 4213,
+          "comments": 92,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.94
+        },
+        {
+          "url": "https://www.instagram.com/reel/Df5VcH3tVYR",
+          "caption": "three christmases, three versions of my little advent calendar app!! 🎄 what started as a prototype in 2024 has slowly turned into a fully functioning web app where anyone can create a personalized advent calendar for so…",
+          "date": "2026-11-18",
+          "views": null,
+          "likes": 758,
+          "comments": 11,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.17
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfK4hBDRsPg",
+          "caption": "dressed up as my least favorite chores for halloween",
+          "date": "2026-10-31",
+          "views": null,
+          "likes": 4474,
+          "comments": 22,
+          "shares": null,
+          "type": "reel",
+          "ratio": 1.0
+        },
+        {
+          "url": "https://www.instagram.com/p/De1qr7gFUkY",
+          "caption": "everyone has an apple phone but no phone has a banana phone!!! made @by.laurence it can call, text, play snake game (?)",
+          "date": "2026-10-23",
+          "views": null,
+          "likes": 6491,
+          "comments": 44,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 1.45
+        },
+        {
+          "url": "https://www.instagram.com/p/DabGMAylT8n",
+          "caption": "currently playing: my brain",
+          "date": "2026-07-05",
+          "views": null,
+          "likes": 14820,
+          "comments": 178,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 3.31
         },
         {
           "url": "https://www.instagram.com/p/DfFT0o_FTs8",
@@ -1194,26 +1226,15 @@
           "ratio": null
         },
         {
-          "url": "https://www.instagram.com/reel/DfI7C77NV7O",
-          "caption": "#redkenpartner my personality is directly linked to my hair unfortunately. thank u @redken ♡ been loving the “redken acidic cleansing mist” for refreshing my day 3 hair without having to wash it. now accepting human int…",
-          "date": "2026-10-31",
+          "url": "https://www.instagram.com/reel/DfnEUR7toXd",
+          "caption": "the doors are open!! 🎄 this year’s advent calendar is live ♡ i can’t believe we’re on year 3 already 🥹 in 2024, it started as a little figma template. in 2025, we got a whole website with an editor, timezone, locking an…",
+          "date": "2026-11-11",
           "views": null,
-          "likes": 1282,
-          "comments": 14,
+          "likes": 37506,
+          "comments": 6437,
           "shares": null,
           "type": "reel",
-          "ratio": 0.29
-        },
-        {
-          "url": "https://www.instagram.com/reel/DemXQipNGml",
-          "caption": "sprinkle hair clip for sprinkle emergencies",
-          "date": "2026-10-17",
-          "views": null,
-          "likes": 5199,
-          "comments": 47,
-          "shares": null,
-          "type": "reel",
-          "ratio": 1.16
+          "ratio": 8.38
         }
       ]
     },
@@ -1222,52 +1243,52 @@
       "handle": "the.bohdana",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
-      "median": 250.5,
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 255.0,
       "posts": [
         {
-          "url": "https://www.instagram.com/reel/DfVCEJxpqL2",
-          "caption": "#ad tried Claude Design for the first time this week and i’m kind of obsessed. it’s still in beta, but the output was way cleaner than i expected!! if you’ve been curious to try it— link in bio! @claudeai",
-          "date": "2026-11-04",
+          "url": "https://www.instagram.com/reel/Dfyhp5LxX87",
+          "caption": "design portfolios i’m saving🤍 #productdesign #portfolio",
+          "date": "2026-11-16",
           "views": null,
-          "likes": 120,
-          "comments": 15,
+          "likes": 174,
+          "comments": 5,
           "shares": null,
           "type": "reel",
-          "ratio": 0.48
+          "ratio": 0.68
         },
         {
-          "url": "https://www.instagram.com/p/DVY_NRREdWd",
-          "caption": "a quick intro👋 pov: you moved countries, changed directions, got rejected 200 times, and somehow still ended up in ux🤍 i’m here to help other designers navigate this chaotic industry, let’s be friends!! #uxdesigners #pr…",
-          "date": "2026-03-02",
+          "url": "https://www.instagram.com/reel/Df47xf1R5nr",
+          "caption": "once i blew three dream design jobs at the whiteboarding round—not from a lack of skill, but because i didn’t practise😭 so i built the mock-interview tool i wish i had with @replit would you use this? grab $10 in Replit…",
+          "date": "2026-11-18",
           "views": null,
-          "likes": 248,
-          "comments": 64,
+          "likes": 88,
+          "comments": 8,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.35
+        },
+        {
+          "url": "https://www.instagram.com/p/Dfm8MFtEc4v",
+          "caption": "why your vibe coded portfolio looks generic😬 #portfolio",
+          "date": "2026-11-11",
+          "views": null,
+          "likes": 262,
+          "comments": 12,
           "shares": null,
           "type": "carousel",
-          "ratio": 0.99
+          "ratio": 1.03
         },
         {
-          "url": "https://www.instagram.com/p/DfAN7p7EatQ",
-          "caption": "which model to use when vibe coding your portfolio👀 #portfolio #productdesign",
-          "date": "2026-10-27",
+          "url": "https://www.instagram.com/reel/DfOJjfDRuIR",
+          "caption": "everyone thinks you need a developer and months of work to build a portfolio in 2026. the actual build took me ~10 hours. here’s how, including what failed 👇 before any code: → analysed ~100 portfolios to see what’s act…",
+          "date": "2026-11-02",
           "views": null,
-          "likes": 614,
+          "likes": 471,
           "comments": 14,
           "shares": null,
-          "type": "carousel",
-          "ratio": 2.45
-        },
-        {
-          "url": "https://www.instagram.com/reel/DezYTG9x4nJ",
-          "caption": "unrealistic wishlist as product designer in 2026😭 ipad pro by @helloapple the gather bag by @songmont_official art by @olhachykalo photoshoot by @szilvesztermako wassily chair by marcel breuer",
-          "date": "2026-10-22",
-          "views": null,
-          "likes": 83,
-          "comments": 4,
-          "shares": null,
           "type": "reel",
-          "ratio": 0.33
+          "ratio": 1.85
         },
         {
           "url": "https://www.instagram.com/reel/De4RqatxkYz",
@@ -1278,62 +1299,62 @@
           "comments": 13,
           "shares": null,
           "type": "reel",
-          "ratio": 0.93
+          "ratio": 0.91
         },
         {
-          "url": "https://www.instagram.com/reel/DfgY0w0xCBC",
-          "caption": "not designers are welcome as well🫶🏻 #productdesign #portfolio",
-          "date": "2026-11-09",
+          "url": "https://www.instagram.com/reel/DfVCEJxpqL2",
+          "caption": "#ad tried Claude Design for the first time this week and i’m kind of obsessed. it’s still in beta, but the output was way cleaner than i expected!! if you’ve been curious to try it— link in bio! @claudeai",
+          "date": "2026-11-04",
           "views": null,
-          "likes": 268,
-          "comments": 14,
+          "likes": 120,
+          "comments": 15,
           "shares": null,
           "type": "reel",
-          "ratio": 1.07
+          "ratio": 0.47
+        },
+        {
+          "url": "https://www.instagram.com/p/DfAN7p7EatQ",
+          "caption": "which model to use when vibe coding your portfolio👀 #portfolio #productdesign",
+          "date": "2026-10-27",
+          "views": null,
+          "likes": 614,
+          "comments": 14,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 2.41
         },
         {
           "url": "https://www.instagram.com/p/DfaHiflEUJa",
           "caption": "fun design portfolios i found this month👀 #productdesign #portfolio",
           "date": "2026-11-06",
           "views": null,
-          "likes": 454,
+          "likes": 458,
           "comments": 15,
           "shares": null,
           "type": "carousel",
-          "ratio": 1.81
+          "ratio": 1.8
         },
         {
-          "url": "https://www.instagram.com/reel/DfOJjfDRuIR",
-          "caption": "everyone thinks you need a developer and months of work to build a portfolio in 2026. the actual build took me ~10 hours. here’s how, including what failed 👇 before any code: → analysed ~100 portfolios to see what’s act…",
-          "date": "2026-11-02",
+          "url": "https://www.instagram.com/p/DVY_NRREdWd",
+          "caption": "a quick intro👋 pov: you moved countries, changed directions, got rejected 200 times, and somehow still ended up in ux🤍 i’m here to help other designers navigate this chaotic industry, let’s be friends!! #uxdesigners #pr…",
+          "date": "2026-03-02",
           "views": null,
-          "likes": 467,
+          "likes": 248,
+          "comments": 64,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 0.97
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfgY0w0xCBC",
+          "caption": "not designers are welcome as well🫶🏻 #productdesign #portfolio",
+          "date": "2026-11-09",
+          "views": null,
+          "likes": 272,
           "comments": 14,
           "shares": null,
           "type": "reel",
-          "ratio": 1.86
-        },
-        {
-          "url": "https://www.instagram.com/p/Dfm8MFtEc4v",
-          "caption": "why your vibe coded portfolio looks generic😬 #portfolio",
-          "date": "2026-11-11",
-          "views": null,
-          "likes": 253,
-          "comments": 12,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 1.01
-        },
-        {
-          "url": "https://www.instagram.com/reel/Dfyhp5LxX87",
-          "caption": "design portfolios i’m saving🤍 #productdesign #portfolio",
-          "date": "2026-11-16",
-          "views": null,
-          "likes": 163,
-          "comments": 5,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.65
+          "ratio": 1.07
         }
       ]
     },
@@ -1342,9 +1363,20 @@
       "handle": "heigijeong",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
-      "median": 1643.5,
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 1702.5,
       "posts": [
+        {
+          "url": "https://www.instagram.com/p/Df2f5dTmlv4",
+          "caption": "I remember how overwhelming it was when I first started my career. And this is everything I wish someone told me back then 🥹 I always wanted a younger sibling I can pass down all the life lessons to. Would you want to b…",
+          "date": "2026-11-17",
+          "views": null,
+          "likes": 1367,
+          "comments": 16,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 0.8
+        },
         {
           "url": "https://www.instagram.com/reel/DehDTXOR_jz",
           "caption": "“Should I actually quit?🤔” If you thought about it, don’t leave your job just yet. Ask these seven questions first so you know if you’re ready Comment QUITTING and I’ll send you my guide #careerpivot #careeradvice",
@@ -1354,73 +1386,84 @@
           "comments": 107,
           "shares": null,
           "type": "reel",
-          "ratio": 0.32
-        },
-        {
-          "url": "https://www.instagram.com/p/Df2f5dTmlv4",
-          "caption": "I remember how overwhelming it was when I first started my career. And this is everything I wish someone told me back then 🥹 I always wanted a younger sibling I can pass down all the life lessons to. Would you want to b…",
-          "date": "2026-11-17",
-          "views": null,
-          "likes": 1083,
-          "comments": 14,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 0.66
+          "ratio": 0.31
         },
         {
           "url": "https://www.instagram.com/reel/DfHr5G3xHVM",
           "caption": "New macbook pro is becoming available in a week but I saved 1k by getting mac mini instead 💫 The new model came out last month with m6 chip #desksetup @apple @helloapple",
           "date": "2026-10-30",
           "views": null,
-          "likes": 1537,
+          "likes": 1555,
           "comments": 27,
           "shares": null,
           "type": "reel",
-          "ratio": 0.94
-        },
-        {
-          "url": "https://www.instagram.com/p/DeoxeJoERDT",
-          "caption": "What if it’s all just a WASTE OF TIME? I used to question this constantly every time I pivoted. But here’s the truth: trying never gets wasted. You always leave with a lesson either tough or beautiful. So let’s flip the…",
-          "date": "2026-10-18",
-          "views": null,
-          "likes": 4812,
-          "comments": 71,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 2.93
+          "ratio": 0.91
         },
         {
           "url": "https://www.instagram.com/p/DfSJc2bFh7x",
           "caption": "now tell me the best thing you got for your setup on a tiny budget 👉👈 wrist rest: amazon linked in bio desk mat: ysagi amazon (linked in bio) shelf: ikea burhult / sibbhult portable charger: anker nano power bank (linke…",
           "date": "2026-11-03",
           "views": null,
-          "likes": 2892,
+          "likes": 2898,
           "comments": 32,
           "shares": null,
           "type": "carousel",
-          "ratio": 1.76
+          "ratio": 1.7
         },
         {
           "url": "https://www.instagram.com/p/DfmuPJ3FioY",
           "caption": "If you want to quit your job or are seriously considering it, this post is for you. My favourite question is the last one & I always ask it to myself whenever I have to make a big decision. ✨comment READ to access the f…",
           "date": "2026-11-11",
           "views": null,
-          "likes": 1750,
-          "comments": 139,
+          "likes": 1829,
+          "comments": 143,
           "shares": null,
           "type": "carousel",
-          "ratio": 1.06
+          "ratio": 1.07
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfZ6iSFCJWn",
+          "caption": "If you can’t stop thinking about quitting, you should read these two books. They saved me when I was going through my career crisis 🥹 #bookrecs",
+          "date": "2026-11-06",
+          "views": null,
+          "likes": 5825,
+          "comments": 30,
+          "shares": null,
+          "type": "reel",
+          "ratio": 3.42
         },
         {
           "url": "https://www.instagram.com/p/DYj9PtkFmtY",
           "caption": "Ahhhhh I hit my first anniversary of content creation 🥹🥹🥹 I started it, thinking nobody would watch it and indeed no one did at first LOL So I decided to make 100 videos then judge whether I should keep going or not. It…",
           "date": "2026-05-20",
           "views": null,
-          "likes": 11875,
-          "comments": 142,
+          "likes": 11878,
+          "comments": 143,
           "shares": null,
           "type": "carousel",
-          "ratio": 7.23
+          "ratio": 6.98
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfxAXyRCVBe",
+          "caption": "If you want to fast-track your career, 2027 is going to be a rare window. 71% of leaders said they’d rather hire a less experienced person who knows how to use AI than a more experienced person without AI skills. Free r…",
+          "date": "2026-11-15",
+          "views": null,
+          "likes": 1576,
+          "comments": 824,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.93
+        },
+        {
+          "url": "https://www.instagram.com/p/DeoxeJoERDT",
+          "caption": "What if it’s all just a WASTE OF TIME? I used to question this constantly every time I pivoted. But here’s the truth: trying never gets wasted. You always leave with a lesson either tough or beautiful. So let’s flip the…",
+          "date": "2026-10-18",
+          "views": null,
+          "likes": 4815,
+          "comments": 71,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 2.83
         },
         {
           "url": "https://www.instagram.com/p/De4UlyukQCa",
@@ -1431,29 +1474,7 @@
           "comments": 16,
           "shares": null,
           "type": "carousel",
-          "ratio": 0.78
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfxAXyRCVBe",
-          "caption": "If you want to fast-track your career, 2027 is going to be a rare window. 71% of leaders said they’d rather hire a less experienced person who knows how to use AI than a more experienced person without AI skills. Free r…",
-          "date": "2026-11-15",
-          "views": null,
-          "likes": 1515,
-          "comments": 788,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.92
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfZ6iSFCJWn",
-          "caption": "If you can’t stop thinking about quitting, you should read these two books. They saved me when I was going through my career crisis 🥹 #bookrecs",
-          "date": "2026-11-06",
-          "views": null,
-          "likes": 5746,
-          "comments": 30,
-          "shares": null,
-          "type": "reel",
-          "ratio": 3.5
+          "ratio": 0.75
         }
       ]
     },
@@ -1462,74 +1483,41 @@
       "handle": "maggieindata",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
+      "fetched_at": "2026-11-19T14:25:58Z",
       "median": 182,
       "posts": [
         {
-          "url": "https://www.instagram.com/reel/DfhnX2SgQ6w",
-          "caption": "In North America, AI is commonly used for productivity for a specific group of people. But in China, AI is deeply integrated into regular people’s everyday lives. This is one of my biggest takeaway yet on my trip to Chi…",
+          "url": "https://www.instagram.com/reel/DfhQrTQAioG",
+          "caption": "Use this UCI online retail dataset for your next data science portfolio project in the retail and e-commerce industry! #datascience #dataproject #careerintech #dataanalytics",
           "date": "2026-11-09",
           "views": null,
-          "likes": 330,
-          "comments": 9,
+          "likes": 34,
+          "comments": 1,
           "shares": null,
           "type": "reel",
-          "ratio": 1.81
-        },
-        {
-          "url": "https://www.instagram.com/p/DWxijm3kWKI",
-          "caption": "Normalize outgrowing. Normalize wanting more. Normalize choosing yourself without guilt ✨ Staying where you’ve already outgrown yourself? That’s the real risk. If this hit… you already know it’s time 👀 Follow for real, …",
-          "date": "2026-04-06",
-          "views": null,
-          "likes": 7228,
-          "comments": 65,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 39.71
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfpP8YYA2Db",
-          "caption": "Will AI replace data scientists? This is what @microsoft VP of product marketing at Azure data has to say about how data analysts need to evolve with the ever changing market. #dataanalytics #ai #careerintech #womeninda…",
-          "date": "2026-11-12",
-          "views": null,
-          "likes": 281,
-          "comments": 2,
-          "shares": null,
-          "type": "reel",
-          "ratio": 1.54
-        },
-        {
-          "url": "https://www.instagram.com/reel/DYo_ujdxRKY",
-          "caption": "Comment CHAT and I’ll send you the link to try codex for yourself! #ChatGPT_Partner It is genuinely mindblowing how the future of AI assisted data analysis is already here with @openaidevs codex tool! An isochrone map l…",
-          "date": "2026-05-22",
-          "views": null,
-          "likes": 182,
-          "comments": 38,
-          "shares": null,
-          "type": "reel",
-          "ratio": 1.0
+          "ratio": 0.19
         },
         {
           "url": "https://www.instagram.com/reel/DfZ3WCkg13n",
           "caption": "‘Training someone how to use AI is a one day job’ from VP of SQL at @microsoft Would you think less of a data professional without AI experience? #dataanalytics #careerindata #datascience #womenintech",
           "date": "2026-11-06",
           "views": null,
-          "likes": 75,
+          "likes": 77,
           "comments": 0,
           "shares": null,
           "type": "reel",
-          "ratio": 0.41
+          "ratio": 0.42
         },
         {
-          "url": "https://www.instagram.com/p/DItwJWTuctx",
-          "caption": "Which one hit too close to home for you? The unspoken truth about how people feel working in tech but are not really talked about. I’ve experienced way too many times when company’s priorities suddenly shift and your pr…",
-          "date": "2025-04-21",
+          "url": "https://www.instagram.com/reel/Dfv9R3nA4DF",
+          "caption": "Ranking open source data for data science portfolio projects 🌟 The datasets mentioned here are all publicly available: 🛒 Open Prices dataset: grocery prices with product codes, store locations, dates, and discount infor…",
+          "date": "2026-11-15",
           "views": null,
-          "likes": 15161,
-          "comments": 173,
+          "likes": 135,
+          "comments": 0,
           "shares": null,
-          "type": "carousel",
-          "ratio": 83.3
+          "type": "reel",
+          "ratio": 0.74
         },
         {
           "url": "https://www.instagram.com/reel/Dfmy0TfA500",
@@ -1543,26 +1531,59 @@
           "ratio": 0.3
         },
         {
-          "url": "https://www.instagram.com/reel/Dfv9R3nA4DF",
-          "caption": "Ranking open source data for data science portfolio projects 🌟 The datasets mentioned here are all publicly available: 🛒 Open Prices dataset: grocery prices with product codes, store locations, dates, and discount infor…",
-          "date": "2026-11-15",
+          "url": "https://www.instagram.com/p/DItwJWTuctx",
+          "caption": "Which one hit too close to home for you? The unspoken truth about how people feel working in tech but are not really talked about. I’ve experienced way too many times when company’s priorities suddenly shift and your pr…",
+          "date": "2025-04-21",
           "views": null,
-          "likes": 129,
-          "comments": 0,
+          "likes": 15160,
+          "comments": 173,
           "shares": null,
-          "type": "reel",
-          "ratio": 0.71
+          "type": "carousel",
+          "ratio": 83.3
         },
         {
-          "url": "https://www.instagram.com/reel/DfhQrTQAioG",
-          "caption": "Use this UCI online retail dataset for your next data science portfolio project in the retail and e-commerce industry! #datascience #dataproject #careerintech #dataanalytics",
+          "url": "https://www.instagram.com/reel/DfhnX2SgQ6w",
+          "caption": "In North America, AI is commonly used for productivity for a specific group of people. But in China, AI is deeply integrated into regular people’s everyday lives. This is one of my biggest takeaway yet on my trip to Chi…",
           "date": "2026-11-09",
           "views": null,
-          "likes": 34,
-          "comments": 1,
+          "likes": 331,
+          "comments": 9,
           "shares": null,
           "type": "reel",
-          "ratio": 0.19
+          "ratio": 1.82
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfpP8YYA2Db",
+          "caption": "Will AI replace data scientists? This is what @microsoft VP of product marketing at Azure data has to say about how data analysts need to evolve with the ever changing market. #dataanalytics #ai #careerintech #womeninda…",
+          "date": "2026-11-12",
+          "views": null,
+          "likes": 289,
+          "comments": 2,
+          "shares": null,
+          "type": "reel",
+          "ratio": 1.59
+        },
+        {
+          "url": "https://www.instagram.com/reel/DYo_ujdxRKY",
+          "caption": "Comment CHAT and I’ll send you the link to try codex for yourself! #ChatGPT_Partner It is genuinely mindblowing how the future of AI assisted data analysis is already here with @openaidevs codex tool! An isochrone map l…",
+          "date": "2026-05-22",
+          "views": null,
+          "likes": 182,
+          "comments": 38,
+          "shares": null,
+          "type": "reel",
+          "ratio": 1.0
+        },
+        {
+          "url": "https://www.instagram.com/p/DWxijm3kWKI",
+          "caption": "Normalize outgrowing. Normalize wanting more. Normalize choosing yourself without guilt ✨ Staying where you’ve already outgrown yourself? That’s the real risk. If this hit… you already know it’s time 👀 Follow for real, …",
+          "date": "2026-04-06",
+          "views": null,
+          "likes": 7229,
+          "comments": 65,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 39.72
         }
       ]
     },
@@ -1571,30 +1592,30 @@
       "handle": "asia.does.uxui",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
-      "median": 278.5,
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 286,
       "posts": [
         {
-          "url": "https://www.instagram.com/reel/DfhngPvqr7R",
-          "caption": "my experimental portfolio projects ✨ every one of these started as an experimental portfolio. a rotary phone you dial to pick a page. paper you tear to enter the site. an airplane window you look through to see a galler…",
-          "date": "2026-11-09",
+          "url": "https://www.instagram.com/reel/DZsGBLnNCHA",
+          "caption": "and sharing everything I learn along the way ⭐️ At the start of 2026 I made myself a promise - to stop just designing apps in Figma and actually build them. One a month, every month, for the entire year. On top of that,…",
+          "date": "2026-06-17",
           "views": null,
-          "likes": 443,
-          "comments": 14,
+          "likes": 641,
+          "comments": 17,
           "shares": null,
           "type": "reel",
-          "ratio": 1.59
+          "ratio": 2.24
         },
         {
-          "url": "https://www.instagram.com/reel/De9ndFyqKgI",
-          "caption": "comment “FLORA” and I’ll send you a link to try it with a 30% discount on your first month! (code ASIA30) One of my favourite things about web design is creating experiences that go beyond a static page. I love when scr…",
-          "date": "2026-10-26",
+          "url": "https://www.instagram.com/reel/DfzlxNiKCOJ",
+          "caption": "comment „play” for 3 months free ✨ I made an app with tiny creative games to replace doomscrolling ✏️ You know that moment at the doctor’s office or in a queue somewhere where you just have a few minutes to spare and no…",
+          "date": "2026-11-16",
           "views": null,
-          "likes": null,
-          "comments": 28,
+          "likes": 97,
+          "comments": 31,
           "shares": null,
           "type": "reel",
-          "ratio": null
+          "ratio": 0.34
         },
         {
           "url": "https://www.instagram.com/reel/DfSGSqRKy9c",
@@ -1605,62 +1626,40 @@
           "comments": 21,
           "shares": null,
           "type": "reel",
-          "ratio": 1.0
+          "ratio": 0.98
         },
         {
-          "url": "https://www.instagram.com/reel/DfpR_NfK--1",
-          "caption": "I created these holographic stickers with peel effect and then built a game to decorate notebooks with them ✏️ It started as a sketch. here’s how they became a full sticker set and a little 3D notebook customizer, all f…",
-          "date": "2026-11-12",
+          "url": "https://www.instagram.com/reel/DfhngPvqr7R",
+          "caption": "my experimental portfolio projects ✨ every one of these started as an experimental portfolio. a rotary phone you dial to pick a page. paper you tear to enter the site. an airplane window you look through to see a galler…",
+          "date": "2026-11-09",
           "views": null,
-          "likes": 278,
-          "comments": 18,
+          "likes": 451,
+          "comments": 14,
           "shares": null,
           "type": "reel",
-          "ratio": 1.0
-        },
-        {
-          "url": "https://www.instagram.com/reel/De1t6fLqRGQ",
-          "caption": "comment „steps” and I’ll send you in depth tutorial built with @replit I built an app that suggest Halloween costumes for your friends! Answer a few questions about them and get a personalized result. This is app 10 in …",
-          "date": "2026-10-23",
-          "views": null,
-          "likes": null,
-          "comments": 34,
-          "shares": null,
-          "type": "reel",
-          "ratio": null
+          "ratio": 1.58
         },
         {
           "url": "https://www.instagram.com/p/DfZ9ubCiu1n",
           "caption": "I wanted to turn a collapsing paper cube into a way of entering a portfolio. So I made a seamless floral paper, a lighter version for the outside and a darker green one for the inside, mocked the key frames, and vibecod…",
           "date": "2026-11-06",
           "views": null,
-          "likes": 320,
-          "comments": 13,
+          "likes": 330,
+          "comments": 14,
           "shares": null,
           "type": "carousel",
           "ratio": 1.15
         },
         {
-          "url": "https://www.instagram.com/reel/DfzlxNiKCOJ",
-          "caption": "comment „play” for 3 months free ✨ I made an app with tiny creative games to replace doomscrolling ✏️ You know that moment at the doctor’s office or in a queue somewhere where you just have a few minutes to spare and no…",
-          "date": "2026-11-16",
+          "url": "https://www.instagram.com/reel/DfpR_NfK--1",
+          "caption": "I created these holographic stickers with peel effect and then built a game to decorate notebooks with them ✏️ It started as a sketch. here’s how they became a full sticker set and a little 3D notebook customizer, all f…",
+          "date": "2026-11-12",
           "views": null,
-          "likes": 88,
-          "comments": 22,
+          "likes": 286,
+          "comments": 18,
           "shares": null,
           "type": "reel",
-          "ratio": 0.32
-        },
-        {
-          "url": "https://www.instagram.com/reel/Dfr9_vXq8FT",
-          "caption": "you don’t have to build all interactive effects from scratch If your websites all look the same, the fix isn’t a better prompt. It’s better building blocks. These three libraries are full of animated components you can …",
-          "date": "2026-11-13",
-          "views": null,
-          "likes": 175,
-          "comments": 10,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.63
+          "ratio": 1.0
         },
         {
           "url": "https://www.instagram.com/reel/DfCuPXoK7NK",
@@ -1671,18 +1670,40 @@
           "comments": 106,
           "shares": null,
           "type": "reel",
-          "ratio": 0.8
+          "ratio": 0.78
         },
         {
-          "url": "https://www.instagram.com/reel/DZsGBLnNCHA",
-          "caption": "and sharing everything I learn along the way ⭐️ At the start of 2026 I made myself a promise - to stop just designing apps in Figma and actually build them. One a month, every month, for the entire year. On top of that,…",
-          "date": "2026-06-17",
+          "url": "https://www.instagram.com/reel/Df4yOHKq0SH",
+          "caption": "I built this whole 3D scene in @figma with the new feature - 3D transform Every cube here is made of 6 flat frames, turned and pushed into 3D space, then animated with Figma Motion Want to build your own? I made a free …",
+          "date": "2026-11-18",
           "views": null,
-          "likes": 641,
-          "comments": 17,
+          "likes": 854,
+          "comments": 51,
           "shares": null,
           "type": "reel",
-          "ratio": 2.3
+          "ratio": 2.99
+        },
+        {
+          "url": "https://www.instagram.com/reel/De9ndFyqKgI",
+          "caption": "comment “FLORA” and I’ll send you a link to try it with a 30% discount on your first month! (code ASIA30) One of my favourite things about web design is creating experiences that go beyond a static page. I love when scr…",
+          "date": "2026-10-26",
+          "views": null,
+          "likes": null,
+          "comments": 29,
+          "shares": null,
+          "type": "reel",
+          "ratio": null
+        },
+        {
+          "url": "https://www.instagram.com/reel/Dfr9_vXq8FT",
+          "caption": "you don’t have to build all interactive effects from scratch If your websites all look the same, the fix isn’t a better prompt. It’s better building blocks. These three libraries are full of animated components you can …",
+          "date": "2026-11-13",
+          "views": null,
+          "likes": 183,
+          "comments": 10,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.64
         }
       ]
     },
@@ -1691,74 +1712,41 @@
       "handle": "sandracreatess",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
-      "median": 1629.5,
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 1685,
       "posts": [
-        {
-          "url": "https://www.instagram.com/p/DfmbVD5jXEF",
-          "caption": "When I first started creating content, I’d spend HOURS coming up with ideas, storyboarding, filming, editing, and experimenting with things I had absolutely no idea how to do. And I LOVED every second of it. IT MADE ME …",
-          "date": "2026-11-11",
-          "views": null,
-          "likes": 1041,
-          "comments": 21,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 0.64
-        },
-        {
-          "url": "https://www.instagram.com/p/DfZI8iBNcIP",
-          "caption": "Happy Fridayyyyy :)))))))",
-          "date": "2026-11-06",
-          "views": null,
-          "likes": 7187,
-          "comments": 10,
-          "shares": null,
-          "type": "image",
-          "ratio": 4.41
-        },
-        {
-          "url": "https://www.instagram.com/p/Dfy6g7cNAg8",
-          "caption": "Approach at your own risk. Happy Mondaayyy :))))",
-          "date": "2026-11-16",
-          "views": null,
-          "likes": 4276,
-          "comments": 13,
-          "shares": null,
-          "type": "image",
-          "ratio": 2.62
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfxGwPRN8pX",
-          "caption": "People make scripting, filming,, editing, and showing up consistently look so effortless. BUT IT’S NOTTTT. I cried A LOT. I struggled A LOT. I learned A LOT. And between all the breakdowns, I also had the time of my lif…",
-          "date": "2026-11-15",
-          "views": null,
-          "likes": 1134,
-          "comments": 47,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.7
-        },
-        {
-          "url": "https://www.instagram.com/p/Dev214ENAj8",
-          "caption": "me after creating 47 imaginary scenarios in my head 🎀",
-          "date": "2026-10-21",
-          "views": null,
-          "likes": 2977,
-          "comments": 24,
-          "shares": null,
-          "type": "image",
-          "ratio": 1.83
-        },
         {
           "url": "https://www.instagram.com/p/Dfo1fMXtV_v",
           "caption": "Out of all the beautiful designs He did, you were His favorite💗 A little morning doodle I did after seeing a Pinterest picture with this quote ✍️",
           "date": "2026-11-12",
           "views": null,
-          "likes": 1646,
+          "likes": 1685,
           "comments": 24,
           "shares": null,
           "type": "image",
-          "ratio": 1.01
+          "ratio": 1.0
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfeVyTgtfBf",
+          "caption": "Hi I’m Sandra!💗I left my jobs (yes both) July 6,2024 and with the little faith in myself and a lot in God I pursued content creation full-time…aaaaaaand it worked🥹 I also founded @sandracreatestudio along the way (such …",
+          "date": "2026-11-08",
+          "views": null,
+          "likes": 908,
+          "comments": 32,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.54
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfjiI6RtFfP",
+          "caption": "Comment “cactus” and I’ll send you the logo reveal + the 3 most important logo rules😍 . . . #logo #logomark #logodesigning",
+          "date": "2026-11-10",
+          "views": null,
+          "likes": 1648,
+          "comments": 498,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.98
         },
         {
           "url": "https://www.instagram.com/p/De81OAnNUNQ",
@@ -1769,40 +1757,62 @@
           "comments": 21,
           "shares": null,
           "type": "image",
-          "ratio": 2.27
+          "ratio": 2.2
         },
         {
-          "url": "https://www.instagram.com/reel/DfjiI6RtFfP",
-          "caption": "Comment “cactus” and I’ll send you the logo reveal + the 3 most important logo rules😍 . . . #logo #logomark #logodesigning",
-          "date": "2026-11-10",
+          "url": "https://www.instagram.com/p/DfZI8iBNcIP",
+          "caption": "Happy Fridayyyyy :)))))))",
+          "date": "2026-11-06",
           "views": null,
-          "likes": 1613,
-          "comments": 481,
+          "likes": 7209,
+          "comments": 10,
           "shares": null,
-          "type": "reel",
-          "ratio": 0.99
+          "type": "image",
+          "ratio": 4.28
         },
         {
-          "url": "https://www.instagram.com/reel/DetJuzvtThw",
-          "caption": "Welcome to ✨ **LOGO REHAB** 🚑💗 A series where I take one of you guys’ logos and give it a second chance by redesigning it completely for FREE! Consider this my little thank-you for following along and supporting my work…",
-          "date": "2026-10-20",
+          "url": "https://www.instagram.com/reel/DfxGwPRN8pX",
+          "caption": "People make scripting, filming,, editing, and showing up consistently look so effortless. BUT IT’S NOTTTT. I cried A LOT. I struggled A LOT. I learned A LOT. And between all the breakdowns, I also had the time of my lif…",
+          "date": "2026-11-15",
           "views": null,
-          "likes": 590,
-          "comments": 256,
+          "likes": 1175,
+          "comments": 48,
           "shares": null,
           "type": "reel",
-          "ratio": 0.36
+          "ratio": 0.7
         },
         {
-          "url": "https://www.instagram.com/reel/DfeVyTgtfBf",
-          "caption": "Hi I’m Sandra!💗I left my jobs (yes both) July 6,2024 and with the little faith in myself and a lot in God I pursued content creation full-time…aaaaaaand it worked🥹 I also founded @sandracreatestudio along the way (such …",
-          "date": "2026-11-08",
+          "url": "https://www.instagram.com/p/Dev214ENAj8",
+          "caption": "me after creating 47 imaginary scenarios in my head 🎀",
+          "date": "2026-10-21",
           "views": null,
-          "likes": 896,
-          "comments": 32,
+          "likes": 2978,
+          "comments": 24,
           "shares": null,
-          "type": "reel",
-          "ratio": 0.55
+          "type": "image",
+          "ratio": 1.77
+        },
+        {
+          "url": "https://www.instagram.com/p/DfmbVD5jXEF",
+          "caption": "When I first started creating content, I’d spend HOURS coming up with ideas, storyboarding, filming, editing, and experimenting with things I had absolutely no idea how to do. And I LOVED every second of it. IT MADE ME …",
+          "date": "2026-11-11",
+          "views": null,
+          "likes": 1076,
+          "comments": 21,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 0.64
+        },
+        {
+          "url": "https://www.instagram.com/p/Dfy6g7cNAg8",
+          "caption": "Approach at your own risk. Happy Mondaayyy :))))",
+          "date": "2026-11-16",
+          "views": null,
+          "likes": 4444,
+          "comments": 14,
+          "shares": null,
+          "type": "image",
+          "ratio": 2.64
         }
       ]
     },
@@ -1811,19 +1821,41 @@
       "handle": "ellydoesdesign",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
+      "fetched_at": "2026-11-19T14:25:58Z",
       "median": 180.0,
       "posts": [
         {
-          "url": "https://www.instagram.com/reel/Dbo8vy2uPTt",
-          "caption": "I’ve always been super mesmerized by website that incorporate some sort of motion into it, and lately I’ve been seeing heaps on social media. So I decided to share some of my own personal favorite motion effects so you …",
-          "date": "2026-08-05",
+          "url": "https://www.instagram.com/reel/DcwHJqfu8JU",
+          "caption": "If I shared the link, would you play?✨🪄 #pokemonworldchampionships #pokemonsf #vibecoding",
+          "date": "2026-09-01",
           "views": null,
-          "likes": 3489,
-          "comments": 6190,
+          "likes": 119,
+          "comments": 16,
           "shares": null,
           "type": "reel",
-          "ratio": 19.38
+          "ratio": 0.66
+        },
+        {
+          "url": "https://www.instagram.com/reel/Df3AYajuZEz",
+          "caption": "Comment USE and I’ll send all the links straight to your DMs ⬇️📲✨",
+          "date": "2026-11-17",
+          "views": null,
+          "likes": 388,
+          "comments": 130,
+          "shares": null,
+          "type": "reel",
+          "ratio": 2.16
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfVgIHsB1sk",
+          "caption": "Haiii, I’m Elly! I post daily doses of design inspiration to help spark your creativity and make cool designs for websites, posters and more. If u like this type of content, pls give a follow and I’ll see u in the next …",
+          "date": "2026-11-04",
+          "views": null,
+          "likes": 91,
+          "comments": 7,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.51
         },
         {
           "url": "https://www.instagram.com/reel/Dflfd3QuI4c",
@@ -1835,39 +1867,6 @@
           "shares": null,
           "type": "reel",
           "ratio": 0.93
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfVgIHsB1sk",
-          "caption": "Haiii, I’m Elly! I post daily doses of design inspiration to help spark your creativity and make cool designs for websites, posters and more. If u like this type of content, pls give a follow and I’ll see u in the next …",
-          "date": "2026-11-04",
-          "views": null,
-          "likes": 88,
-          "comments": 7,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.49
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfIZ0RpStvB",
-          "caption": "Hosted my first community event with Variant in San Francisco a few days ago… If you’re also in SF and into arts/crafts/design workshops and just meeting other creatives, follow this page bc I’ll be sharing future event…",
-          "date": "2026-10-30",
-          "views": null,
-          "likes": 42,
-          "comments": 14,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.23
-        },
-        {
-          "url": "https://www.instagram.com/reel/Df3AYajuZEz",
-          "caption": "Comment USE and I’ll send all the links straight to your DMs ⬇️📲✨",
-          "date": "2026-11-17",
-          "views": null,
-          "likes": 247,
-          "comments": 90,
-          "shares": null,
-          "type": "reel",
-          "ratio": 1.37
         },
         {
           "url": "https://www.instagram.com/reel/DfQQlPYyVn9",
@@ -1885,11 +1884,11 @@
           "caption": "Comment WEB and I’ll dm u the links 🔗✨",
           "date": "2026-11-03",
           "views": null,
-          "likes": 1320,
-          "comments": 524,
+          "likes": 1340,
+          "comments": 534,
           "shares": null,
           "type": "reel",
-          "ratio": 7.33
+          "ratio": 7.44
         },
         {
           "url": "https://www.instagram.com/reel/DfrEtGvO9hy",
@@ -1903,6 +1902,17 @@
           "ratio": 0.72
         },
         {
+          "url": "https://www.instagram.com/reel/DfIZ0RpStvB",
+          "caption": "Hosted my first community event with Variant in San Francisco a few days ago… If you’re also in SF and into arts/crafts/design workshops and just meeting other creatives, follow this page bc I’ll be sharing future event…",
+          "date": "2026-10-30",
+          "views": null,
+          "likes": 42,
+          "comments": 14,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.23
+        },
+        {
           "url": "https://www.instagram.com/reel/DaWogaDOn5j",
           "caption": "Hola~~ I feel like a lot of people found value in the last video where I shared a bunch of cool 0 code design tools for making websites…sOOOoooooOOo here are three more. 🫶 don’t forget to save this for your next design …",
           "date": "2026-07-04",
@@ -1914,15 +1924,15 @@
           "ratio": 19.07
         },
         {
-          "url": "https://www.instagram.com/reel/DcwHJqfu8JU",
-          "caption": "If I shared the link, would you play?✨🪄 #pokemonworldchampionships #pokemonsf #vibecoding",
-          "date": "2026-09-01",
+          "url": "https://www.instagram.com/reel/Dbo8vy2uPTt",
+          "caption": "I’ve always been super mesmerized by website that incorporate some sort of motion into it, and lately I’ve been seeing heaps on social media. So I decided to share some of my own personal favorite motion effects so you …",
+          "date": "2026-08-05",
           "views": null,
-          "likes": 119,
-          "comments": 16,
+          "likes": 3490,
+          "comments": 6190,
           "shares": null,
           "type": "reel",
-          "ratio": 0.66
+          "ratio": 19.39
         }
       ]
     },
@@ -1931,118 +1941,118 @@
       "handle": "audreycaprianni",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
-      "median": 778.0,
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 834.5,
       "posts": [
-        {
-          "url": "https://www.instagram.com/reel/DZ7bpv7y9zy",
-          "caption": "🍊 getcapy.lol 🍊 a productivity tool that follows your cursor if you're naughty & don't finish your work #code #vibecode #claude #productivityapp",
-          "date": "2026-06-23",
-          "views": null,
-          "likes": 2017,
-          "comments": 62,
-          "shares": null,
-          "type": "reel",
-          "ratio": 2.59
-        },
-        {
-          "url": "https://www.instagram.com/reel/DaChBPPvYK-",
-          "caption": "examples of being non-mimetic ⬇️ the point of the exercise is to do things that feel true to you, and not what is socially accepted, ESPECIALLY within your circle 1/ i quit coffee. i finally admitted to myself that the …",
-          "date": "2026-06-26",
-          "views": null,
-          "likes": 1028,
-          "comments": 27,
-          "shares": null,
-          "type": "reel",
-          "ratio": 1.32
-        },
-        {
-          "url": "https://www.instagram.com/reel/Df11CRcP26U",
-          "caption": "comment ⭐️ IDEAS ⭐️ and ill send you the bank of ideas im working on!!! whenever i get interested in a business, i quickly jolt down notes on how id get started on it. its a lil' bare bones atm but ill keep adding to it…",
-          "date": "2026-11-17",
-          "views": null,
-          "likes": 566,
-          "comments": 140,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.73
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfcJ1paPlHU",
-          "caption": "comment \"CAREER\" for this career quiz ⭐️ it covers: 1/ what motivates you at work 2/ reflections on what makes you feel most in flow or what drains you 3/ ~10 career suggestions have tried it it for me and 6 other frien…",
-          "date": "2026-11-07",
-          "views": null,
-          "likes": 391,
-          "comments": 270,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.5
-        },
-        {
-          "url": "https://www.instagram.com/reel/DR_lozBj0en",
-          "caption": "what my designs looked like at different stages of the business & my journey from full time role -> running my design studio. besides designing in Figma, my most used design tool is @mobbin_design 🫰 #productdesign #prod…",
-          "date": "2025-12-08",
-          "views": null,
-          "likes": 19592,
-          "comments": 191,
-          "shares": null,
-          "type": "reel",
-          "ratio": 25.18
-        },
         {
           "url": "https://www.instagram.com/reel/DfzU9-oxcIt",
           "caption": "freelancing tips that id prioritise if i had to start from 0 ⭐️",
           "date": "2026-11-16",
           "views": null,
-          "likes": 144,
-          "comments": 5,
+          "likes": 152,
+          "comments": 6,
           "shares": null,
           "type": "reel",
-          "ratio": 0.19
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfmWynpPsk5",
-          "caption": "template in description ⬇️ this is how i landed my job at Canva, 6m+ design contracts and built my network! ⭐️ --- SUBJECT - \"I want to be your product designer\" - \"u might think this is ai, wrong.\" INTRO \"Hey [Name], h…",
-          "date": "2026-11-11",
-          "views": null,
-          "likes": 1517,
-          "comments": 43,
-          "shares": null,
-          "type": "reel",
-          "ratio": 1.95
+          "ratio": 0.18
         },
         {
           "url": "https://www.instagram.com/reel/Dfj1sG9PBl8",
           "caption": "delulu is the solulu never fails",
           "date": "2026-11-10",
           "views": null,
-          "likes": 990,
+          "likes": 999,
           "comments": 25,
           "shares": null,
           "type": "reel",
-          "ratio": 1.27
+          "ratio": 1.2
         },
         {
-          "url": "https://www.instagram.com/reel/DfZgoMiPQze",
-          "caption": "i truly believe you just need 6m to change your trajectory ⭐️",
-          "date": "2026-11-06",
+          "url": "https://www.instagram.com/reel/Df7B9zNh1Rz",
+          "caption": "comment FIGMA and i'll send you our /handoff skill 🫶🏼 how we use @figma at my design studio to reduce as much design housekeeping work we possibly can ⭐️ #figmacreator #ad",
+          "date": "2026-11-19",
           "views": null,
-          "likes": 335,
-          "comments": 17,
+          "likes": 37,
+          "comments": 16,
           "shares": null,
           "type": "reel",
-          "ratio": 0.43
+          "ratio": 0.04
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfmWynpPsk5",
+          "caption": "template in description ⬇️ this is how i landed my job at Canva, 6m+ design contracts and built my network! ⭐️ --- SUBJECT - \"I want to be your product designer\" - \"u might think this is ai, wrong.\" INTRO \"Hey [Name], h…",
+          "date": "2026-11-11",
+          "views": null,
+          "likes": 1564,
+          "comments": 43,
+          "shares": null,
+          "type": "reel",
+          "ratio": 1.87
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfcJ1paPlHU",
+          "caption": "comment \"CAREER\" for this career quiz ⭐️ it covers: 1/ what motivates you at work 2/ reflections on what makes you feel most in flow or what drains you 3/ ~10 career suggestions have tried it it for me and 6 other frien…",
+          "date": "2026-11-07",
+          "views": null,
+          "likes": 393,
+          "comments": 274,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.47
+        },
+        {
+          "url": "https://www.instagram.com/reel/DaChBPPvYK-",
+          "caption": "examples of being non-mimetic ⬇️ the point of the exercise is to do things that feel true to you, and not what is socially accepted, ESPECIALLY within your circle 1/ i quit coffee. i finally admitted to myself that the …",
+          "date": "2026-06-26",
+          "views": null,
+          "likes": 1030,
+          "comments": 27,
+          "shares": null,
+          "type": "reel",
+          "ratio": 1.23
+        },
+        {
+          "url": "https://www.instagram.com/reel/DR_lozBj0en",
+          "caption": "what my designs looked like at different stages of the business & my journey from full time role -> running my design studio. besides designing in Figma, my most used design tool is @mobbin_design 🫰 #productdesign #prod…",
+          "date": "2025-12-08",
+          "views": null,
+          "likes": 19594,
+          "comments": 191,
+          "shares": null,
+          "type": "reel",
+          "ratio": 23.48
+        },
+        {
+          "url": "https://www.instagram.com/reel/Df11CRcP26U",
+          "caption": "comment ⭐️ IDEAS ⭐️ and ill send you the bank of ideas im working on!!! whenever i get interested in a business, i quickly jolt down notes on how id get started on it. its a lil' bare bones atm but ill keep adding to it…",
+          "date": "2026-11-17",
+          "views": null,
+          "likes": 670,
+          "comments": 179,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.8
         },
         {
           "url": "https://www.instagram.com/reel/Df4HvfxPyNW",
           "caption": "how I’d (re)start freelancing long form version ⬇️ 1. Find teams who need your skill. Start by brainstorming types of companies that need what you do. For me, that's startups!! They often have small teams, lots of work …",
           "date": "2026-11-18",
           "views": null,
-          "likes": 150,
-          "comments": 1,
+          "likes": 272,
+          "comments": 2,
           "shares": null,
           "type": "reel",
-          "ratio": 0.19
+          "ratio": 0.33
+        },
+        {
+          "url": "https://www.instagram.com/reel/DZ7bpv7y9zy",
+          "caption": "🍊 getcapy.lol 🍊 a productivity tool that follows your cursor if you're naughty & don't finish your work #code #vibecode #claude #productivityapp",
+          "date": "2026-06-23",
+          "views": null,
+          "likes": 2019,
+          "comments": 62,
+          "shares": null,
+          "type": "reel",
+          "ratio": 2.42
         }
       ]
     },
@@ -2051,118 +2061,118 @@
       "handle": "marina_uiux",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
-      "median": 3324.5,
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 3513.0,
       "posts": [
-        {
-          "url": "https://www.instagram.com/reel/Dfrl7feIvNz",
-          "caption": "Day 2 of showing how I actually use AI for work (so you can to) Today I’m building a flower shop for y friends with @Replit. I’m using it instead of any no-code builders - because the shop needs custom functionality tha…",
-          "date": "2026-11-13",
-          "views": null,
-          "likes": 262,
-          "comments": 35,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.08
-        },
-        {
-          "url": "https://www.instagram.com/reel/Df0bI42oEPc",
-          "caption": "Interactive website for @ersharium WIP ✨",
-          "date": "2026-11-16",
-          "views": null,
-          "likes": 3609,
-          "comments": 35,
-          "shares": null,
-          "type": "reel",
-          "ratio": 1.09
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfhPUKOIPUR",
-          "caption": "short breakdown on how to make this interactive flower shop gift experience using @higgsfield.ai comment “higs” for resources and links ✌️ (all recent works you can find by the link in my bio) #higgsfieldcreator #intera…",
-          "date": "2026-11-09",
-          "views": null,
-          "likes": 1500,
-          "comments": 276,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.45
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfAGlmIIot7",
-          "caption": "Here is how you can make this interactive Koi Fish design of mine ☝🏻 Drop a comment “koi” or use links below 👇🏻 Live link: https://budarina-koi.runable.site/ Use promo code “marina40” for 40% off monthly pro plan Tool l…",
-          "date": "2026-10-27",
-          "views": null,
-          "likes": 8855,
-          "comments": 1382,
-          "shares": null,
-          "type": "reel",
-          "ratio": 2.66
-        },
-        {
-          "url": "https://www.instagram.com/reel/Ddj4YmwsnQn",
-          "caption": "Recap - some projects I’ve experimented with this summer ✨",
-          "date": "2026-09-21",
-          "views": null,
-          "likes": 64831,
-          "comments": 565,
-          "shares": null,
-          "type": "reel",
-          "ratio": 19.5
-        },
         {
           "url": "https://www.instagram.com/p/DEKlX_uoya1",
           "caption": "Web Design eBook is officially available now with an early-bird access offer 🎉 You can find link in my bio. Or go to marinabudarina.design/webdesignmastery Right now it's V.0 and already have 200+ pages you will see whi…",
           "date": "2024-12-29",
           "views": null,
-          "likes": 1986,
-          "comments": 279,
+          "likes": 1985,
+          "comments": 280,
           "shares": null,
           "type": "carousel",
-          "ratio": 0.6
-        },
-        {
-          "url": "https://www.instagram.com/reel/Dfm1E3HI_yZ",
-          "caption": "Day 1 of showing how I use AI for work (so you can too) This time - building an interactive bookshelf for an actual Amazon seller (just picked the random one) It has real book previews, information, and direct links to …",
-          "date": "2026-11-11",
-          "views": null,
-          "likes": 3040,
-          "comments": 807,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.91
-        },
-        {
-          "url": "https://www.instagram.com/reel/Df23h5qIJbM",
-          "caption": "Comment “style” for prompts ✌️ Higgsfield MCP free and unlimited for new users for 3 days 🔥 this interactive hero section for a landing page - available at works.budarina.design ✌️ 1-> come up with design concept 2 -> B…",
-          "date": "2026-11-17",
-          "views": null,
-          "likes": 420,
-          "comments": 265,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.13
-        },
-        {
-          "url": "https://www.instagram.com/reel/DbRDLnRI-qZ",
-          "caption": "As a lot of people and creatives loved this idea and project, I created another version of it 🫰🏻 Now made it more immersive - with defined architecture and atmosphere, and even added flying creatures around Need a tutor…",
-          "date": "2026-07-26",
-          "views": null,
-          "likes": 6226,
-          "comments": 154,
-          "shares": null,
-          "type": "reel",
-          "ratio": 1.87
+          "ratio": 0.57
         },
         {
           "url": "https://www.instagram.com/reel/DavzH2FInra",
           "caption": "This project was inspired by the wind chimes we always had hanging in our doorway at home. In many cultures, they’re believed to protect the home and welcome good energy. I always loved the sound they made whenever some…",
           "date": "2026-07-13",
           "views": null,
-          "likes": 333645,
-          "comments": 1355,
+          "likes": 333775,
+          "comments": 1356,
           "shares": null,
           "type": "reel",
-          "ratio": 100.36
+          "ratio": 95.01
+        },
+        {
+          "url": "https://www.instagram.com/reel/Df0bI42oEPc",
+          "caption": "Interactive website for @ersharium WIP ✨",
+          "date": "2026-11-16",
+          "views": null,
+          "likes": 3874,
+          "comments": 37,
+          "shares": null,
+          "type": "reel",
+          "ratio": 1.1
+        },
+        {
+          "url": "https://www.instagram.com/reel/Dfm1E3HI_yZ",
+          "caption": "Day 1 of showing how I use AI for work (so you can too) This time - building an interactive bookshelf for an actual Amazon seller (just picked the random one) It has real book previews, information, and direct links to …",
+          "date": "2026-11-11",
+          "views": null,
+          "likes": 3152,
+          "comments": 851,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.9
+        },
+        {
+          "url": "https://www.instagram.com/reel/Ddj4YmwsnQn",
+          "caption": "Recap - some projects I’ve experimented with this summer ✨",
+          "date": "2026-09-21",
+          "views": null,
+          "likes": 65190,
+          "comments": 566,
+          "shares": null,
+          "type": "reel",
+          "ratio": 18.56
+        },
+        {
+          "url": "https://www.instagram.com/reel/Dfrl7feIvNz",
+          "caption": "Day 2 of showing how I actually use AI for work (so you can to) Today I’m building a flower shop for y friends with @Replit. I’m using it instead of any no-code builders - because the shop needs custom functionality tha…",
+          "date": "2026-11-13",
+          "views": null,
+          "likes": 273,
+          "comments": 35,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.08
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfhPUKOIPUR",
+          "caption": "short breakdown on how to make this interactive flower shop gift experience using @higgsfield.ai comment “higs” for resources and links ✌️ (all recent works you can find by the link in my bio) #higgsfieldcreator #intera…",
+          "date": "2026-11-09",
+          "views": null,
+          "likes": 1539,
+          "comments": 289,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.44
+        },
+        {
+          "url": "https://www.instagram.com/reel/DbRDLnRI-qZ",
+          "caption": "As a lot of people and creatives loved this idea and project, I created another version of it 🫰🏻 Now made it more immersive - with defined architecture and atmosphere, and even added flying creatures around Need a tutor…",
+          "date": "2026-07-26",
+          "views": null,
+          "likes": 6225,
+          "comments": 154,
+          "shares": null,
+          "type": "reel",
+          "ratio": 1.77
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfAGlmIIot7",
+          "caption": "Here is how you can make this interactive Koi Fish design of mine ☝🏻 Drop a comment “koi” or use links below 👇🏻 Live link: https://budarina-koi.runable.site/ Use promo code “marina40” for 40% off monthly pro plan Tool l…",
+          "date": "2026-10-27",
+          "views": null,
+          "likes": 9067,
+          "comments": 1422,
+          "shares": null,
+          "type": "reel",
+          "ratio": 2.58
+        },
+        {
+          "url": "https://www.instagram.com/reel/Df23h5qIJbM",
+          "caption": "Comment “style” for prompts ✌️ Higgsfield MCP free and unlimited for new users for 3 days 🔥 this interactive hero section for a landing page - available at works.budarina.design ✌️ 1-> come up with design concept 2 -> B…",
+          "date": "2026-11-17",
+          "views": null,
+          "likes": 560,
+          "comments": 359,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.16
         }
       ]
     },
@@ -2171,19 +2181,30 @@
       "handle": "askcatgpt",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
-      "median": 3088,
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 3357.0,
       "posts": [
+        {
+          "url": "https://www.instagram.com/reel/DfyWDpZiqUt",
+          "caption": "@wsj @catlabs",
+          "date": "2026-11-16",
+          "views": null,
+          "likes": 14176,
+          "comments": 587,
+          "shares": null,
+          "type": "reel",
+          "ratio": 4.22
+        },
         {
           "url": "https://www.instagram.com/reel/De-tjvmiAbk",
           "caption": "",
           "date": "2026-10-27",
           "views": null,
-          "likes": 9959,
-          "comments": 524,
+          "likes": 10011,
+          "comments": 528,
           "shares": null,
           "type": "reel",
-          "ratio": 3.23
+          "ratio": 2.98
         },
         {
           "url": "https://www.instagram.com/p/DRPnqqHlJ3t",
@@ -2194,84 +2215,84 @@
           "comments": 147,
           "shares": null,
           "type": "carousel",
-          "ratio": 1.0
-        },
-        {
-          "url": "https://www.instagram.com/p/DfYxYiilmMZ",
-          "caption": "The bicoastal fantasy continues Photo @mxktz Style @_forustudio x @_spicy_kiwi_ Shoes @melittabaumeister Skirt @priscavera Top @priscavera Corset @fanci.club Bag @melittabaumeister Sunnies @prada",
-          "date": "2026-11-06",
-          "views": null,
-          "likes": 1632,
-          "comments": 41,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 0.53
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfyWDpZiqUt",
-          "caption": "@wsj @catlabs",
-          "date": "2026-11-16",
-          "views": null,
-          "likes": 12940,
-          "comments": 551,
-          "shares": null,
-          "type": "reel",
-          "ratio": 4.19
+          "ratio": 0.92
         },
         {
           "url": "https://www.instagram.com/reel/DfYIrPzCexF",
           "caption": "So good to see the team!! Keep working hard guys!! @smoothmedia.co",
           "date": "2026-11-05",
           "views": null,
-          "likes": 3608,
-          "comments": 104,
+          "likes": 3626,
+          "comments": 105,
           "shares": null,
           "type": "reel",
-          "ratio": 1.17
-        },
-        {
-          "url": "https://www.instagram.com/reel/De2vqHlvenY",
-          "caption": "I know they say never work with family… but nevertheless I’ve decided to hire my little brother to help out at Cat Labs. What could possibly go wrong!!!! Hiring someone is exciting until you realize all of the menial ta…",
-          "date": "2026-10-23",
-          "views": null,
-          "likes": 1412,
-          "comments": 36,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.46
+          "ratio": 1.08
         },
         {
           "url": "https://www.instagram.com/reel/Df2muaVCaqQ",
-          "caption": "Want to join the research preview for Claude Duet? 👀 Use my invite code to skip the waitlist (link in bio) this video is sponsored by Anthropic #ad",
+          "caption": "Want to join the research preview for Claude Duet? 👀 Use my invite code to skip (link in bio) this video is sponsored by Anthropic #ad",
           "date": "2026-11-17",
           "views": null,
-          "likes": 1220,
-          "comments": 146,
+          "likes": 1495,
+          "comments": 197,
           "shares": null,
           "type": "reel",
-          "ratio": 0.4
+          "ratio": 0.45
+        },
+        {
+          "url": "https://www.instagram.com/reel/Df5Zni2zah1",
+          "caption": "Whoever approved this at @higgsfield.ai I LOVE YOU Sweatshirt @bannedfr0m",
+          "date": "2026-11-18",
+          "views": null,
+          "likes": 2538,
+          "comments": 113,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.76
         },
         {
           "url": "https://www.instagram.com/p/Df2iSmZGIS5",
           "caption": "Excited to share that I’m joining @soundventures as an advisor 🪽 My entire career has existed at the intersection of media and tech, so when I met @guyoseary for the first time, it felt like I had found my people. Guy s…",
           "date": "2026-11-17",
           "views": null,
-          "likes": 949,
-          "comments": 78,
+          "likes": 1078,
+          "comments": 81,
           "shares": null,
           "type": "carousel",
-          "ratio": 0.31
+          "ratio": 0.32
         },
         {
           "url": "https://www.instagram.com/p/DZskMvwmOxy",
           "caption": "The flights are booked, the suitcase is packed… me and @claudeai are going to Cannes Lions! While I’m there, I’ll be giving beachside demos of how I 🌈actually🌈 use Claude in my businesses with real examples. stay tuned …",
           "date": "2026-06-17",
           "views": null,
-          "likes": 11308,
+          "likes": 11315,
           "comments": 330,
           "shares": null,
           "type": "carousel",
-          "ratio": 3.66
+          "ratio": 3.37
+        },
+        {
+          "url": "https://www.instagram.com/p/DfYxYiilmMZ",
+          "caption": "The bicoastal fantasy continues Photo @mxktz Style @_forustudio x @_spicy_kiwi_ Shoes @melittabaumeister Skirt @priscavera Top @priscavera Corset @fanci.club Bag @melittabaumeister Sunnies @prada",
+          "date": "2026-11-06",
+          "views": null,
+          "likes": 1641,
+          "comments": 41,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 0.49
+        },
+        {
+          "url": "https://www.instagram.com/reel/Dfp_I12BZ_Z",
+          "caption": "TLDR Claude live editing my UI with me is absolutely bananas… This stuff used to take days guys. DAYS. And WORSE: u had to ASK SOMEBODY ELSE TO HELP YOU 🔪🔪🔪 Now u can be fully independent and do it urself We r living in…",
+          "date": "2026-11-12",
+          "views": null,
+          "likes": 8048,
+          "comments": 185,
+          "shares": null,
+          "type": "reel",
+          "ratio": 2.4
         }
       ]
     },
@@ -2280,118 +2301,118 @@
       "handle": "thedesignely",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
-      "median": 2636.0,
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 2345.5,
       "posts": [
-        {
-          "url": "https://www.instagram.com/p/DfUPwLMjYL1",
-          "caption": "If I were learning mobile games from scratch, this is exactly where I’d begin. And no, you don’t need to spend hundreds on courses.I put together a FREE guide with all the resources, tutorials, tools and a few of my fav…",
-          "date": "2026-11-04",
-          "views": null,
-          "likes": 2485,
-          "comments": 116,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 0.94
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfzagUctOj3",
-          "caption": "When I need to relax, I make things. Usually some random UI This time I also got to test my new Lenovo Yoga setup and the display quality is just WOW. I’ve always relied on my laptop for design work, but pairing the @le…",
-          "date": "2026-11-16",
-          "views": null,
-          "likes": 183,
-          "comments": 8,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.07
-        },
-        {
-          "url": "https://www.instagram.com/reel/De_77oxt8tQ",
-          "caption": "I made a website you can deflate 🎈 And yes, you can literally control it with your hand through your camera Here’s how I built it: 1. Generated inflated images Figma Weave 2. Turned them into a csequence 3. Removed the …",
-          "date": "2026-10-27",
-          "views": null,
-          "likes": 694,
-          "comments": 198,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.26
-        },
-        {
-          "url": "https://www.instagram.com/p/DfHvfmMDU7j",
-          "caption": "I’m getting more and more DMs asking me to fix AI-generated designs 😅 Hiring robot is cheaper. But what’s the point if you need a human to fix everything afterwards? Don’t get me wrong, I use those tools every day. But …",
-          "date": "2026-10-30",
-          "views": null,
-          "likes": 2875,
-          "comments": 52,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 1.09
-        },
         {
           "url": "https://www.instagram.com/p/DepJGivjS4M",
           "caption": "Mobile games don’t start in Unity 🎮 Extra tips I wish I knew earlier: → Pull references from outside games (toys, packaging, film) → Design for thumbs, key buttons in the bottom half → Check safe areas, or the notch wil…",
           "date": "2026-10-18",
           "views": null,
-          "likes": 5889,
+          "likes": 5900,
           "comments": 64,
           "shares": null,
           "type": "carousel",
-          "ratio": 2.23
-        },
-        {
-          "url": "https://www.instagram.com/reel/DePaF-ZtGKn",
-          "caption": "Turning everything into draggable cloth 🐍 Comment “Sneak” for template #webdesign",
-          "date": "2026-10-08",
-          "views": null,
-          "likes": 2787,
-          "comments": 1094,
-          "shares": null,
-          "type": "reel",
-          "ratio": 1.06
+          "ratio": 2.52
         },
         {
           "url": "https://www.instagram.com/reel/DfC0cgIN1Z7",
           "caption": "Day 3 of making a fortune-telling game 🔮 Today, sun prophecy #uxdesigner #gameui",
           "date": "2026-10-28",
           "views": null,
-          "likes": 3712,
+          "likes": 3745,
           "comments": 15,
           "shares": null,
           "type": "reel",
-          "ratio": 1.41
+          "ratio": 1.6
         },
         {
-          "url": "https://www.instagram.com/reel/DfhoZMItq8c",
-          "caption": "🗡️ Let’s make Zelda ocarina of time remake in 70xspeed Figma ~ 1h What game it’s your favourite recently? #gameui #gamedev #zelda",
-          "date": "2026-11-09",
+          "url": "https://www.instagram.com/p/DfUPwLMjYL1",
+          "caption": "If I were learning mobile games from scratch, this is exactly where I’d begin. And no, you don’t need to spend hundreds on courses.I put together a FREE guide with all the resources, tutorials, tools and a few of my fav…",
+          "date": "2026-11-04",
           "views": null,
-          "likes": 2071,
-          "comments": 15,
+          "likes": 2514,
+          "comments": 120,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 1.07
+        },
+        {
+          "url": "https://www.instagram.com/reel/DePaF-ZtGKn",
+          "caption": "Turning everything into draggable cloth 🐍 Comment “Sneak” for template #webdesign",
+          "date": "2026-10-08",
+          "views": null,
+          "likes": 2793,
+          "comments": 1100,
           "shares": null,
           "type": "reel",
-          "ratio": 0.79
+          "ratio": 1.19
+        },
+        {
+          "url": "https://www.instagram.com/reel/De_77oxt8tQ",
+          "caption": "I made a website you can deflate 🎈 And yes, you can literally control it with your hand through your camera Here’s how I built it: 1. Generated inflated images Figma Weave 2. Turned them into a csequence 3. Removed the …",
+          "date": "2026-10-27",
+          "views": null,
+          "likes": 700,
+          "comments": 198,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.3
         },
         {
           "url": "https://www.instagram.com/reel/Df2Rdc6thUM",
           "caption": "You can’t go wrong with ascii or dither 🤘 Comment “head” for this file #ascii #interactivewebsite",
           "date": "2026-11-17",
           "views": null,
-          "likes": 1643,
-          "comments": 757,
+          "likes": 2177,
+          "comments": 1048,
           "shares": null,
           "type": "reel",
-          "ratio": 0.62
+          "ratio": 0.93
         },
         {
           "url": "https://www.instagram.com/reel/Dfrc4Iethao",
           "caption": "Okay, Figma is getting a little too powerful now 👀 3D transforms are finally here! Rotate designs across X, Y and Z axes, play with perspective and depth, and even animate them with Figma Agent. Time to make everything …",
           "date": "2026-11-13",
           "views": null,
-          "likes": 4693,
-          "comments": 230,
+          "likes": 4864,
+          "comments": 234,
           "shares": null,
           "type": "reel",
-          "ratio": 1.78
+          "ratio": 2.07
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfzagUctOj3",
+          "caption": "When I need to relax, I make things. Usually some random UI This time I also got to test my new Lenovo Yoga setup and the display quality is just WOW. I’ve always relied on my laptop for design work, but pairing the @le…",
+          "date": "2026-11-16",
+          "views": null,
+          "likes": 193,
+          "comments": 8,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.08
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfhoZMItq8c",
+          "caption": "🗡️ Let’s make Zelda ocarina of time remake in 70xspeed Figma ~ 1h What game it’s your favourite recently? #gameui #gamedev #zelda",
+          "date": "2026-11-09",
+          "views": null,
+          "likes": 2108,
+          "comments": 15,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.9
+        },
+        {
+          "url": "https://www.instagram.com/reel/Df7QTq0tAuz",
+          "caption": "GTA 6 UI needs a little consistency 👀 I’m not reinventing the weapon wheel. The layout already works. I just wanted to give it a softer, frosted-glass look to match the rest of the HUD. Original or redesign? 🎮 #GTA6 #Ga…",
+          "date": "2026-11-19",
+          "views": null,
+          "likes": 79,
+          "comments": 2,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.03
         }
       ]
     },
@@ -2400,74 +2421,74 @@
       "handle": "uiby.anuj",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
-      "median": 2299,
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 2339,
       "posts": [
         {
           "url": "https://www.instagram.com/reel/DW6DOJbkR7z",
           "caption": "Dangerously clickable 😬 3d stuff in figma. No plugin. 😌✨️ Follow @uiby.anuj for more crazy stuff. See u in the next one. ❤️ #uidesign #figmadesign #figma #reels",
           "date": "2026-04-09",
           "views": null,
-          "likes": 24276,
+          "likes": 24271,
           "comments": 113,
           "shares": null,
           "type": "reel",
-          "ratio": 10.56
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfcG4JCunKq",
-          "caption": "designed by chance 👀🙀 I love this experiment and it happened just by playing with @figma #figma #ui #design",
-          "date": "2026-11-07",
-          "views": null,
-          "likes": 769,
-          "comments": 13,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.33
+          "ratio": 10.38
         },
         {
           "url": "https://www.instagram.com/reel/DfhQDnnuYTt",
           "caption": "Image tracer power 👀❤️‍🔥 #figma #ui #design",
           "date": "2026-11-09",
           "views": null,
-          "likes": 2299,
+          "likes": 2339,
           "comments": 20,
           "shares": null,
           "type": "reel",
           "ratio": 1.0
         },
         {
+          "url": "https://www.instagram.com/reel/DfMr9u3z5TP",
+          "caption": "Insane ❤️‍🔥🫣 This was my recent experiment in @figma #figma #ui #design",
+          "date": "2026-11-01",
+          "views": null,
+          "likes": 4658,
+          "comments": 28,
+          "shares": null,
+          "type": "reel",
+          "ratio": 1.99
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfcG4JCunKq",
+          "caption": "designed by chance 👀🙀 I love this experiment and it happened just by playing with @figma #figma #ui #design",
+          "date": "2026-11-07",
+          "views": null,
+          "likes": 775,
+          "comments": 13,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.33
+        },
+        {
+          "url": "https://www.instagram.com/reel/DaDFH47RmAP",
+          "caption": "Insane levelup 🌟🙀 Figma got shaders now. ❤️ #reels #uiux #ui #figma",
+          "date": "2026-06-26",
+          "views": null,
+          "likes": 30738,
+          "comments": 94,
+          "shares": null,
+          "type": "reel",
+          "ratio": 13.14
+        },
+        {
           "url": "https://www.instagram.com/reel/DfuDFLGzi8X",
           "caption": "this technique ❤️‍🔥🙀 Pattern fill is insane if used properly. #figma #ui #design",
           "date": "2026-11-14",
           "views": null,
-          "likes": 652,
+          "likes": 663,
           "comments": 10,
           "shares": null,
           "type": "reel",
           "ratio": 0.28
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfXOKr2zxXe",
-          "caption": "light penetration ✨️🙀 explored something crazy in @figma #ui #design #figma",
-          "date": "2026-11-05",
-          "views": null,
-          "likes": 1526,
-          "comments": 14,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.66
-        },
-        {
-          "url": "https://www.instagram.com/reel/Df4YK_WTrRC",
-          "caption": "❤️‍🔥🔥 #figma #ui #design",
-          "date": "2026-11-18",
-          "views": null,
-          "likes": null,
-          "comments": 2,
-          "shares": null,
-          "type": "reel",
-          "ratio": null
         },
         {
           "url": "https://www.instagram.com/reel/Dfj2xpHucfn",
@@ -2481,26 +2502,37 @@
           "ratio": null
         },
         {
-          "url": "https://www.instagram.com/reel/DfMr9u3z5TP",
-          "caption": "Insane ❤️‍🔥🫣 This was my recent experiment in @figma #figma #ui #design",
-          "date": "2026-11-01",
+          "url": "https://www.instagram.com/reel/DfXOKr2zxXe",
+          "caption": "light penetration ✨️🙀 explored something crazy in @figma #ui #design #figma",
+          "date": "2026-11-05",
           "views": null,
-          "likes": 4601,
-          "comments": 28,
+          "likes": 1539,
+          "comments": 14,
           "shares": null,
           "type": "reel",
-          "ratio": 2.0
+          "ratio": 0.66
         },
         {
-          "url": "https://www.instagram.com/reel/DaDFH47RmAP",
-          "caption": "Insane levelup 🌟🙀 Figma got shaders now. ❤️ #reels #uiux #ui #figma",
-          "date": "2026-06-26",
+          "url": "https://www.instagram.com/reel/DZpF0eJx_7t",
+          "caption": "Glass tiles 🌟 #reels #figma #uiux #ui",
+          "date": "2026-06-16",
           "views": null,
-          "likes": 30732,
-          "comments": 94,
+          "likes": 19228,
+          "comments": 98,
           "shares": null,
           "type": "reel",
-          "ratio": 13.37
+          "ratio": 8.22
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfFBS0Ozdn1",
+          "caption": "art of masking ❤️‍🔥👀 made with @figma #figma #ui #design",
+          "date": "2026-10-29",
+          "views": null,
+          "likes": 2212,
+          "comments": 7,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.95
         }
       ]
     },
@@ -2509,63 +2541,41 @@
       "handle": "bachynskyi_ui",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
-      "median": 629.0,
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 630.0,
       "posts": [
+        {
+          "url": "https://www.instagram.com/reel/DdgIbqeu5JW",
+          "caption": "Turn a single image into a full 3D scene 👀 Hyper3D WorldGen breaks it into separate 3D objects, lets you change camera angles, generate photos and videos, and then export everything to Blender. Try Hyper3D Rodin Gen-2.5…",
+          "date": "2026-09-20",
+          "views": null,
+          "likes": 545,
+          "comments": 76,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.87
+        },
         {
           "url": "https://www.instagram.com/reel/DfpGK49Orha",
           "caption": "Found a cool way to turn viral videos into content for your brand using Creative Radar by Secret Sauce. More ideas, less hassle! 🔥 Comment “Creative” and grab your link! 👇",
           "date": "2026-11-12",
           "views": null,
           "likes": null,
-          "comments": 69,
+          "comments": 71,
           "shares": null,
           "type": "reel",
           "ratio": null
         },
         {
-          "url": "https://www.instagram.com/reel/DeuH0tcO1yx",
-          "caption": "I tried the new Kling 4.0 and… brought historical photos to life! 🚀 Then I combined it with web design to create an interactive website where you can literally take a peek into the past. Turned out pretty cool! 🔥 Want t…",
-          "date": "2026-10-20",
+          "url": "https://www.instagram.com/reel/DezKlo6OXak",
+          "caption": "Drop “Wow” for the links and save this for inspiration 👀",
+          "date": "2026-10-22",
           "views": null,
-          "likes": null,
-          "comments": 35,
+          "likes": 4288,
+          "comments": 2837,
           "shares": null,
           "type": "reel",
-          "ratio": null
-        },
-        {
-          "url": "https://www.instagram.com/reel/DdQwIxQOm-a",
-          "caption": "Comment “Wow” for all files + Tripo bonuses 🚀 Tested the new GPT-6 Astra together with Tripo in Blender - and it’s pretty cool 👀 My old hero concept tutorials just got a new workflow. Now you can work on the whole Blend…",
-          "date": "2026-09-14",
-          "views": null,
-          "likes": 1879,
-          "comments": 794,
-          "shares": null,
-          "type": "reel",
-          "ratio": 2.99
-        },
-        {
-          "url": "https://www.instagram.com/reel/DeroHyfOdfa",
-          "caption": "Comment “ARTI” and I’ll send my flow! 🚀 Made this website concept with Lovart Arti. Try it yourself! #BuiltWithLovart #AiDesign",
-          "date": "2026-10-19",
-          "views": null,
-          "likes": 408,
-          "comments": 289,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.65
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfHbolDuhDv",
-          "caption": "Made this 3D hero concept with Tripo, Blender, Figma & After Effects ⚙️ Comment “Magic” and I’ll send you the project files! 📂 🎁 Use my code D6RWHO for 500 bonus credits + 60% off your first Pro/Max month 🚀",
-          "date": "2026-10-30",
-          "views": null,
-          "likes": 619,
-          "comments": 121,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.98
+          "ratio": 6.81
         },
         {
           "url": "https://www.instagram.com/reel/DdL068xu5-h",
@@ -2579,37 +2589,59 @@
           "ratio": null
         },
         {
+          "url": "https://www.instagram.com/reel/DdQwIxQOm-a",
+          "caption": "Comment “Wow” for all files + Tripo bonuses 🚀 Tested the new GPT-6 Astra together with Tripo in Blender - and it’s pretty cool 👀 My old hero concept tutorials just got a new workflow. Now you can work on the whole Blend…",
+          "date": "2026-09-14",
+          "views": null,
+          "likes": 1878,
+          "comments": 794,
+          "shares": null,
+          "type": "reel",
+          "ratio": 2.98
+        },
+        {
+          "url": "https://www.instagram.com/reel/DeroHyfOdfa",
+          "caption": "Comment “ARTI” and I’ll send my flow! 🚀 Made this website concept with Lovart Arti. Try it yourself! #BuiltWithLovart #AiDesign",
+          "date": "2026-10-19",
+          "views": null,
+          "likes": 409,
+          "comments": 291,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.65
+        },
+        {
           "url": "https://www.instagram.com/reel/Dd_o1-hOGcW",
           "caption": "Comment “Need” and I’ll send you their profiles. These designers are definitely worth following.",
           "date": "2026-10-02",
           "views": null,
-          "likes": 639,
-          "comments": 555,
+          "likes": 640,
+          "comments": 557,
           "shares": null,
           "type": "reel",
           "ratio": 1.02
         },
         {
-          "url": "https://www.instagram.com/reel/DezKlo6OXak",
-          "caption": "Drop “Wow” for the links and save this for inspiration 👀",
-          "date": "2026-10-22",
+          "url": "https://www.instagram.com/reel/DfHbolDuhDv",
+          "caption": "Made this 3D hero concept with Tripo, Blender, Figma & After Effects ⚙️ Comment “Magic” and I’ll send you the project files! 📂 🎁 Use my code D6RWHO for 500 bonus credits + 60% off your first Pro/Max month 🚀",
+          "date": "2026-10-30",
           "views": null,
-          "likes": 4267,
-          "comments": 2812,
+          "likes": 620,
+          "comments": 125,
           "shares": null,
           "type": "reel",
-          "ratio": 6.78
+          "ratio": 0.98
         },
         {
-          "url": "https://www.instagram.com/reel/DdgIbqeu5JW",
-          "caption": "Turn a single image into a full 3D scene 👀 Hyper3D WorldGen breaks it into separate 3D objects, lets you change camera angles, generate photos and videos, and then export everything to Blender. Try Hyper3D Rodin Gen-2.5…",
-          "date": "2026-09-20",
+          "url": "https://www.instagram.com/reel/DeuH0tcO1yx",
+          "caption": "I tried the new Kling 4.0 and… brought historical photos to life! 🚀 Then I combined it with web design to create an interactive website where you can literally take a peek into the past. Turned out pretty cool! 🔥 Want t…",
+          "date": "2026-10-20",
           "views": null,
-          "likes": 544,
-          "comments": 74,
+          "likes": null,
+          "comments": 35,
           "shares": null,
           "type": "reel",
-          "ratio": 0.86
+          "ratio": null
         },
         {
           "url": "https://www.instagram.com/reel/DeL8vM-OnKf",
@@ -2617,7 +2649,7 @@
           "date": "2026-10-07",
           "views": null,
           "likes": null,
-          "comments": 123,
+          "comments": 125,
           "shares": null,
           "type": "reel",
           "ratio": null
@@ -2629,96 +2661,30 @@
       "handle": "soojintech",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
-      "median": 2317.5,
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 2356.0,
       "posts": [
-        {
-          "url": "https://www.instagram.com/reel/DfYGKR6xHYP",
-          "caption": "What's the difference between Memory vs Storage? Explained and visualized with @meetgamma #gammapartner #memory #storage #computerscience",
-          "date": "2026-11-05",
-          "views": null,
-          "likes": 21732,
-          "comments": 714,
-          "shares": null,
-          "type": "reel",
-          "ratio": 9.38
-        },
-        {
-          "url": "https://www.instagram.com/reel/Dfucc05JO-2",
-          "caption": "Not every app needs to be a billion-dollar startup. Some are worth so much more. Meet Connect, a little app I built for my grandma using @ChatGPT and Codex! Every day, I send her a photo of my life, and she gets to solv…",
-          "date": "2026-11-14",
-          "views": null,
-          "likes": 1365,
-          "comments": 95,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.59
-        },
-        {
-          "url": "https://www.instagram.com/reel/DZ6VmSvheDm",
-          "caption": "Comment \"VOICE\" and I'll send you a link to create your voice clone using @elevenlabsio — it sounds exactly like you and can speak 70+ languages. It's a great use case for: 1. Creators & Founders recording voiceovers or…",
-          "date": "2026-06-23",
-          "views": null,
-          "likes": 100722,
-          "comments": 482,
-          "shares": null,
-          "type": "reel",
-          "ratio": 43.46
-        },
         {
           "url": "https://www.instagram.com/reel/Df3ECL5Bd6U",
           "caption": "One thing I’d absolutely use AI for is creating slides and pitch decks!! Everyone keeps asking how I make my slides look so good, and my answer is GAMMA!! My slides are never boring thanks to @meetgamma ✨ #gammapartner …",
           "date": "2026-11-17",
           "views": null,
-          "likes": 116,
-          "comments": 9,
+          "likes": 186,
+          "comments": 16,
           "shares": null,
           "type": "reel",
-          "ratio": 0.05
+          "ratio": 0.08
         },
         {
-          "url": "https://www.instagram.com/reel/DfdL2H2uVXG",
-          "caption": "How to Vibedirect a short-film? (commercial ads, k-drama, music video) I created this K-drama with @openart_ai and made my childhood dream to come true!! If you want to try comment \"art\" and I'll send you the link! #vib…",
-          "date": "2026-11-07",
+          "url": "https://www.instagram.com/reel/DVRnpZsj21m",
+          "caption": "CLAUDE.MD Explained (10x your work) #vibecoding #claudecode #ai",
+          "date": "2026-02-27",
           "views": null,
-          "likes": 156,
-          "comments": 50,
+          "likes": 20457,
+          "comments": 6891,
           "shares": null,
           "type": "reel",
-          "ratio": 0.07
-        },
-        {
-          "url": "https://www.instagram.com/reel/DffBuryhFoP",
-          "caption": "Get to Know Me Through My Bucket List ✨ (Pt.2 of everything but AI)",
-          "date": "2026-11-08",
-          "views": null,
-          "likes": 162,
-          "comments": 18,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.07
-        },
-        {
-          "url": "https://www.instagram.com/reel/DdCvFdHsnj1",
-          "caption": "Learning AI can feel overwhelming. So I built an advent calendar where you can learn 9 fundamental AI concepts: RAG, inference, embeddings, context windows, tokens, semantic search, MCP, models, and tool calling. I buil…",
-          "date": "2026-09-08",
-          "views": null,
-          "likes": 49938,
-          "comments": 18966,
-          "shares": null,
-          "type": "reel",
-          "ratio": 21.55
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfkwTctPCbp",
-          "caption": "Comment “Fable” to get FREE & UNLIMITED AI video generation for 3 days with @higgsfield.ai MCP! 🚀 #higgsfieldpartner #ai #aitools",
-          "date": "2026-11-10",
-          "views": null,
-          "likes": 3270,
-          "comments": 2049,
-          "shares": null,
-          "type": "reel",
-          "ratio": 1.41
+          "ratio": 8.68
         },
         {
           "url": "https://www.instagram.com/reel/DfVkOKesRTr",
@@ -2732,15 +2698,81 @@
           "ratio": 0.08
         },
         {
-          "url": "https://www.instagram.com/reel/DVRnpZsj21m",
-          "caption": "CLAUDE.MD Explained (10x your work) #vibecoding #claudecode #ai",
-          "date": "2026-02-27",
+          "url": "https://www.instagram.com/reel/DfkwTctPCbp",
+          "caption": "Comment “Fable” to get FREE & UNLIMITED AI video generation for 3 days with @higgsfield.ai MCP! 🚀 #higgsfieldpartner #ai #aitools",
+          "date": "2026-11-10",
           "views": null,
-          "likes": 20453,
-          "comments": 6891,
+          "likes": 3302,
+          "comments": 2073,
           "shares": null,
           "type": "reel",
-          "ratio": 8.83
+          "ratio": 1.4
+        },
+        {
+          "url": "https://www.instagram.com/reel/DffBuryhFoP",
+          "caption": "Get to Know Me Through My Bucket List ✨ (Pt.2 of everything but AI)",
+          "date": "2026-11-08",
+          "views": null,
+          "likes": 164,
+          "comments": 18,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.07
+        },
+        {
+          "url": "https://www.instagram.com/reel/DdCvFdHsnj1",
+          "caption": "Learning AI can feel overwhelming. So I built an advent calendar where you can learn 9 fundamental AI concepts: RAG, inference, embeddings, context windows, tokens, semantic search, MCP, models, and tool calling. I buil…",
+          "date": "2026-09-08",
+          "views": null,
+          "likes": 50275,
+          "comments": 19091,
+          "shares": null,
+          "type": "reel",
+          "ratio": 21.34
+        },
+        {
+          "url": "https://www.instagram.com/reel/Dfucc05JO-2",
+          "caption": "Not every app needs to be a billion-dollar startup. Some are worth so much more. Meet Connect, a little app I built for my grandma using @ChatGPT and Codex! Every day, I send her a photo of my life, and she gets to solv…",
+          "date": "2026-11-14",
+          "views": null,
+          "likes": 1410,
+          "comments": 97,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.6
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfdL2H2uVXG",
+          "caption": "How to Vibedirect a short-film? (commercial ads, k-drama, music video) I created this K-drama with @openart_ai and made my childhood dream to come true!! If you want to try comment \"art\" and I'll send you the link! #vib…",
+          "date": "2026-11-07",
+          "views": null,
+          "likes": 158,
+          "comments": 50,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.07
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfYGKR6xHYP",
+          "caption": "What's the difference between Memory vs Storage? Explained and visualized with @meetgamma #gammapartner #memory #storage #computerscience",
+          "date": "2026-11-05",
+          "views": null,
+          "likes": 21987,
+          "comments": 722,
+          "shares": null,
+          "type": "reel",
+          "ratio": 9.33
+        },
+        {
+          "url": "https://www.instagram.com/reel/DZ6VmSvheDm",
+          "caption": "Comment \"VOICE\" and I'll send you a link to create your voice clone using @elevenlabsio — it sounds exactly like you and can speak 70+ languages. It's a great use case for: 1. Creators & Founders recording voiceovers or…",
+          "date": "2026-06-23",
+          "views": null,
+          "likes": 100969,
+          "comments": 484,
+          "shares": null,
+          "type": "reel",
+          "ratio": 42.86
         }
       ]
     },
@@ -2749,92 +2781,26 @@
       "handle": "ceciliakimdesign",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
-      "median": 120.0,
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 121.0,
       "posts": [
-        {
-          "url": "https://www.instagram.com/p/DfYAaElI95T",
-          "caption": "⭐️ Nessie’s design came from two different options. I kept the dark water from one and the frosted cards from another, instead of picking one whole screen! ⭐️ When AI gives you a few designs, you might like the layout i…",
-          "date": "2026-11-05",
-          "views": null,
-          "likes": 153,
-          "comments": 14,
-          "shares": null,
-          "type": "carousel",
-          "ratio": 1.27
-        },
         {
           "url": "https://www.instagram.com/reel/Dfxxe3mSQn_",
           "caption": "launching my first app ✶ part 8 ✶ app store Part 8 of launching Nessie in 10 days 🦕 I used Nessie’s real screens instead of mockups, so what you see in the screenshots is what you actually get when you open the app. And…",
           "date": "2026-11-15",
           "views": null,
-          "likes": 88,
-          "comments": 3,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.73
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfiCTxSypyb",
-          "caption": "launching my first app ✶ part 2: feedback boards This is part 2 of launching Nessie in 10 days, and today I set up a feedback board so I can stop guessing what to build next! In my last series I literally built way too …",
-          "date": "2026-11-09",
-          "views": null,
-          "likes": 127,
-          "comments": 8,
-          "shares": null,
-          "type": "reel",
-          "ratio": 1.06
-        },
-        {
-          "url": "https://www.instagram.com/reel/Dfp6X0DSG3l",
-          "caption": "launching my first app ✶ part 5 ✶ pricing psychology Part 5 of launching Nessie in 10 days 🦕 I priced Nessie way under the big budgeting apps for a few reasons. It’s brand new, and I’d rather more people actually try it…",
-          "date": "2026-11-12",
-          "views": null,
-          "likes": 242,
-          "comments": 8,
-          "shares": null,
-          "type": "reel",
-          "ratio": 2.02
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfvIobNyuzx",
-          "caption": "launching my first app ✶ part 7 ✶ onboarding psychology Part 7 of launching Nessie in 10 days 🦕 Here are 5 more onboarding tips if you’re getting ready to launch your own app 📱 ✶ Let people practice with pretend data. N…",
-          "date": "2026-11-14",
-          "views": null,
-          "likes": 88,
+          "likes": 94,
           "comments": 4,
           "shares": null,
           "type": "reel",
-          "ratio": 0.73
-        },
-        {
-          "url": "https://www.instagram.com/reel/DfkmZ8Sy_BX",
-          "caption": "launching my first app ✶ part 3: bugs Part 3 of launching Nessie is all about bugs! I really wanted to catch crashes myself before anyone downloads the app, because a crash on day one is such a bad first impression. I w…",
-          "date": "2026-11-10",
-          "views": null,
-          "likes": 98,
-          "comments": 8,
-          "shares": null,
-          "type": "reel",
-          "ratio": 0.82
-        },
-        {
-          "url": "https://www.instagram.com/reel/DffdVnFSKQv",
-          "caption": "launching my first app ✶ part 1: waitlists I have 10 days to launch Nessie on the App Store, and I’m starting with a waitlist since I haven’t told anyone about it until now! If you’re new here, I built Nessie in 14 days…",
-          "date": "2026-11-08",
-          "views": null,
-          "likes": 186,
-          "comments": 15,
-          "shares": null,
-          "type": "reel",
-          "ratio": 1.55
+          "ratio": 0.78
         },
         {
           "url": "https://www.instagram.com/reel/DfsZN3jSSUV",
           "caption": "launching my first app ✶ part 6 ✶ paywall psychology Part 6 of launching Nessie in 10 days 🌱 The paywall is the screen where someone decides if your app is worth paying for, so I wanted mine to feel like an easy yes and…",
           "date": "2026-11-13",
           "views": null,
-          "likes": 113,
+          "likes": 114,
           "comments": 12,
           "shares": null,
           "type": "reel",
@@ -2849,18 +2815,84 @@
           "comments": 11,
           "shares": null,
           "type": "reel",
-          "ratio": 0.93
+          "ratio": 0.92
+        },
+        {
+          "url": "https://www.instagram.com/reel/DffdVnFSKQv",
+          "caption": "launching my first app ✶ part 1: waitlists I have 10 days to launch Nessie on the App Store, and I’m starting with a waitlist since I haven’t told anyone about it until now! If you’re new here, I built Nessie in 14 days…",
+          "date": "2026-11-08",
+          "views": null,
+          "likes": 187,
+          "comments": 15,
+          "shares": null,
+          "type": "reel",
+          "ratio": 1.55
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfiCTxSypyb",
+          "caption": "launching my first app ✶ part 2: feedback boards This is part 2 of launching Nessie in 10 days, and today I set up a feedback board so I can stop guessing what to build next! In my last series I literally built way too …",
+          "date": "2026-11-09",
+          "views": null,
+          "likes": 128,
+          "comments": 8,
+          "shares": null,
+          "type": "reel",
+          "ratio": 1.06
+        },
+        {
+          "url": "https://www.instagram.com/p/DfYAaElI95T",
+          "caption": "⭐️ Nessie’s design came from two different options. I kept the dark water from one and the frosted cards from another, instead of picking one whole screen! ⭐️ When AI gives you a few designs, you might like the layout i…",
+          "date": "2026-11-05",
+          "views": null,
+          "likes": 159,
+          "comments": 14,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 1.31
         },
         {
           "url": "https://www.instagram.com/reel/Dfcx9J9yNRE",
           "caption": "I almost shipped an update to my first app that read an invoice number as the amount I got paid😭 I built Nessie to keep track of my freelance income, so the math has to be right. Before a new feature update went in, I h…",
           "date": "2026-11-07",
           "views": null,
-          "likes": 171,
+          "likes": 173,
           "comments": 8,
           "shares": null,
           "type": "reel",
           "ratio": 1.43
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfkmZ8Sy_BX",
+          "caption": "launching my first app ✶ part 3: bugs Part 3 of launching Nessie is all about bugs! I really wanted to catch crashes myself before anyone downloads the app, because a crash on day one is such a bad first impression. I w…",
+          "date": "2026-11-10",
+          "views": null,
+          "likes": 99,
+          "comments": 8,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.82
+        },
+        {
+          "url": "https://www.instagram.com/reel/Dfp6X0DSG3l",
+          "caption": "launching my first app ✶ part 5 ✶ pricing psychology Part 5 of launching Nessie in 10 days 🦕 I priced Nessie way under the big budgeting apps for a few reasons. It’s brand new, and I’d rather more people actually try it…",
+          "date": "2026-11-12",
+          "views": null,
+          "likes": 251,
+          "comments": 8,
+          "shares": null,
+          "type": "reel",
+          "ratio": 2.07
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfvIobNyuzx",
+          "caption": "launching my first app ✶ part 7 ✶ onboarding psychology Part 7 of launching Nessie in 10 days 🦕 Here are 5 more onboarding tips if you’re getting ready to launch your own app 📱 ✶ Let people practice with pretend data. N…",
+          "date": "2026-11-14",
+          "views": null,
+          "likes": 93,
+          "comments": 4,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.77
         }
       ]
     },
@@ -2869,15 +2901,48 @@
       "handle": "carol.yaps",
       "metric": "likes",
       "status": "ok",
-      "fetched_at": "2026-11-18T13:59:12Z",
-      "median": 16318,
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 16326,
       "posts": [
+        {
+          "url": "https://www.instagram.com/reel/DUghWfNj0wP",
+          "caption": "thinking about the Super Bowl led to me thinking about my hatred of ICE so here’s my breakdown on Palantir 🙃 #palantir #usarmy",
+          "date": "2026-02-08",
+          "views": null,
+          "likes": 110494,
+          "comments": 966,
+          "shares": null,
+          "type": "reel",
+          "ratio": 6.77
+        },
+        {
+          "url": "https://www.instagram.com/reel/De0MZ2BxE9N",
+          "caption": "We’re finally done with the end to end tutorial of this library! comment LIBRARY for the links to mine, the guide to make your own, and deploy your project on @vercel (and give me a book rec….) Thanks for joining me on …",
+          "date": "2026-10-22",
+          "views": null,
+          "likes": 8623,
+          "comments": 915,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.53
+        },
+        {
+          "url": "https://www.instagram.com/reel/DbH1rrJAykC",
+          "caption": "big fan of ai literacy whether you’re pro or anti 🤝 #aiagents #ai",
+          "date": "2026-07-23",
+          "views": null,
+          "likes": 89187,
+          "comments": 201,
+          "shares": null,
+          "type": "reel",
+          "ratio": 5.46
+        },
         {
           "url": "https://www.instagram.com/reel/DTqTLttj_iS",
           "caption": "I want the girlies to be disgustingly financially educated #financialliteracy #investing",
           "date": "2026-01-18",
           "views": null,
-          "likes": 13472,
+          "likes": 13485,
           "comments": 124,
           "shares": null,
           "type": "reel",
@@ -2888,66 +2953,153 @@
           "caption": "just me my groutfit and my late night thoughts Also @drinkpoppi I’m obsessed w u plz sponsor me #taste #ai #softwareengineering",
           "date": "2026-03-24",
           "views": null,
-          "likes": 16318,
-          "comments": 219,
+          "likes": 16326,
+          "comments": 220,
           "shares": null,
           "type": "reel",
           "ratio": 1.0
-        },
-        {
-          "url": "https://www.instagram.com/reel/DUghWfNj0wP",
-          "caption": "thinking about the Super Bowl led to me thinking about my hatred of ICE so here’s my breakdown on Palantir 🙃 #palantir #usarmy",
-          "date": "2026-02-08",
-          "views": null,
-          "likes": 110501,
-          "comments": 966,
-          "shares": null,
-          "type": "reel",
-          "ratio": 6.77
-        },
-        {
-          "url": "https://www.instagram.com/reel/DezDIA6xuVs",
-          "caption": "why bots outnumbering humans is not that scary (yet) #ai #agents #deadinternettheory",
-          "date": "2026-10-22",
-          "views": null,
-          "likes": 25222,
-          "comments": 265,
-          "shares": null,
-          "type": "reel",
-          "ratio": 1.55
         },
         {
           "url": "https://www.instagram.com/reel/DdtqRtRxcO8",
           "caption": "how to be an introvert in an extrovert’s world 🤝 #introversion #networking",
           "date": "2026-09-25",
           "views": null,
-          "likes": 9074,
-          "comments": 110,
+          "likes": 9357,
+          "comments": 115,
           "shares": null,
           "type": "reel",
-          "ratio": 0.56
+          "ratio": 0.57
         },
         {
-          "url": "https://www.instagram.com/reel/De0MZ2BxE9N",
-          "caption": "We’re finally done with the end to end tutorial of this library! comment LIBRARY for the links to mine, the guide to make your own, and deploy your project on @vercel (and give me a book rec….) Thanks for joining me on …",
+          "url": "https://www.instagram.com/reel/DezDIA6xuVs",
+          "caption": "why bots outnumbering humans is not that scary (yet) #ai #agents #deadinternettheory",
           "date": "2026-10-22",
           "views": null,
-          "likes": 8486,
-          "comments": 886,
+          "likes": 25539,
+          "comments": 270,
           "shares": null,
           "type": "reel",
-          "ratio": 0.52
+          "ratio": 1.56
+        }
+      ]
+    },
+    {
+      "platform": "instagram",
+      "handle": "design4me__",
+      "metric": "likes",
+      "status": "ok",
+      "fetched_at": "2026-11-19T14:25:58Z",
+      "median": 1026.5,
+      "posts": [
+        {
+          "url": "https://www.instagram.com/reel/DfPOHlfIVsM",
+          "caption": "🚨 new curated website inspo alert!! this time it’s all about mouse interactions! i love when designers put so much creativity into something as simple as moving your mouse. it’s those little things that make a website f…",
+          "date": "2026-11-02",
+          "views": null,
+          "likes": 3345,
+          "comments": 401,
+          "shares": null,
+          "type": "reel",
+          "ratio": 3.26
         },
         {
-          "url": "https://www.instagram.com/reel/DbH1rrJAykC",
-          "caption": "big fan of ai literacy whether you’re pro or anti 🤝 #aiagents #ai",
-          "date": "2026-07-23",
+          "url": "https://www.instagram.com/p/De1bWabiBNP",
+          "caption": "6K to 200K in a year and a half. like… WHAT?! 🥹 still can’t quite believe it. so much work behind all of this. so many ups and downs. creative highs, burnout, dream collabs, rejections. a million random ideas and weird …",
+          "date": "2026-10-23",
           "views": null,
-          "likes": 89177,
-          "comments": 201,
+          "likes": 584,
+          "comments": 83,
+          "shares": null,
+          "type": "carousel",
+          "ratio": 0.57
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfHyZQoIH_U",
+          "caption": "They say the best way to face your fears is to confront them. So I guess this is my version of therapy for arachnophobia. 🕷️ I wanted to build a little archive of all the cool things I come across. And somehow decided i…",
+          "date": "2026-10-30",
+          "views": null,
+          "likes": 12279,
+          "comments": 775,
           "shares": null,
           "type": "reel",
-          "ratio": 5.46
+          "ratio": 11.96
+        },
+        {
+          "url": "https://www.instagram.com/reel/Df6z6lEIaM1",
+          "caption": "i think i’m entering my weird web tools era these are 4 tools i’ve been coming back to lately super simple, but way more fun than they have any right to be drop “Inspo” and i’ll send you the links",
+          "date": "2026-11-19",
+          "views": null,
+          "likes": 398,
+          "comments": 179,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.39
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfrcRHsIS3_",
+          "caption": "🚨 free website templates alert! found some really good ones that honestly have no business being free. whether you’re working on your own website or just wanna try something new, pick your favorite, add your own touch, …",
+          "date": "2026-11-13",
+          "views": null,
+          "likes": 2946,
+          "comments": 1156,
+          "shares": null,
+          "type": "reel",
+          "ratio": 2.87
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfzI-Ubo898",
+          "caption": "‼️ save this before you build your next website. I found another batch of free mouse-reactive Framer components that make any website feel way more polished. Comment BOX and I’II send you every link.",
+          "date": "2026-11-16",
+          "views": null,
+          "likes": 1061,
+          "comments": 348,
+          "shares": null,
+          "type": "reel",
+          "ratio": 1.03
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfmocreIXCF",
+          "caption": "I think my website experiments are getting a little out of hand🐛 This time, I wanted to try creating a tiny ecosystem where a caterpillar eats through my website instead of leaves. Comment BOOK and I’ll send you the ful…",
+          "date": "2026-11-11",
+          "views": null,
+          "likes": 770,
+          "comments": 98,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.75
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfXLgIyoEPr",
+          "caption": "new curated list alert! ‼️ This time it’s all about playful interactions. I love when designers take something as simple as scrolling, hovering, or clicking and find a completely different way to use it. Comment BUILD a…",
+          "date": "2026-11-05",
+          "views": null,
+          "likes": 982,
+          "comments": 257,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.96
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfhbYp4IktV",
+          "caption": "Not me bringing back the 2000s just to send my bestie a gift 🎁 So I made this little digital iPod where you can add photos, notes, voice messages, videos, all that stuff. And the funny thing is, you can just send it as …",
+          "date": "2026-11-09",
+          "views": null,
+          "likes": 992,
+          "comments": 220,
+          "shares": null,
+          "type": "reel",
+          "ratio": 0.97
+        },
+        {
+          "url": "https://www.instagram.com/reel/DfUqtu9oDkY",
+          "caption": "I think we seriously underestimate what a simple scroll can do. Like, it’s such a basic thing. We barely even notice we’re doing it. But add a little storytelling, some clever transitions, and suddenly you’re hooked. Ju…",
+          "date": "2026-11-04",
+          "views": null,
+          "likes": 1948,
+          "comments": 545,
+          "shares": null,
+          "type": "reel",
+          "ratio": 1.9
         }
       ]
     }
