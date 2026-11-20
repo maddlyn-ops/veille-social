@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T14:25:59Z",
+  "generated_at": "2026-11-20T14:01:52Z",
   "feeds": [
     {
       "name": "Medium : Dolly Borade Solanki",
@@ -7,6 +7,19 @@
       "url": "https://medium.com/feed/@dollyborade07",
       "status": "ok",
       "items": [
+        {
+          "title": "What Makes a UX Case Study Unforgettable? 7 Elements",
+          "url": "https://medium.com/@dollyborade07/what-makes-a-ux-case-study-unforgettable-7-elements-a740b277c3bc",
+          "date": "2026-11-20",
+          "author": "Dolly Borade Solanki",
+          "tags": [
+            "ui-ux-design",
+            "ui-ux",
+            "ux-design",
+            "ux",
+            "ui-ux-case-study"
+          ]
+        },
         {
           "title": "7-Point UX Portfolio Formula I’d Use To Get Noticed by Global Product Companies",
           "url": "https://medium.com/@dollyborade07/7-point-ux-portfolio-formula-id-use-to-get-noticed-by-global-product-companies-71824ab51b7b",
@@ -122,19 +135,6 @@
             "ai",
             "ui",
             "ux"
-          ]
-        },
-        {
-          "title": "I’m Preparing for a UX Skill Shift Most Designers Are Still Watching From the Sidelines",
-          "url": "https://medium.com/@dollyborade07/im-preparing-for-a-ux-skill-shift-most-designers-are-still-watching-from-the-sidelines-73f5d9d2b150",
-          "date": "2026-09-19",
-          "author": "Dolly Borade Solanki",
-          "tags": [
-            "ui-ux-design",
-            "ai",
-            "ux",
-            "ux-design",
-            "ui-ux"
           ]
         }
       ]
@@ -284,125 +284,127 @@
       "status": "ok",
       "items": [
         {
-          "title": "How do you evolve an AI feature? A Product designer’s blueprint",
-          "url": "https://medium.com/design-bootcamp/how-do-you-evolve-an-ai-feature-a-product-designers-blueprint-871b6c701c36",
-          "date": "2026-11-19",
-          "author": "Parthavi Patel",
+          "title": "What happens when a designer decides to build, not just design?",
+          "url": "https://medium.com/design-bootcamp/what-happens-when-a-designer-decides-to-build-not-just-design-be0a0382573c",
+          "date": "2026-11-20",
+          "author": "Ebele Egbuna",
+          "tags": [
+            "vibe-coding",
+            "generative-ai-tools",
+            "ux-design-portfolio",
+            "ux-design",
+            "product-design"
+          ]
+        },
+        {
+          "title": "Everyone Can Build Now. Who’s Making Sure It’s Usable?",
+          "url": "https://medium.com/design-bootcamp/everyone-can-build-now-whos-making-sure-it-s-usable-86d6e20fe40d",
+          "date": "2026-11-20",
+          "author": "Muhammed Faris",
           "tags": [
             "ux-design",
-            "ux",
             "product-design",
-            "agentic-ai",
+            "design",
             "ai"
           ]
         },
         {
-          "title": "Designing with Claude: my new product design process",
-          "url": "https://medium.com/design-bootcamp/designing-with-claude-my-new-product-design-process-e2efe9471ed7",
-          "date": "2026-11-19",
-          "author": "Nishank Kumbhalwar",
+          "title": "A2UI 1.0 : A Deep Dive on How Agents Build Native UI",
+          "url": "https://medium.com/design-bootcamp/a2ui-1-0-a-deep-dive-on-how-agents-build-native-ui-bf1b9b567a63",
+          "date": "2026-11-20",
+          "author": "Abhirupa Mitra",
           "tags": [
+            "design",
+            "frontend",
             "ai",
-            "claude",
+            "llm",
+            "programming"
+          ]
+        },
+        {
+          "title": "What Happens at the End of a Design Project?",
+          "url": "https://medium.com/design-bootcamp/what-happens-at-the-end-of-a-design-project-cf5a7b1a4132",
+          "date": "2026-11-20",
+          "author": "Zsuzsanna Petrovics",
+          "tags": [
+            "design",
+            "projects"
+          ]
+        },
+        {
+          "title": "The UX Writer is missing. The writing isn’t",
+          "url": "https://medium.com/design-bootcamp/the-ux-writer-is-missing-the-writing-isnt-075c1f0416af",
+          "date": "2026-11-20",
+          "author": "Burcu Özgüçlü",
+          "tags": [
+            "ux",
+            "writing",
+            "ux-writing",
             "ux-design",
-            "product-design",
-            "design-process"
+            "product-design"
           ]
         },
         {
-          "title": "The speed trap",
-          "url": "https://medium.com/design-bootcamp/the-speed-trap-e15e778fbc45",
-          "date": "2026-11-19",
-          "author": "Gemma Rubio Rodrigo",
-          "tags": [
-            "communication",
-            "leadership",
-            "business-strategy",
-            "business"
-          ]
-        },
-        {
-          "title": "Building Shopscan’s credibility audit: from a checklist to a reviewable workflow",
-          "url": "https://medium.com/design-bootcamp/building-shopscans-credibility-audit-from-a-checklist-to-a-reviewable-workflow-5dec3d2dfa3b",
-          "date": "2026-11-19",
-          "author": "Aneetta Davis",
-          "tags": [
-            "redesign",
-            "audit",
-            "store-audit",
-            "ux-research",
-            "shopify"
-          ]
-        },
-        {
-          "title": "How I moved into a product role",
-          "url": "https://medium.com/design-bootcamp/how-i-moved-into-a-product-role-18170253b3ea",
-          "date": "2026-11-19",
-          "author": "Thomas Wright",
-          "tags": []
-        },
-        {
-          "title": "The Hidden Cost of Competence",
-          "url": "https://medium.com/design-bootcamp/the-hidden-cost-of-competence-e1532d96a14c",
-          "date": "2026-11-19",
-          "author": "Janine Rosado",
-          "tags": [
-            "ux-design",
-            "organizational-culture",
-            "design-leadership",
-            "ways-of-working",
-            "employee-burnout"
-          ]
-        },
-        {
-          "title": "The Golden Age of JRPGs: How the 90s Changed Games Forever (A Game Designer Looks Back)",
-          "url": "https://medium.com/design-bootcamp/the-golden-age-of-jrpgs-how-the-90s-changed-games-forever-a-game-designer-looks-back-a70a8edc960b",
-          "date": "2026-11-19",
-          "author": "Sam Liberty",
+          "title": "Korea fought AI with a ringtone",
+          "url": "https://medium.com/design-bootcamp/korea-fought-ai-with-a-ringtone-d29290231692",
+          "date": "2026-11-20",
+          "author": "Gaya Kim",
           "tags": [
             "technology",
-            "history",
-            "games",
-            "japan",
-            "game-design"
+            "south-korea",
+            "ai",
+            "education",
+            "future-of-work"
           ]
         },
         {
-          "title": "Meta’s AI Changed a Bookseller’s Ad Without Asking.",
-          "url": "https://medium.com/design-bootcamp/metas-ai-changed-a-bookseller-s-ad-without-asking-c8205c9965aa",
-          "date": "2026-11-19",
-          "author": "Amajuoyi Udochukwu Deborah",
+          "title": "“Designer who code”: what do we call this new breed of digital creatives?",
+          "url": "https://medium.com/design-bootcamp/designer-who-code-what-do-we-call-this-new-breed-of-digital-creatives-4b57697c9c61",
+          "date": "2026-11-20",
+          "author": "Dàniel Dalia",
+          "tags": [
+            "product-design-engineer",
+            "future-of-work",
+            "ux-design",
+            "ux"
+          ]
+        },
+        {
+          "title": "The AI Company That Had to Decide When to Stop",
+          "url": "https://medium.com/design-bootcamp/the-ai-company-that-had-to-decide-when-to-stop-dfdd42220a26",
+          "date": "2026-11-20",
+          "author": "Divya Sabade",
           "tags": [
             "artificial-intelligence",
-            "advertising",
-            "ux-design",
-            "meta",
-            "product-management"
+            "product-management",
+            "ai-agent",
+            "startup",
+            "ai"
           ]
         },
         {
-          "title": "Balancing accessibility with the human behind the wheel — Automotive UX",
-          "url": "https://medium.com/design-bootcamp/balancing-accessibility-with-the-human-behind-the-wheel-automotive-ux-3e8531f1fb88",
-          "date": "2026-11-18",
-          "author": "Sourabhpanwar",
+          "title": "The Hidden UX of a Physical Store: Your Showroom Is Part of the Product",
+          "url": "https://medium.com/design-bootcamp/the-hidden-ux-of-a-physical-store-your-showroom-is-part-of-the-product-a85421363473",
+          "date": "2026-11-20",
+          "author": "Vijay Ram",
           "tags": [
-            "automotive-industry",
-            "domain-driven-design",
-            "ux-design",
-            "accessibility"
-          ]
-        },
-        {
-          "title": "Amazon Didn’t Kill Cash on Delivery. It Priced It.",
-          "url": "https://medium.com/design-bootcamp/amazon-didnt-kill-cash-on-delivery-it-priced-it-a0f70bfe32de",
-          "date": "2026-11-18",
-          "author": "Jayendra More",
-          "tags": [
-            "fintech",
             "product-design",
-            "amazon-payments",
-            "ecommerce",
-            "product-management"
+            "design-thinking",
+            "ux-design",
+            "psychology"
+          ]
+        },
+        {
+          "title": "Readable isn’t buildable",
+          "url": "https://medium.com/design-bootcamp/readable-isnt-buildable-a6ee9dfd0c26",
+          "date": "2026-11-20",
+          "author": "Valeria Nyman",
+          "tags": [
+            "product-design",
+            "agentic-ai",
+            "ux-design",
+            "design-systems",
+            "ai-agent"
           ]
         }
       ]
