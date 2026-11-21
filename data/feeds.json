@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T14:01:52Z",
+  "generated_at": "2026-11-21T13:25:39Z",
   "feeds": [
     {
       "name": "Medium : Dolly Borade Solanki",
@@ -146,6 +146,19 @@
       "status": "ok",
       "items": [
         {
+          "title": "The only way to get rich on Anthropic IPO right now",
+          "url": "https://michalmalewicz.medium.com/the-only-way-to-get-rich-on-anthropic-ipo-right-now-e1b475ed67fb",
+          "date": "2026-11-20",
+          "author": "Michal Malewicz",
+          "tags": [
+            "artificial-intelligence",
+            "ai",
+            "finance",
+            "investing",
+            "technology"
+          ]
+        },
+        {
           "title": "Vibe Coding vs Vice City. GTA 6 vs Anthropic.",
           "url": "https://michalmalewicz.medium.com/november-19th-brings-the-biggest-threat-for-ai-ever-c823ce5bdbb4",
           "date": "2026-11-14",
@@ -261,19 +274,6 @@
             "future",
             "ai"
           ]
-        },
-        {
-          "title": "Adobe, Claude and the end of Software",
-          "url": "https://michalmalewicz.medium.com/adobe-claude-and-the-end-of-software-738cf585ac4b",
-          "date": "2026-10-11",
-          "author": "Michal Malewicz",
-          "tags": [
-            "future",
-            "artificial-intelligence",
-            "software-development",
-            "technology",
-            "ai"
-          ]
         }
       ]
     },
@@ -283,6 +283,44 @@
       "url": "https://medium.com/feed/design-bootcamp",
       "status": "ok",
       "items": [
+        {
+          "title": "How to design for iPhone Duo: a foldable layout tutorial in Figma",
+          "url": "https://medium.com/design-bootcamp/how-to-design-for-iphone-duo-a-foldable-layout-tutorial-in-figma-d8754714486d",
+          "date": "2026-11-20",
+          "author": "Muskaan Arai",
+          "tags": [
+            "mobile-design",
+            "ui-design",
+            "iphone-duo",
+            "ux-design",
+            "figma"
+          ]
+        },
+        {
+          "title": "“We need this to be green”: designing without the final say in Central Asia",
+          "url": "https://medium.com/design-bootcamp/we-need-this-to-be-green-designing-without-the-final-say-in-central-asia-309c0d081f63",
+          "date": "2026-11-20",
+          "author": "Aleksei Kirdiaev",
+          "tags": [
+            "product-design",
+            "design",
+            "ux-design",
+            "ux-research"
+          ]
+        },
+        {
+          "title": "The Design OS for Early-Stage Startups",
+          "url": "https://medium.com/design-bootcamp/the-design-os-for-early-stage-startups-b9e9f11aea96",
+          "date": "2026-11-20",
+          "author": "Xinran Ma",
+          "tags": [
+            "startup",
+            "ui",
+            "branding",
+            "ux-design",
+            "ux"
+          ]
+        },
         {
           "title": "What happens when a designer decides to build, not just design?",
           "url": "https://medium.com/design-bootcamp/what-happens-when-a-designer-decides-to-build-not-just-design-be0a0382573c",
@@ -367,44 +405,6 @@
             "future-of-work",
             "ux-design",
             "ux"
-          ]
-        },
-        {
-          "title": "The AI Company That Had to Decide When to Stop",
-          "url": "https://medium.com/design-bootcamp/the-ai-company-that-had-to-decide-when-to-stop-dfdd42220a26",
-          "date": "2026-11-20",
-          "author": "Divya Sabade",
-          "tags": [
-            "artificial-intelligence",
-            "product-management",
-            "ai-agent",
-            "startup",
-            "ai"
-          ]
-        },
-        {
-          "title": "The Hidden UX of a Physical Store: Your Showroom Is Part of the Product",
-          "url": "https://medium.com/design-bootcamp/the-hidden-ux-of-a-physical-store-your-showroom-is-part-of-the-product-a85421363473",
-          "date": "2026-11-20",
-          "author": "Vijay Ram",
-          "tags": [
-            "product-design",
-            "design-thinking",
-            "ux-design",
-            "psychology"
-          ]
-        },
-        {
-          "title": "Readable isn’t buildable",
-          "url": "https://medium.com/design-bootcamp/readable-isnt-buildable-a6ee9dfd0c26",
-          "date": "2026-11-20",
-          "author": "Valeria Nyman",
-          "tags": [
-            "product-design",
-            "agentic-ai",
-            "ux-design",
-            "design-systems",
-            "ai-agent"
           ]
         }
       ]
