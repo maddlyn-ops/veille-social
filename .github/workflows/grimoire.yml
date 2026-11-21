@@ -1,0 +1,66 @@
+name: Grimoire pilote
+
+# Collecte complète (stats, images clés, transcription) de quelques comptes TikTok.
+# Séparé du relevé quotidien : ne touche ni à data/ ni à la branche main.
+# Le résultat part dans un artefact conservé 1 jour, rien n'est écrit dans le dépôt.
+
+on:
+  workflow_dispatch:
+    inputs:
+      accounts:
+        description: "Comptes à traiter, au format compte:role (role = prof ou modele), séparés par des virgules"
+        default: "antoine.spambusiness:prof,meshtimes:modele"
+      limit:
+        description: "Nombre de posts par compte"
+        default: "20"
+  push:
+    branches: [grimoire-pilote]
+    paths: ["grimoire.py", ".github/workflows/grimoire.yml", "grimoire-run.txt"]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: grimoire
+  cancel-in-progress: true
+
+jobs:
+  pilote:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Installer les outils
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          pip install --quiet --upgrade yt-dlp gallery-dl faster-whisper pillow
+      - name: Lire les réglages du lancement
+        id: cfg
+        run: |
+          ACCOUNTS="${{ inputs.accounts }}"
+          LIMIT="${{ inputs.limit }}"
+          if [ -z "$ACCOUNTS" ] && [ -f grimoire-run.txt ]; then
+            ACCOUNTS="$(sed -n 1p grimoire-run.txt)"
+            LIMIT="$(sed -n 2p grimoire-run.txt)"
+          fi
+          echo "accounts=${ACCOUNTS:-antoine.spambusiness:prof,meshtimes:modele}" >> "$GITHUB_OUTPUT"
+          echo "limit=${LIMIT:-20}" >> "$GITHUB_OUTPUT"
+      - name: Collecter
+        env:
+          GRIMOIRE_ACCOUNTS: ${{ steps.cfg.outputs.accounts }}
+          GRIMOIRE_LIMIT: ${{ steps.cfg.outputs.limit }}
+          GRIMOIRE_BUDGET_MIN: "60"
+          WHISPER_MODEL: small
+        run: python grimoire.py
+      - name: Garder le résultat (1 jour)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: grimoire-pilote
+          path: out/
+          retention-days: 1
+          if-no-files-found: warn
