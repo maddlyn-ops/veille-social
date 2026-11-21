@@ -43,8 +43,6 @@ EVENT_DELTA = 0.08     # part de l'image qui doit sortir du fond habituel
 EVENT_CHANGE = 0.10    # changement minimal entre deux images d'un même moment
 CUT_CHANGE = 0.30      # changement de plan, pour les vidéos sans fond stable
 STATIC_LIMIT = 0.30    # en dessous : fond stable (face caméra, plan fixe)
-ORIGINAL_SOUND = ("original sound", "son original", "sonido original", "originalton",
-                  "suono originale", "som original", "오리지널", "оригинальный")
 
 
 def now_iso():
@@ -136,16 +134,22 @@ def probe(path):
     return bool(video) and video not in ("mjpeg", "png"), duration
 
 
-def sound_of(info):
-    """Le son utilisé : son original du créateur, ou morceau du catalogue."""
+def norm(text):
+    return "".join(ch for ch in str(text or "").lower() if ch.isalnum())
+
+
+def sound_of(info, handle=""):
+    """Le son utilisé. `own` = le son appartient au compte lui-même (sa propre voix ou
+    son propre enregistrement) ; sinon c'est un son emprunté : morceau du catalogue
+    ou son original d'un autre compte."""
     track = info.get("track")
     artists = info.get("artists") or ([info.get("artist")] if info.get("artist") else [])
-    original = None
-    if track:
-        original = any(k in str(track).lower() for k in ORIGINAL_SOUND)
+    artist = ", ".join(str(a) for a in artists if a)
+    names = {norm(n) for n in (handle, info.get("uploader"), info.get("channel"), info.get("creator")) if n}
+    names.discard("")
+    own = bool(artist) and norm(artist) in names if track or artist else None
     return {"track": clip(track, 120) if track else None,
-            "artist": clip(", ".join(str(a) for a in artists if a), 120) or None,
-            "original": original}
+            "artist": clip(artist, 120) or None, "own": own}
 
 
 def download_media(url, workdir):
@@ -378,12 +382,14 @@ def transcribe(media, workdir):
 
 
 def voice_label(transcript, sound):
-    """parole / aucune / a_verifier_musique (texte transcrit sur un morceau du catalogue :
-    ce sont peut-être les paroles de la chanson, à trancher à la lecture)."""
-    if (transcript or {}).get("speech_seconds", 0) < 2:
+    """parole / aucune / a_verifier_son_emprunte (texte transcrit sur un son qui n'est pas
+    celui du compte : paroles de chanson ou voix de quelqu'un d'autre, à trancher à la lecture)."""
+    tr = transcript or {}
+    # Sous 3 secondes ou 5 mots, c'est le plus souvent un mot inventé par la transcription
+    if tr.get("speech_seconds", 0) < 3 or len(str(tr.get("text") or "").split()) < 5:
         return "aucune"
-    if (sound or {}).get("original") is False:
-        return "a_verifier_musique"
+    if (sound or {}).get("own") is False:
+        return "a_verifier_son_emprunte"
     return "parole"
 
 
@@ -401,7 +407,7 @@ def process_post(post, outdir):
         except Exception as exc:
             media_error = clip(exc)
         has_video, duration = probe(media) if media else (False, 0.0)
-        post["sound"] = sound_of(info)
+        post["sound"] = sound_of(info, post.get("handle") or "")
 
         if has_video:
             post["kind"] = "video"
@@ -462,7 +468,7 @@ def write_report(accounts, started):
             continue
         lines += [f"- posts listés : {len(posts)}, médiane {a.get('median_views')} vues",
                   f"- traités : {len(ok)} (vidéos {len(videos)}, carrousels {len(photos)}), en erreur : {len([p for p in posts if p.get('status') == 'erreur'])}, non traités : {len([p for p in posts if not p.get('status')])}",
-                  f"- voix : parole {len([p for p in videos if p.get('voice') == 'parole'])}, à vérifier (musique) {len([p for p in videos if p.get('voice') == 'a_verifier_musique'])}, aucune {len([p for p in videos if p.get('voice') == 'aucune'])}",
+                  f"- voix : parole {len([p for p in videos if p.get('voice') == 'parole'])}, à vérifier (son emprunté) {len([p for p in videos if p.get('voice') == 'a_verifier_son_emprunte'])}, aucune {len([p for p in videos if p.get('voice') == 'aucune'])}",
                   f"- enregistrements disponibles : {'oui' if any(p.get('saves') is not None for p in posts) else 'non'}",
                   "", "| date | type | vues | ratio | statut | voix | parole (s) | moments visuels | images | son | post |",
                   "|---|---|---|---|---|---|---|---|---|---|---|"]
@@ -524,6 +530,7 @@ def main():
             print("budget de temps atteint, arrêt du traitement", flush=True)
             break
         t0 = time.time()
+        post["handle"] = a["handle"]
         process_post(post, OUT / a["handle"] / post["id"])
         tr = post.get("transcript") or {}
         print(f"@{a['handle']} {post['id']}: {post.get('kind')} {post['status']} "
