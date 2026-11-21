@@ -234,15 +234,24 @@ _MODEL = None
 def transcribe(media, workdir):
     global _MODEL
     wav = workdir / "audio.wav"
-    res = run(["ffmpeg", "-y", "-v", "error", "-i", str(media), "-vn", "-ac", "1", "-ar", "16000", str(wav)])
+    empty = {"language": None, "text": "", "segments": [], "speech_seconds": 0}
+    res = run(["ffmpeg", "-y", "-v", "error", "-i", str(media), "-vn", "-ac", "1", "-ar", "16000",
+               "-c:a", "pcm_s16le", str(wav)])
     if not wav.exists() or not wav.stat().st_size:
-        return {"language": None, "text": "", "segments": [], "speech_seconds": 0,
-                "note": clip(res.stderr or "pas de piste audio", 120)}
+        return {**empty, "note": clip(res.stderr or "pas de piste audio", 120)}
+    # Le son est lu ici (wave + numpy) plutôt que par le décodeur de faster-whisper,
+    # qui casse avec les versions récentes de PyAV.
+    import wave
+    import numpy as np
+    with wave.open(str(wav), "rb") as fh:
+        audio = np.frombuffer(fh.readframes(fh.getnframes()), dtype=np.int16).astype(np.float32) / 32768.0
+    if audio.size < 16000:  # moins d'une seconde de son
+        return {**empty, "note": "son trop court"}
     if _MODEL is None:
         from faster_whisper import WhisperModel
         _MODEL = WhisperModel(os.environ.get("WHISPER_MODEL", "small"), device="cpu",
                               compute_type="int8", cpu_threads=os.cpu_count() or 2)
-    segments, info = _MODEL.transcribe(str(wav), vad_filter=True, beam_size=5)
+    segments, info = _MODEL.transcribe(audio, vad_filter=True, beam_size=5)
     rows = [{"start": round(s.start, 1), "end": round(s.end, 1), "text": s.text.strip()} for s in segments]
     return {
         "language": info.language,
@@ -272,7 +281,11 @@ def process_post(post, outdir):
             post["kind"] = "video"
             post["duration"] = post.get("duration") or round(duration)
             post["files"] = make_sheets(media, duration, work, outdir)
-            post["transcript"] = transcribe(media, work)
+            try:
+                post["transcript"] = transcribe(media, work)
+            except Exception as exc:  # les images restent utiles même sans texte
+                post["transcript"] = {"language": None, "text": "", "segments": [],
+                                      "speech_seconds": 0, "note": "ERREUR " + clip(exc, 200)}
         else:
             # Pas de piste vidéo : carrousel photo, ou téléchargement refusé
             try:
@@ -316,7 +329,7 @@ def write_report(accounts, started):
             tr = p.get("transcript") or {}
             lines.append(f"| {p.get('date')} | {p.get('kind', '')} | {p.get('views')} | {p.get('ratio')} | "
                          f"{p.get('status', 'non traité')} | {tr.get('language') or ''} | {tr.get('speech_seconds', '')} | "
-                         f"{len(p.get('files') or [])} | {p['id']} {clip(p.get('error') or p.get('caption'), 70)} |")
+                         f"{len(p.get('files') or [])} | {p['id']} {clip(p.get('error') or tr.get('note') or p.get('caption'), 70)} |")
         lines.append("")
     text = "\n".join(lines) + "\n"
     (OUT / "rapport.md").write_text(text, encoding="utf-8")
