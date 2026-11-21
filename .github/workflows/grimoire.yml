@@ -49,12 +49,17 @@ jobs:
           fi
           echo "accounts=${ACCOUNTS:-antoine.spambusiness:prof,meshtimes:modele}" >> "$GITHUB_OUTPUT"
           echo "limit=${LIMIT:-20}" >> "$GITHUB_OUTPUT"
+          # Lignes 3 et 4 du fichier : 1 pour sauter la transcription, 1 pour garder les vignettes de réglage
+          echo "skip=$(sed -n 3p grimoire-run.txt 2>/dev/null)" >> "$GITHUB_OUTPUT"
+          echo "diag=$(sed -n 4p grimoire-run.txt 2>/dev/null)" >> "$GITHUB_OUTPUT"
       - name: Collecter
         env:
           GRIMOIRE_ACCOUNTS: ${{ steps.cfg.outputs.accounts }}
           GRIMOIRE_LIMIT: ${{ steps.cfg.outputs.limit }}
           GRIMOIRE_BUDGET_MIN: "60"
           WHISPER_MODEL: small
+          GRIMOIRE_SKIP_WHISPER: ${{ steps.cfg.outputs.skip }}
+          GRIMOIRE_DIAG: ${{ steps.cfg.outputs.diag }}
         run: python grimoire.py
       - name: Garder le résultat (1 jour)
         if: always()

@@ -1,7 +1,8 @@
 """Pilote du grimoire : collecte complète de quelques comptes TikTok.
 
 Pour chaque compte : liste des posts et stats (yt-dlp), puis pour chaque post
-- vidéo : téléchargement, planches d'images clés, transcription (faster-whisper)
+- vidéo : téléchargement, repérage des moments visuels (inserts, captures,
+  changements de plan), planches d'images clés, transcription (faster-whisper)
 - carrousel photo : images des slides (gallery-dl)
 
 Rien n'est écrit dans le dépôt : le dossier out/ part dans un artefact du
@@ -13,8 +14,11 @@ Variables d'environnement :
 - GRIMOIRE_LIMIT : nombre de posts par compte (20 par défaut)
 - WHISPER_MODEL : modèle de transcription (small par défaut)
 - GRIMOIRE_BUDGET_MIN : durée maximale de traitement, en minutes (60 par défaut)
+- GRIMOIRE_SKIP_WHISPER=1 : ne pas transcrire (réglage des images uniquement)
+- GRIMOIRE_DIAG=1 : garder la bande de vignettes et les scores de chaque vidéo
 """
 import json
+import math
 import os
 import shutil
 import statistics
@@ -29,9 +33,18 @@ OUT = ROOT / "out"
 IMAGE_EXT = {".jpg", ".jpeg", ".png", ".webp", ".avif", ".heic"}
 FRAME_WIDTH = 360      # largeur d'une image clé dans une planche
 SHEET_COLS, SHEET_ROWS = 4, 2
-MAX_FRAMES = 16
+MAX_FRAMES = 40        # images clés par vidéo, au plus
 MAX_SLIDES = 20
 SLIDE_WIDTH = 720
+TW, TH = 72, 128       # vignettes servant au repérage des moments visuels
+MAX_THUMBS = 600
+PIXEL_DELTA = 45       # écart de gris à partir duquel un pixel compte comme changé
+EVENT_DELTA = 0.08     # part de l'image qui doit sortir du fond habituel
+EVENT_CHANGE = 0.10    # changement minimal entre deux images d'un même moment
+CUT_CHANGE = 0.30      # changement de plan, pour les vidéos sans fond stable
+STATIC_LIMIT = 0.30    # en dessous : fond stable (face caméra, plan fixe)
+ORIGINAL_SOUND = ("original sound", "son original", "sonido original", "originalton",
+                  "suono originale", "som original", "오리지널", "оригинальный")
 
 
 def now_iso():
@@ -123,6 +136,18 @@ def probe(path):
     return bool(video) and video not in ("mjpeg", "png"), duration
 
 
+def sound_of(info):
+    """Le son utilisé : son original du créateur, ou morceau du catalogue."""
+    track = info.get("track")
+    artists = info.get("artists") or ([info.get("artist")] if info.get("artist") else [])
+    original = None
+    if track:
+        original = any(k in str(track).lower() for k in ORIGINAL_SOUND)
+    return {"track": clip(track, 120) if track else None,
+            "artist": clip(", ".join(str(a) for a in artists if a), 120) or None,
+            "original": original}
+
+
 def download_media(url, workdir):
     """Télécharge la vidéo (ou, pour un carrousel, seulement sa bande son)."""
     import yt_dlp
@@ -131,11 +156,11 @@ def download_media(url, workdir):
             "format": "b[height<=720]/b/ba", "outtmpl": str(workdir / "media.%(ext)s"),
             "retries": 2, "socket_timeout": 30}
     with yt_dlp.YoutubeDL(opts) as ydl:
-        ydl.extract_info(url, download=True)
+        info = ydl.extract_info(url, download=True) or {}
     files = sorted(workdir.glob("media.*"), key=lambda p: p.stat().st_size, reverse=True)
     if not files:
         raise RuntimeError("aucun fichier téléchargé")
-    return files[0]
+    return files[0], info
 
 
 def download_slides(url, workdir):
@@ -172,24 +197,107 @@ def stamp(seconds):
     return f"{int(seconds // 60)}:{int(seconds % 60):02d}"
 
 
-def make_sheets(media, duration, workdir, outdir):
-    """Images clés : une à 0,3 s (l'accroche) puis à intervalle régulier, en planches."""
-    from PIL import Image, ImageDraw, ImageFont
+# ------------------------------------------------ repérage des moments visuels
 
-    step = max(2.0, duration / (MAX_FRAMES - 1)) if duration else 2.0
-    times = [0.3]
-    t = step
-    while t < max(duration - 0.2, 0) and len(times) < MAX_FRAMES:
-        times.append(round(t, 1))
+def scan_video(media, duration, workdir):
+    """Vignettes à intervalle fixe, avec deux mesures par vignette :
+    `bg` = part de l'image qui sort du fond habituel de la vidéo (insert, capture, autre plan),
+    `change` = part de l'image qui a changé depuis la vignette précédente."""
+    import numpy as np
+    from PIL import Image
+
+    fps = 2 if duration < 20 else 1
+    tdir = workdir / "thumbs"
+    tdir.mkdir(exist_ok=True)
+    run(["ffmpeg", "-y", "-v", "error", "-i", str(media), "-vf", f"fps={fps},scale={TW}:{TH}",
+         "-q:v", "6", str(tdir / "t_%04d.jpg")], timeout=600)
+    files = sorted(tdir.glob("t_*.jpg"))[:MAX_THUMBS]
+    if len(files) < 3:
+        return None
+    arr = np.stack([np.asarray(Image.open(f).convert("L").resize((TW, TH)), dtype=np.int16) for f in files])
+    base = np.median(arr, axis=0)
+    bg = (np.abs(arr - base) > PIXEL_DELTA).mean(axis=(1, 2))
+    change = np.concatenate([[0.0], (np.abs(arr[1:] - arr[:-1]) > PIXEL_DELTA).mean(axis=(1, 2))])
+    return {"fps": fps, "times": [round(i / fps, 1) for i in range(len(files))],
+            "bg": [round(float(v), 3) for v in bg], "change": [round(float(v), 3) for v in change],
+            "arr": arr, "files": files}
+
+
+def pick_times(times, bg, arr, duration):
+    """Choisit les images à garder : les moments visuels, plus des repères réguliers.
+    Renvoie une liste triée de (temps, est_un_moment_visuel)."""
+    import numpy as np
+
+    n = len(times)
+    base = statistics.median(bg)
+    static = base < STATIC_LIMIT
+
+    def diff(i, j):
+        return float((np.abs(arr[i] - arr[j]) > PIXEL_DELTA).mean())
+
+    events, last, i = [], None, 0
+    while i < n:
+        if static:
+            if bg[i] >= base + EVENT_DELTA:
+                if last is None:
+                    # début d'un insert : on prend l'image suivante si elle tient, pour éviter la transition
+                    j = i + 1 if i + 1 < n and bg[i + 1] >= base + EVENT_DELTA else i
+                    events.append(j)
+                    last, i = j, j
+                elif diff(i, last) >= EVENT_CHANGE:
+                    events.append(i)
+                    last = i
+            else:
+                last = None
+        else:
+            if last is None or (diff(i, last) >= CUT_CHANGE and times[i] - times[last] >= 1):
+                events.append(i)
+                last = i
+        i += 1
+
+    step = max(3.0, duration / 10) if duration else 3.0
+    regular, t = [], 0.0
+    while t < max(duration, times[-1]) - 0.5:
+        idx = min(range(n), key=lambda k: abs(times[k] - t))
+        if all(abs(times[idx] - times[e]) > 1.5 for e in events) and idx not in regular:
+            regular.append(idx)
         t += step
 
+    room = max(MAX_FRAMES - len(regular), 8)
+    if len(events) > room:
+        k = math.ceil(len(events) / room)
+        events = events[::k]
+    picks = {idx: False for idx in regular}
+    picks.update({idx: True for idx in events})
+    return sorted((times[idx], flag) for idx, flag in picks.items())
+
+
+def save_strip(scan, outdir):
+    """Bande de toutes les vignettes, pour régler les seuils sans la vidéo."""
+    from PIL import Image
+
+    files = scan["files"]
+    cols = 24
+    rows = (len(files) + cols - 1) // cols
+    strip = Image.new("L", (TW * cols, TH * rows), 255)
+    for i, f in enumerate(files):
+        strip.paste(Image.open(f).convert("L").resize((TW, TH)), ((i % cols) * TW, (i // cols) * TH))
+    strip.save(outdir / "bande.jpg", quality=70)
+    (outdir / "scan.json").write_text(json.dumps(
+        {k: scan[k] for k in ("fps", "times", "bg", "change")}), encoding="utf-8")
+
+
+def make_sheets(media, picks, workdir, outdir):
+    """Planches d'images clés. Étiquette orange = moment visuel, noire = repère régulier."""
+    from PIL import Image, ImageDraw, ImageFont
+
     frames = []
-    for i, ts in enumerate(times):
-        dst = workdir / f"f_{i:02d}.jpg"
-        run(["ffmpeg", "-y", "-v", "error", "-ss", str(ts), "-i", str(media), "-frames:v", "1",
+    for i, (ts, flag) in enumerate(picks):
+        dst = workdir / f"f_{i:03d}.jpg"
+        run(["ffmpeg", "-y", "-v", "error", "-ss", str(max(ts, 0.3)), "-i", str(media), "-frames:v", "1",
              "-vf", f"scale={FRAME_WIDTH}:-2", "-q:v", "4", str(dst)], timeout=60)
         if dst.exists() and dst.stat().st_size:
-            frames.append((ts, dst))
+            frames.append((ts, flag, dst))
     if not frames:
         return []
 
@@ -207,23 +315,30 @@ def make_sheets(media, duration, workdir, outdir):
         names.append("hook.jpg")
 
     per_sheet = SHEET_COLS * SHEET_ROWS
-    first = Image.open(frames[0][1])
-    fw, fh = first.size
+    fw, fh = Image.open(frames[0][2]).size
     for s in range(0, len(frames), per_sheet):
         chunk = frames[s:s + per_sheet]
         rows = (len(chunk) + SHEET_COLS - 1) // SHEET_COLS
         sheet = Image.new("RGB", (fw * SHEET_COLS, fh * rows), "white")
         draw = ImageDraw.Draw(sheet)
-        for i, (ts, path) in enumerate(chunk):
+        for i, (ts, flag, path) in enumerate(chunk):
             x, y = (i % SHEET_COLS) * fw, (i // SHEET_COLS) * fh
-            im = Image.open(path).convert("RGB").resize((fw, fh))
-            sheet.paste(im, (x, y))
-            draw.rectangle([x, y, x + 62, y + 28], fill="black")
+            sheet.paste(Image.open(path).convert("RGB").resize((fw, fh)), (x, y))
+            draw.rectangle([x, y, x + 62, y + 28], fill=(230, 110, 0) if flag else "black")
             draw.text((x + 6, y + 3), stamp(ts), fill="white", font=font)
-        name = f"planche_{s // per_sheet + 1}.jpg"
+        name = f"planche_{s // per_sheet + 1:02d}.jpg"
         sheet.save(outdir / name, quality=80)
         names.append(name)
     return names
+
+
+def regular_picks(duration):
+    step = max(2.0, duration / 15) if duration else 2.0
+    picks, t = [(0.3, False)], step
+    while t < max(duration - 0.2, 0) and len(picks) < 16:
+        picks.append((round(t, 1), False))
+        t += step
+    return picks
 
 
 # ------------------------------------------------------------ transcription
@@ -262,6 +377,16 @@ def transcribe(media, workdir):
     }
 
 
+def voice_label(transcript, sound):
+    """parole / aucune / a_verifier_musique (texte transcrit sur un morceau du catalogue :
+    ce sont peut-être les paroles de la chanson, à trancher à la lecture)."""
+    if (transcript or {}).get("speech_seconds", 0) < 2:
+        return "aucune"
+    if (sound or {}).get("original") is False:
+        return "a_verifier_musique"
+    return "parole"
+
+
 # --------------------------------------------------------------- un post
 
 def process_post(post, outdir):
@@ -270,22 +395,39 @@ def process_post(post, outdir):
     shutil.rmtree(work, ignore_errors=True)
     work.mkdir(parents=True)
     try:
-        media, media_error = None, None
+        media, info, media_error = None, {}, None
         try:
-            media = download_media(post["url"], work)
+            media, info = download_media(post["url"], work)
         except Exception as exc:
             media_error = clip(exc)
         has_video, duration = probe(media) if media else (False, 0.0)
+        post["sound"] = sound_of(info)
 
         if has_video:
             post["kind"] = "video"
             post["duration"] = post.get("duration") or round(duration)
-            post["files"] = make_sheets(media, duration, work, outdir)
+            picks, scan = None, None
             try:
-                post["transcript"] = transcribe(media, work)
-            except Exception as exc:  # les images restent utiles même sans texte
+                scan = scan_video(media, duration, work)
+                if scan:
+                    picks = pick_times(scan["times"], scan["bg"], scan["arr"], duration)
+                    post["visuals"] = {"fond_stable": statistics.median(scan["bg"]) < STATIC_LIMIT,
+                                       "moments": [t for t, flag in picks if flag]}
+                    if os.environ.get("GRIMOIRE_DIAG") == "1":
+                        save_strip(scan, outdir)
+            except Exception as exc:
+                post["visuals"] = {"note": "ERREUR " + clip(exc, 200)}
+            post["files"] = make_sheets(media, picks or regular_picks(duration), work, outdir)
+            if os.environ.get("GRIMOIRE_SKIP_WHISPER") == "1":
                 post["transcript"] = {"language": None, "text": "", "segments": [],
-                                      "speech_seconds": 0, "note": "ERREUR " + clip(exc, 200)}
+                                      "speech_seconds": 0, "note": "transcription désactivée"}
+            else:
+                try:
+                    post["transcript"] = transcribe(media, work)
+                except Exception as exc:  # les images restent utiles même sans texte
+                    post["transcript"] = {"language": None, "text": "", "segments": [],
+                                          "speech_seconds": 0, "note": "ERREUR " + clip(exc, 200)}
+            post["voice"] = voice_label(post["transcript"], post["sound"])
         else:
             # Pas de piste vidéo : carrousel photo, ou téléchargement refusé
             try:
@@ -314,22 +456,24 @@ def write_report(accounts, started):
         ok = [p for p in posts if p.get("status") == "ok"]
         videos = [p for p in ok if p.get("kind") == "video"]
         photos = [p for p in ok if p.get("kind") == "photo"]
-        spoken = [p for p in videos if (p.get("transcript") or {}).get("speech_seconds", 0) >= 3]
         lines += [f"## @{a['handle']} ({a['role']})", ""]
         if a.get("error"):
             lines += [f"ERREUR à la liste des posts : {a['error']}", ""]
             continue
         lines += [f"- posts listés : {len(posts)}, médiane {a.get('median_views')} vues",
                   f"- traités : {len(ok)} (vidéos {len(videos)}, carrousels {len(photos)}), en erreur : {len([p for p in posts if p.get('status') == 'erreur'])}, non traités : {len([p for p in posts if not p.get('status')])}",
-                  f"- vidéos avec parole transcrite : {len(spoken)}",
+                  f"- voix : parole {len([p for p in videos if p.get('voice') == 'parole'])}, à vérifier (musique) {len([p for p in videos if p.get('voice') == 'a_verifier_musique'])}, aucune {len([p for p in videos if p.get('voice') == 'aucune'])}",
                   f"- enregistrements disponibles : {'oui' if any(p.get('saves') is not None for p in posts) else 'non'}",
-                  "", "| date | type | vues | ratio | statut | langue | parole (s) | images | post |",
-                  "|---|---|---|---|---|---|---|---|---|"]
+                  "", "| date | type | vues | ratio | statut | voix | parole (s) | moments visuels | images | son | post |",
+                  "|---|---|---|---|---|---|---|---|---|---|---|"]
         for p in posts:
             tr = p.get("transcript") or {}
+            snd = p.get("sound") or {}
             lines.append(f"| {p.get('date')} | {p.get('kind', '')} | {p.get('views')} | {p.get('ratio')} | "
-                         f"{p.get('status', 'non traité')} | {tr.get('language') or ''} | {tr.get('speech_seconds', '')} | "
-                         f"{len(p.get('files') or [])} | {p['id']} {clip(p.get('error') or tr.get('note') or p.get('caption'), 70)} |")
+                         f"{p.get('status', 'non traité')} | {p.get('voice', '')} | {tr.get('speech_seconds', '')} | "
+                         f"{len((p.get('visuals') or {}).get('moments') or [])} | {len(p.get('files') or [])} | "
+                         f"{clip(snd.get('track'), 30)} | "
+                         f"{p['id']} {clip(p.get('error') or (p.get('visuals') or {}).get('note') or tr.get('note') or p.get('caption'), 60)} |")
         lines.append("")
     text = "\n".join(lines) + "\n"
     (OUT / "rapport.md").write_text(text, encoding="utf-8")
@@ -383,7 +527,8 @@ def main():
         process_post(post, OUT / a["handle"] / post["id"])
         tr = post.get("transcript") or {}
         print(f"@{a['handle']} {post['id']}: {post.get('kind')} {post['status']} "
-              f"{len(post.get('files') or [])} images, parole {tr.get('speech_seconds', 0)} s, "
+              f"{len(post.get('files') or [])} images, {len((post.get('visuals') or {}).get('moments') or [])} moments, "
+              f"voix {post.get('voice')}, parole {tr.get('speech_seconds', 0)} s, "
               f"{round(time.time() - t0)} s {post.get('error', '')[:160]}", flush=True)
         time.sleep(3)
 
