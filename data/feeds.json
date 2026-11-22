@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T13:25:39Z",
+  "generated_at": "2026-11-22T13:20:10Z",
   "feeds": [
     {
       "name": "Medium : Dolly Borade Solanki",
@@ -284,6 +284,108 @@
       "status": "ok",
       "items": [
         {
+          "title": "CalenTime: What if your calendar were your watch face?",
+          "url": "https://medium.com/design-bootcamp/calentime-what-if-your-calendar-were-your-watch-face-78997983ddf3",
+          "date": "2026-11-22",
+          "author": "Karthikeya GS",
+          "tags": [
+            "time-management",
+            "watchface",
+            "ux",
+            "productivity",
+            "ux-design"
+          ]
+        },
+        {
+          "title": "When a Dilemma Is Mistaken for a Problem",
+          "url": "https://medium.com/design-bootcamp/when-a-dilemma-is-mistaken-for-a-problem-6efc84b9bb00",
+          "date": "2026-11-22",
+          "author": "Hajer Al-Homedawy",
+          "tags": [
+            "wise-reasoning",
+            "leadership",
+            "dilemma",
+            "ux",
+            "research"
+          ]
+        },
+        {
+          "title": "The Tech Monoculture Is the Vulnerability",
+          "url": "https://medium.com/design-bootcamp/the-tech-monoculture-is-the-vulnerability-9187f99905f5",
+          "date": "2026-11-22",
+          "author": "Julian Scaff",
+          "tags": [
+            "cybersecurity",
+            "data-sovereignty",
+            "ai",
+            "generative-ai-tools"
+          ]
+        },
+        {
+          "title": "Figma Make vs Google Stitch: One Changed a Deadline Without Me Asking",
+          "url": "https://medium.com/design-bootcamp/figma-make-vs-google-stitch-one-changed-a-deadline-without-me-asking-d751190ab78b",
+          "date": "2026-11-22",
+          "author": "Muhammad Usama Qaisar",
+          "tags": [
+            "vibe-coding",
+            "figma",
+            "ux-design",
+            "ai-tools",
+            "product-design"
+          ]
+        },
+        {
+          "title": "I Was a Good Designer. So Why Was My Team Still Struggling?",
+          "url": "https://medium.com/design-bootcamp/i-was-a-good-designer-so-why-was-my-team-still-struggling-83e4bc5b6743",
+          "date": "2026-11-21",
+          "author": "Harri Lin",
+          "tags": [
+            "product-design",
+            "design-process",
+            "design",
+            "ux-design",
+            "ux"
+          ]
+        },
+        {
+          "title": "The close door button probably does nothing. It’s still good design.",
+          "url": "https://medium.com/design-bootcamp/the-close-door-button-probably-does-nothing-its-still-good-design-2de61d39b1c1",
+          "date": "2026-11-21",
+          "author": "Koyote Wrakoon",
+          "tags": [
+            "psychology",
+            "product-design",
+            "behavioral-economics",
+            "design",
+            "ux-design"
+          ]
+        },
+        {
+          "title": "In Berlin, freedom has its own lane",
+          "url": "https://medium.com/design-bootcamp/in-berlin-freedom-has-its-own-lane-b07c9cc579af",
+          "date": "2026-11-21",
+          "author": "Juliana Rojas",
+          "tags": [
+            "berlin",
+            "creativity",
+            "design",
+            "graphic-design",
+            "ux-design"
+          ]
+        },
+        {
+          "title": "Being Heumann: When accessibility becomes part of the story",
+          "url": "https://medium.com/design-bootcamp/being-heumann-when-accessibility-becomes-part-of-the-story-08a708b91f67",
+          "date": "2026-11-21",
+          "author": "Alicia Jarvis, CPACC, CSM",
+          "tags": [
+            "media",
+            "disability-rights",
+            "accessibility",
+            "streaming"
+          ]
+        },
+        {
           "title": "How to design for iPhone Duo: a foldable layout tutorial in Figma",
           "url": "https://medium.com/design-bootcamp/how-to-design-for-iphone-duo-a-foldable-layout-tutorial-in-figma-d8754714486d",
           "date": "2026-11-20",
@@ -306,105 +408,6 @@
             "design",
             "ux-design",
             "ux-research"
-          ]
-        },
-        {
-          "title": "The Design OS for Early-Stage Startups",
-          "url": "https://medium.com/design-bootcamp/the-design-os-for-early-stage-startups-b9e9f11aea96",
-          "date": "2026-11-20",
-          "author": "Xinran Ma",
-          "tags": [
-            "startup",
-            "ui",
-            "branding",
-            "ux-design",
-            "ux"
-          ]
-        },
-        {
-          "title": "What happens when a designer decides to build, not just design?",
-          "url": "https://medium.com/design-bootcamp/what-happens-when-a-designer-decides-to-build-not-just-design-be0a0382573c",
-          "date": "2026-11-20",
-          "author": "Ebele Egbuna",
-          "tags": [
-            "vibe-coding",
-            "generative-ai-tools",
-            "ux-design-portfolio",
-            "ux-design",
-            "product-design"
-          ]
-        },
-        {
-          "title": "Everyone Can Build Now. Who’s Making Sure It’s Usable?",
-          "url": "https://medium.com/design-bootcamp/everyone-can-build-now-whos-making-sure-it-s-usable-86d6e20fe40d",
-          "date": "2026-11-20",
-          "author": "Muhammed Faris",
-          "tags": [
-            "ux-design",
-            "product-design",
-            "design",
-            "ai"
-          ]
-        },
-        {
-          "title": "A2UI 1.0 : A Deep Dive on How Agents Build Native UI",
-          "url": "https://medium.com/design-bootcamp/a2ui-1-0-a-deep-dive-on-how-agents-build-native-ui-bf1b9b567a63",
-          "date": "2026-11-20",
-          "author": "Abhirupa Mitra",
-          "tags": [
-            "design",
-            "frontend",
-            "ai",
-            "llm",
-            "programming"
-          ]
-        },
-        {
-          "title": "What Happens at the End of a Design Project?",
-          "url": "https://medium.com/design-bootcamp/what-happens-at-the-end-of-a-design-project-cf5a7b1a4132",
-          "date": "2026-11-20",
-          "author": "Zsuzsanna Petrovics",
-          "tags": [
-            "design",
-            "projects"
-          ]
-        },
-        {
-          "title": "The UX Writer is missing. The writing isn’t",
-          "url": "https://medium.com/design-bootcamp/the-ux-writer-is-missing-the-writing-isnt-075c1f0416af",
-          "date": "2026-11-20",
-          "author": "Burcu Özgüçlü",
-          "tags": [
-            "ux",
-            "writing",
-            "ux-writing",
-            "ux-design",
-            "product-design"
-          ]
-        },
-        {
-          "title": "Korea fought AI with a ringtone",
-          "url": "https://medium.com/design-bootcamp/korea-fought-ai-with-a-ringtone-d29290231692",
-          "date": "2026-11-20",
-          "author": "Gaya Kim",
-          "tags": [
-            "technology",
-            "south-korea",
-            "ai",
-            "education",
-            "future-of-work"
-          ]
-        },
-        {
-          "title": "“Designer who code”: what do we call this new breed of digital creatives?",
-          "url": "https://medium.com/design-bootcamp/designer-who-code-what-do-we-call-this-new-breed-of-digital-creatives-4b57697c9c61",
-          "date": "2026-11-20",
-          "author": "Dàniel Dalia",
-          "tags": [
-            "product-design-engineer",
-            "future-of-work",
-            "ux-design",
-            "ux"
           ]
         }
       ]
@@ -494,6 +497,13 @@
       "status": "ok",
       "items": [
         {
+          "title": "🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
+          "date": "2026-11-21",
+          "author": "Kiyani",
+          "tags": []
+        },
+        {
           "title": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
           "url": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
           "date": "2026-11-17",
@@ -554,13 +564,6 @@
           "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
           "date": "2026-11-09",
           "author": "Lenny Rachitsky",
-          "tags": []
-        },
-        {
-          "title": "How this founder built a better Duolingo with Codex | William Imoh",
-          "url": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
-          "date": "2026-11-09",
-          "author": "Claire Vo",
           "tags": []
         }
       ]
