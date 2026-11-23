@@ -2,8 +2,8 @@
   "months": {
     "2026-11": {
       "instagram": 1321,
-      "hashtags": 267,
-      "runs": 9,
+      "hashtags": 440,
+      "runs": 10,
       "days": {
         "2026-11-15": {
           "instagram": 291,
@@ -43,6 +43,11 @@
         "2026-11-22": {
           "instagram": 250,
           "hashtags": 0,
+          "runs": 1
+        },
+        "2026-11-23": {
+          "instagram": 0,
+          "hashtags": 173,
           "runs": 1
         }
       }

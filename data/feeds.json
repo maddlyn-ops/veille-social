@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T13:20:10Z",
+  "generated_at": "2026-11-23T16:21:31Z",
   "feeds": [
     {
       "name": "Medium : Dolly Borade Solanki",
@@ -146,6 +146,19 @@
       "status": "ok",
       "items": [
         {
+          "title": "These slop patterns kill your client trust online in 2026/2027.",
+          "url": "https://michalmalewicz.medium.com/these-slop-patterns-kill-your-client-trust-online-in-2026-2027-77afac23fe8a",
+          "date": "2026-11-22",
+          "author": "Michal Malewicz",
+          "tags": [
+            "ux-design",
+            "design",
+            "ux",
+            "ui",
+            "artificial-intelligence"
+          ]
+        },
+        {
           "title": "The only way to get rich on Anthropic IPO right now",
           "url": "https://michalmalewicz.medium.com/the-only-way-to-get-rich-on-anthropic-ipo-right-now-e1b475ed67fb",
           "date": "2026-11-20",
@@ -261,19 +274,6 @@
             "technology",
             "ai"
           ]
-        },
-        {
-          "title": "Your smart home isn’t safe anymore.",
-          "url": "https://michalmalewicz.medium.com/your-smart-home-isnt-safe-anymore-492a74352371",
-          "date": "2026-10-18",
-          "author": "Michal Malewicz",
-          "tags": [
-            "design",
-            "artificial-intelligence",
-            "technology",
-            "future",
-            "ai"
-          ]
         }
       ]
     },
@@ -283,6 +283,109 @@
       "url": "https://medium.com/feed/design-bootcamp",
       "status": "ok",
       "items": [
+        {
+          "title": "Decision theater, Human.MD, What is a researcher’s worth",
+          "url": "https://medium.com/design-bootcamp/decision-theater-human-md-what-is-a-researchers-worth-e3c5bbdf707e",
+          "date": "2026-11-23",
+          "author": "UX Collective Editors",
+          "tags": [
+            "ai",
+            "product-management",
+            "ux-design",
+            "ui",
+            "figma"
+          ]
+        },
+        {
+          "title": "Why Aging Is a User Experience Problem",
+          "url": "https://medium.com/design-bootcamp/why-aging-is-a-user-experience-problem-7c84c87add63",
+          "date": "2026-11-23",
+          "author": "Jose Alejandro Guerrero",
+          "tags": [
+            "design",
+            "programming",
+            "old-age",
+            "ux-design",
+            "ux"
+          ]
+        },
+        {
+          "title": "Not so into GTA 6? Here, play these indie games instead.",
+          "url": "https://medium.com/design-bootcamp/not-so-into-gta-6-here-play-these-indie-games-instead-25d229a128bb",
+          "date": "2026-11-23",
+          "author": "Sam Liberty",
+          "tags": [
+            "games",
+            "culture",
+            "technology",
+            "gta-6",
+            "videogames"
+          ]
+        },
+        {
+          "title": "What is a task in your product?",
+          "url": "https://medium.com/design-bootcamp/what-is-a-task-in-your-product-cfe1075ec060",
+          "date": "2026-11-23",
+          "author": "Derek Niedringhaus",
+          "tags": [
+            "artificial-intelligence",
+            "design-systems",
+            "ai-agent",
+            "product-design",
+            "ux-design"
+          ]
+        },
+        {
+          "title": "ChatGPT Moved Projects Under “Explore.” Some Users Thought Their Work Was Gone.",
+          "url": "https://medium.com/design-bootcamp/chatgpt-moved-projects-under-explore-some-users-thought-their-work-was-gone-5c6b3f27c723",
+          "date": "2026-11-23",
+          "author": "Amajuoyi Udochukwu Deborah",
+          "tags": [
+            "mobile-app-design",
+            "chatgpt",
+            "ux-design",
+            "artificial-intelligence",
+            "product-design"
+          ]
+        },
+        {
+          "title": "The Illusion of Success",
+          "url": "https://medium.com/design-bootcamp/the-illusion-of-success-4bef0a96c131",
+          "date": "2026-11-22",
+          "author": "Sharad Guragain",
+          "tags": [
+            "vibe-coding",
+            "the-illusion-of-success",
+            "product",
+            "design"
+          ]
+        },
+        {
+          "title": "What Happens When AI Starts Making Our Consumer Decisions",
+          "url": "https://medium.com/design-bootcamp/what-happens-when-ai-starts-making-our-consumer-decisions-155ac5b32c06",
+          "date": "2026-11-22",
+          "author": "Yahav M",
+          "tags": [
+            "ai-safety",
+            "consumer-psychology",
+            "ai-ethics",
+            "ai-agent",
+            "algorithms"
+          ]
+        },
+        {
+          "title": "AX Design: The New Design Job That Barely Touches Figma",
+          "url": "https://medium.com/design-bootcamp/ax-design-the-new-design-job-that-barely-touches-figma-7feb03626409",
+          "date": "2026-11-22",
+          "author": "Rishi Sharma",
+          "tags": [
+            "design",
+            "ai-agent",
+            "ux",
+            "ai",
+            "ux-design"
+          ]
+        },
         {
           "title": "CalenTime: What if your calendar were your watch face?",
           "url": "https://medium.com/design-bootcamp/calentime-what-if-your-calendar-were-your-watch-face-78997983ddf3",
@@ -308,107 +411,6 @@
             "ux",
             "research"
           ]
-        },
-        {
-          "title": "The Tech Monoculture Is the Vulnerability",
-          "url": "https://medium.com/design-bootcamp/the-tech-monoculture-is-the-vulnerability-9187f99905f5",
-          "date": "2026-11-22",
-          "author": "Julian Scaff",
-          "tags": [
-            "cybersecurity",
-            "data-sovereignty",
-            "ai",
-            "generative-ai-tools"
-          ]
-        },
-        {
-          "title": "Figma Make vs Google Stitch: One Changed a Deadline Without Me Asking",
-          "url": "https://medium.com/design-bootcamp/figma-make-vs-google-stitch-one-changed-a-deadline-without-me-asking-d751190ab78b",
-          "date": "2026-11-22",
-          "author": "Muhammad Usama Qaisar",
-          "tags": [
-            "vibe-coding",
-            "figma",
-            "ux-design",
-            "ai-tools",
-            "product-design"
-          ]
-        },
-        {
-          "title": "I Was a Good Designer. So Why Was My Team Still Struggling?",
-          "url": "https://medium.com/design-bootcamp/i-was-a-good-designer-so-why-was-my-team-still-struggling-83e4bc5b6743",
-          "date": "2026-11-21",
-          "author": "Harri Lin",
-          "tags": [
-            "product-design",
-            "design-process",
-            "design",
-            "ux-design",
-            "ux"
-          ]
-        },
-        {
-          "title": "The close door button probably does nothing. It’s still good design.",
-          "url": "https://medium.com/design-bootcamp/the-close-door-button-probably-does-nothing-its-still-good-design-2de61d39b1c1",
-          "date": "2026-11-21",
-          "author": "Koyote Wrakoon",
-          "tags": [
-            "psychology",
-            "product-design",
-            "behavioral-economics",
-            "design",
-            "ux-design"
-          ]
-        },
-        {
-          "title": "In Berlin, freedom has its own lane",
-          "url": "https://medium.com/design-bootcamp/in-berlin-freedom-has-its-own-lane-b07c9cc579af",
-          "date": "2026-11-21",
-          "author": "Juliana Rojas",
-          "tags": [
-            "berlin",
-            "creativity",
-            "design",
-            "graphic-design",
-            "ux-design"
-          ]
-        },
-        {
-          "title": "Being Heumann: When accessibility becomes part of the story",
-          "url": "https://medium.com/design-bootcamp/being-heumann-when-accessibility-becomes-part-of-the-story-08a708b91f67",
-          "date": "2026-11-21",
-          "author": "Alicia Jarvis, CPACC, CSM",
-          "tags": [
-            "media",
-            "disability-rights",
-            "accessibility",
-            "streaming"
-          ]
-        },
-        {
-          "title": "How to design for iPhone Duo: a foldable layout tutorial in Figma",
-          "url": "https://medium.com/design-bootcamp/how-to-design-for-iphone-duo-a-foldable-layout-tutorial-in-figma-d8754714486d",
-          "date": "2026-11-20",
-          "author": "Muskaan Arai",
-          "tags": [
-            "mobile-design",
-            "ui-design",
-            "iphone-duo",
-            "ux-design",
-            "figma"
-          ]
-        },
-        {
-          "title": "“We need this to be green”: designing without the final say in Central Asia",
-          "url": "https://medium.com/design-bootcamp/we-need-this-to-be-green-designing-without-the-final-say-in-central-asia-309c0d081f63",
-          "date": "2026-11-20",
-          "author": "Aleksei Kirdiaev",
-          "tags": [
-            "product-design",
-            "design",
-            "ux-design",
-            "ux-research"
-          ]
         }
       ]
     },
@@ -418,6 +420,13 @@
       "url": "https://learn.thedesignsystem.guide/feed",
       "status": "ok",
       "items": [
+        {
+          "title": "Craft first, AI second",
+          "url": "https://learn.thedesignsystem.guide/p/craft-first-ai-second",
+          "date": "2026-11-23",
+          "author": "Romina Kavcic",
+          "tags": []
+        },
         {
           "title": "How I use AI",
           "url": "https://learn.thedesignsystem.guide/p/how-i-use-ai",
@@ -480,13 +489,6 @@
           "date": "2026-05-25",
           "author": "Romina Kavcic",
           "tags": []
-        },
-        {
-          "title": "Agentic Design System - From Chatbot to Orchestration",
-          "url": "https://learn.thedesignsystem.guide/p/agentic-design-system-from-chatbot",
-          "date": "2026-05-10",
-          "author": "Romina Kavcic",
-          "tags": []
         }
       ]
     },
@@ -496,6 +498,27 @@
       "url": "https://www.lennysnewsletter.com/feed",
       "status": "ok",
       "items": [
+        {
+          "title": "🎙️ How I AI: OpenClaw for executives: Automate every 1% annoyance",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives",
+          "date": "2026-11-23",
+          "author": "Lenny Rachitsky",
+          "tags": []
+        },
+        {
+          "title": "OpenClaw for executives: Automate every 1% annoyance | Ankit Maheshwari (Innovaccer)",
+          "url": "https://www.lennysnewsletter.com/p/openclaw-for-executives-automate",
+          "date": "2026-11-23",
+          "author": "Claire Vo",
+          "tags": []
+        },
+        {
+          "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
+          "url": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+          "date": "2026-11-22",
+          "author": "Lenny Rachitsky",
+          "tags": []
+        },
         {
           "title": "🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on",
           "url": "https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
@@ -543,27 +566,6 @@
           "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
           "date": "2026-11-11",
           "author": "Claire Vo",
-          "tags": []
-        },
-        {
-          "title": "State of the tech job market: late 2026",
-          "url": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
-          "date": "2026-11-10",
-          "author": "Lenny Rachitsky",
-          "tags": []
-        },
-        {
-          "title": "Claude Fable 5.2 review: fast, creative, and finally not annoying",
-          "url": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
-          "date": "2026-11-09",
-          "author": "Claire Vo",
-          "tags": []
-        },
-        {
-          "title": "🎙️ How I AI: How this founder built a better Duolingo with Codex",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
-          "date": "2026-11-09",
-          "author": "Lenny Rachitsky",
           "tags": []
         }
       ]

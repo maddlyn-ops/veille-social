@@ -1,617 +1,597 @@
 {
-  "generated_at": "2026-11-16T14:04:46Z",
+  "generated_at": "2026-11-23T16:21:29Z",
   "status": "ok",
   "debug_fields": [
-    "account_id",
-    "carousel_images",
-    "cdn_link",
-    "cdn_url",
-    "collect_count",
-    "comment_count",
-    "comments",
-    "commerce_info",
-    "create_time",
-    "description",
-    "digg_count",
-    "discovery_input",
-    "hashtags",
+    "error",
+    "error_code",
     "input",
-    "is_verified",
-    "music",
-    "num_share_count",
-    "offical_item",
-    "original_item",
-    "original_sound",
-    "play_count",
-    "post_id",
-    "post_type",
-    "preview_image",
-    "profile_avatar",
-    "profile_biography",
-    "profile_followers",
-    "profile_id",
-    "profile_url",
-    "profile_username",
-    "ratio",
-    "region",
-    "secu_id",
-    "share_count",
-    "shortcode",
-    "subtitle_format",
-    "subtitle_info",
-    "subtitle_url",
-    "tagged_user",
-    "timestamp",
-    "tt_chain_token",
-    "url",
-    "video_duration",
-    "video_url",
-    "width"
+    "timestamp"
   ],
   "keywords": [
     {
       "keyword": "workinggirl",
       "found": 8,
-      "median_views": 36700.0,
+      "median_views": 274000.0,
       "top": [
         {
-          "url": "https://www.tiktok.com/@jocelynkakalecik/video/7701137806248119582",
-          "author": "Jocelyn Kakalecik",
-          "caption": "on the days that I get overwhelmed, I think back to little me who would have DREAMT of living this life!!! how cool to be living the life I’ve been manifesting for as long as I can remember #cometoworkwithme #officevlog…",
-          "date": "2026-10-27",
-          "views": 366000,
-          "likes": 58400,
-          "comments": 277,
-          "shares": 1105
+          "url": "https://www.tiktok.com/@sonyased5/video/7698101530976718093",
+          "author": "SONYA SED",
+          "caption": "It was a day lol Ever wonder what a realistic day in the life of a working single mom with full custody is like? Follow along for a day of mall trips, annoying kids, and last-minute dinner plans. It was a day lol. This …",
+          "date": "2026-10-18",
+          "views": 717600,
+          "likes": 27000,
+          "comments": 348,
+          "shares": 2016
         },
         {
-          "url": "https://www.tiktok.com/@leckicharms/video/7684703179778379022",
-          "author": "Lexi .☘︎ ݁˖",
-          "caption": "omg HIII it’s been so long since I’ve done one of these I promise I’m still a working girl 📌👩🏻‍💼 #corporategirl #officefits #whatiworetowork #corporatelife #workfits Everyday corporate outfit ideas for Monday–Friday 9-t…",
-          "date": "2026-09-12",
-          "views": 246000,
-          "likes": 41800,
-          "comments": 107,
-          "shares": 735
+          "url": "https://www.tiktok.com/@irma_nataly/video/7629097495351561503",
+          "author": "𝑵𝒂𝒕𝒂𝒍𝒚",
+          "caption": "It’s only Wednesday 🥹 #momsoftiktok #workingmomsoftiktok #momtok #workingmomlife #momlife Join a working mom on her busy Wednesday morning from 5:34 AM. See the reality of mom life and working mom life. #momsoftiktok #w…",
+          "date": "2026-04-15",
+          "views": 567200,
+          "likes": 28700,
+          "comments": 850,
+          "shares": 851
         },
         {
-          "url": "https://www.tiktok.com/@elvisadedic1/video/7500307051940252971",
-          "author": "ELVISA 🇧🇦⚜️",
-          "caption": "She a working girl 🎶🖤 Discover the captivating journey of a working girl as she steals the spotlight on the dance floor. Join the rhythm and feel the energy! #WorkingGirl #DanceVibes",
-          "date": "2025-05-03",
-          "views": 50300,
-          "likes": 2774,
-          "comments": 178,
-          "shares": 78
+          "url": "https://www.tiktok.com/@courtneylcook/video/7537837013307903246",
+          "author": "Courtney Cook",
+          "caption": "I hereby declare this my fav working girl lunch #ploughmans #ploughmanslunch #girllunch #britishfood #uktiktok Discover the ultimate working girl lunch: a homemade Ploughman's lunch! See the full spread with a homemade …",
+          "date": "2025-08-12",
+          "views": 507400,
+          "likes": 17200,
+          "comments": 375,
+          "shares": 754
         },
         {
-          "url": "https://www.tiktok.com/@tessyourrealtor/video/7575288353306709303",
-          "author": "tessyourrealtor",
-          "caption": "Normalizing seeing a real estate agent in the office actually WORKING 😅📞 #behindthescenes #officelife #officehumor #office #workgirl #realestateagent #sellingsunset #realtoroftiktok #realtor #luxurycollective #rainyday …",
-          "date": "2025-11-21",
-          "views": 42100,
-          "likes": 235,
-          "comments": 6,
-          "shares": 947
+          "url": "https://www.tiktok.com/@mum_life_struggles/video/7663086527882317070",
+          "author": "Mum_Life_Struggles",
+          "caption": "The Pressure of Being Perfect Never Ends💔💔 A working woman comes home just as tired as her husband, but before she lets herself rest, she quietly transforms the house into a warm, peaceful place so the person she loves …",
+          "date": "2026-07-16",
+          "views": 317200,
+          "likes": 4003,
+          "comments": 19,
+          "shares": 167
         },
         {
-          "url": "https://www.tiktok.com/@rosemandy7/video/7686631992875699464",
-          "author": "Annie🥰🦋",
-          "caption": "#fyp #viral",
-          "date": "2026-09-17",
-          "views": 31300,
-          "likes": 1063,
-          "comments": 27,
-          "shares": 18
+          "url": "https://www.tiktok.com/@treasure_passion/video/7515457303420620078",
+          "author": "Treasurepassion",
+          "caption": "Last day of work, until the weekend ✨ #fyp #officegirl #treasurepassion #explore #office #ootd #tgif Embrace the thrill of the last workday before the weekend! Discover office style tips and weekend plans to enjoy your …",
+          "date": "2025-06-13",
+          "views": 230800,
+          "likes": 7096,
+          "comments": 158,
+          "shares": 323
         }
       ]
     },
     {
       "keyword": "product designer",
-      "found": 0,
-      "median_views": null,
-      "top": []
-    },
-    {
-      "keyword": "product design",
       "found": 8,
-      "median_views": 176250.0,
+      "median_views": 51800.0,
       "top": [
         {
-          "url": "https://www.tiktok.com/@thomas_boyer79/video/7686722119962578206",
-          "author": "tom__boyer",
-          "caption": "Make this make that blah blah blah #design #industrialdesign #architecture #diy #3dprinting",
-          "date": "2026-09-18",
+          "url": "https://www.tiktok.com/@guadaalvarezz/video/7558762458463096076",
+          "author": "Guada Alvarez Design",
+          "caption": "‘Tide' is a desk organizer that brings calm to creative chaos by neatly storing every designer's essential items and offering the possibility to organize and group loose pages using magnetic dividers. The jigsaw-shaped …",
+          "date": "2025-10-08",
           "views": 1100000,
-          "likes": 182200,
-          "comments": 832,
-          "shares": 6572
-        },
-        {
-          "url": "https://www.tiktok.com/@sketchypat/video/7506187628954307882",
-          "author": "Sketchypat",
-          "caption": "Sketched and rendered some hair dryers. #design #drawing #art #artist #sketchbook #designer #creative #industrialdesign #productdesign #draw #sketching Hair dryer design sketch and product design drawing ideas. See how …",
-          "date": "2025-05-19",
-          "views": 950400,
-          "likes": 74600,
-          "comments": 176,
-          "shares": 2405
+          "likes": 131000,
+          "comments": 173,
+          "shares": 2922
         },
         {
           "url": "https://www.tiktok.com/@whatsyourprocess/video/7704745412837608711",
           "author": "WHAT’S YOUR PROCESS?",
           "caption": "Ep 91: The process of a production designer, ft. Renna Pilar. Filmed at Gil & Roy props in Los Angeles #whatsyourprocess #productiondesigner #prophous Curious about a production designer's job? Watch Renna Pilar's proce…",
           "date": "2026-11-05",
-          "views": 475500,
-          "likes": 81800,
-          "comments": 236,
-          "shares": 4678
+          "views": 619000,
+          "likes": 94900,
+          "comments": 254,
+          "shares": 5243
         },
         {
-          "url": "https://www.tiktok.com/@audreycaprianni/video/7576216368199093522",
-          "author": "audreycaprianni",
-          "caption": "doing something every day for 6 months is the most powerful thing i've ever done 🙇‍♀️ #productdesign #productdesigner #designstudio #freelancer #freelancertips #designfreelancer #businessowner #designagency Discover how…",
-          "date": "2025-11-24",
-          "views": 235900,
-          "likes": 20100,
-          "comments": 171,
-          "shares": 984
+          "url": "https://www.tiktok.com/@kismet_design/video/7313703014269734149",
+          "author": "Kismet Design",
+          "caption": "Want to learn product design? Heres what i did in this last year starting from nothing. #productdesign #entrepreneur #woodworking #diy #ecommerce Discover how Ivan embarked on his product design journey without formal e…",
+          "date": "2023-12-17",
+          "views": 207700,
+          "likes": 11300,
+          "comments": 136,
+          "shares": 474
         },
         {
-          "url": "https://www.tiktok.com/@curv_lab/video/7666144601119395085",
-          "author": "curv_lab",
-          "caption": "In this reel, I break down the process I use to turn millions of tiny triangles into smooth, mathematically defined surfaces—the same workflow used to design production vehicles. It’s one of those topics that seems inti…",
-          "date": "2026-07-24",
-          "views": 116600,
-          "likes": 11700,
-          "comments": 72,
-          "shares": 285
+          "url": "https://www.tiktok.com/@drewtrulove/video/7652846515110546701",
+          "author": "Drew",
+          "caption": "Where are all my product designers at? #sanfrancisco #productdesign #industrialdesign #design #dayinmylife Curious about the daily routine of a product designer in San Francisco? See what a day in the life of an industr…",
+          "date": "2026-06-18",
+          "views": 81000,
+          "likes": 14100,
+          "comments": 64,
+          "shares": 524
+        },
+        {
+          "url": "https://www.tiktok.com/@lanaboyyyy/video/7684739735255797005",
+          "author": "lanaboyyyy",
+          "caption": "Don’t get me started on how much my overage is every month 🙃 #behindthescenes #advertising #filmindustry #productiondesigner #onset A production designer shares behind-the-scenes truth about monthly overage costs on set…",
+          "date": "2026-09-12",
+          "views": 22600,
+          "likes": 2192,
+          "comments": 63,
+          "shares": 128
+        }
+      ]
+    },
+    {
+      "keyword": "product design",
+      "found": 8,
+      "median_views": 103600.0,
+      "top": [
+        {
+          "url": "https://www.tiktok.com/@lesinskidesigns/video/7706619934914153741",
+          "author": "LesinskiDesigns",
+          "caption": "Chessboard redesign. I’m working on developing both a 3d printable kit as well as a high end board with metal and hardwood. #chess #design #productdesign #engineering #3dprinting Explore a chessboard redesign in develop…",
+          "date": "2026-11-10",
+          "views": 1600000,
+          "likes": 88200,
+          "comments": 490,
+          "shares": 11800
+        },
+        {
+          "url": "https://www.tiktok.com/@lesinskidesigns/video/7708579705556978957",
+          "author": "LesinskiDesigns",
+          "caption": "Printed Chessboard Prototype 1 #chess #design #3dprinting #design #productdesign Explore a printed chessboard prototype focused on chess, 3D printing, and product design. #chess #design #3dprinting #design #productdesig…",
+          "date": "2026-11-16",
+          "views": 642500,
+          "likes": 25000,
+          "comments": 226,
+          "shares": 2852
+        },
+        {
+          "url": "https://www.tiktok.com/@xunodesign/video/7621950619057655061",
+          "author": "xunodesign",
+          "caption": "Designed a minimal fluted table lamp! Print files are up on my Thangs, link in bio! #3dprinting #homedecor #productdesign #lighting #lamp",
+          "date": "2026-03-27",
+          "views": 202600,
+          "likes": 7757,
+          "comments": 32,
+          "shares": 1297
+        },
+        {
+          "url": "https://www.tiktok.com/@charmandy/video/7501790186540453151",
+          "author": "charmandy",
+          "caption": "corpo girlie by day gamer by night #uxdesigner #tech #productdesigner #dayinmylife #diml #twitchstreamer #twitch #corporatelife Ever wonder what a day in the life of a UI/UX designer is like? See the balance between cor…",
+          "date": "2025-05-07",
+          "views": 123500,
+          "likes": 15900,
+          "comments": 118,
+          "shares": 733
+        },
+        {
+          "url": "https://www.tiktok.com/@thethingmagazine/video/7466361145717296406",
+          "author": "thethingmagazine",
+          "caption": "Berlin-based Studio Œ (Lisa Errtel & Annesophie Oberkrome) is focused on product design with a special take on material properties. Beside their work for big clients like Mattiazzi, they like to work collectively and se…",
+          "date": "2025-02-01",
+          "views": 83700,
+          "likes": 4392,
+          "comments": 28,
+          "shares": 336
         }
       ]
     },
     {
       "keyword": "ux",
       "found": 8,
-      "median_views": 35800.0,
+      "median_views": 12950.0,
       "top": [
         {
-          "url": "https://www.tiktok.com/@codevibes_1/video/7695054265777278240",
-          "author": "#CodeVibes",
-          "caption": "The Insane Gap Between Average and World-class UI/UX Design. watch Till End you learn more . Don't Forget to Like and follow for more interesting videos ❤️ YT=uxpeak #foryou #fyp #viral #uxdesign #animation Explore the …",
-          "date": "2026-10-10",
-          "views": 213500,
-          "likes": 30900,
-          "comments": 136,
-          "shares": 3304
+          "url": "https://www.tiktok.com/@ux.edward/video/7186454020947561754",
+          "author": "Ed  l  Product Designer",
+          "caption": "As I continue learning what is means to be a UX Product Designer, I’m realizing that Designing, Sketching, Prototyping and Wireframing are the basics of being a Product Designer. There is so much more to become a Produc…",
+          "date": "2023-01-09",
+          "views": 218600,
+          "likes": 6440,
+          "comments": 69,
+          "shares": 324
         },
         {
-          "url": "https://www.tiktok.com/@eileenxyang/video/7663246383926824222",
-          "author": "eileen yang",
-          "caption": "uiux design for beginners! aka what ive learned in the last few months :) @Replit #uiux #designtips #uiuxdesign Begin UI/UX design from scratch: clear steps, learning resources, and portfolio tips for beginners. Start y…",
-          "date": "2026-07-16",
-          "views": 180000,
-          "likes": 19500,
-          "comments": 122,
-          "shares": 1061
+          "url": "https://www.tiktok.com/@maysnowliu/video/7636995669131136270",
+          "author": "maysnow ♡",
+          "caption": "salary over the years as a mid lvl uxd #uxdesigner #salarytransparency #bigtech #productdesign Curious about a mid-level UX designer's salary in Big Tech? See a detailed breakdown of total compensation over 3 years, fro…",
+          "date": "2026-05-07",
+          "views": 51300,
+          "likes": 2027,
+          "comments": 63,
+          "shares": 210
         },
         {
-          "url": "https://www.tiktok.com/@xcal.official/video/7682944620359126292",
-          "author": "PPE🍕 | Xcal",
-          "caption": "ux edit ouuhh beyblade x #beyblade #beybladex #edit #fyp #xyzbca Discover top Beyblade X UX parts, build tips and where UX fits in tier lists for competitive Beyblade X. #beyblade #beybladex #edit Lead Looking for the b…",
-          "date": "2026-09-07",
-          "views": 131000,
-          "likes": 6460,
-          "comments": 263,
-          "shares": 653
-        },
-        {
-          "url": "https://www.tiktok.com/@thecareerwizard/video/7631776275807358228",
-          "author": "The Career Wizard",
-          "caption": "EPISODE 11 | What is a UX/UI Designer #Career #Job #UX #UI #UXUIdesigner Explore the essential differences between UX and UI design and discover the impact of these roles on digital experiences. #Career #Job #UX #UI #UX…",
-          "date": "2026-04-23",
-          "views": 49500,
-          "likes": 1009,
-          "comments": 8,
-          "shares": 137
-        },
-        {
-          "url": "https://www.tiktok.com/@zen_ux/video/7661012505623317791",
+          "url": "https://www.tiktok.com/@zen_ux/video/7664735777732971807",
           "author": "Zen UX Design",
-          "caption": "Basic UX/product design heuristics to focus on if you’re designing or building a digital product! 🌴 #productdesign #uiuxdesign #figma",
-          "date": "2026-07-10",
-          "views": 22100,
-          "likes": 1544,
-          "comments": 28,
-          "shares": 104
+          "caption": "Dark patterns in UX design to look out for! 🌴 #productdesign #uiuxdesign",
+          "date": "2026-07-20",
+          "views": 19000,
+          "likes": 425,
+          "comments": 5,
+          "shares": 10
+        },
+        {
+          "url": "https://www.tiktok.com/@zen_ux/video/7701793816474389790",
+          "author": "Zen UX Design",
+          "caption": "Miller’s law in UX design! 🌴 #productdesign #uiuxdesign #fyp Curious about Miller's Law in UX design? Discover how this key principle helps designers create more intuitive and user-friendly interfaces by managing cognit…",
+          "date": "2026-10-28",
+          "views": 14100,
+          "likes": 708,
+          "comments": 8,
+          "shares": 43
+        },
+        {
+          "url": "https://www.tiktok.com/@cynthabob/video/7079510062745554219",
+          "author": "cynthia",
+          "caption": "Reply to @yetwann q&a with @productchibi #uxengineer #uxengineering #uxdesign #breakintotech #workintech #ux #uxdesigner #uxdesignertips #jobsintech #careersintech #techcareers #careertok #techtok #swe #frontenddevelope…",
+          "date": "2022-03-26",
+          "views": 11800,
+          "likes": 426,
+          "comments": 11,
+          "shares": 13
         }
       ]
     },
     {
       "keyword": "ui",
       "found": 8,
-      "median_views": 40300.0,
+      "median_views": 138050.0,
       "top": [
         {
-          "url": "https://www.tiktok.com/@cvrlucky/video/7643494658739375382",
-          "author": "𝑳𝑼𝑪𝑲𝒀 🍀",
-          "caption": "Autonomous Ultra Instinct 👀🔥 || Goku Edit || Long Intro Edit || #goku #gokuedit #ultrainstinct #ui #targetaudience",
-          "date": "2026-05-24",
-          "views": 1800000,
-          "likes": 233400,
-          "comments": 1955,
-          "shares": 9445
+          "url": "https://www.tiktok.com/@zero.dbs/video/7484339773943926021",
+          "author": "Zero DBS",
+          "caption": "Goku Activando el UI A último momento 🥶 | #goku #ultrainstinto #ultrainstinct #songoku #dragonballsuper #dbs #dragonball #dbz #db Goku activa el Ultra Instinto en el último momento. Momento épico de Dragon Ball Super do…",
+          "date": "2025-03-21",
+          "views": 804200,
+          "likes": 64200,
+          "comments": 598,
+          "shares": 3664
         },
         {
-          "url": "https://www.tiktok.com/@sourxcreme/video/7568253915225935122",
-          "author": "Crema Agria #MikuExpo2026",
-          "caption": "si leí las letras, y si estan implícitas de acoso #vocaloid #ui #voisona #anime #animetiktok Análisis de las canciones de UI Voisona que se volvieron virales y por qué muchos usuarios dicen que sus letras hablan de acos…",
-          "date": "2025-11-02",
-          "views": 604400,
-          "likes": 69700,
-          "comments": 517,
-          "shares": 2104
+          "url": "https://www.tiktok.com/@wadhah_the_uxer/video/7659645619753045268",
+          "author": "Wadhah Aloui | UX/UI Designer",
+          "caption": "Want to dive deeper into UX Design? Grab my Ebook: Link in my bio! #ui #uidesign #ux #figma #uxui",
+          "date": "2026-07-07",
+          "views": 179100,
+          "likes": 12300,
+          "comments": 27,
+          "shares": 884
         },
         {
-          "url": "https://www.tiktok.com/@xbus2603021901/video/7630106749525183774",
-          "author": "xbus2603021901",
-          "caption": "16 Mahasiswa FH UI, kawal terus kasus ini! #fh #ui #fhui #ks 16 Mahasiswa FH UI berkomitmen mengawal kasus ini. Pantau perkembangannya dan dukung perjuangan mereka. #fh #ui #fhui #ks",
-          "date": "2026-04-18",
-          "views": 50600,
-          "likes": 365,
-          "comments": 23,
-          "shares": 13
+          "url": "https://www.tiktok.com/@jettesophia/video/7349246453992131873",
+          "author": "jette",
+          "caption": "ui",
+          "date": "2024-03-22",
+          "views": 163700,
+          "likes": 23000,
+          "comments": 106,
+          "shares": 1438
         },
         {
-          "url": "https://www.tiktok.com/@xbus2603024707/video/7630105502101409054",
-          "author": "xbus2603024707",
-          "caption": "16 Mahasiswa FH UI, kawal terus kasus ini! #fh #ui #fhui #ks",
-          "date": "2026-04-18",
-          "views": 46600,
-          "likes": 442,
-          "comments": 29,
-          "shares": 20
+          "url": "https://www.tiktok.com/@adeolabadmus87/video/7326262566408310021",
+          "author": "Ade Glossy🥰🧚🏻‍♀️",
+          "caption": "Welcome to the University of Ibadan🙂❤️ . Thanks for 90k fam, i love y’all🥺❤️🫂 #universityofibadan #UI #Adeglossy Take a virtual tour of the University of Ibadan! See the iconic Kenneth Dike Library, Wole Soyinka's Theat…",
+          "date": "2024-01-20",
+          "views": 140600,
+          "likes": 9263,
+          "comments": 314,
+          "shares": 163
         },
         {
-          "url": "https://www.tiktok.com/@xbus2603024707/video/7629629610291989791",
-          "author": "xbus2603024707",
-          "caption": "16 Mahasiswa FH UI, kawal terus kasus ini! #fh #ui #fhui #ks",
-          "date": "2026-04-17",
-          "views": 34000,
-          "likes": 447,
-          "comments": 23,
-          "shares": 10
+          "url": "https://www.tiktok.com/@mcytech/video/7695310020233202952",
+          "author": "Mcy (Micky)",
+          "caption": "Oneui 9 volume control bug🤔 #samsung #oneui9 #tech",
+          "date": "2026-10-11",
+          "views": 135500,
+          "likes": 2300,
+          "comments": 90,
+          "shares": 108
         }
       ]
     },
     {
       "keyword": "uxui",
       "found": 8,
-      "median_views": 124400.0,
+      "median_views": 56850.0,
       "top": [
         {
           "url": "https://www.tiktok.com/@daramint/video/7509250801399827735",
           "author": "Design With Dara",
           "caption": "Trying out a new tool during my WFH day — Trickle lets you build full websites just by typing a prompt 🤓🚀 #dayinmylife #wfh #workvlog #uxdesigner #webdesigner #uxui #creativecareer #designresources",
           "date": "2025-05-27",
-          "views": 415800,
-          "likes": 29600,
+          "views": 416700,
+          "likes": 29700,
           "comments": 177,
-          "shares": 1056
+          "shares": 1059
         },
         {
-          "url": "https://www.tiktok.com/@fluxpat/video/7546569875246927112",
-          "author": "Patty | Design & Tech",
-          "caption": "UX Bootcamp ep1 - Day 16/60. UX design teaches you critical thinking, empathy, creativity and problem solving. I strongly believe that if everyone studied UX theory just a little, it would make a huge difference. Not on…",
-          "date": "2025-09-05",
-          "views": 240100,
-          "likes": 26900,
-          "comments": 167,
-          "shares": 1148
-        },
-        {
-          "url": "https://www.tiktok.com/@codevibes_1/video/7695054265777278240",
-          "author": "#CodeVibes",
-          "caption": "The Insane Gap Between Average and World-class UI/UX Design. watch Till End you learn more . Don't Forget to Like and follow for more interesting videos ❤️ YT=uxpeak #foryou #fyp #viral #uxdesign #animation Explore the …",
-          "date": "2026-10-10",
-          "views": 213500,
-          "likes": 30900,
-          "comments": 136,
-          "shares": 3304
-        },
-        {
-          "url": "https://www.tiktok.com/@eileenxyang/video/7663246383926824222",
-          "author": "eileen yang",
-          "caption": "uiux design for beginners! aka what ive learned in the last few months :) @Replit #uiux #designtips #uiuxdesign Begin UI/UX design from scratch: clear steps, learning resources, and portfolio tips for beginners. Start y…",
-          "date": "2026-07-16",
-          "views": 180000,
-          "likes": 19500,
-          "comments": 122,
-          "shares": 1061
+          "url": "https://www.tiktok.com/@trienpont/video/7350249500075740434",
+          "author": "Trienpont International",
+          "caption": "Pov: We are UX/UI Designers 🌟💻 #UX/UI #softwaredevelopment Experience a day in the life of UAG designers making decisions for clients. Discover how we use Fignite to edit photos and build relationships with developers. …",
+          "date": "2024-03-25",
+          "views": 175100,
+          "likes": 5247,
+          "comments": 46,
+          "shares": 190
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7691697060487253281",
           "author": "Design With Dara",
-          "caption": "How my conversations be going this year 🫠 #uxui #uxdesigner #relatable #ai #design Short take showing common UX/UI designer lines and reactions about AI in conversations. #uxui #uxdesigner #relatable #ai #design The cli…",
+          "caption": "How my conversations be going this year 🫠 #uxui #uxdesigner #relatable #ai #design Ever get the 'AI is taking over' response when you say you're a UX/UI designer? This is the relatable conversation every designer is hav…",
           "date": "2026-10-01",
-          "views": 68800,
-          "likes": 6146,
-          "comments": 90,
-          "shares": 124
+          "views": 77000,
+          "likes": 6985,
+          "comments": 96,
+          "shares": 145
+        },
+        {
+          "url": "https://www.tiktok.com/@arimecoa/video/7700172007622642952",
+          "author": "arimecoa",
+          "caption": "ASCII lilly bouquet #uxui #vibecoding #ascii #motion #design Explore an ASCII lilly bouquet design with motion, blending text-based art and visual design. #uxui #vibecoding #ascii #motion #design An ASCII lilly bouquet …",
+          "date": "2026-10-24",
+          "views": 63200,
+          "likes": 9057,
+          "comments": 46,
+          "shares": 789
+        },
+        {
+          "url": "https://www.tiktok.com/@thecareerwizard/video/7631776275807358228",
+          "author": "The Career Wizard",
+          "caption": "EPISODE 11 | What is a UX/UI Designer #Career #Job #UX #UI #UXUIdesigner Explore the essential differences between UX and UI design and discover the impact of these roles on digital experiences. #Career #Job #UX #UI #UX…",
+          "date": "2026-04-23",
+          "views": 50500,
+          "likes": 1033,
+          "comments": 8,
+          "shares": 140
         }
       ]
     },
     {
       "keyword": "uxdesigner",
       "found": 8,
-      "median_views": 73950.0,
+      "median_views": 30500.0,
       "top": [
         {
-          "url": "https://www.tiktok.com/@itsdesignely/video/7534778973469822230",
-          "author": "Agatha | Design Engineer",
-          "caption": "Books to actually read. Tools you really need. YouTube channels that won’t waste your time. Designers who don’t just post fake crypto apps. 👩‍💻 From someone who’s done it (and still doing it). #uxdesign #selftaughtdesig…",
-          "date": "2025-08-04",
-          "views": 897800,
-          "likes": 56600,
-          "comments": 131,
-          "shares": 2149
+          "url": "https://www.tiktok.com/@designvoodoo/video/7220068787826019589",
+          "author": "Olivia | UX/UI Designer",
+          "caption": "If you wanna start making 6 figures doing sweet nothing, learn Figma and become a UI designer! #uxhumor #designhumor #uiux #figmadesign #figmatipsandtricks Ux for beginners",
+          "date": "2023-04-09",
+          "views": 1700000,
+          "likes": 132100,
+          "comments": 616,
+          "shares": 5064
         },
         {
-          "url": "https://www.tiktok.com/@daramint/video/7509250801399827735",
-          "author": "Design With Dara",
-          "caption": "Trying out a new tool during my WFH day — Trickle lets you build full websites just by typing a prompt 🤓🚀 #dayinmylife #wfh #workvlog #uxdesigner #webdesigner #uxui #creativecareer #designresources",
-          "date": "2025-05-27",
-          "views": 415800,
-          "likes": 29600,
-          "comments": 177,
-          "shares": 1056
+          "url": "https://www.tiktok.com/@meshtimes/video/7496935793873653038",
+          "author": "meshtimes",
+          "caption": "Just a designer hoarding fonts with lots of unfinished side projects ❤️‍🔥 spicy narration trend lolll #narration #productdesigner #uxdesigner #narrations Meet Marissa, a product designer who hoards fonts, has a graveyar…",
+          "date": "2025-04-24",
+          "views": 114200,
+          "likes": 10900,
+          "comments": 64,
+          "shares": 380
         },
         {
-          "url": "https://www.tiktok.com/@eileenxyang/video/7663246383926824222",
-          "author": "eileen yang",
-          "caption": "uiux design for beginners! aka what ive learned in the last few months :) @Replit #uiux #designtips #uiuxdesign Begin UI/UX design from scratch: clear steps, learning resources, and portfolio tips for beginners. Start y…",
-          "date": "2026-07-16",
-          "views": 180000,
-          "likes": 19500,
-          "comments": 122,
-          "shares": 1061
+          "url": "https://www.tiktok.com/@lifewmel2/video/7655574423461743886",
+          "author": "by.mel",
+          "caption": "come with me to config as a ux designer! finally got to come this year and checked out talks, activities, and collected swag to get the full experience ✨👩🏻‍💻 #creatorsearchinsights #uxdesigner #figma #config #uxdesign @…",
+          "date": "2026-06-26",
+          "views": 36400,
+          "likes": 6146,
+          "comments": 45,
+          "shares": 277
         },
         {
-          "url": "https://www.tiktok.com/@andreedelucaa/video/7663882432231329056",
-          "author": "andreedelucaa",
-          "caption": "different UI styles 🤓 #design #uxdesign #aesthetics",
-          "date": "2026-07-18",
-          "views": 96700,
-          "likes": 4032,
-          "comments": 11,
-          "shares": 340
+          "url": "https://www.tiktok.com/@faikat/video/7693219329348881678",
+          "author": "Faïkat",
+          "caption": "A day in the life of a UI/UX Designer 👩🏽‍💻 #fyp #womeninstem #bigtech #uiuxdesign #techtok Curious about a day in the life of a UI/UX designer? See the real process, from user research and wireframing in Figma to protot…",
+          "date": "2026-10-05",
+          "views": 34300,
+          "likes": 2304,
+          "comments": 24,
+          "shares": 79
         },
         {
-          "url": "https://www.tiktok.com/@maysnowliu/video/7636995669131136270",
-          "author": "maysnow ♡",
-          "caption": "salary over the years as a mid lvl uxd #uxdesigner #salarytransparency #bigtech #productdesign Track mid-level UX designer salary progression year-by-year and factors that affect pay. See typical ranges and trends. #uxd…",
-          "date": "2026-05-07",
-          "views": 51200,
-          "likes": 2017,
-          "comments": 63,
-          "shares": 210
+          "url": "https://www.tiktok.com/@shelly_ling_x/video/7631819023092567316",
+          "author": "Shelly_Ling_x",
+          "caption": "What I actually do as a UX researcher #uxresearch #userexperience #uxdesign #techcareers #dayinthelife Discover the daily responsibilities of a UX researcher in the tech industry. Gain insights into user experience rese…",
+          "date": "2026-04-23",
+          "views": 26700,
+          "likes": 1231,
+          "comments": 24,
+          "shares": 34
         }
       ]
     },
     {
       "keyword": "uidesigner",
       "found": 8,
-      "median_views": 111550.0,
+      "median_views": 239400.0,
       "top": [
+        {
+          "url": "https://www.tiktok.com/@designvoodoo/video/7220068787826019589",
+          "author": "Olivia | UX/UI Designer",
+          "caption": "If you wanna start making 6 figures doing sweet nothing, learn Figma and become a UI designer! #uxhumor #designhumor #uiux #figmadesign #figmatipsandtricks Ux for beginners",
+          "date": "2023-04-09",
+          "views": 1700000,
+          "likes": 132100,
+          "comments": 647,
+          "shares": 5064
+        },
         {
           "url": "https://www.tiktok.com/@radnolan/video/7332963160267263278",
           "author": "Nolan",
           "caption": "Mastering spacing is the secret that elevates a product designer from good to great. It's a crucial UI design skill that elevates the user experience. Why? Because our ultimate goal is to help users to navigate their de…",
           "date": "2024-02-07",
-          "views": 501300,
-          "likes": 42100,
-          "comments": 147,
-          "shares": 1722
+          "views": 502300,
+          "likes": 42200,
+          "comments": 146,
+          "shares": 1725
         },
         {
-          "url": "https://www.tiktok.com/@daramint/video/7509250801399827735",
-          "author": "Design With Dara",
-          "caption": "Trying out a new tool during my WFH day — Trickle lets you build full websites just by typing a prompt 🤓🚀 #dayinmylife #wfh #workvlog #uxdesigner #webdesigner #uxui #creativecareer #designresources",
-          "date": "2025-05-27",
-          "views": 415800,
-          "likes": 29600,
-          "comments": 177,
-          "shares": 1056
+          "url": "https://www.tiktok.com/@radnolan/video/7299479708733869355",
+          "author": "Nolan",
+          "caption": "Replying to @chukwuma Ubani When you’re first starting starting in UI & UX Design, it’s overwhelming deciding what to learn and when. I think you shouldn't focus on UX Design too early--you can learn that as you build y…",
+          "date": "2023-11-09",
+          "views": 489900,
+          "likes": 41200,
+          "comments": 265,
+          "shares": 1666
+        },
+        {
+          "url": "https://www.tiktok.com/@ryannaghib/video/7710820286773349663",
+          "author": "Ryan | App Marketing & Growth",
+          "caption": "Use these when designing your UI",
+          "date": "2026-11-22",
+          "views": 295900,
+          "likes": 29300,
+          "comments": 77,
+          "shares": 782
         },
         {
           "url": "https://www.tiktok.com/@eileenxyang/video/7663246383926824222",
           "author": "eileen yang",
           "caption": "uiux design for beginners! aka what ive learned in the last few months :) @Replit #uiux #designtips #uiuxdesign Begin UI/UX design from scratch: clear steps, learning resources, and portfolio tips for beginners. Start y…",
           "date": "2026-07-16",
-          "views": 180000,
-          "likes": 19500,
+          "views": 182900,
+          "likes": 19800,
           "comments": 122,
-          "shares": 1061
-        },
-        {
-          "url": "https://www.tiktok.com/@ux_snacks/video/7682191311541194005",
-          "author": "UX Snacks",
-          "caption": "Became a great UX Designer Now! And get the complete UX/UI Ebook: Link in bio! #uidesign #uxui #uxdesign #uiuxdesign #ui",
-          "date": "2026-09-05",
-          "views": 126400,
-          "likes": 8065,
-          "comments": 19,
-          "shares": 677
-        },
-        {
-          "url": "https://www.tiktok.com/@andreedelucaa/video/7663882432231329056",
-          "author": "andreedelucaa",
-          "caption": "different UI styles 🤓 #design #uxdesign #aesthetics",
-          "date": "2026-07-18",
-          "views": 96700,
-          "likes": 4032,
-          "comments": 11,
-          "shares": 340
+          "shares": 1065
         }
       ]
     },
     {
       "keyword": "uxuidesigner",
       "found": 8,
-      "median_views": 124400.0,
+      "median_views": 275550.0,
       "top": [
         {
-          "url": "https://www.tiktok.com/@ux_deniza/video/7266129145736858886",
-          "author": "ux_deniza",
-          "caption": "Here are the websites where you can practice your design skills. Save them for later 🤍 💎 uxtools.co 💎 sharpen.design 💎 ux.rescue.org Follow @ux_dyniza for more #udesign #productdesign #uxjobs Looking for websites to pra…",
-          "date": "2023-08-11",
-          "views": 2000000,
-          "likes": 147800,
-          "comments": 322,
-          "shares": 7177
+          "url": "https://www.tiktok.com/@fishitox.design/video/7405376329874410758",
+          "author": "Fishitox ✱",
+          "caption": "🌟¿Donde estudié diseño UX/UI? 👀Esta es una pregunta que me hacen muy seguido y la primera escuela con la que aprendí sobre esta carrera fue con @coderhouse 🎀Y tenemos código de descuento del 15% colocando: JESS Cuéntame…",
+          "date": "2024-08-21",
+          "views": 1500000,
+          "likes": 17000,
+          "comments": 91,
+          "shares": 897
+        },
+        {
+          "url": "https://www.tiktok.com/@seranslife_/video/7491690468129115438",
+          "author": "seran",
+          "caption": "another day in my life working as a UX designer 👩🏻‍💻✨ started with a morning meeting to sync up with other devs - what a productive day 🙂‍↕️🌼 #dayinmylife #dailyvlogs #workvlog #officejob #uxdesigner #dayinthelifevlog #…",
+          "date": "2025-04-10",
+          "views": 529700,
+          "likes": 20000,
+          "comments": 87,
+          "shares": 271
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7509250801399827735",
           "author": "Design With Dara",
           "caption": "Trying out a new tool during my WFH day — Trickle lets you build full websites just by typing a prompt 🤓🚀 #dayinmylife #wfh #workvlog #uxdesigner #webdesigner #uxui #creativecareer #designresources",
           "date": "2025-05-27",
-          "views": 415800,
-          "likes": 29600,
-          "comments": 177,
-          "shares": 1056
+          "views": 416700,
+          "likes": 29700,
+          "comments": 178,
+          "shares": 1059
         },
         {
-          "url": "https://www.tiktok.com/@the.bohdana/video/7477366165954645253",
-          "author": "the.bohdana",
-          "caption": "based on my personal opinion and experience only🫶🏻✨ #productdesign #uxdesign #uxuidesigner #uxuidesign",
-          "date": "2025-03-02",
-          "views": 209200,
-          "likes": 18200,
-          "comments": 134,
-          "shares": 472
+          "url": "https://www.tiktok.com/@mockup.app/video/7550297878791589127",
+          "author": "Mockup | UI/UX Design App",
+          "caption": "This app is a must-have tool for all UI/UX designers. 🤩 This app is called Mockup - UI/UX Design 🔥 Everything you need and more: 45+ device frames, 100+ preset elements, export options, unlimited element sets, text, ima…",
+          "date": "2025-09-15",
+          "views": 368200,
+          "likes": 14900,
+          "comments": 82,
+          "shares": 1099
         },
         {
           "url": "https://www.tiktok.com/@eileenxyang/video/7663246383926824222",
           "author": "eileen yang",
           "caption": "uiux design for beginners! aka what ive learned in the last few months :) @Replit #uiux #designtips #uiuxdesign Begin UI/UX design from scratch: clear steps, learning resources, and portfolio tips for beginners. Start y…",
           "date": "2026-07-16",
-          "views": 180000,
-          "likes": 19500,
+          "views": 182900,
+          "likes": 19800,
           "comments": 122,
-          "shares": 1061
-        },
-        {
-          "url": "https://www.tiktok.com/@daramint/video/7691697060487253281",
-          "author": "Design With Dara",
-          "caption": "How my conversations be going this year 🫠 #uxui #uxdesigner #relatable #ai #design Short take showing common UX/UI designer lines and reactions about AI in conversations. #uxui #uxdesigner #relatable #ai #design The cli…",
-          "date": "2026-10-01",
-          "views": 68800,
-          "likes": 6148,
-          "comments": 90,
-          "shares": 124
+          "shares": 1065
         }
       ]
     },
     {
       "keyword": "designengineer",
       "found": 8,
-      "median_views": 17050.0,
+      "median_views": 15250.0,
       "top": [
+        {
+          "url": "https://www.tiktok.com/@laiba89078/video/7704169397690174742",
+          "author": "monet3",
+          "caption": "Students in ENGS 2 - Integrated Design: Engineering, Architecture, and Building Technology get an introduction to the design of structures and the evolving role of architects and engineers. Students explore form and fun…",
+          "date": "2026-11-04",
+          "views": 712300,
+          "likes": 75600,
+          "comments": 119,
+          "shares": 3352
+        },
         {
           "url": "https://www.tiktok.com/@kadz.yt/video/7615382739268717844",
           "author": "Kadz",
           "caption": "Creative sign design ⚙️ #meme #memes #genius #creative #engineer A creative engineer sign design meme showing a clever open/closed sign concept. See the genius engineering idea behind this funny store sign design. A cre…",
           "date": "2026-03-09",
-          "views": 503700,
-          "likes": 8288,
+          "views": 504000,
+          "likes": 8297,
           "comments": 36,
           "shares": 320
         },
         {
-          "url": "https://www.tiktok.com/@meshtimes/video/7485914650991775018",
-          "author": "meshtimes",
-          "caption": "Just a designer on a journey to become a design engineer. I love pushing the boundaries of everyday software and turning physical experiences into digital ones ᵔᴗᵔ Some of my fave projects: - vintage photobooths - pixel…",
-          "date": "2025-03-26",
-          "views": 182000,
-          "likes": 20300,
-          "comments": 57,
-          "shares": 380
+          "url": "https://www.tiktok.com/@idethehague/video/7632326236705951009",
+          "author": "idethehague",
+          "caption": "come to the workshop as an Industrial Design Engineering student at THUAS! 🪚🔨 #industrialdesign #fyp #designtok #workshop #sanding See how an Industrial Design Engineering student at THUAS creates a prototype from foam …",
+          "date": "2026-04-24",
+          "views": 24300,
+          "likes": 2831,
+          "comments": 11,
+          "shares": 108
         },
         {
-          "url": "https://www.tiktok.com/@koi_library/video/7615218676693814550",
-          "author": "koi_library",
-          "caption": "where science and engineering meets design and creativity. recommended universities: bath (high entry requirements!), bristol, cambridge, imperial, and UCL #design #designengineering #engineering #ucas #oxbridge",
-          "date": "2026-03-09",
-          "views": 20400,
-          "likes": 439,
-          "comments": 3,
-          "shares": 37
+          "url": "https://www.tiktok.com/@kyzha.life/video/6975098684555939074",
+          "author": "Kyzha | Diaries 🌸🐶🐱",
+          "caption": "A day in a life of a Design Engineer Series: Day 1 medyo hiningal ako mag voice over hahaha #tiktokph",
+          "date": "2021-06-18",
+          "views": 19900,
+          "likes": 290,
+          "comments": 11,
+          "shares": 4
         },
         {
-          "url": "https://www.tiktok.com/@sarahli.mp3/video/7686982173630598418",
-          "author": "sarahli.mp3",
-          "caption": "part 8 of jobs you didn’t know you could do as a software engineer :) design engineer 🎨💻 i feel like this is such an underrated path for people who love coding but also care way too much about how a product looks and fe…",
-          "date": "2026-09-18",
-          "views": 18600,
-          "likes": 1814,
-          "comments": 19,
-          "shares": 39
-        },
-        {
-          "url": "https://www.tiktok.com/@enj0eneering/video/7619427170292665622",
-          "author": "enj0eneering",
-          "caption": "Replying to @Dang being a design engineer seems pretty fun to me Explore the role of a design engineer and whether a career in design engineering is worth pursuing. Discover what being a design engineer entails. #Design…",
-          "date": "2026-03-20",
-          "views": 15500,
-          "likes": 491,
+          "url": "https://www.tiktok.com/@chlo.diaries/video/7502390143894998294",
+          "author": "chlo.diaries",
+          "caption": "What I do as a Mechanical Design Engineer #womeninengineering #engineering #stem #fyp #corporatelife #design #engineer #architecture #construction #thisisengineering #engineeringchampion Descubre el trabajo de una ingen…",
+          "date": "2025-05-09",
+          "views": 10600,
+          "likes": 356,
           "comments": 8,
-          "shares": 35
+          "shares": 16
         }
       ]
     },
     {
       "keyword": "product builder",
       "found": 8,
-      "median_views": 43450.0,
+      "median_views": 1975.0,
       "top": [
         {
-          "url": "https://www.tiktok.com/@htx_studio/video/7689051915304455454",
-          "author": "HTX Studio",
-          "caption": "We Built the Product Apple Gave Up On... A short video showing a team building a wireless charger inspired by Apple’s AirPower concept. We Built the Product Apple Gave Up On. #apple #airpower The video documents buildin…",
-          "date": "2026-09-24",
-          "views": 9400000,
-          "likes": 1700000,
-          "comments": 7296,
-          "shares": 151700
-        },
-        {
-          "url": "https://www.tiktok.com/@meshtimes/video/7686605089816988942",
-          "author": "meshtimes",
-          "caption": "here’s the super quick process of how I made my little dynamic hair clip very much prototype v1!!! the battery life is not long, the construction is hacky, and there are a million things I want to change for v2 lol but …",
-          "date": "2026-09-17",
-          "views": 279900,
-          "likes": 37600,
-          "comments": 133,
-          "shares": 3264
-        },
-        {
-          "url": "https://www.tiktok.com/@daviefogarty/video/7651466553489132801",
-          "author": "Davie Fogarty",
-          "caption": "It’s actually so easy to create a $10M product... Most people think you need a new invention. In reality, sometimes all you need is a product people can’t ignore. Head to my Instagram and DM me 'COACH' for 1 on 1 mentor…",
-          "date": "2026-06-15",
-          "views": 94000,
-          "likes": 7649,
-          "comments": 231,
-          "shares": 638
-        },
-        {
-          "url": "https://www.tiktok.com/@alvmills/video/7486471698313956630",
-          "author": "Alv | SHYNE Founder",
-          "caption": "How much it really cost me to launch the SHYNE curl cream 💷👨🏿‍💻 @weareshyne #entrepeneur #beautyfounder #mensgrooming #founder #brandbuilding #fyp Discover the real costs involved in launching SHYNE curl cream and insig…",
-          "date": "2025-03-27",
-          "views": 66600,
-          "likes": 2805,
-          "comments": 66,
-          "shares": 283
+          "url": "https://www.tiktok.com/@kevjeffriesx/video/7672344261928537375",
+          "author": "Kevin Jeffries",
+          "caption": "Time semi wasted! Well, at least I was learning. I have to get back to looking for problems, otherwise I’ll be learning forever. #productdesign #engineer Practical product design advice for engineers who want to learn e…",
+          "date": "2026-08-10",
+          "views": 33400,
+          "likes": 2768,
+          "comments": 23,
+          "shares": 46
         },
         {
           "url": "https://www.tiktok.com/@rhymeswiththereheis/video/7619909750922153247",
@@ -622,203 +602,233 @@
           "likes": 174,
           "comments": 57,
           "shares": 17
+        },
+        {
+          "url": "https://www.tiktok.com/@itsallykrinsky/video/7642484235650993422",
+          "author": "ally krinsky | strategy & ai ✨",
+          "caption": "building things >> #techcareer #technicalproductmanager #productbuilder #ai #vibecoding",
+          "date": "2026-05-21",
+          "views": 3021,
+          "likes": 133,
+          "comments": 2,
+          "shares": 3
+        },
+        {
+          "url": "https://www.tiktok.com/@itsallykrinsky/video/7638394290342874381",
+          "author": "ally krinsky | strategy & ai ✨",
+          "caption": "AI Product work is not just using AI to write specs & make decks in case anyone was confused 👀 #ai #technicalproductmanager #stayingtechnical #productbuilder",
+          "date": "2026-05-10",
+          "views": 2024,
+          "likes": 88,
+          "comments": 1,
+          "shares": 4
+        },
+        {
+          "url": "https://www.tiktok.com/@dougsdigitalincome/video/7709850605786909965",
+          "author": "Doug Martone",
+          "caption": "GAME CHANGER. Full walkthrough of our digital product launchpad in AIS. We have built something incredible. Idk if you’re ready, but if you are…get on the waitlist. NOW. #successmindset #consistency #ai Discover the gam…",
+          "date": "2026-11-19",
+          "views": 1926,
+          "likes": 105,
+          "comments": 40,
+          "shares": 36
         }
       ]
     },
     {
       "keyword": "product discovery",
       "found": 8,
-      "median_views": 3135.0,
+      "median_views": 1057200.0,
       "top": [
         {
-          "url": "https://www.tiktok.com/@_shahidanwarllc.com/video/7706224576639831327",
-          "author": "Shahid Anwar",
-          "caption": "🚨 $68,000 A MONTH from an UNDER-SINK ORGANIZER?! 🤯💰 I just discovered this winning product using FindNuro! 🔥 A simple home organization product showing $68K in monthly sales! 📈 💡 FindNuro helps you: ✅ Discover trending,…",
-          "date": "2026-11-09",
-          "views": 940600,
-          "likes": 60100,
-          "comments": 464,
-          "shares": 5057
+          "url": "https://www.tiktok.com/@grubbytinkytoot/video/7641118595027701022",
+          "author": "grubbytinkytoot",
+          "caption": "I still can’t believe I didn’t consider this. I wonder how long it will be until we rediscover it, the way it was intended. My husband and I have a word for when we need to prove we’re being truthful or to make sure the…",
+          "date": "2026-05-18",
+          "views": 20300000,
+          "likes": 674000,
+          "comments": 2329,
+          "shares": 7590
         },
         {
-          "url": "https://www.tiktok.com/@dropship/video/7592301722123504918",
-          "author": "Dropship",
-          "caption": "Best way to find products in 2026 🏆💰 #entrepreneur #businesstips #businessowner How to find the best dropshipping products in 2026 using data‑backed research, profit insights, and ready‑made TikTok and Facebook content …",
-          "date": "2026-01-06",
-          "views": 708500,
-          "likes": 33100,
-          "comments": 635,
-          "shares": 2566
+          "url": "https://www.tiktok.com/@mollyw321/video/7706688080010398990",
+          "author": "Molly Walker",
+          "caption": "Im mad it took me 22 years to discover these (linked them in my TikTok showcase 🫶) Step-by-step tips to use heated rollers (Remington & others) for wavy, long-lasting hair. Learn timing, placement, and product tricks. #…",
+          "date": "2026-11-10",
+          "views": 2100000,
+          "likes": 233600,
+          "comments": 822,
+          "shares": 9435
         },
         {
-          "url": "https://www.tiktok.com/@adequate_trash/video/7643301154440482068",
-          "author": "Em 🇨🇦",
-          "caption": "Do you think this $5 find is worth it? I'm pretty impressed! 👍 #Dollartree #Dollarama #fountain #unboxing #trywithme Unboxing a $5 Dollarama tabletop water fountain. See how it works, how to add water and batteries, and…",
-          "date": "2026-05-24",
-          "views": 7063,
-          "likes": 93,
-          "comments": 4,
-          "shares": 28
+          "url": "https://www.tiktok.com/@craftyheauxx/video/7534057248683855135",
+          "author": "CraftyHeauxx | Dina Michele🧡",
+          "caption": "Now this is how you do a perfume discovery set!😍 If you are ready to find your signature scent without breaking the bank, you need this set from @BellaVitashop🥰 I tagged it for you, get yours today💕 #Bellavita #Bellavit…",
+          "date": "2025-08-02",
+          "views": 2000000,
+          "likes": 11400,
+          "comments": 212,
+          "shares": 1234
         },
         {
-          "url": "https://www.tiktok.com/@glamglow000/video/7695203994427247878",
-          "author": "Glam& Glow🎀",
-          "caption": "#Discovery Fragrance sets at shoppers drug mart# viral @shoppersbeauty @Beautymagnetz✨ Find what's inside Discovery fragrance sets at Shoppers Drug Mart and why they're going viral — quick guide to sizes, brands, and va…",
-          "date": "2026-10-11",
-          "views": 5506,
-          "likes": 57,
-          "comments": 6,
-          "shares": 8
+          "url": "https://www.tiktok.com/@costco.savvy/video/7613941488124300557",
+          "author": "Costco.Savvy",
+          "caption": "Spotted this Jackery solar generator at Costco. It’s a portable 1500-watt power station that comes with 100W solar panels, which can be useful for camping, RV trips, or backup power at home. 🔌 Right now it’s $200 off at…",
+          "date": "2026-03-06",
+          "views": 1600000,
+          "likes": 46900,
+          "comments": 287,
+          "shares": 18400
         },
         {
-          "url": "https://www.tiktok.com/@wiio.dropshipping/video/7698239842781613326",
-          "author": "Wiio dropshipping",
-          "caption": "🔥 5 Dropshipping Products That Are Blowing Up Right Now! 🚀 From clever travel accessories to smart kitchen gadgets, these products could spark your next winning product idea. 👀💰 📦 Discover unique products with practical…",
-          "date": "2026-10-19",
-          "views": 764,
-          "likes": 41,
-          "comments": 7,
-          "shares": 2
+          "url": "https://www.tiktok.com/@growwithtim0/video/7562902693174463757",
+          "author": "GrowWithTim",
+          "caption": "The Simple Discovery That Made One Farmer World-Famous #farming #garden #gardening",
+          "date": "2025-10-19",
+          "views": 514400,
+          "likes": 9495,
+          "comments": 128,
+          "shares": 6787
         }
       ]
     },
     {
       "keyword": "product management",
       "found": 8,
-      "median_views": 42500.0,
+      "median_views": 58050.0,
       "top": [
-        {
-          "url": "https://www.tiktok.com/@chloeshih/video/7283976222755835182",
-          "author": "Chloe Shih",
-          "caption": "do u really understand your job if u don’t use watermelons to explain it? 🍉🍉 new video on yootooooob! basically my *unfiltered* thoughts on what I actually do as a PM after many many more years in the career. stayed up …",
-          "date": "2023-09-28",
-          "views": 350500,
-          "likes": 19300,
-          "comments": 140,
-          "shares": 934
-        },
         {
           "url": "https://www.tiktok.com/@gabrielleprich/video/7686528957797158158",
           "author": "GABRIELLE",
-          "caption": "mini ceo 🙂‍↕️ #careeradvice #workingintech #womenintech #corporategirly #productmanagement Short video explaining why product management is the best career to have in your 20s, with career-advice tags. #careeradvice #wo…",
+          "caption": "mini ceo 🙂‍↕️ #careeradvice #workingintech #womenintech #corporategirly #productmanagement Thinking about a career in tech? Discover why product management is one of the best careers for your 20s, offering great pay, tr…",
           "date": "2026-09-17",
-          "views": 204200,
-          "likes": 16800,
-          "comments": 147,
-          "shares": 643
-        },
-        {
-          "url": "https://www.tiktok.com/@shonathann/video/7638664535473245458",
-          "author": "Sean | 💻🎞️🎭",
-          "caption": "Would you choose plan A or plan B? #consulting #productmanagement #earlycareer #bigtech #careeradvice",
-          "date": "2026-05-11",
-          "views": 75500,
-          "likes": 4006,
-          "comments": 29,
-          "shares": 91
+          "views": 207500,
+          "likes": 17100,
+          "comments": 152,
+          "shares": 647
         },
         {
           "url": "https://www.tiktok.com/@kproductmanager/video/7593904049662070036",
           "author": "kproductmanager 🧑‍💻",
           "caption": "Bonus: soft skills are actually hard skills for a PM. That is how I negotiate, influence, and work with teams. What it means to be a product manager. #productmanager #tech #nyc #corporate #ditl Explore how soft skills a…",
           "date": "2026-01-11",
-          "views": 70400,
-          "likes": 3471,
+          "views": 70900,
+          "likes": 3498,
           "comments": 20,
-          "shares": 115
+          "shares": 116
         },
         {
-          "url": "https://www.tiktok.com/@shonathann/video/7667581858586053906",
-          "author": "Sean | 💻🎞️🎭",
-          "caption": "SO important that you understand what skills (and keywords) you need to learn AND PUT ON YOUR RESUME so that you can land PM interviews. It’s okay if you don’t have all of these, start working towards these skills in yo…",
-          "date": "2026-07-28",
-          "views": 14600,
-          "likes": 978,
-          "comments": 6,
-          "shares": 56
+          "url": "https://www.tiktok.com/@learnwithneelima/video/7202392077928500526",
+          "author": "neelima | tech & finance ☁️",
+          "caption": "show time!!! #techtok #productmanager #productmanagement #pmlife #womenintech #techgirlie #nepalitiktok #techhumor #techjokes #product #workintech #careertiktok #productmanagerhumor #pm #introvert #corporatetiktok #work…",
+          "date": "2023-02-20",
+          "views": 70800,
+          "likes": 3822,
+          "comments": 59,
+          "shares": 135
+        },
+        {
+          "url": "https://www.tiktok.com/@gabrielleprich/video/7685765327304609037",
+          "author": "GABRIELLE",
+          "caption": "my number 1 tip for breaking into tech #productmanager #breakingintotech #bigtech #careeradvice #womenintech A concise, practical tip for breaking into product management from the video. #productmanager #breakingintotec…",
+          "date": "2026-09-15",
+          "views": 68100,
+          "likes": 6514,
+          "comments": 51,
+          "shares": 257
+        },
+        {
+          "url": "https://www.tiktok.com/@itskelseyjamison/video/7689558889485946126",
+          "author": "Kelsey",
+          "caption": "Answering my most asked question: how I became a technical product manager in tech! Let me know if there are any questions or if you want me to dive deeper! #productmanagement #techtok #dayinmylife #productmanager #work…",
+          "date": "2026-09-25",
+          "views": 48000,
+          "likes": 4588,
+          "comments": 79,
+          "shares": 147
         }
       ]
     },
     {
       "keyword": "vibe coding",
       "found": 8,
-      "median_views": 112400.0,
+      "median_views": 389100.0,
       "top": [
         {
-          "url": "https://www.tiktok.com/@vibecodingiseasy/video/7699025544016383245",
-          "author": "vibecodingiseasy",
-          "caption": "What is vibe coding ? Ever heard of vibe coding? It's the new way to build apps and games without writing a single line of code. Learn what it is, how it works with AI like Claude, and how you can start today. ### What …",
-          "date": "2026-10-21",
-          "views": 241600,
-          "likes": 16100,
-          "comments": 195,
-          "shares": 902
+          "url": "https://www.tiktok.com/@calebthemartin007/video/7652995254886370591",
+          "author": "CalebTheMartin",
+          "caption": "Building the next big thing☝️ #vibecoding",
+          "date": "2026-06-19",
+          "views": 1400000,
+          "likes": 88300,
+          "comments": 2429,
+          "shares": 18000
         },
         {
-          "url": "https://www.tiktok.com/@murphmaxxing/video/7707013897877785869",
-          "author": "murphmaxxing",
-          "caption": "20 ways someone hacks your vibecoded app, from a header that skips your login to your own source maps. AI-written code had security flaws in 45% of Veracode’s tests. Screenshot the list and paste it into Claude. The fix…",
-          "date": "2026-11-11",
-          "views": 218500,
-          "likes": 12800,
-          "comments": 256,
-          "shares": 2082
+          "url": "https://www.tiktok.com/@sophia.designsthings/video/7661119222595996958",
+          "author": "sophia.designsthings",
+          "caption": "i thought this was a scam but apparently not lol newly.app is legit #cs #sidehustle #vibecode #vibecoding #computerscience",
+          "date": "2026-07-11",
+          "views": 668100,
+          "likes": 51600,
+          "comments": 475,
+          "shares": 11700
         },
         {
-          "url": "https://www.tiktok.com/@itsthatlady.dev/video/7591709701604232503",
-          "author": "Kedasha 💕",
-          "caption": "I spent winter break building a NextJS template and I've already shipped 2 app ideas with it 🚀 This is my current workflow when Vibe Coding: Step 1: Claude for Planning I chat with Claude like I'm talking to a senior de…",
-          "date": "2026-01-05",
-          "views": 137500,
-          "likes": 7389,
-          "comments": 177,
-          "shares": 1006
+          "url": "https://www.tiktok.com/@themarketinginternss/video/7710865770032418061",
+          "author": "themarketinginterns",
+          "caption": "Bro thought he cooked🥀 #claude #chatgpt #startup #vibecoding #coding",
+          "date": "2026-11-22",
+          "views": 408500,
+          "likes": 48100,
+          "comments": 401,
+          "shares": 6050
         },
         {
-          "url": "https://www.tiktok.com/@techwithkingsleyofficial/video/7665104901478845704",
-          "author": "Tech With Kingsley Official🎙️",
-          "caption": "Made some mistakes in vibe coding that I think coders should watch out for. Just sharing my experience to maybe help others avoid them too. Anyone else run into these issues? #AI #vibecode #chatgpt4 #vibecoder #claude",
-          "date": "2026-07-21",
-          "views": 117600,
-          "likes": 4991,
-          "comments": 316,
-          "shares": 477
+          "url": "https://www.tiktok.com/@themarketinginternss/video/7709369714526489870",
+          "author": "themarketinginterns",
+          "caption": "Who gave ts to bro #claude #chatgpt #astra #startup #vibecoding Explore who 'gave ts to bro' and how Claude, ChatGPT, Astra, and GPT-6.2 relate to the phrase — key search terms, context, and related queries. #claude #ch…",
+          "date": "2026-11-18",
+          "views": 396100,
+          "likes": 17800,
+          "comments": 161,
+          "shares": 1843
         },
         {
-          "url": "https://www.tiktok.com/@vektor.fm/video/7690952023810002179",
-          "author": "vektor",
-          "caption": "The reality of vibe coding or is it more complicated? 😉 Let me know in the comments! #vibecoding #ai #openai #anthropic #softwareengineering",
-          "date": "2026-09-29",
-          "views": 107200,
-          "likes": 2141,
-          "comments": 25,
-          "shares": 72
+          "url": "https://www.tiktok.com/@yatesvids/video/7682951090710646023",
+          "author": "Alex Yates",
+          "caption": "Hey Claude I do not want my vibecoded website to get hacked… #vibecoding #vibecode",
+          "date": "2026-09-08",
+          "views": 382100,
+          "likes": 29700,
+          "comments": 179,
+          "shares": 3747
         }
       ]
     },
     {
       "keyword": "tech girl",
       "found": 8,
-      "median_views": 137350.0,
+      "median_views": 104800.0,
       "top": [
         {
           "url": "https://www.tiktok.com/@shelbyhyoung/video/7697800258432109837",
           "author": "Shelby Young",
           "caption": "streets are saying “tech team girl” is a baddie? 🫶 all i know is i had so much fun voicing her for the movie! #badguys2 Learn who 'Tech Team Girl' is in Bad Guys 2 and why fans call her a baddie — plus voice actor insig…",
           "date": "2026-10-18",
-          "views": 885300,
-          "likes": 71300,
-          "comments": 727,
-          "shares": 1231
+          "views": 897600,
+          "likes": 72100,
+          "comments": 731,
+          "shares": 1238
         },
         {
           "url": "https://www.tiktok.com/@llauregg/video/7609400901245144333",
           "author": "Lauren",
           "caption": "breaking down current tech twitter discourse for the girls Tech leaders say taste is the new core skill as AI makes building software easier. Why marketing, storytelling, and brand aura are becoming the real bottleneck.…",
           "date": "2026-02-21",
-          "views": 842800,
-          "likes": 90300,
-          "comments": 560,
+          "views": 843300,
+          "likes": 90400,
+          "comments": 559,
           "shares": 12900
         },
         {
@@ -826,364 +836,501 @@
           "author": "madelyn",
           "caption": "How I became a tech content creator #techtok #pc #pcbuild #techtips #techbaddie #pcgamer #gaming #desksetup #pcbuilding #techgirl #contentcreator #CapCut Curious how I became a tech content creator? It all started with …",
           "date": "2025-08-05",
-          "views": 361100,
+          "views": 363500,
           "likes": 13200,
           "comments": 205,
           "shares": 295
         },
         {
-          "url": "https://www.tiktok.com/@tinahelloworld/video/7654305415219481887",
-          "author": "Tina Chi",
-          "caption": "no hate to the original creator of the video, just wanted to share something that I’m proud of and hope to inspire <3 #engineering #womenintech #compsci",
-          "date": "2026-06-22",
-          "views": 168700,
-          "likes": 15800,
-          "comments": 71,
-          "shares": 212
-        },
-        {
           "url": "https://www.tiktok.com/@thetechbaddiee/video/7652809043974556941",
           "author": "BaddiesCodes",
-          "caption": "#techgirl #womenintech #fashiontech #engineer #techtok Practical tips for interviewing when your resume shows fashion-tech projects — how to frame skills, talk tech, and handle bias. #techgirl #womenintech #fashiontech …",
+          "caption": "#techgirl #womenintech #fashiontech #engineer #techtok Ever feel like your fashion-tech resume isn't enough for a tech interview? See how L. Woods, a fashion merchandising grad and Gemini vegetarian, navigates the tech …",
           "date": "2026-06-18",
-          "views": 106000,
+          "views": 106400,
           "likes": 21100,
           "comments": 101,
-          "shares": 226
+          "shares": 228
+        },
+        {
+          "url": "https://www.tiktok.com/@saladpictures_/video/7598669328648572191",
+          "author": "madelyn",
+          "caption": "Tech hot takes #pcbuild #Tech #techgirl #tiktoklearningcampaign #techtips",
+          "date": "2026-01-23",
+          "views": 103200,
+          "likes": 11300,
+          "comments": 370,
+          "shares": 127
         }
       ]
     },
     {
       "keyword": "figma",
       "found": 8,
-      "median_views": 97600.0,
+      "median_views": 117250.0,
       "top": [
         {
-          "url": "https://www.tiktok.com/@lolstudios33/video/7691467871767055629",
-          "author": "lolstudios33",
-          "caption": "Dm to learn or join the discord made completely by Claude #roblox #robloxstudio #claude #blender3d",
-          "date": "2026-09-30",
-          "views": 284500,
-          "likes": 14800,
-          "comments": 192,
-          "shares": 2863
+          "url": "https://www.tiktok.com/@adrien.ninet/video/7423065788279459105",
+          "author": "Adrien Ninet",
+          "caption": "Impress Your Future Clients by Creatibg Stunning Mockups 🤩 #webdesigner #figmadesign #figmatips #website #figma Learn how to create a stunning Figma mockup with a 3D effect and smooth shadow using a plugin. Quick steps …",
+          "date": "2024-10-07",
+          "views": 1200000,
+          "likes": 76000,
+          "comments": 864,
+          "shares": 5912
         },
         {
-          "url": "https://www.tiktok.com/@sharpygoldy/video/7700126832066137351",
-          "author": "GoldySharpy",
-          "caption": "figma poster | Inktober 2026 l 1.Apple #inktober #figma #motion #poster #graphicdesign See a Figma poster made for Inktober 2026: Apple-themed motion poster and graphic design process. #inktober #figma #motion #poster #…",
-          "date": "2026-10-24",
-          "views": 240200,
-          "likes": 47800,
-          "comments": 203,
-          "shares": 1851
+          "url": "https://www.tiktok.com/@asadahmedesign/video/7455626979547696389",
+          "author": "Asad Ahmed Designs",
+          "caption": "🎯 Just Starting with Figma? These 5 Steps Will Make You a Pro! 👉 Don’t let Figma overwhelm you – simplify your design journey: 1️⃣ Understand the Toolbar – Frames make layouts easy. 2️⃣ Auto Layout – Designs that grow w…",
+          "date": "2025-01-03",
+          "views": 368700,
+          "likes": 8951,
+          "comments": 50,
+          "shares": 521
         },
         {
-          "url": "https://www.tiktok.com/@maks.k.design/video/7620108644394208519",
-          "author": "Maks K - Web Designer",
-          "caption": "Scrollbar in Figma | Scrollable list in Figma #figma #figmaanimation #figmatutorial #figmadesign #figmaprototype Learn how to add a scrollbar in Figma and create a scrollable list with auto layout, prototype animation, …",
-          "date": "2026-03-22",
-          "views": 106700,
-          "likes": 5700,
-          "comments": 22,
-          "shares": 376
+          "url": "https://www.tiktok.com/@daramint/video/7515571306071330070",
+          "author": "Design With Dara",
+          "caption": "Here’s a few reasons why designers (even non designers) are switching to Figma 💁🏻‍♀️ #figma #designtool #uxui #webdesign #creativetok #productivity",
+          "date": "2025-06-13",
+          "views": 190500,
+          "likes": 20400,
+          "comments": 62,
+          "shares": 512
         },
         {
-          "url": "https://www.tiktok.com/@hodeiart/video/7617445680176598294",
-          "author": "hodeiart ☁️",
-          "caption": "Replying to @starry_ariem PART 1. How to build an interactive portfolio using only figma. #figma #portfoliodesign #design #illustration #portfolio Learn how to create an engaging and interactive portfolio with Figma in …",
-          "date": "2026-03-15",
-          "views": 101200,
-          "likes": 7904,
-          "comments": 16,
-          "shares": 562
+          "url": "https://www.tiktok.com/@figma/video/7703576060398456077",
+          "author": "figma",
+          "caption": "Figma is better with @hellokitty and Friends For the next week, choose a character in FigJam and your cursor, washi tape, sticky notes might look a little bit cuter Discover the new Hello Kitty and Friends collaboration…",
+          "date": "2026-11-02",
+          "views": 142400,
+          "likes": 21600,
+          "comments": 100,
+          "shares": 4264
         },
         {
-          "url": "https://www.tiktok.com/@catamartinezp/video/7670726847738481927",
-          "author": "cartulina ✴︎ diseño web + uxui",
-          "caption": "Te gustaría aprender a usar Figma? 👀 El viernes 21/08 lanzamos junto a @Carly - Branding el primer curso de Figma del año. 🚀 Si alguna vez quisiste empezar a diseñar páginas web, sumar un servicio mucho mejor pago, apre…",
-          "date": "2026-08-06",
-          "views": 94000,
-          "likes": 12500,
-          "comments": 88,
-          "shares": 997
+          "url": "https://www.tiktok.com/@radnolan/video/7709529892748119327",
+          "author": "Nolan",
+          "caption": "You should make a supermarket aisle in @figma… because you can. What makes 3D in Figma so powerful is that you can build an entire scene from flat, nested components. Start with a packaging net, turn the faces into a co…",
+          "date": "2026-11-18",
+          "views": 92100,
+          "likes": 14000,
+          "comments": 74,
+          "shares": 1494
         }
       ]
     },
     {
       "keyword": "figma make",
-      "found": 0,
-      "median_views": null,
-      "top": []
+      "found": 8,
+      "median_views": 61200.0,
+      "top": [
+        {
+          "url": "https://www.tiktok.com/@nathanhodgson.ai/video/7607811529865465090",
+          "author": "Nathan Hodgson",
+          "caption": "Figma just launched Figma Make, an AI tool that turns ideas into interactive prototypes in minutes. #figma #ai #artificialintelligence #aitools #vibecoding",
+          "date": "2026-02-17",
+          "views": 117000,
+          "likes": 4923,
+          "comments": 20,
+          "shares": 639
+        },
+        {
+          "url": "https://www.tiktok.com/@radnolan/video/7709529892748119327",
+          "author": "Nolan",
+          "caption": "You should make a supermarket aisle in @figma… because you can. What makes 3D in Figma so powerful is that you can build an entire scene from flat, nested components. Start with a packaging net, turn the faces into a co…",
+          "date": "2026-11-18",
+          "views": 92100,
+          "likes": 14000,
+          "comments": 74,
+          "shares": 1494
+        },
+        {
+          "url": "https://www.tiktok.com/@bykatiemai/video/7630455513301388557",
+          "author": "katie",
+          "caption": "I made a website with little bugs who would tell me what to draw for when I don’t know what to draw, with the help of @figma 🐛🪲🐞 Check out https://sketchbugs.figma.site/ to complete the 7-day sketchbug challenge and sta…",
+          "date": "2026-04-19",
+          "views": 91000,
+          "likes": 11100,
+          "comments": 53,
+          "shares": 597
+        },
+        {
+          "url": "https://www.tiktok.com/@designvoodoo/video/7609299081499888918",
+          "author": "Olivia | UX/UI Designer",
+          "caption": "Ill teach you to design a cooking ap in @figma in just 4 minutes with my crashcourse! We’ll go over autolayout, responsive design, design systems and vibecoding/prototyping. If you want to become and app designer or ui …",
+          "date": "2026-02-21",
+          "views": 76500,
+          "likes": 4575,
+          "comments": 45,
+          "shares": 222
+        },
+        {
+          "url": "https://www.tiktok.com/@ui.tega/video/7676921996529175815",
+          "author": "Tegadesigns(Websites and AI)",
+          "caption": "For custom prompts and templates send a dm #uiuxdesigner #Tech #figma #websitedesigner #uiux",
+          "date": "2026-08-22",
+          "views": 45900,
+          "likes": 1419,
+          "comments": 80,
+          "shares": 58
+        }
+      ]
     },
     {
       "keyword": "claude code",
       "found": 8,
-      "median_views": 105400.0,
+      "median_views": 946000.0,
       "top": [
         {
-          "url": "https://www.tiktok.com/@wavaai.feeds/video/7663408431159627026",
-          "author": "wavaai.feeds",
-          "caption": "Sharing this chart of 15 Claude Code combos that can handle everything from coding to documentation. It’s pretty interesting how pairing Claude Code with different tools can help build things faster — from GitHub review…",
-          "date": "2026-07-17",
-          "views": 428000,
-          "likes": 19300,
-          "comments": 73,
-          "shares": 2095
+          "url": "https://www.tiktok.com/@claude/video/7675424611449769246",
+          "author": "Claude",
+          "caption": "Choose a Claude model based on the complexity of the task. Then adjust the effort level to move between faster or more thorough results. Pick the right Claude model for your task and adjust effort level to trade speed f…",
+          "date": "2026-08-18",
+          "views": 25800000,
+          "likes": 28400,
+          "comments": 330,
+          "shares": 1504
         },
         {
-          "url": "https://www.tiktok.com/@alextsoi.ai/video/7707948429116198166",
-          "author": "Alex Tsoi | AI with Alex",
-          "caption": "follow for part 2 of things I built with Claude Code Part 1: Agent Huddle 1. A little widget in the corner shows every Claude Code agent I've got running 2. Click one to see exactly what it's doing, step by step 3. Allo…",
-          "date": "2026-11-14",
-          "views": 180200,
-          "likes": 12800,
-          "comments": 112,
-          "shares": 763
+          "url": "https://www.tiktok.com/@wearebrand.io/video/7675151015372393760",
+          "author": "wearebrand.io",
+          "caption": "New level #website #websitedesign #webdevelopment #websitedevelopment #webdesign Learn next-level website design and web development tips to upgrade your site. Practical ideas for designers and developers. #website #web…",
+          "date": "2026-08-17",
+          "views": 4400000,
+          "likes": 393200,
+          "comments": 2053,
+          "shares": 18900
         },
         {
-          "url": "https://www.tiktok.com/@murphmaxxing/video/7706642712296000781",
-          "author": "murphmaxxing",
-          "caption": "Claude Code god mode: Opus plans, Haiku does the work at a fortieth of the price. The whole Omega setup in 30 seconds. Full guide: murphmaxxing.com/vault #claudecode #aiagents #vibecoding #anthropic #ai",
-          "date": "2026-11-10",
-          "views": 166000,
-          "likes": 9577,
-          "comments": 134,
-          "shares": 1777
+          "url": "https://www.tiktok.com/@alan.samer/video/7651770151922044180",
+          "author": "Alansamer",
+          "caption": "#claude POV life after Claude Code: how developers use Claude for coding, debugging, and productivity on Mac and VS Code. See what changes when Claude becomes part of your workflow. POV: life after Claude Code. For many…",
+          "date": "2026-06-15",
+          "views": 3500000,
+          "likes": 231700,
+          "comments": 1315,
+          "shares": 13700
         },
         {
-          "url": "https://www.tiktok.com/@dev.daily.drops/video/7708429256283540769",
-          "author": "Daily Dev Drops",
-          "caption": "Keep using Claude Code for free, even past your limit One GitHub project, 34 free AI providers, 635 free models Link in my bio, search freellm #claude #claudecode #ai",
-          "date": "2026-11-15",
-          "views": 143700,
-          "likes": 10300,
-          "comments": 86,
-          "shares": 1420
+          "url": "https://www.tiktok.com/@sebintel/video/7644124078328007958",
+          "author": "sebintel",
+          "caption": "Unlock 5 powerful secret codes for Claude to get human-like responses, build apps, apply decision frameworks, and more advanced features for better outputs. #ClaudeCode #AICodingTools #AIForDevelopers #GenerativeAI #AIW…",
+          "date": "2026-05-26",
+          "views": 1000000,
+          "likes": 54600,
+          "comments": 6135,
+          "shares": 9042
         },
         {
-          "url": "https://www.tiktok.com/@farhannrakhangi.ai/video/7707315921714466100",
-          "author": "Farhan Rakhangi | AI Agents",
-          "caption": "Ruflo turns Claude Code into a swarm of 60+ specialized agents, planner, coder, security and more, working in parallel with shared memory. It's open source (MIT), formerly called Claude Flow, with around 80K GitHub star…",
-          "date": "2026-11-12",
-          "views": 67100,
-          "likes": 3042,
-          "comments": 563,
-          "shares": 609
+          "url": "https://www.tiktok.com/@qbuilder/video/7642134037544439053",
+          "author": "QtheBuilder | AI + Tech",
+          "caption": "Drop your project, whoever gets the most likes I will review it and post a video with feedback + help!! #softwareengineer #claudeai #developer #tech #ai Drop your project built with Claude Code! The one with the most li…",
+          "date": "2026-05-21",
+          "views": 892000,
+          "likes": 36800,
+          "comments": 1903,
+          "shares": 1786
         }
       ]
     },
     {
       "keyword": "codex",
       "found": 8,
-      "median_views": 99400.0,
+      "median_views": 97900.0,
       "top": [
         {
-          "url": "https://www.tiktok.com/@wakemorrow/video/7705185730326170894",
-          "author": "wakemorrow",
-          "caption": "Brutal #codex #claudecode #claude #edit #coding Explore Claude Code and Codex edit through the coding-focused terms in the description. #codex #claudecode #claude #edit #coding The description highlights Claude Code, Co…",
-          "date": "2026-11-06",
-          "views": 748400,
-          "likes": 126700,
-          "comments": 765,
-          "shares": 9122
+          "url": "https://www.tiktok.com/@awslearningv/video/7688067401274920205",
+          "author": "AwsLearningV",
+          "caption": "When you think you’re ahead , do you slow down? Recently switched over to codex , been loving it! What models are you guys using ? How much have you spent on token usage recently? #techtok #technology #cybersecurity #ar…",
+          "date": "2026-09-21",
+          "views": 279600,
+          "likes": 13400,
+          "comments": 273,
+          "shares": 358
         },
         {
-          "url": "https://www.tiktok.com/@lifebybrennen/video/7696564210049879327",
-          "author": "lifebybrennen",
-          "caption": "Would have actually taken me days… See the incredible video editing skills of Codex! This project, which would have taken days to make, shows why Codex is highkey cooking. Learn how to use Codex for your own edits. The …",
-          "date": "2026-10-14",
-          "views": 411300,
-          "likes": 40600,
-          "comments": 338,
-          "shares": 2076
+          "url": "https://www.tiktok.com/@forcceee_/video/7693975838542368033",
+          "author": "Derek Holloway",
+          "caption": "ChatGPT Codex now connects to faceless.video for fully automated daily faceless YouTube channels. Discover trending niches and autopost content hands-free. #AI #AITools #YouTubeAutomation #FacelessContent #ChatGPT",
+          "date": "2026-10-07",
+          "views": 186200,
+          "likes": 9857,
+          "comments": 1475,
+          "shares": 4288
         },
         {
-          "url": "https://www.tiktok.com/@vazeklyn/video/7644178019896085790",
-          "author": "VazeklynROBLOX",
-          "caption": "Codex VS AI Assistant #roblox #robloxstudio",
-          "date": "2026-05-26",
-          "views": 122000,
-          "likes": 3678,
-          "comments": 101,
-          "shares": 261
+          "url": "https://www.tiktok.com/@nextpath.ai/video/7605598277735648520",
+          "author": "NEXTPATH | AI | chatgpt",
+          "caption": "Claude Code = pair programmer. Works with you step by step. Asks questions. Keeps you in the loop. Codex = async developer. You give instructions, walk away, come back to finished code. One talks while it works. One wor…",
+          "date": "2026-02-11",
+          "views": 149100,
+          "likes": 2651,
+          "comments": 88,
+          "shares": 155
         },
         {
           "url": "https://www.tiktok.com/@carter.braydon/video/7644033509715217694",
           "author": "Braydon Carter",
           "caption": "ChatGPT codex can now edit your videos. Including clipping, motion graphics, and animations!! #chatgpt #codex #aivideo #ai #aitips",
           "date": "2026-05-26",
-          "views": 109600,
-          "likes": 2693,
-          "comments": 40,
-          "shares": 739
+          "views": 110000,
+          "likes": 2701,
+          "comments": 39,
+          "shares": 742
         },
         {
-          "url": "https://www.tiktok.com/@maverickgpt/video/7647753823104060703",
-          "author": "Maverick Maltin | AI & ChatGPT",
-          "caption": "Codex vs Claude code",
+          "url": "https://www.tiktok.com/@carter.braydon/video/7647694374876319007",
+          "author": "Braydon Carter",
+          "caption": "Here’s what you need to know about ChatGPT’s new program codex!! #chatgpt #codex #ai #aitips #aicoding",
           "date": "2026-06-05",
-          "views": 89200,
-          "likes": 3996,
-          "comments": 71,
-          "shares": 271
+          "views": 85800,
+          "likes": 2906,
+          "comments": 22,
+          "shares": 280
         }
       ]
     },
     {
       "keyword": "workflow ia",
       "found": 8,
-      "median_views": 32950.0,
+      "median_views": 11717.5,
       "top": [
         {
-          "url": "https://www.tiktok.com/@isecreams/video/7670286157430787350",
-          "author": "Ise",
-          "caption": "4 AI Agents To Automate 99% Of Your Life. Automate everyday workflows using AI agents without needing coding skills. The first pillar, Coordination, focuses on managing your Gmail inbox and Google Calendar to reclaim yo…",
-          "date": "2026-08-04",
-          "views": 883500,
-          "likes": 68600,
-          "comments": 406,
-          "shares": 11400
+          "url": "https://www.tiktok.com/@zeenatautomation/video/7601537205739293959",
+          "author": "Ai Automation Expert",
+          "caption": "This workflow automates AI video creation and social media publishing end-to-end. First, AI generates a daily video idea, script, and a Veo3-ready prompt, then saves everything for tracking. Next, it automatically creat…",
+          "date": "2026-01-31",
+          "views": 364900,
+          "likes": 14700,
+          "comments": 643,
+          "shares": 1819
         },
         {
-          "url": "https://www.tiktok.com/@coffeewithsimon/video/7700777492059098375",
-          "author": "Quiet Growth Tips",
-          "caption": "✨ The workflow that puts your job on autopilot! Get the prompts in my profile link! I wish I had thought of this sooner because it's such a clever way to use AI at work! Think about it. If you've been in your role for a…",
-          "date": "2026-10-26",
-          "views": 108900,
-          "likes": 5946,
-          "comments": 46,
-          "shares": 866
+          "url": "https://www.tiktok.com/@creators.hustle/video/7703698347319741726",
+          "author": "Creators Hustle",
+          "caption": "AI agents are supposed to save you time, not create more work. 🤖 If you're constantly switching between AI agents, searching old conversations, and managing multiple projects, here's a smarter way to automate your workf…",
+          "date": "2026-11-02",
+          "views": 239100,
+          "likes": 4188,
+          "comments": 66,
+          "shares": 1376
         },
         {
-          "url": "https://www.tiktok.com/@eggintech/video/7630185416620117279",
-          "author": "eggintech",
-          "caption": "comment ‘workflow’ and i will send you this list of ideas! the list will also be at the link in my bio! #workflows #workflowautomation #aiagents #learnai #efficient Discover 5 AI-powered workflows to automate tasks like…",
-          "date": "2026-04-18",
-          "views": 88500,
-          "likes": 5580,
-          "comments": 811,
-          "shares": 447
-        },
-        {
-          "url": "https://www.tiktok.com/@ai.with.andrew/video/7682082772634094866",
-          "author": "ai.with.andrew",
-          "caption": "comment get n8n just leaked over 4,000 free automations that can build workflows instantly. Organized by category, these smart automations cover YouTube, lead gen, email outreach, and AI agents for quick deployment. A v…",
-          "date": "2026-09-05",
-          "views": 47500,
-          "likes": 2627,
-          "comments": 745,
-          "shares": 433
+          "url": "https://www.tiktok.com/@benkimball.ai/video/7708831706433785119",
+          "author": "benkimball.ai",
+          "caption": "Wait Until The End! This ONE Claude AI Skill Connects Almost ANY App to Claude 🤯 Automate Your Workflow With AI! #ClaudeAI #ClaudeSkills #AITools #AIAutomation #ClaudeCode Discover the one Claude AI skill that connects …",
+          "date": "2026-11-16",
+          "views": 107100,
+          "likes": 7337,
+          "comments": 309,
+          "shares": 1362
         },
         {
           "url": "https://www.tiktok.com/@nicksadler.io/video/7708158365062434070",
           "author": "nicksadler.io",
           "caption": "Anthropic just created a new job and most people missed it. Claude for Small Business comes with ready-made AI workflows for chasing invoices, planning payroll and closing the month. Plumbers, gyms and dry cleaners won'…",
           "date": "2026-11-14",
-          "views": 18400,
-          "likes": 884,
-          "comments": 482,
-          "shares": 209
+          "views": 20000,
+          "likes": 972,
+          "comments": 581,
+          "shares": 235
+        },
+        {
+          "url": "https://www.tiktok.com/@daramint/video/7706159968487034134",
+          "author": "Design With Dara",
+          "caption": "Parts in my Design Workflow that I Don’t Mind Using AI as a UXUI Designer 📚👌🏻 #uxui #uxdesigner #ai #aiworkflow #designtips Explore the idea of using AI for selected parts of a UX/UI design workflow, from a designer’s p…",
+          "date": "2026-11-09",
+          "views": 3435,
+          "likes": 327,
+          "comments": 6,
+          "shares": 14
         }
       ]
     },
     {
       "keyword": "workflow product",
-      "found": 0,
-      "median_views": null,
-      "top": []
+      "found": 8,
+      "median_views": 2278.5,
+      "top": [
+        {
+          "url": "https://www.tiktok.com/@adenzwang/video/7673610675159190798",
+          "author": "adenwang",
+          "caption": "I’m always optimizing my coffee workflow and these two are must haves 1. Puck screen magnet. It also come with two puck screens. 2. Been looking for a good looking knock box and I finally found one from @normcore! Got t…",
+          "date": "2026-08-13",
+          "views": 477600,
+          "likes": 27900,
+          "comments": 118,
+          "shares": 4019
+        },
+        {
+          "url": "https://www.tiktok.com/@eggintech/video/7630185416620117279",
+          "author": "eggintech",
+          "caption": "comment ‘workflow’ and i will send you this list of ideas! the list will also be at the link in my bio! #workflows #workflowautomation #aiagents #learnai #efficient Discover 5 AI workflows to automate your everyday life…",
+          "date": "2026-04-18",
+          "views": 90100,
+          "likes": 5671,
+          "comments": 817,
+          "shares": 459
+        },
+        {
+          "url": "https://www.tiktok.com/@kuzmish83/video/7630667375343439118",
+          "author": "Liam|Accio Tips",
+          "caption": "I Didn’t Change My Idea — I Changed My Workflow (Accio Work).B-30 #Shopify#Accio#AccioAI#agent#openclaw",
+          "date": "2026-04-20",
+          "views": 3356,
+          "likes": 2,
+          "comments": 1,
+          "shares": 1
+        },
+        {
+          "url": "https://www.tiktok.com/@dawoodzahidd/video/7699903327168957718",
+          "author": "Dawood Zahid",
+          "caption": "Entire workflow on how to make ads for your company using AI #ai #ugc",
+          "date": "2026-10-23",
+          "views": 3235,
+          "likes": 179,
+          "comments": 30,
+          "shares": 31
+        },
+        {
+          "url": "https://www.tiktok.com/@sambutlerai/video/7705168603116588310",
+          "author": "Sam",
+          "caption": "how to create automated content workflows for brands Comment ‘free’ to secure a spot in the workshop Learn how to turn a single product image into dozens of static ads in minutes and sell the workflow to brands. Comment…",
+          "date": "2026-11-06",
+          "views": 1322,
+          "likes": 53,
+          "comments": 8,
+          "shares": 19
+        }
+      ]
     }
   ],
   "hashtags": [
     {
-      "hashtag": "industrialdesign",
-      "videos": 4,
-      "median_views": 533500.0
-    },
-    {
-      "hashtag": "learnux",
+      "hashtag": "website",
       "videos": 3,
-      "median_views": 240100
+      "median_views": 1200000
     },
     {
-      "hashtag": "womenintech",
-      "videos": 4,
-      "median_views": 186450.0
-    },
-    {
-      "hashtag": "productivity",
+      "hashtag": "webdesigner",
       "videos": 3,
-      "median_views": 180200
+      "median_views": 1200000
     },
     {
-      "hashtag": "claudecode",
-      "videos": 9,
-      "median_views": 143700
+      "hashtag": "figmadesign",
+      "videos": 3,
+      "median_views": 1200000
+    },
+    {
+      "hashtag": "3dprinting",
+      "videos": 3,
+      "median_views": 642500
     },
     {
       "hashtag": "claude",
       "videos": 8,
-      "median_views": 130650.0
+      "median_views": 402300.0
+    },
+    {
+      "hashtag": "startup",
+      "videos": 3,
+      "median_views": 396100
     },
     {
       "hashtag": "uiux",
+      "videos": 7,
+      "median_views": 368200
+    },
+    {
+      "hashtag": "designtips",
+      "videos": 3,
+      "median_views": 182900
+    },
+    {
+      "hashtag": "dayinmylife",
+      "videos": 5,
+      "median_views": 123500
+    },
+    {
+      "hashtag": "productdesigner",
       "videos": 4,
-      "median_views": 115250.0
-    },
-    {
-      "hashtag": "anthropic",
-      "videos": 3,
-      "median_views": 107200
-    },
-    {
-      "hashtag": "engineer",
-      "videos": 3,
-      "median_views": 106000
+      "median_views": 118850.0
     },
     {
       "hashtag": "vibecoding",
-      "videos": 10,
-      "median_views": 102250.0
+      "videos": 13,
+      "median_views": 117000
     },
     {
-      "hashtag": "uxui",
-      "videos": 6,
-      "median_views": 97600.0
+      "hashtag": "artificialintelligence",
+      "videos": 3,
+      "median_views": 117000
+    },
+    {
+      "hashtag": "chatgpt",
+      "videos": 7,
+      "median_views": 110000
+    },
+    {
+      "hashtag": "claudeai",
+      "videos": 5,
+      "median_views": 107100
+    },
+    {
+      "hashtag": "aitools",
+      "videos": 7,
+      "median_views": 107100
+    },
+    {
+      "hashtag": "aiautomation",
+      "videos": 3,
+      "median_views": 107100
+    },
+    {
+      "hashtag": "claudecode",
+      "videos": 5,
+      "median_views": 107100
+    },
+    {
+      "hashtag": "techgirl",
+      "videos": 4,
+      "median_views": 104800.0
+    },
+    {
+      "hashtag": "pcbuild",
+      "videos": 3,
+      "median_views": 103200
+    },
+    {
+      "hashtag": "webdevelopment",
+      "videos": 3,
+      "median_views": 89600
+    },
+    {
+      "hashtag": "industrialdesign",
+      "videos": 3,
+      "median_views": 81000
     },
     {
       "hashtag": "design",
-      "videos": 9,
-      "median_views": 96700
+      "videos": 10,
+      "median_views": 79000.0
     },
     {
-      "hashtag": "figma",
-      "videos": 9,
-      "median_views": 94000
+      "hashtag": "tech",
+      "videos": 13,
+      "median_views": 70900
     },
     {
-      "hashtag": "ecommerce",
-      "videos": 3,
-      "median_views": 94000
+      "hashtag": "womenintech",
+      "videos": 5,
+      "median_views": 70800
     },
     {
       "hashtag": "careeradvice",
-      "videos": 4,
-      "median_views": 92200.0
-    },
-    {
-      "hashtag": "ai",
-      "videos": 16,
-      "median_views": 90400.0
-    },
-    {
-      "hashtag": "aiagents",
-      "videos": 6,
-      "median_views": 77800.0
-    },
-    {
-      "hashtag": "uxdesign",
-      "videos": 12,
-      "median_views": 77550.0
+      "videos": 3,
+      "median_views": 68100
     },
     {
       "hashtag": "codex",
@@ -1191,109 +1338,74 @@
       "median_views": 61200.0
     },
     {
-      "hashtag": "productdesigner",
-      "videos": 3,
-      "median_views": 58400
-    },
-    {
-      "hashtag": "productdesign",
-      "videos": 19,
-      "median_views": 51200
-    },
-    {
-      "hashtag": "uxdesigner",
-      "videos": 9,
-      "median_views": 51200
-    },
-    {
-      "hashtag": "bigtech",
-      "videos": 4,
-      "median_views": 50700.0
-    },
-    {
-      "hashtag": "appdesign",
-      "videos": 3,
-      "median_views": 50500
-    },
-    {
-      "hashtag": "viral",
-      "videos": 3,
-      "median_views": 50500
-    },
-    {
-      "hashtag": "fyp",
-      "videos": 8,
-      "median_views": 48950.0
-    },
-    {
-      "hashtag": "ui",
-      "videos": 11,
-      "median_views": 46600
-    },
-    {
-      "hashtag": "fh",
-      "videos": 3,
-      "median_views": 46600
-    },
-    {
-      "hashtag": "ks",
-      "videos": 3,
-      "median_views": 46600
-    },
-    {
-      "hashtag": "fhui",
-      "videos": 3,
-      "median_views": 46600
+      "hashtag": "figma",
+      "videos": 12,
+      "median_views": 61200.0
     },
     {
       "hashtag": "productmanager",
+      "videos": 6,
+      "median_views": 58050.0
+    },
+    {
+      "hashtag": "techtok",
+      "videos": 9,
+      "median_views": 57700
+    },
+    {
+      "hashtag": "uxui",
+      "videos": 10,
+      "median_views": 56550.0
+    },
+    {
+      "hashtag": "aivideo",
       "videos": 4,
-      "median_views": 42500.0
+      "median_views": 55277.5
     },
     {
-      "hashtag": "uiuxdesign",
-      "videos": 5,
-      "median_views": 35000
+      "hashtag": "uxdesigner",
+      "videos": 15,
+      "median_views": 51300
     },
     {
-      "hashtag": "tech",
-      "videos": 4,
-      "median_views": 32250.0
-    },
-    {
-      "hashtag": "uidesign",
-      "videos": 5,
-      "median_views": 27400
+      "hashtag": "bigtech",
+      "videos": 3,
+      "median_views": 51300
     },
     {
       "hashtag": "ux",
-      "videos": 3,
-      "median_views": 24500
+      "videos": 7,
+      "median_views": 50500
     },
     {
-      "hashtag": "engineering",
-      "videos": 5,
-      "median_views": 20400
-    },
-    {
-      "hashtag": "aiautomation",
-      "videos": 4,
-      "median_views": 17000.0
-    },
-    {
-      "hashtag": "artificialintelligence",
-      "videos": 3,
-      "median_views": 15600
+      "hashtag": "ui",
+      "videos": 7,
+      "median_views": 50500
     },
     {
       "hashtag": "productmanagement",
-      "videos": 10,
-      "median_views": 14450.0
+      "videos": 5,
+      "median_views": 48000
     },
     {
-      "hashtag": "entrepreneur",
+      "hashtag": "productdesign",
+      "videos": 21,
+      "median_views": 42200
+    },
+    {
+      "hashtag": "uiuxdesign",
+      "videos": 7,
+      "median_views": 34300
+    },
+    {
+      "hashtag": "engineer",
+      "videos": 5,
+      "median_views": 33400
+    },
+    {
+      "hashtag": "figmatips",
       "videos": 3,
-      "median_views": 764
+      "median_views": 33400
     }
   ]
 }
