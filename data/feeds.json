@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T16:21:31Z",
+  "generated_at": "2026-11-24T15:50:07Z",
   "feeds": [
     {
       "name": "Medium : Dolly Borade Solanki",
@@ -7,6 +7,19 @@
       "url": "https://medium.com/feed/@dollyborade07",
       "status": "ok",
       "items": [
+        {
+          "title": "Beyond Minimalism: 9 Design Trends That Are Quietly Taking Over the UX Industry",
+          "url": "https://medium.com/@dollyborade07/beyond-minimalism-9-design-trends-that-are-quietly-taking-over-the-ux-industry-032490e24beb",
+          "date": "2026-11-23",
+          "author": "Dolly Borade Solanki",
+          "tags": [
+            "ux-research",
+            "ui-ux-design",
+            "ux-design",
+            "ui-ux",
+            "ux"
+          ]
+        },
         {
           "title": "What Makes a UX Case Study Unforgettable? 7 Elements",
           "url": "https://medium.com/@dollyborade07/what-makes-a-ux-case-study-unforgettable-7-elements-a740b277c3bc",
@@ -122,19 +135,6 @@
             "ui-ux",
             "ai",
             "ui-ux-design"
-          ]
-        },
-        {
-          "title": "AI Made 70% of My Design Process Faster. The Remaining 30% Became More Important.",
-          "url": "https://medium.com/@dollyborade07/ai-made-70-of-my-design-process-faster-the-remaining-30-became-more-important-a1305d26e250",
-          "date": "2026-09-28",
-          "author": "Dolly Borade Solanki",
-          "tags": [
-            "ui-ux",
-            "ui-ux-design",
-            "ai",
-            "ui",
-            "ux"
           ]
         }
       ]
@@ -284,6 +284,71 @@
       "status": "ok",
       "items": [
         {
+          "title": "Stop Treating AI Like Amelia Bedelia: How to Get AI Agents to Understand What You Actually Want",
+          "url": "https://medium.com/design-bootcamp/stop-treating-ai-like-amelia-bedelia-how-to-get-ai-agents-to-understand-what-you-actually-want-19e20aacc6cb",
+          "date": "2026-11-24",
+          "author": "Kosala Liyanage",
+          "tags": [
+            "ui",
+            "design",
+            "ux",
+            "ai",
+            "ux-design"
+          ]
+        },
+        {
+          "title": "Why Endless Breakout Clones Feel Like a Trap — and How I Prototyped a Climbing Alternative in One…",
+          "url": "https://medium.com/design-bootcamp/why-endless-breakout-clones-feel-like-a-trap-and-how-i-prototyped-a-climbing-alternative-in-one-b8151fd70fdb",
+          "date": "2026-11-24",
+          "author": "Dmitrii Fr Dev",
+          "tags": [
+            "ai",
+            "game-design",
+            "prototyping",
+            "product-design",
+            "ux-design"
+          ]
+        },
+        {
+          "title": "The prototype I didn’t draw",
+          "url": "https://medium.com/design-bootcamp/the-prototype-i-didnt-draw-047f4dcadce6",
+          "date": "2026-11-23",
+          "author": "Lesia Pietri",
+          "tags": [
+            "ux-design",
+            "ai",
+            "product-design",
+            "design-process",
+            "prototyping"
+          ]
+        },
+        {
+          "title": "The crossroads of why Design is Fucked Up and is in danger of dying out.",
+          "url": "https://medium.com/design-bootcamp/the-crossroads-of-why-design-is-fucked-up-and-is-in-danger-of-dying-out-03334136307e",
+          "date": "2026-11-23",
+          "author": "Wren Bach",
+          "tags": [
+            "business",
+            "design",
+            "ux-design",
+            "software-engineering",
+            "technology"
+          ]
+        },
+        {
+          "title": "Our Toggle Was a Norman Door: How I Designed a 4-State Switch",
+          "url": "https://medium.com/design-bootcamp/our-toggle-was-a-norman-door-how-i-designed-a-4-state-switch-5bbd8d3e5359",
+          "date": "2026-11-23",
+          "author": "Maitri Patel",
+          "tags": [
+            "interaction-design",
+            "product-design",
+            "ux-design",
+            "design-systems",
+            "ui-design"
+          ]
+        },
+        {
           "title": "Decision theater, Human.MD, What is a researcher’s worth",
           "url": "https://medium.com/design-bootcamp/decision-theater-human-md-what-is-a-researchers-worth-e3c5bbdf707e",
           "date": "2026-11-23",
@@ -346,70 +411,6 @@
             "ux-design",
             "artificial-intelligence",
             "product-design"
-          ]
-        },
-        {
-          "title": "The Illusion of Success",
-          "url": "https://medium.com/design-bootcamp/the-illusion-of-success-4bef0a96c131",
-          "date": "2026-11-22",
-          "author": "Sharad Guragain",
-          "tags": [
-            "vibe-coding",
-            "the-illusion-of-success",
-            "product",
-            "design"
-          ]
-        },
-        {
-          "title": "What Happens When AI Starts Making Our Consumer Decisions",
-          "url": "https://medium.com/design-bootcamp/what-happens-when-ai-starts-making-our-consumer-decisions-155ac5b32c06",
-          "date": "2026-11-22",
-          "author": "Yahav M",
-          "tags": [
-            "ai-safety",
-            "consumer-psychology",
-            "ai-ethics",
-            "ai-agent",
-            "algorithms"
-          ]
-        },
-        {
-          "title": "AX Design: The New Design Job That Barely Touches Figma",
-          "url": "https://medium.com/design-bootcamp/ax-design-the-new-design-job-that-barely-touches-figma-7feb03626409",
-          "date": "2026-11-22",
-          "author": "Rishi Sharma",
-          "tags": [
-            "design",
-            "ai-agent",
-            "ux",
-            "ai",
-            "ux-design"
-          ]
-        },
-        {
-          "title": "CalenTime: What if your calendar were your watch face?",
-          "url": "https://medium.com/design-bootcamp/calentime-what-if-your-calendar-were-your-watch-face-78997983ddf3",
-          "date": "2026-11-22",
-          "author": "Karthikeya GS",
-          "tags": [
-            "time-management",
-            "watchface",
-            "ux",
-            "productivity",
-            "ux-design"
-          ]
-        },
-        {
-          "title": "When a Dilemma Is Mistaken for a Problem",
-          "url": "https://medium.com/design-bootcamp/when-a-dilemma-is-mistaken-for-a-problem-6efc84b9bb00",
-          "date": "2026-11-22",
-          "author": "Hajer Al-Homedawy",
-          "tags": [
-            "wise-reasoning",
-            "leadership",
-            "dilemma",
-            "ux",
-            "research"
           ]
         }
       ]
