@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T15:50:07Z",
+  "generated_at": "2026-11-25T15:31:18Z",
   "feeds": [
     {
       "name": "Medium : Dolly Borade Solanki",
@@ -7,6 +7,19 @@
       "url": "https://medium.com/feed/@dollyborade07",
       "status": "ok",
       "items": [
+        {
+          "title": "The 2027 UX/UI (AIUX) Skill Stack",
+          "url": "https://medium.com/@dollyborade07/the-2027-ux-ui-aiux-skill-stack-62a4af3e346a",
+          "date": "2026-11-25",
+          "author": "Dolly Borade Solanki",
+          "tags": [
+            "ai-ux-design",
+            "ui-ux-design",
+            "ux",
+            "ux-design",
+            "ui-ux"
+          ]
+        },
         {
           "title": "Beyond Minimalism: 9 Design Trends That Are Quietly Taking Over the UX Industry",
           "url": "https://medium.com/@dollyborade07/beyond-minimalism-9-design-trends-that-are-quietly-taking-over-the-ux-industry-032490e24beb",
@@ -122,19 +135,6 @@
             "ui-ux",
             "ai-ux-design",
             "ux-design"
-          ]
-        },
-        {
-          "title": "8 Voice AI UX Patterns That Make Voice Interfaces Feel Human",
-          "url": "https://medium.com/@dollyborade07/8-voice-ai-ux-patterns-that-make-voice-interfaces-feel-human-5daffad97bf0",
-          "date": "2026-10-02",
-          "author": "Dolly Borade Solanki",
-          "tags": [
-            "ux-design",
-            "ux",
-            "ui-ux",
-            "ai",
-            "ui-ux-design"
           ]
         }
       ]
@@ -284,133 +284,115 @@
       "status": "ok",
       "items": [
         {
-          "title": "Stop Treating AI Like Amelia Bedelia: How to Get AI Agents to Understand What You Actually Want",
-          "url": "https://medium.com/design-bootcamp/stop-treating-ai-like-amelia-bedelia-how-to-get-ai-agents-to-understand-what-you-actually-want-19e20aacc6cb",
-          "date": "2026-11-24",
-          "author": "Kosala Liyanage",
+          "title": "The Insight Was Only Part of the Work",
+          "url": "https://medium.com/design-bootcamp/the-insight-was-only-part-of-the-work-eadf39769413",
+          "date": "2026-11-25",
+          "author": "Ryan Russell",
           "tags": [
-            "ui",
-            "design",
-            "ux",
-            "ai",
-            "ux-design"
+            "ux-research",
+            "storytelling",
+            "empathy",
+            "qualitative-research",
+            "design-leadership"
           ]
         },
         {
-          "title": "Why Endless Breakout Clones Feel Like a Trap — and How I Prototyped a Climbing Alternative in One…",
-          "url": "https://medium.com/design-bootcamp/why-endless-breakout-clones-feel-like-a-trap-and-how-i-prototyped-a-climbing-alternative-in-one-b8151fd70fdb",
-          "date": "2026-11-24",
-          "author": "Dmitrii Fr Dev",
-          "tags": [
-            "ai",
-            "game-design",
-            "prototyping",
-            "product-design",
-            "ux-design"
-          ]
+          "title": "Three Mindsets That Changed How I Work",
+          "url": "https://medium.com/design-bootcamp/three-mindsets-that-changed-how-i-work-58a6ce8a380b",
+          "date": "2026-11-25",
+          "author": "Thomas Wright",
+          "tags": []
         },
         {
-          "title": "The prototype I didn’t draw",
-          "url": "https://medium.com/design-bootcamp/the-prototype-i-didnt-draw-047f4dcadce6",
-          "date": "2026-11-23",
-          "author": "Lesia Pietri",
+          "title": "Computer Vision Solved Aiming. “Enemy” Is Still Unsolvable.",
+          "url": "https://medium.com/design-bootcamp/computer-vision-solved-aiming-enemy-is-still-unsolvable-0e8f606f733d",
+          "date": "2026-11-25",
+          "author": "Hayanan",
           "tags": [
-            "ux-design",
-            "ai",
-            "product-design",
-            "design-process",
-            "prototyping"
-          ]
-        },
-        {
-          "title": "The crossroads of why Design is Fucked Up and is in danger of dying out.",
-          "url": "https://medium.com/design-bootcamp/the-crossroads-of-why-design-is-fucked-up-and-is-in-danger-of-dying-out-03334136307e",
-          "date": "2026-11-23",
-          "author": "Wren Bach",
-          "tags": [
-            "business",
-            "design",
-            "ux-design",
-            "software-engineering",
-            "technology"
-          ]
-        },
-        {
-          "title": "Our Toggle Was a Norman Door: How I Designed a 4-State Switch",
-          "url": "https://medium.com/design-bootcamp/our-toggle-was-a-norman-door-how-i-designed-a-4-state-switch-5bbd8d3e5359",
-          "date": "2026-11-23",
-          "author": "Maitri Patel",
-          "tags": [
-            "interaction-design",
-            "product-design",
-            "ux-design",
-            "design-systems",
-            "ui-design"
-          ]
-        },
-        {
-          "title": "Decision theater, Human.MD, What is a researcher’s worth",
-          "url": "https://medium.com/design-bootcamp/decision-theater-human-md-what-is-a-researchers-worth-e3c5bbdf707e",
-          "date": "2026-11-23",
-          "author": "UX Collective Editors",
-          "tags": [
-            "ai",
-            "product-management",
-            "ux-design",
-            "ui",
-            "figma"
-          ]
-        },
-        {
-          "title": "Why Aging Is a User Experience Problem",
-          "url": "https://medium.com/design-bootcamp/why-aging-is-a-user-experience-problem-7c84c87add63",
-          "date": "2026-11-23",
-          "author": "Jose Alejandro Guerrero",
-          "tags": [
-            "design",
-            "programming",
-            "old-age",
-            "ux-design",
-            "ux"
-          ]
-        },
-        {
-          "title": "Not so into GTA 6? Here, play these indie games instead.",
-          "url": "https://medium.com/design-bootcamp/not-so-into-gta-6-here-play-these-indie-games-instead-25d229a128bb",
-          "date": "2026-11-23",
-          "author": "Sam Liberty",
-          "tags": [
-            "games",
-            "culture",
-            "technology",
-            "gta-6",
-            "videogames"
-          ]
-        },
-        {
-          "title": "What is a task in your product?",
-          "url": "https://medium.com/design-bootcamp/what-is-a-task-in-your-product-cfe1075ec060",
-          "date": "2026-11-23",
-          "author": "Derek Niedringhaus",
-          "tags": [
+            "data-science",
+            "machine-learning",
+            "image-processing",
             "artificial-intelligence",
-            "design-systems",
-            "ai-agent",
-            "product-design",
-            "ux-design"
+            "computer-vision"
           ]
         },
         {
-          "title": "ChatGPT Moved Projects Under “Explore.” Some Users Thought Their Work Was Gone.",
-          "url": "https://medium.com/design-bootcamp/chatgpt-moved-projects-under-explore-some-users-thought-their-work-was-gone-5c6b3f27c723",
-          "date": "2026-11-23",
+          "title": "How do you design for a startup with no product or brand?",
+          "url": "https://medium.com/design-bootcamp/how-do-you-design-for-a-startup-with-no-product-or-brand-b82ba6d8a86e",
+          "date": "2026-11-25",
+          "author": "John St. Aïmond Banson",
+          "tags": [
+            "product-design",
+            "entrepreneurship",
+            "startup",
+            "design",
+            "branding"
+          ]
+        },
+        {
+          "title": "“Safe Roleplay” Was the Promise. Testing Said Otherwise. Now New York Has Paused AI Chatbot Toys.",
+          "url": "https://medium.com/design-bootcamp/safe-roleplay-was-the-promise-testing-said-otherwise-now-new-york-has-paused-ai-chatbot-toys-7949cf0f6901",
+          "date": "2026-11-25",
           "author": "Amajuoyi Udochukwu Deborah",
           "tags": [
-            "mobile-app-design",
-            "chatgpt",
             "ux-design",
+            "product-management",
+            "ai-safety",
             "artificial-intelligence",
             "product-design"
+          ]
+        },
+        {
+          "title": "Everyone Tells Solo Designers to Build an Agency. In 2026 That Is Backwards.",
+          "url": "https://medium.com/design-bootcamp/everyone-tells-solo-designers-to-build-an-agency-in-2026-that-is-backwards-8f7a9929eee2",
+          "date": "2026-11-25",
+          "author": "Sanjana Agarwal",
+          "tags": []
+        },
+        {
+          "title": "The Average Designer Now Uses Seven Tools Instead of Three. Nobody Is Shipping Twice as Much.",
+          "url": "https://medium.com/design-bootcamp/the-average-designer-now-uses-seven-tools-instead-of-three-nobody-is-shipping-twice-as-much-02a0ffec7a74",
+          "date": "2026-11-25",
+          "author": "Sanjana Agarwal",
+          "tags": []
+        },
+        {
+          "title": "How I set up a Figma file so Claude reads the whole brief before it designs",
+          "url": "https://medium.com/design-bootcamp/how-i-set-up-a-figma-file-so-claude-reads-the-whole-brief-before-it-designs-775232ece807",
+          "date": "2026-11-25",
+          "author": "Nishank Kumbhalwar",
+          "tags": [
+            "design",
+            "ai",
+            "product-design",
+            "claude",
+            "ux-design"
+          ]
+        },
+        {
+          "title": "Your portfolio is starting to sound like everyone else’s",
+          "url": "https://medium.com/design-bootcamp/your-portfolio-is-starting-to-sound-like-everyone-elses-e21b2976d614",
+          "date": "2026-11-25",
+          "author": "Hitarth Nayak",
+          "tags": [
+            "case-study",
+            "artificial-intelligence",
+            "freelancing",
+            "design",
+            "portfolio"
+          ]
+        },
+        {
+          "title": "Is AI Really Taking Our Jobs? Here’s What 392 Layoffs Actually Said.",
+          "url": "https://medium.com/design-bootcamp/is-ai-really-taking-our-jobs-heres-what-392-layoffs-actually-said-eb10a60551d6",
+          "date": "2026-11-24",
+          "author": "Jayendra More",
+          "tags": [
+            "future-of-work",
+            "careers",
+            "artificial-intelligence",
+            "product-management",
+            "layoffs"
           ]
         }
       ]
@@ -500,6 +482,13 @@
       "status": "ok",
       "items": [
         {
+          "title": "Gemini 4 Neon beat GPT-6.2 and Claude in my 25-task AI benchmark",
+          "url": "https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude",
+          "date": "2026-11-25",
+          "author": "Claire Vo",
+          "tags": []
+        },
+        {
           "title": "🎙️ How I AI: OpenClaw for executives: Automate every 1% annoyance",
           "url": "https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives",
           "date": "2026-11-23",
@@ -560,13 +549,6 @@
           "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
           "date": "2026-11-14",
           "author": "Kiyani",
-          "tags": []
-        },
-        {
-          "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
-          "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
-          "date": "2026-11-11",
-          "author": "Claire Vo",
           "tags": []
         }
       ]

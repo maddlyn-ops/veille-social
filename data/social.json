@@ -1,161 +1,126 @@
 {
-  "generated_at": "2026-11-24T15:50:05Z",
+  "generated_at": "2026-11-25T15:31:17Z",
   "ok": 32,
   "total": 32,
-  "debug_instagram_fields": [
-    "alt_text",
-    "audio",
-    "audio_url",
-    "content_id",
-    "content_type",
-    "date_posted",
-    "description",
-    "discovery_input",
-    "followers",
-    "images",
-    "input",
-    "is_verified",
-    "latest_comments",
-    "likes",
-    "num_comments",
-    "partnership_details",
-    "photos",
-    "photos_number",
-    "pk",
-    "post_content",
-    "post_id",
-    "posts_count",
-    "product_type",
-    "profile_image_link",
-    "profile_url",
-    "shortcode",
-    "thumbnail",
-    "thumbnail_array",
-    "timestamp",
-    "url",
-    "user_posted",
-    "user_posted_id",
-    "videos",
-    "videos_duration"
-  ],
+  "debug_instagram_fields": null,
   "accounts": [
     {
       "platform": "tiktok",
       "handle": "marcelodesignx",
       "metric": "views",
       "status": "ok",
-      "fetched_at": "2026-11-24T15:46:38Z",
-      "median": 5530.0,
+      "fetched_at": "2026-11-25T15:30:32Z",
+      "median": 4686.5,
       "posts": [
+        {
+          "url": "https://www.tiktok.com/@marcelodesignx/video/7711871346321444104",
+          "caption": "From a client brief to a live website. 🚀 In this video, I walk through how I used @relume to turn an idea into a website: starting with the brief, generating wireframes, refining the design, and hitting publish. A faste…",
+          "date": "2026-11-24",
+          "views": 1106,
+          "likes": 66,
+          "comments": 2,
+          "shares": 5,
+          "type": "video",
+          "ratio": 0.24
+        },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7711532077249858834",
           "caption": "Stop using Orange in your designs!! save this for next #webdesign #websites #webdesigner #marcelodesignx #uiux",
           "date": "2026-11-24",
-          "views": 4471,
-          "likes": 275,
-          "comments": 5,
-          "shares": 18,
+          "views": 6225,
+          "likes": 359,
+          "comments": 7,
+          "shares": 25,
           "type": "video",
-          "ratio": 0.81
+          "ratio": 1.33
         },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7711169385045544200",
           "caption": "Can we normalize? 🫪 #webdesign #websites #webdesigner #uiux",
           "date": "2026-11-23",
-          "views": 15800,
-          "likes": 1607,
-          "comments": 17,
-          "shares": 56,
+          "views": 17200,
+          "likes": 1793,
+          "comments": 18,
+          "shares": 66,
           "type": "video",
-          "ratio": 2.86
+          "ratio": 3.67
         },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7710731071956012296",
           "caption": "Create short dramas in minutes using Higgsfield MCP in Claude. Write your script, generate your video, and publish directly to Instagram. Higgsfield’s Black Friday Sale is on now: up to 65% off, unlimited Seedance 2.5, …",
           "date": "2026-11-21",
-          "views": 49100,
-          "likes": 2414,
-          "comments": 57,
-          "shares": 234,
+          "views": 56700,
+          "likes": 2744,
+          "comments": 62,
+          "shares": 281,
           "type": "video",
-          "ratio": 8.88
+          "ratio": 12.1
         },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7710409142954953991",
           "caption": "This work of mine has been so viral, and so stolen that it no longer feels like mine 😂😂 #webdesign #websites #webdesigner #Claude #3dwebdesign",
           "date": "2026-11-21",
-          "views": 2942,
-          "likes": 196,
-          "comments": 7,
-          "shares": 7,
+          "views": 3148,
+          "likes": 205,
+          "comments": 8,
+          "shares": 10,
           "type": "video",
-          "ratio": 0.53
+          "ratio": 0.67
         },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7710045690486869255",
           "caption": "Same scene. Different character. No reshoots needed. Save this for later! With Recast in ElevenCreative by @elevenlabsio, you can swap characters in your videos while keeping the original motion, camera movement, and au…",
           "date": "2026-11-20",
-          "views": 1579,
-          "likes": 65,
+          "views": 1694,
+          "likes": 68,
           "comments": 2,
           "shares": 5,
           "type": "video",
-          "ratio": 0.29
+          "ratio": 0.36
         },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7709690603730160903",
           "caption": "Steal these interactions to make your Website feel premium. 🥷 Save this for next! #webdesign #webdesigner #3Dwebsites #uiux #blowthisup",
           "date": "2026-11-19",
-          "views": 26500,
-          "likes": 2671,
+          "views": 27500,
+          "likes": 2776,
           "comments": 23,
-          "shares": 229,
+          "shares": 235,
           "type": "video",
-          "ratio": 4.79
+          "ratio": 5.87
         },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7709382403562704135",
           "caption": "Comment “link” to get this template. I’m sorry but Claude does not have this taste #claude #webdesign #ai #webdesigner #blowthisup",
           "date": "2026-11-18",
-          "views": 2004,
+          "views": 2089,
           "likes": 81,
           "comments": 16,
-          "shares": 10,
+          "shares": 12,
           "type": "video",
-          "ratio": 0.36
+          "ratio": 0.45
         },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7708893359976222004",
           "caption": "A slow website could be costing you visitors before they even see your offer. ⏳ Google research found that the probability of a mobile visitor bouncing increases by **32%** when page load time goes from 1 to 3 seconds. …",
           "date": "2026-11-16",
-          "views": 2211,
-          "likes": 86,
+          "views": 2279,
+          "likes": 89,
           "comments": 5,
-          "shares": 4,
+          "shares": 6,
           "type": "video",
-          "ratio": 0.4
+          "ratio": 0.49
         },
         {
           "url": "https://www.tiktok.com/@marcelodesignx/video/7708550273857244423",
           "caption": "POV: You mastered 3D Websites #websites #webdesigner #webdesign #uiux #blowthisup",
           "date": "2026-11-15",
-          "views": 11400,
-          "likes": 732,
+          "views": 11600,
+          "likes": 756,
           "comments": 17,
-          "shares": 78,
+          "shares": 84,
           "type": "video",
-          "ratio": 2.06
-        },
-        {
-          "url": "https://www.tiktok.com/@marcelodesignx/video/7708189963933781256",
-          "caption": "Fable 5.2 + HorizonX = Insane 🤯 comment “link” to get the template for free #claude #webdesign #websites #uiux",
-          "date": "2026-11-15",
-          "views": 6589,
-          "likes": 272,
-          "comments": 10,
-          "shares": 30,
-          "type": "video",
-          "ratio": 1.19
+          "ratio": 2.48
         }
       ]
     },
@@ -164,70 +129,70 @@
       "handle": "daramint",
       "metric": "views",
       "status": "ok",
-      "fetched_at": "2026-11-24T15:46:44Z",
-      "median": 3269.5,
+      "fetched_at": "2026-11-25T15:30:38Z",
+      "median": 3303.5,
       "posts": [
         {
           "url": "https://www.tiktok.com/@daramint/video/7711398882999143713",
           "caption": "What to remove from your resume as a UX/UI Designer 📄❌ #uxui #uxdesigner #cvtips #jobhunt #careeradvice",
           "date": "2026-11-23",
-          "views": 714,
-          "likes": 91,
+          "views": 948,
+          "likes": 122,
           "comments": 1,
-          "shares": 2,
+          "shares": 4,
           "type": "video",
-          "ratio": 0.22
+          "ratio": 0.29
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7710287275233463585",
           "caption": "Really excited to try out whimsical and textures! #portfolio #designinspo #uxui #creativeportfolio #portfoliodesign",
           "date": "2026-11-20",
-          "views": 2635,
-          "likes": 303,
+          "views": 2885,
+          "likes": 340,
           "comments": 2,
-          "shares": 6,
+          "shares": 7,
           "type": "video",
-          "ratio": 0.81
+          "ratio": 0.87
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7707822514809933078",
           "caption": "What to put on your resume as a UXUI Designer 📃👩‍💻 #uxui #uxdesigner #resumetips #careeradvice #jobhunt",
           "date": "2026-11-14",
-          "views": 3232,
-          "likes": 335,
+          "views": 3292,
+          "likes": 339,
           "comments": 9,
           "shares": 7,
           "type": "video",
-          "ratio": 0.99
+          "ratio": 1.0
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7707316541674802454",
           "caption": "#uxui #uxdesigner #designresources #designinspo #designtools",
           "date": "2026-11-12",
-          "views": 2067,
-          "likes": 211,
+          "views": 2105,
+          "likes": 215,
           "comments": 1,
           "shares": 11,
           "type": "video",
-          "ratio": 0.63
+          "ratio": 0.64
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7706159968487034134",
           "caption": "Parts in my Design Workflow that I Don’t Mind Using AI as a UXUI Designer 📚👌🏻 #uxui #uxdesigner #ai #aiworkflow #designtips",
           "date": "2026-11-09",
-          "views": 3514,
-          "likes": 335,
+          "views": 3602,
+          "likes": 347,
           "comments": 6,
-          "shares": 14,
+          "shares": 15,
           "type": "video",
-          "ratio": 1.07
+          "ratio": 1.09
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7703926413623151894",
           "caption": "Perfectionism is killing your ux design process. 4 things to do instead so your work actually ships 📝 #uxdesign #uxui #learndesign #designtips #figma",
           "date": "2026-11-03",
-          "views": 2635,
-          "likes": 247,
+          "views": 2660,
+          "likes": 249,
           "comments": 3,
           "shares": 5,
           "type": "video",
@@ -237,21 +202,21 @@
           "url": "https://www.tiktok.com/@daramint/video/7699840025449598240",
           "caption": "#uxdesign #uxui #codelayers #designresources #learndesign",
           "date": "2026-10-23",
-          "views": 3307,
+          "views": 3315,
           "likes": 227,
           "comments": 2,
           "shares": 9,
           "type": "video",
-          "ratio": 1.01
+          "ratio": 1.0
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7697587941928881440",
           "caption": "A Full Day of Work As A UX/UI Designer 👩‍💻🎧 It’s been a while since my last #dayinmylife vlog! @anua_global #uxdesigner #9to5 #wfhvlog #pdrncream",
           "date": "2026-10-17",
-          "views": 37000,
-          "likes": 4696,
+          "views": 37400,
+          "likes": 4748,
           "comments": 40,
-          "shares": 119,
+          "shares": 120,
           "type": "video",
           "ratio": 11.32
         },
@@ -259,23 +224,23 @@
           "url": "https://www.tiktok.com/@daramint/video/7696113873622945057",
           "caption": "What to put in your UX Design portfolio, based on where you actually are in your career 👩‍💻🎨 #portfolio #uxui #uxdesigner #portfoliotips #creativecareer",
           "date": "2026-10-13",
-          "views": 12000,
-          "likes": 1453,
+          "views": 12200,
+          "likes": 1477,
           "comments": 23,
-          "shares": 56,
+          "shares": 57,
           "type": "video",
-          "ratio": 3.67
+          "ratio": 3.69
         },
         {
           "url": "https://www.tiktok.com/@daramint/video/7694300991000284448",
           "caption": "#uxdesign #uxui #figmaplugin #designresources #designtools",
           "date": "2026-10-08",
-          "views": 7103,
-          "likes": 664,
+          "views": 7144,
+          "likes": 670,
           "comments": 23,
           "shares": 40,
           "type": "video",
-          "ratio": 2.17
+          "ratio": 2.16
         }
       ]
     },
@@ -284,118 +249,118 @@
       "handle": "hana_siya5",
       "metric": "views",
       "status": "ok",
-      "fetched_at": "2026-11-24T15:46:52Z",
-      "median": 2245.5,
+      "fetched_at": "2026-11-25T15:30:46Z",
+      "median": 2417.5,
       "posts": [
         {
           "url": "https://www.tiktok.com/@hana_siya5/video/7711067840358485255",
           "caption": "#ai #UIUXDesign #skills #fypシ #DesignResources",
           "date": "2026-11-22",
-          "views": 596,
-          "likes": 45,
+          "views": 631,
+          "likes": 47,
           "comments": 1,
           "shares": 8,
           "type": "video",
-          "ratio": 0.27
+          "ratio": 0.26
         },
         {
           "url": "https://www.tiktok.com/@hana_siya5/video/7710711581264432402",
           "caption": "#github#UIUXDesign #skills #fypシ #DesignResources",
           "date": "2026-11-21",
-          "views": 6207,
-          "likes": 533,
-          "comments": 1,
-          "shares": 68,
+          "views": 6820,
+          "likes": 579,
+          "comments": 2,
+          "shares": 81,
           "type": "video",
-          "ratio": 2.76
+          "ratio": 2.82
         },
         {
           "url": "https://www.tiktok.com/@hana_siya5/video/7710667012653092114",
           "caption": "#fyp#UIUXDesign #algeria #tips #uiuxdesigner",
           "date": "2026-11-21",
-          "views": 1940,
-          "likes": 124,
+          "views": 2282,
+          "likes": 143,
           "comments": 4,
-          "shares": 30,
+          "shares": 32,
           "type": "video",
-          "ratio": 0.86
+          "ratio": 0.94
         },
         {
           "url": "https://www.tiktok.com/@hana_siya5/video/7708446096695037192",
           "caption": "#figma#productdesign#advice #fyp #UIUXDesign",
           "date": "2026-11-15",
-          "views": 739,
-          "likes": 50,
+          "views": 748,
+          "likes": 51,
           "comments": 2,
           "shares": 10,
           "type": "video",
-          "ratio": 0.33
+          "ratio": 0.31
         },
         {
           "url": "https://www.tiktok.com/@hana_siya5/video/7694702487588195591",
           "caption": "Use Stitch to speed up prototyping during hackathons, not as a replacement for thoughtful design. Treat AI-generated UI as a starting point, then refine it with your own creativity and UX thinking. #UIUXDesign #GoogleSt…",
           "date": "2026-10-09",
-          "views": 1126,
+          "views": 1131,
           "likes": 69,
           "comments": 4,
           "shares": 20,
           "type": "video",
-          "ratio": 0.5
+          "ratio": 0.47
         },
         {
           "url": "https://www.tiktok.com/@hana_siya5/video/7692116078805142792",
           "caption": "#fyp #foryou #foryoupage #viral #uiuxdesign",
           "date": "2026-10-02",
-          "views": 10200,
-          "likes": 641,
+          "views": 10300,
+          "likes": 644,
           "comments": 4,
-          "shares": 130,
+          "shares": 131,
           "type": "video",
-          "ratio": 4.54
+          "ratio": 4.26
         },
         {
           "url": "https://www.tiktok.com/@hana_siya5/video/7691787550456892690",
           "caption": "#Figma #explore #fyp #aitools #design",
           "date": "2026-10-01",
-          "views": 2551,
-          "likes": 144,
+          "views": 2553,
+          "likes": 145,
           "comments": 2,
           "shares": 29,
           "type": "video",
-          "ratio": 1.14
+          "ratio": 1.06
         },
         {
           "url": "https://www.tiktok.com/@hana_siya5/video/7690656669797190930",
           "caption": "Figma is evolving from a design tool into an entire creative workspace @figma #Figma2026 #explore #UIDesign #UXDesign #aitrend",
           "date": "2026-09-28",
-          "views": 7461,
-          "likes": 450,
+          "views": 7505,
+          "likes": 452,
           "comments": 5,
           "shares": 74,
           "type": "video",
-          "ratio": 3.32
+          "ratio": 3.1
         },
         {
           "url": "https://www.tiktok.com/@hana_siya5/video/7690268264492010770",
           "caption": "Great UX starts with understanding people, not just designing screens. Learn how to use empathy to create experiences that actually connect with users. #UXDesign #DesignThinking #EmpathyInDesign #UXTips#🇩🇿",
           "date": "2026-09-27",
-          "views": 4591,
+          "views": 4592,
           "likes": 237,
           "comments": 6,
           "shares": 36,
           "type": "video",
-          "ratio": 2.04
+          "ratio": 1.9
         },
         {
           "url": "https://www.tiktok.com/@hana_siya5/video/7689907366107581703",
           "caption": "#ai#aitools #explore #DesignerTools #DesignResources",
           "date": "2026-09-26",
-          "views": 671,
+          "views": 673,
           "likes": 39,
           "comments": 5,
           "shares": 1,
           "type": "video",
-          "ratio": 0.3
+          "ratio": 0.28
         }
       ]
     },
@@ -404,37 +369,37 @@
       "handle": "bri_bossy",
       "metric": "views",
       "status": "ok",
-      "fetched_at": "2026-11-24T15:46:58Z",
-      "median": 9433.5,
+      "fetched_at": "2026-11-25T15:30:52Z",
+      "median": 9766.0,
       "posts": [
         {
           "url": "https://www.tiktok.com/@bri_bossy/video/7711759281409789223",
           "caption": "Ton app pèse combien une fois sur l’app store ? Tu as déjà fait attention à ça ? 🤔",
           "date": "2026-11-24",
-          "views": 120,
-          "likes": 27,
-          "comments": 5,
-          "shares": 0,
+          "views": 3350,
+          "likes": 429,
+          "comments": 8,
+          "shares": 5,
           "type": "video",
-          "ratio": 0.01
+          "ratio": 0.34
         },
         {
           "url": "https://www.tiktok.com/@bri_bossy/video/7711042963593350433",
           "caption": "Le lien en bio pour vous inscrire sur la liste :) @Lovelynailz • BOBIGNY PARIS 🍓",
           "date": "2026-11-22",
-          "views": 9444,
-          "likes": 1533,
-          "comments": 54,
-          "shares": 229,
+          "views": 10100,
+          "likes": 1727,
+          "comments": 59,
+          "shares": 266,
           "type": "video",
-          "ratio": 1.0
+          "ratio": 1.03
         },
         {
           "url": "https://www.tiktok.com/@bri_bossy/video/7709544609864617248",
           "caption": "Comment j’ai appris à ne plus avoir peur de paraître bête 🫪",
           "date": "2026-11-18",
-          "views": 2183,
-          "likes": 290,
+          "views": 2221,
+          "likes": 295,
           "comments": 3,
           "shares": 3,
           "type": "video",
@@ -444,19 +409,19 @@
           "url": "https://www.tiktok.com/@bri_bossy/video/7709117723388808480",
           "caption": "On s’équipe bien pour éviter les bug en prod 🫡",
           "date": "2026-11-17",
-          "views": 24700,
-          "likes": 3372,
+          "views": 25000,
+          "likes": 3418,
           "comments": 38,
-          "shares": 345,
+          "shares": 347,
           "type": "video",
-          "ratio": 2.62
+          "ratio": 2.56
         },
         {
           "url": "https://www.tiktok.com/@bri_bossy/video/7708818418635377952",
           "caption": "Comment je décompresse avec 10h/jours devant les écrans 🫡",
           "date": "2026-11-16",
-          "views": 1909,
-          "likes": 232,
+          "views": 1933,
+          "likes": 235,
           "comments": 8,
           "shares": 3,
           "type": "video",
@@ -466,34 +431,34 @@
           "url": "https://www.tiktok.com/@bri_bossy/video/7705187314892410144",
           "caption": "À chaque fois que j’explique le pourquoi j’ai choisis l’informatique en tant que créative personne ne comprend vraiment 🤔",
           "date": "2026-11-06",
-          "views": 17200,
-          "likes": 2792,
+          "views": 17300,
+          "likes": 2806,
           "comments": 65,
           "shares": 63,
           "type": "video",
-          "ratio": 1.82
+          "ratio": 1.77
         },
         {
           "url": "https://www.tiktok.com/@bri_bossy/video/7702150068677184800",
           "caption": "Avant de lancer ton app, revois ton design !!",
           "date": "2026-10-29",
-          "views": 7059,
-          "likes": 1120,
+          "views": 7151,
+          "likes": 1130,
           "comments": 27,
           "shares": 53,
           "type": "video",
-          "ratio": 0.75
+          "ratio": 0.73
         },
         {
           "url": "https://www.tiktok.com/@bri_bossy/video/7698409257598848289",
           "caption": "Le jeu s’appelle YAP J’ai créé un jeu pour m’aider à m’améliorer en anglais ! Et franchement il est beaucoup trop cool 🌟♥️",
           "date": "2026-10-19",
-          "views": 51700,
-          "likes": 8264,
+          "views": 51800,
+          "likes": 8278,
           "comments": 160,
           "shares": 538,
           "type": "video",
-          "ratio": 5.48
+          "ratio": 5.3
         },
         {
           "url": "https://www.tiktok.com/@bri_bossy/video/7666785215603363105",
@@ -504,18 +469,18 @@
           "comments": 59,
           "shares": 84,
           "type": "video",
-          "ratio": 1.59
+          "ratio": 1.54
         },
         {
           "url": "https://www.tiktok.com/@bri_bossy/video/7666066841718000928",
           "caption": "J’ai l’impression que il y a plus besoin de rien apprendre sauf que j’adore apprendre purée 💔",
           "date": "2026-07-24",
-          "views": 9423,
+          "views": 9432,
           "likes": 837,
           "comments": 74,
           "shares": 23,
           "type": "video",
-          "ratio": 1.0
+          "ratio": 0.97
         }
       ]
     },
@@ -524,26 +489,26 @@
       "handle": "innermudd",
       "metric": "views",
       "status": "ok",
-      "fetched_at": "2026-11-24T15:47:04Z",
-      "median": 13424.0,
+      "fetched_at": "2026-11-25T15:30:58Z",
+      "median": 14362.0,
       "posts": [
         {
           "url": "https://www.tiktok.com/@innermudd/video/7711412106838445313",
           "caption": "Good audio can make a huge difference in your content creation setup. 🎙️ The MAONO Wave T1 Plus delivers 48kHz/16-bit audio quality, adjustable 3-level noise cancellation, and customizable audio settings through the MAO…",
           "date": "2026-11-23",
-          "views": 298,
-          "likes": 7,
+          "views": 476,
+          "likes": 10,
           "comments": 0,
           "shares": 0,
           "type": "video",
-          "ratio": 0.02
+          "ratio": 0.03
         },
         {
           "url": "https://www.tiktok.com/@innermudd/video/7711056295075319041",
           "caption": "A few Apple ecosystem features that make my daily workflow so much easier. From shooting videos to managing my workspace, these little things make a bigger difference than you might think. What Apple ecosystem feature d…",
           "date": "2026-11-22",
-          "views": 4108,
-          "likes": 259,
+          "views": 4522,
+          "likes": 270,
           "comments": 1,
           "shares": 6,
           "type": "video",
@@ -553,31 +518,31 @@
           "url": "https://www.tiktok.com/@innermudd/video/7710318153980448052",
           "caption": "MacBook running slow, lagging, or getting hot? It might be because of apps running in the background without you even noticing. Check your Login Items and use Activity Monitor to see which apps are consuming the most RA…",
           "date": "2026-11-20",
-          "views": 22500,
-          "likes": 1177,
+          "views": 24400,
+          "likes": 1289,
           "comments": 2,
-          "shares": 130,
+          "shares": 142,
           "type": "video",
-          "ratio": 1.68
+          "ratio": 1.7
         },
         {
           "url": "https://www.tiktok.com/@innermudd/video/7709208263354633478",
           "caption": "few simple settings to give your Mac a whole new look. Which one is your favorite? Try them yourself! #MacBook #MacTips #MacOS #AppleSetup #Mac",
           "date": "2026-11-17",
-          "views": 150000,
-          "likes": 9755,
-          "comments": 25,
-          "shares": 446,
+          "views": 164000,
+          "likes": 10700,
+          "comments": 30,
+          "shares": 504,
           "type": "video",
-          "ratio": 11.17
+          "ratio": 11.42
         },
         {
           "url": "https://www.tiktok.com/@innermudd/video/7708837169565011201",
           "caption": "Not sure what to buy next? Let AI help you find the best option. Sifty compares real user reviews, up-to-date prices, and product specs to help you find the right products without spending hours researching. Try Sifty f…",
           "date": "2026-11-16",
-          "views": 1729,
-          "likes": 53,
-          "comments": 0,
+          "views": 1796,
+          "likes": 54,
+          "comments": 1,
           "shares": 2,
           "type": "video",
           "ratio": 0.13
@@ -586,7 +551,7 @@
           "url": "https://www.tiktok.com/@innermudd/video/7708451777967820038",
           "caption": "A little look at the lights I use for my desk setup and content creation. Some for the aesthetic, some for the actual work. #DeskSetup #MacSetup #DeskInspiration #ContentCreator #WorkspaceSetup",
           "date": "2026-11-15",
-          "views": 969,
+          "views": 1011,
           "likes": 10,
           "comments": 0,
           "shares": 0,
@@ -597,10 +562,10 @@
           "url": "https://www.tiktok.com/@innermudd/video/7707726045138455860",
           "caption": "Apple CarPlay, but with more possibilities. 👀 Telecar lets you watch YouTube, Instagram, and more directly on your car display. Your iPhone even works as a cursor to control everything. @telecarapp Check out Telecar on …",
           "date": "2026-11-13",
-          "views": 4348,
-          "likes": 69,
+          "views": 4624,
+          "likes": 71,
           "comments": 3,
-          "shares": 10,
+          "shares": 14,
           "type": "video",
           "ratio": 0.32
         },
@@ -608,34 +573,34 @@
           "url": "https://www.tiktok.com/@innermudd/video/7706646029948456244",
           "caption": "Just got a new iPad? Here are 3 tricks you should try! 👀 Which one is your favorite? #iPadTips #iPadTricks #AppleTips #iPadHacks #Apple",
           "date": "2026-11-10",
-          "views": 120300,
-          "likes": 10600,
+          "views": 127600,
+          "likes": 11400,
           "comments": 28,
-          "shares": 612,
+          "shares": 659,
           "type": "video",
-          "ratio": 8.96
+          "ratio": 8.88
         },
         {
           "url": "https://www.tiktok.com/@innermudd/video/7706243394267303220",
           "caption": "4 Mac apps I use almost every day to make my workflow easier and keep everything organized. From managing emails to tracking all my projects, these apps have become part of my daily routine. Which one are you trying fir…",
           "date": "2026-11-09",
-          "views": 30000,
-          "likes": 1643,
+          "views": 30900,
+          "likes": 1698,
           "comments": 6,
-          "shares": 62,
+          "shares": 64,
           "type": "video",
-          "ratio": 2.23
+          "ratio": 2.15
         },
         {
           "url": "https://www.tiktok.com/@innermudd/video/7705500826638290228",
           "caption": "Curious how it works? Comment “TAP” and I’ll send you the link! What if your MacBook could work like a touchscreen? 👀 Lidtap lets you add customizable tap controls to your MacBook, with 4–9 taps you can assign to differ…",
           "date": "2026-11-07",
-          "views": 23400,
-          "likes": 664,
-          "comments": 31,
-          "shares": 38,
+          "views": 24100,
+          "likes": 682,
+          "comments": 33,
+          "shares": 40,
           "type": "video",
-          "ratio": 1.74
+          "ratio": 1.68
         }
       ]
     },
@@ -644,80 +609,80 @@
       "handle": "tabeadesign",
       "metric": "views",
       "status": "ok",
-      "fetched_at": "2026-11-24T15:47:11Z",
-      "median": 2518.0,
+      "fetched_at": "2026-11-25T15:31:05Z",
+      "median": 2519.5,
       "posts": [
         {
           "url": "https://www.tiktok.com/@tabeadesign/video/7711691975103089942",
           "caption": "step by step process on how I design brands 🩵💌 Creating brand worlds is literally my fave thing in the world and I am sharing with you how a typical process of it looks like Would you like to see more of the process?? ⭐…",
           "date": "2026-11-24",
-          "views": 691,
-          "likes": 80,
-          "comments": 0,
-          "shares": 3,
+          "views": 890,
+          "likes": 109,
+          "comments": 2,
+          "shares": 4,
           "type": "video",
-          "ratio": 0.27
+          "ratio": 0.35
         },
         {
           "url": "https://www.tiktok.com/@tabeadesign/video/7711354451998575894",
           "caption": "2027 I hope you’re ready cause I’ll make you my best one yet 🩵🤏🏻 tbh this year has probably been the hardest year I’ve had in a really long time so I am SO looking forward to starting a new year and a new chapter 🥹 #cre…",
           "date": "2026-11-23",
-          "views": 762,
-          "likes": 88,
+          "views": 799,
+          "likes": 90,
           "comments": 4,
           "shares": 2,
           "type": "video",
-          "ratio": 0.3
+          "ratio": 0.32
         },
         {
           "url": "https://www.tiktok.com/@tabeadesign/video/7709445647916600608",
           "caption": "I feel like I haven’t shown off my new website enough so here we go 🥹🤏🏻 truly so obsessed with how my website turned out and I love how it feels!! made in @readymag 🩵 #webdesign #websitedesign #webdesigner #creative",
           "date": "2026-11-18",
-          "views": 3032,
-          "likes": 397,
+          "views": 3177,
+          "likes": 410,
           "comments": 10,
-          "shares": 18,
+          "shares": 21,
           "type": "video",
-          "ratio": 1.2
+          "ratio": 1.26
         },
         {
           "url": "https://www.tiktok.com/@tabeadesign/video/7708744947704302870",
           "caption": "some of my fave brands I’ve designed in the past year 🩵 which one is your fave?? all created in @adobeillustrator #branding #branddesign #branddesigner #creative #designer",
           "date": "2026-11-16",
-          "views": 1229,
-          "likes": 135,
+          "views": 1257,
+          "likes": 137,
           "comments": 4,
-          "shares": 4,
+          "shares": 5,
           "type": "video",
-          "ratio": 0.49
+          "ratio": 0.5
         },
         {
           "url": "https://www.tiktok.com/@tabeadesign/video/7703555636994247958",
           "caption": "design a pilates brand with me ⭐️ a bts of the design process for one of my client projects.. so obsessed with how it turned out what do you think?? 💗 #branding #branddesign #pilatesbrand #designprocess #designer",
           "date": "2026-11-02",
-          "views": 3115,
-          "likes": 411,
+          "views": 3143,
+          "likes": 414,
           "comments": 4,
           "shares": 13,
           "type": "video",
-          "ratio": 1.24
+          "ratio": 1.25
         },
         {
           "url": "https://www.tiktok.com/@tabeadesign/video/7689026796796562691",
           "caption": "your sign to be delulu and believe in yourself and make life and work FUN 🩵 It’s so easy to get stuck in a routine and stay in your comfort zone but saying yes to things even if they’re scary is how you grow and how you…",
           "date": "2026-09-24",
-          "views": 1622,
+          "views": 1628,
           "likes": 57,
           "comments": 3,
           "shares": 1,
           "type": "video",
-          "ratio": 0.64
+          "ratio": 0.65
         },
         {
           "url": "https://www.tiktok.com/@tabeadesign/video/7687882837558856962",
           "caption": "I built my own fashion app so I can play dress up 👚 I want to get more into tech and building apps and when I was a kid I used to love playing dress up games so I thought this was the perfect thing to create 🤭 should I …",
           "date": "2026-09-21",
-          "views": 2397,
+          "views": 2399,
           "likes": 96,
           "comments": 1,
           "shares": 0,
@@ -728,7 +693,7 @@
           "url": "https://www.tiktok.com/@tabeadesign/video/7686045970295049494",
           "caption": "watch me create a portfolio website ⭐️ had so much fun creating this portfolio and I love how it turned out. I used @readymag to create it what do you think?? #webdesign #webdesigner #portfoliodesign #creative #designer",
           "date": "2026-09-16",
-          "views": 3116,
+          "views": 3119,
           "likes": 173,
           "comments": 5,
           "shares": 2,
@@ -739,7 +704,7 @@
           "url": "https://www.tiktok.com/@tabeadesign/video/7683864626731289878",
           "caption": "cool girls design cool websites pt. 3 🩵 had the honor of creating the portfolio for floofysocials and I cannot tell you how obsessed I am with how it turned out!! SO MUCH FUN what do you think?? #webdesign #websitedesig…",
           "date": "2026-09-10",
-          "views": 5382,
+          "views": 5389,
           "likes": 363,
           "comments": 6,
           "shares": 8,
@@ -750,7 +715,7 @@
           "url": "https://www.tiktok.com/@tabeadesign/video/7683086519321529622",
           "caption": "come on a creative coffee date with me ⭐️🩵 while I’m working on my fashion App.. will show more soon!! #designer #creativedate #solodate #graphicdesigner #appdesign",
           "date": "2026-09-08",
-          "views": 2639,
+          "views": 2640,
           "likes": 123,
           "comments": 2,
           "shares": 2,
@@ -764,70 +729,70 @@
       "handle": "itsdesignely",
       "metric": "views",
       "status": "ok",
-      "fetched_at": "2026-11-24T15:47:16Z",
-      "median": 3084.0,
+      "fetched_at": "2026-11-25T15:31:12Z",
+      "median": 3221.0,
       "posts": [
         {
           "url": "https://www.tiktok.com/@itsdesignely/video/7711692225737919766",
           "caption": "There was absolutely NO WAY I was going to have a basic portfolio 🎮 So I designed my own little world in Figma and brought it to life with @Replit And the best part? I also built a little admin HQ to keep client inquiri…",
           "date": "2026-11-24",
-          "views": 509,
-          "likes": 45,
+          "views": 776,
+          "likes": 74,
           "comments": 0,
           "shares": 1,
           "type": "video",
-          "ratio": 0.17
+          "ratio": 0.24
         },
         {
           "url": "https://www.tiktok.com/@itsdesignely/video/7711406767120354582",
           "caption": "A little obsessed with this setup lately 🤍 ● @Lenovo Yoga Monitor + Yoga Pro 9i Aura Edition Gen 11 ● Mini carpet mousepad ● Lenovo Yoga Headphones ● Lenovo Yoga Bluetooth Silent Mouse ● Lenovo Yoga Creative Keyboard An…",
           "date": "2026-11-23",
-          "views": 302,
-          "likes": 29,
+          "views": 350,
+          "likes": 30,
           "comments": 1,
           "shares": 0,
           "type": "video",
-          "ratio": 0.1
+          "ratio": 0.11
         },
         {
           "url": "https://www.tiktok.com/@itsdesignely/video/7710274991668890902",
           "caption": "If you’re waiting for the perfect degree, course or certificate to start something, don’t. Get curious. Get obsessed. Make things. Make terrible things. Get better. You’d be surprised how far that can take you 🫶 I’ve ch…",
           "date": "2026-11-20",
-          "views": 4599,
-          "likes": 395,
+          "views": 4881,
+          "likes": 418,
           "comments": 7,
-          "shares": 9,
+          "shares": 11,
           "type": "video",
-          "ratio": 1.49
+          "ratio": 1.52
         },
         {
           "url": "https://www.tiktok.com/@itsdesignely/video/7709883985580559638",
           "caption": "GTA 6 UI needs a little consistency 👀 I’m not reinventing the weapon wheel. The layout already works. I just wanted to give it a softer, frosted-glass look to match the rest of the HUD. Original or redesign? 🎮 #GTA6 #Ga…",
           "date": "2026-11-19",
-          "views": 3556,
-          "likes": 201,
+          "views": 3791,
+          "likes": 213,
           "comments": 8,
           "shares": 7,
           "type": "video",
-          "ratio": 1.15
+          "ratio": 1.18
         },
         {
           "url": "https://www.tiktok.com/@itsdesignely/video/7709172915845057825",
           "caption": "You can’t go wrong with ASCII 🤘 Build on designely.studio #ascii #interactivewebsite",
           "date": "2026-11-17",
-          "views": 7629,
-          "likes": 638,
+          "views": 8059,
+          "likes": 684,
           "comments": 5,
-          "shares": 23,
+          "shares": 24,
           "type": "video",
-          "ratio": 2.47
+          "ratio": 2.5
         },
         {
           "url": "https://www.tiktok.com/@itsdesignely/video/7708758432349736225",
           "caption": "When I need to relax, I make things. Usually some random UI This time I also got to test my new Lenovo Yoga setup and the display quality is just WOW. I’ve always relied on my laptop for design work, but pairing the @Le…",
           "date": "2026-11-16",
-          "views": 754,
-          "likes": 33,
+          "views": 769,
+          "likes": 35,
           "comments": 0,
           "shares": 1,
           "type": "video",
@@ -837,45 +802,45 @@
           "url": "https://www.tiktok.com/@itsdesignely/video/7707607289728961825",
           "caption": "Okay, Figma is getting a little too powerful now 👀 3D transforms are finally here! Rotate designs across X, Y and Z axes, play with perspective and depth, and even animate them with Figma Agent. Time to make everything …",
           "date": "2026-11-13",
-          "views": 8329,
-          "likes": 483,
+          "views": 13300,
+          "likes": 510,
           "comments": 3,
-          "shares": 27,
+          "shares": 29,
           "type": "video",
-          "ratio": 2.7
+          "ratio": 4.13
         },
         {
           "url": "https://www.tiktok.com/@itsdesignely/video/7706192658334633238",
           "caption": "🗡️ Let’s make Zelda ocarina of time remake in 70xspeed Figma ~ 1h What game it’s your favourite recently? #gameui #gamedev #zelda",
           "date": "2026-11-09",
-          "views": 7317,
-          "likes": 516,
+          "views": 7445,
+          "likes": 532,
           "comments": 6,
-          "shares": 14,
+          "shares": 15,
           "type": "video",
-          "ratio": 2.37
+          "ratio": 2.31
         },
         {
           "url": "https://www.tiktok.com/@itsdesignely/video/7705093975568354582",
           "caption": "The fish obsession is getting out of hand. Anyway, here’s another fish website. 🐠💀 Comment FISH for the template #webdesign #interactivedesign #creativecoding #uidesign #webdevelopment",
           "date": "2026-11-06",
-          "views": 1670,
-          "likes": 70,
+          "views": 1683,
+          "likes": 71,
           "comments": 2,
           "shares": 2,
           "type": "video",
-          "ratio": 0.54
+          "ratio": 0.52
         },
         {
           "url": "https://www.tiktok.com/@itsdesignely/video/7704308140950539542",
           "caption": "If I were learning mobile games from scratch, this is exactly where I’d begin. And no, you don’t need to spend hundreds on courses.I put together a FREE guide with all the resources, tutorials, tools and a few of my fav…",
           "date": "2026-11-04",
-          "views": 2612,
-          "likes": 158,
+          "views": 2651,
+          "likes": 162,
           "comments": 2,
           "shares": 11,
           "type": "video",
-          "ratio": 0.85
+          "ratio": 0.82
         }
       ]
     },
