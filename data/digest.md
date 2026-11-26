@@ -1,96 +1,97 @@
-# Relevé social du 2026-11-25T15:31:17Z
+# Relevé social du 2026-11-26T15:10:37Z
 
 Comptes relevés : 32 sur 32
 
 ## Comptes
 
-- tiktok @marcelodesignx : ok, médiane 4686 views sur 10 posts
-- tiktok @daramint : ok, médiane 3304 views sur 10 posts
-- tiktok @hana_siya5 : ok, médiane 2418 views sur 10 posts
-- tiktok @bri_bossy : ok, médiane 9766 views sur 10 posts
-- tiktok @innermudd : ok, médiane 14362 views sur 10 posts
-- tiktok @tabeadesign : ok, médiane 2520 views sur 10 posts
-- tiktok @itsdesignely : ok, médiane 3221 views sur 10 posts
-- instagram @0xloucash : ok, médiane 1267 likes sur 10 posts
-- instagram @juicelab.uiux : ok, médiane 161 likes sur 10 posts
-- instagram @khushidotjpeg : ok, médiane 280 likes sur 10 posts
-- instagram @meshtimes : ok, médiane 4487 likes sur 10 posts
-- instagram @the.bohdana : ok, médiane 263 likes sur 10 posts
-- instagram @heigijeong : ok, médiane 1813 likes sur 10 posts
-- instagram @maggieindata : ok, médiane 247 likes sur 8 posts
-- instagram @asia.does.uxui : ok, médiane 309 likes sur 10 posts
-- instagram @sandracreatess : ok, médiane 1921 likes sur 9 posts
-- instagram @ellydoesdesign : ok, médiane 174 likes sur 10 posts
-- instagram @audreycaprianni : ok, médiane 271 likes sur 10 posts
-- instagram @marina_uiux : ok, médiane 4066 likes sur 10 posts
-- instagram @askcatgpt : ok, médiane 3379 likes sur 10 posts
-- instagram @thedesignely : ok, médiane 2580 likes sur 10 posts
-- instagram @uiby.anuj : ok, médiane 2649 likes sur 10 posts
-- instagram @bachynskyi_ui : ok, médiane 646 likes sur 10 posts
-- instagram @soojintech : ok, médiane 884 likes sur 10 posts
-- instagram @ceciliakimdesign : ok, médiane 124 likes sur 10 posts
-- instagram @carol.yaps : ok, médiane 16420 likes sur 9 posts
-- instagram @design4me__ : ok, médiane 1139 likes sur 10 posts
-- instagram @productplaybook_ : ok, médiane 199 likes sur 9 posts
-- instagram @ux.wheee : ok, médiane 1111 likes sur 10 posts
-- instagram @product.manager.guide : ok, médiane 43 likes sur 10 posts
+- tiktok @marcelodesignx : ok, médiane 3062 views sur 10 posts
+- tiktok @daramint : ok, médiane 3338 views sur 10 posts
+- tiktok @hana_siya5 : ok, médiane 2574 views sur 10 posts
+- tiktok @bri_bossy : ok, médiane 9917 views sur 10 posts
+- tiktok @innermudd : ok, médiane 14787 views sur 10 posts
+- tiktok @tabeadesign : ok, médiane 2016 views sur 10 posts
+- tiktok @itsdesignely : ok, médiane 4540 views sur 10 posts
+- instagram @0xloucash : ok, médiane 1178 likes sur 10 posts
+- instagram @juicelab.uiux : ok, médiane 184 likes sur 10 posts
+- instagram @khushidotjpeg : ok, médiane 286 likes sur 10 posts
+- instagram @meshtimes : ok, médiane 4428 likes sur 10 posts
+- instagram @the.bohdana : ok, médiane 266 likes sur 10 posts
+- instagram @heigijeong : ok, médiane 1870 likes sur 10 posts
+- instagram @maggieindata : ok, médiane 168 likes sur 8 posts
+- instagram @asia.does.uxui : ok, médiane 339 likes sur 10 posts
+- instagram @sandracreatess : ok, médiane 1975 likes sur 9 posts
+- instagram @ellydoesdesign : ok, médiane 184 likes sur 10 posts
+- instagram @audreycaprianni : ok, médiane 279 likes sur 10 posts
+- instagram @marina_uiux : ok, médiane 3785 likes sur 10 posts
+- instagram @askcatgpt : ok, médiane 2472 likes sur 10 posts
+- instagram @thedesignely : ok, médiane 2755 likes sur 10 posts
+- instagram @uiby.anuj : ok, médiane 2507 likes sur 10 posts
+- instagram @bachynskyi_ui : ok, médiane 647 likes sur 10 posts
+- instagram @soojintech : ok, médiane 963 likes sur 10 posts
+- instagram @ceciliakimdesign : ok, médiane 121 likes sur 10 posts
+- instagram @carol.yaps : ok, médiane 16425 likes sur 9 posts
+- instagram @design4me__ : ok, médiane 1171 likes sur 10 posts
+- instagram @productplaybook_ : ok, médiane 337 likes sur 9 posts
+- instagram @ux.wheee : ok, médiane 1112 likes sur 10 posts
+- instagram @product.manager.guide : ok, médiane 44 likes sur 10 posts
 - instagram @monikaintech : ok, médiane 14 likes sur 10 posts
-- instagram @kproductmanager : ok, médiane 472 likes sur 10 posts
+- instagram @kproductmanager : ok, médiane 447 likes sur 10 posts
 
 ## Posts au moins 2 fois au-dessus de la médiane de leur compte (90 derniers jours)
 
-- 2026-11-23 | tiktok @marcelodesignx | ratio 3.67 | vues 17200 | likes 1793 | commentaires 18 | partages 66 | https://www.tiktok.com/@marcelodesignx/video/7711169385045544200 | Can we normalize? 🫪 #webdesign #websites #webdesigner #uiux
-- 2026-11-23 | instagram @bachynskyi_ui | ratio 4.17 | vues None | likes 2696 | commentaires 1264 | partages None | https://www.instagram.com/reel/DgFaSDeOWzD | Drop “WOW” and I’ll send you the links! A little UI inspiration for your next project.
-- 2026-11-21 | tiktok @marcelodesignx | ratio 12.1 | vues 56700 | likes 2744 | commentaires 62 | partages 281 | https://www.tiktok.com/@marcelodesignx/video/7710731071956012296 | Create short dramas in minutes using Higgsfield MCP in Claude. Write your script, generate your video, and publish directly to Instagram. Higgsfield’s Black Fr…
-- 2026-11-21 | tiktok @hana_siya5 | ratio 2.82 | vues 6820 | likes 579 | commentaires 2 | partages 81 | https://www.tiktok.com/@hana_siya5/video/7710711581264432402 | #github#UIUXDesign #skills #fypシ #DesignResources
-- 2026-11-20 | instagram @product.manager.guide | ratio 2.0 | vues None | likes 86 | commentaires 2 | partages None | https://www.instagram.com/reel/Df-LXJZxG_G | Success is not linear, don’t lose your focus. If you’re an ambitious person who is aspired to reach your goals, I’d love to learn what motivates you and what g…
-- 2026-11-19 | tiktok @marcelodesignx | ratio 5.87 | vues 27500 | likes 2776 | commentaires 23 | partages 235 | https://www.tiktok.com/@marcelodesignx/video/7709690603730160903 | Steal these interactions to make your Website feel premium. 🥷 Save this for next! #webdesign #webdesigner #3Dwebsites #uiux #blowthisup
-- 2026-11-18 | instagram @asia.does.uxui | ratio 7.63 | vues None | likes 2358 | commentaires 138 | partages None | https://www.instagram.com/reel/Df4yOHKq0SH | I built this whole 3D scene in @figma with the new feature - 3D transform Every cube here is made of 6 flat frames, turned and pushed into 3D space, then anima…
-- 2026-11-17 | tiktok @bri_bossy | ratio 2.56 | vues 25000 | likes 3418 | commentaires 38 | partages 347 | https://www.tiktok.com/@bri_bossy/video/7709117723388808480 | On s’équipe bien pour éviter les bug en prod 🫡
-- 2026-11-17 | tiktok @innermudd | ratio 11.42 | vues 164000 | likes 10700 | commentaires 30 | partages 504 | https://www.tiktok.com/@innermudd/video/7709208263354633478 | few simple settings to give your Mac a whole new look. Which one is your favorite? Try them yourself! #MacBook #MacTips #MacOS #AppleSetup #Mac
-- 2026-11-17 | tiktok @itsdesignely | ratio 2.5 | vues 8059 | likes 684 | commentaires 5 | partages 24 | https://www.tiktok.com/@itsdesignely/video/7709172915845057825 | You can’t go wrong with ASCII 🤘 Build on designely.studio #ascii #interactivewebsite
-- 2026-11-17 | instagram @ellydoesdesign | ratio 2.7 | vues None | likes 470 | commentaires 206 | partages None | https://www.instagram.com/reel/Df3AYajuZEz | Comment USE and I’ll send all the links straight to your DMs ⬇️📲✨
-- 2026-11-17 | instagram @audreycaprianni | ratio 3.41 | vues None | likes 924 | commentaires 237 | partages None | https://www.instagram.com/reel/Df11CRcP26U | comment ⭐️ IDEAS ⭐️ and ill send you the bank of ideas im working on!!! whenever i get interested in a business, i quickly jolt down notes on how id get starte…
-- 2026-11-17 | instagram @productplaybook_ | ratio 5.04 | vues None | likes 1002 | commentaires 52 | partages None | https://www.instagram.com/reel/Df29ArNT0pw | Microsoft’s new AI model ❌doesn’t write answers. ✅It makes decisions. 𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 💬 Social media post with inappropriate content: ✅ 𝗛𝗶𝗱𝗲 ❌ Show 📦 Photo of a crush…
-- 2026-11-17 | instagram @product.manager.guide | ratio 2.21 | vues None | likes 95 | commentaires 1 | partages None | https://www.instagram.com/reel/Df2eNRBRuN9 | Breaking into Product shouldn’t cost you thousands of euros—especially when AI has completely changed what hiring managers actually look for. 💸 Save this befor…
-- 2026-11-16 | instagram @sandracreatess | ratio 2.66 | vues None | likes 5106 | commentaires 16 | partages None | https://www.instagram.com/p/Dfy6g7cNAg8 | Approach at your own risk. Happy Mondaayyy :))))
-- 2026-11-16 | instagram @askcatgpt | ratio 5.43 | vues None | likes 18338 | commentaires 680 | partages None | https://www.instagram.com/reel/DfyWDpZiqUt | @wsj @catlabs
-- 2026-11-15 | tiktok @marcelodesignx | ratio 2.48 | vues 11600 | likes 756 | commentaires 17 | partages 84 | https://www.tiktok.com/@marcelodesignx/video/7708550273857244423 | POV: You mastered 3D Websites #websites #webdesigner #webdesign #uiux #blowthisup
-- 2026-11-13 | tiktok @itsdesignely | ratio 4.13 | vues 13300 | likes 510 | commentaires 3 | partages 29 | https://www.tiktok.com/@itsdesignely/video/7707607289728961825 | Okay, Figma is getting a little too powerful now 👀 3D transforms are finally here! Rotate designs across X, Y and Z axes, play with perspective and depth, and …
-- 2026-11-13 | instagram @thedesignely | ratio 2.08 | vues None | likes 5364 | commentaires 260 | partages None | https://www.instagram.com/reel/Dfrc4Iethao | Okay, Figma is getting a little too powerful now 👀 3D transforms are finally here! Rotate designs across X, Y and Z axes, play with perspective and depth, and …
-- 2026-11-13 | instagram @design4me__ | ratio 3.03 | vues None | likes 3456 | commentaires 1387 | partages None | https://www.instagram.com/reel/DfrcRHsIS3_ | 🚨 free website templates alert! found some really good ones that honestly have no business being free. whether you’re working on your own website or just wanna…
-- 2026-11-12 | instagram @askcatgpt | ratio 2.61 | vues None | likes 8822 | commentaires 197 | partages None | https://www.instagram.com/reel/Dfp_I12BZ_Z | TLDR Claude live editing my UI with me is absolutely bananas… This stuff used to take days guys. DAYS. And WORSE: u had to ASK SOMEBODY ELSE TO HELP YOU 🔪🔪🔪 No…
-- 2026-11-12 | instagram @ceciliakimdesign | ratio 2.3 | vues None | likes 284 | commentaires 10 | partages None | https://www.instagram.com/reel/Dfp6X0DSG3l | launching my first app ✶ part 5 ✶ pricing psychology Part 5 of launching Nessie in 10 days 🦕 I priced Nessie way under the big budgeting apps for a few reasons…
-- 2026-11-11 | instagram @meshtimes | ratio 8.69 | vues None | likes 39007 | commentaires 6792 | partages None | https://www.instagram.com/reel/DfnEUR7toXd | the doors are open!! 🎄 this year’s advent calendar is live ♡ i can’t believe we’re on year 3 already 🥹 in 2024, it started as a little figma template. in 2025,…
-- 2026-11-10 | tiktok @innermudd | ratio 8.88 | vues 127600 | likes 11400 | commentaires 28 | partages 659 | https://www.tiktok.com/@innermudd/video/7706646029948456244 | Just got a new iPad? Here are 3 tricks you should try! 👀 Which one is your favorite? #iPadTips #iPadTricks #AppleTips #iPadHacks #Apple
-- 2026-11-10 | instagram @0xloucash | ratio 4.3 | vues None | likes 5445 | commentaires 5047 | partages None | https://www.instagram.com/reel/DfkawApIS_- | Claude ne sait pas nativement créer des effets sonores, alors voici mon top 3 des repos GitHub pour ajouter des effets sonores/sfx à tes agents ia :) #sfx #cla…
-- 2026-11-10 | instagram @khushidotjpeg | ratio 2.84 | vues None | likes 794 | commentaires 9 | partages None | https://www.instagram.com/reel/Dfjqm_ZOtCb | easy figma gradients pt.1 🎨 the simple way to make a gradient that doesn’t look default. no plugins, no fancy tricks, just the basics done properly. pt.2 is co…
-- 2026-11-10 | instagram @soojintech | ratio 3.9 | vues None | likes 3443 | commentaires 2143 | partages None | https://www.instagram.com/reel/DfkwTctPCbp | Comment “Fable” to get FREE & UNLIMITED AI video generation for 3 days with @higgsfield.ai MCP! 🚀 #higgsfieldpartner #ai #aitools
-- 2026-11-10 | instagram @ux.wheee | ratio 5.23 | vues None | likes 5810 | commentaires 49 | partages None | https://www.instagram.com/p/DfjbV9uCAn6 | didn’t realise this until I started putting this post together, but it was exactly 100 days of unemployment (nov 2025 till feb 2026) . . . [layoff, unemploymen…
-- 2026-11-09 | tiktok @innermudd | ratio 2.15 | vues 30900 | likes 1698 | commentaires 6 | partages 64 | https://www.tiktok.com/@innermudd/video/7706243394267303220 | 4 Mac apps I use almost every day to make my workflow easier and keep everything organized. From managing emails to tracking all my projects, these apps have b…
-- 2026-11-09 | tiktok @itsdesignely | ratio 2.31 | vues 7445 | likes 532 | commentaires 6 | partages 15 | https://www.tiktok.com/@itsdesignely/video/7706192658334633238 | 🗡️ Let’s make Zelda ocarina of time remake in 70xspeed Figma ~ 1h What game it’s your favourite recently? #gameui #gamedev #zelda
-- 2026-11-06 | instagram @juicelab.uiux | ratio 10.58 | vues None | likes 1703 | commentaires 50 | partages None | https://www.instagram.com/p/DfZqckAmd0e | Money management should feel effortless, not overwhelming. 💳 Introducing a modern finance dashboard concept designed to make every transaction, card, and finan…
-- 2026-11-06 | instagram @heigijeong | ratio 3.42 | vues None | likes 6196 | commentaires 31 | partages None | https://www.instagram.com/reel/DfZ6iSFCJWn | If you can’t stop thinking about quitting, you should read these two books. They saved me when I was going through my career crisis 🥹 #bookrecs
-- 2026-11-06 | instagram @sandracreatess | ratio 3.86 | vues None | likes 7409 | commentaires 10 | partages None | https://www.instagram.com/p/DfZI8iBNcIP | Happy Fridayyyyy :)))))))
-- 2026-11-06 | instagram @ux.wheee | ratio 2.39 | vues None | likes 2653 | commentaires 42 | partages None | https://www.instagram.com/p/DfZKtCdiHJ3 | side quests are also a way to distract everyone from kalesh(but i can’t guarantee okay)
-- 2026-11-03 | instagram @ellydoesdesign | ratio 8.43 | vues None | likes 1466 | commentaires 650 | partages None | https://www.instagram.com/reel/DfS6GeJSUIj | Comment WEB and I’ll dm u the links 🔗✨
-- 2026-11-03 | instagram @productplaybook_ | ratio 4.32 | vues None | likes 859 | commentaires 22 | partages None | https://www.instagram.com/reel/DfQswhmxkAb | interview questions I got for Research Product Manager (aka Applied AI Product Manager) roles! why spend time making a prototype if the hiring manager didn’t e…
-- 2026-11-02 | instagram @design4me__ | ratio 3.16 | vues None | likes 3595 | commentaires 425 | partages None | https://www.instagram.com/reel/DfPOHlfIVsM | 🚨 new curated website inspo alert!! this time it’s all about mouse interactions! i love when designers put so much creativity into something as simple as movin…
+- 2026-11-25 | instagram @the.bohdana | ratio 2.48 | vues None | likes 658 | commentaires 372 | partages None | https://www.instagram.com/reel/DgK9Ek5RrE2 | comment CHECKLIST to get free portfolio checklist in your DMs✨✌️ #productdesign #portfolio
+- 2026-11-24 | tiktok @marcelodesignx | ratio 2.21 | vues 6759 | likes 384 | commentaires 8 | partages 31 | https://www.tiktok.com/@marcelodesignx/video/7711532077249858834 | Stop using Orange in your designs!! save this for next #webdesign #websites #webdesigner #marcelodesignx #uiux
+- 2026-11-24 | instagram @ellydoesdesign | ratio 9.92 | vues None | likes 1825 | commentaires 171 | partages None | https://www.instagram.com/reel/DgIqjzUu3dX | If u want to have your website redesigned for free, comment REDESIGN and I’ll send you the submission form. It’s funny how you can put two seemingly unrelated …
+- 2026-11-23 | tiktok @marcelodesignx | ratio 6.01 | vues 18400 | likes 1925 | commentaires 19 | partages 72 | https://www.tiktok.com/@marcelodesignx/video/7711169385045544200 | Can we normalize? 🫪 #webdesign #websites #webdesigner #uiux
+- 2026-11-23 | instagram @bachynskyi_ui | ratio 6.96 | vues None | likes 4503 | commentaires 2372 | partages None | https://www.instagram.com/reel/DgFaSDeOWzD | Drop “WOW” and I’ll send you the links! A little UI inspiration for your next project.
+- 2026-11-21 | tiktok @marcelodesignx | ratio 26.62 | vues 81500 | likes 3448 | commentaires 78 | partages 396 | https://www.tiktok.com/@marcelodesignx/video/7710731071956012296 | Create short dramas in minutes using Higgsfield MCP in Claude. Write your script, generate your video, and publish directly to Instagram. Higgsfield’s Black Fr…
+- 2026-11-21 | tiktok @hana_siya5 | ratio 2.93 | vues 7531 | likes 632 | commentaires 2 | partages 82 | https://www.tiktok.com/@hana_siya5/video/7710711581264432402 | #github#UIUXDesign #skills #fypシ #DesignResources
+- 2026-11-20 | instagram @product.manager.guide | ratio 2.02 | vues None | likes 89 | commentaires 2 | partages None | https://www.instagram.com/reel/Df-LXJZxG_G | Success is not linear, don’t lose your focus. If you’re an ambitious person who is aspired to reach your goals, I’d love to learn what motivates you and what g…
+- 2026-11-20 | instagram @kproductmanager | ratio 2.12 | vues None | likes 946 | commentaires 6 | partages None | https://www.instagram.com/p/Df-t_l9lXRO | that went by quick
+- 2026-11-19 | tiktok @marcelodesignx | ratio 9.24 | vues 28300 | likes 2861 | commentaires 23 | partages 245 | https://www.tiktok.com/@marcelodesignx/video/7709690603730160903 | Steal these interactions to make your Website feel premium. 🥷 Save this for next! #webdesign #webdesigner #3Dwebsites #uiux #blowthisup
+- 2026-11-18 | instagram @asia.does.uxui | ratio 7.11 | vues None | likes 2411 | commentaires 138 | partages None | https://www.instagram.com/reel/Df4yOHKq0SH | I built this whole 3D scene in @figma with the new feature - 3D transform Every cube here is made of 6 flat frames, turned and pushed into 3D space, then anima…
+- 2026-11-17 | tiktok @bri_bossy | ratio 2.54 | vues 25200 | likes 3459 | commentaires 38 | partages 350 | https://www.tiktok.com/@bri_bossy/video/7709117723388808480 | On s’équipe bien pour éviter les bug en prod 🫡
+- 2026-11-17 | tiktok @innermudd | ratio 11.91 | vues 176100 | likes 11600 | commentaires 31 | partages 544 | https://www.tiktok.com/@innermudd/video/7709208263354633478 | few simple settings to give your Mac a whole new look. Which one is your favorite? Try them yourself! #MacBook #MacTips #MacOS #AppleSetup #Mac
+- 2026-11-17 | instagram @ellydoesdesign | ratio 2.72 | vues None | likes 501 | commentaires 232 | partages None | https://www.instagram.com/reel/Df3AYajuZEz | Comment USE and I’ll send all the links straight to your DMs ⬇️📲✨
+- 2026-11-17 | instagram @audreycaprianni | ratio 3.52 | vues None | likes 982 | commentaires 262 | partages None | https://www.instagram.com/reel/Df11CRcP26U | comment ⭐️ IDEAS ⭐️ and ill send you the bank of ideas im working on!!! whenever i get interested in a business, i quickly jolt down notes on how id get starte…
+- 2026-11-17 | instagram @productplaybook_ | ratio 3.0 | vues None | likes 1012 | commentaires 53 | partages None | https://www.instagram.com/reel/Df29ArNT0pw | Microsoft’s new AI model ❌doesn’t write answers. ✅It makes decisions. 𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 💬 Social media post with inappropriate content: ✅ 𝗛𝗶𝗱𝗲 ❌ Show 📦 Photo of a crush…
+- 2026-11-17 | instagram @product.manager.guide | ratio 2.27 | vues None | likes 100 | commentaires 2 | partages None | https://www.instagram.com/reel/Df2eNRBRuN9 | Breaking into Product shouldn’t cost you thousands of euros—especially when AI has completely changed what hiring managers actually look for. 💸 Save this befor…
+- 2026-11-16 | tiktok @itsdesignely | ratio 15.97 | vues 72500 | likes 80 | commentaires 0 | partages 1 | https://www.tiktok.com/@itsdesignely/video/7708758432349736225 | When I need to relax, I make things. Usually some random UI This time I also got to test my new Lenovo Yoga setup and the display quality is just WOW. I’ve alw…
+- 2026-11-16 | instagram @sandracreatess | ratio 2.67 | vues None | likes 5280 | commentaires 16 | partages None | https://www.instagram.com/p/Dfy6g7cNAg8 | Approach at your own risk. Happy Mondaayyy :))))
+- 2026-11-16 | instagram @askcatgpt | ratio 7.92 | vues None | likes 19572 | commentaires 701 | partages None | https://www.instagram.com/reel/DfyWDpZiqUt | @wsj @catlabs
+- 2026-11-13 | tiktok @itsdesignely | ratio 4.71 | vues 21400 | likes 533 | commentaires 3 | partages 31 | https://www.tiktok.com/@itsdesignely/video/7707607289728961825 | Okay, Figma is getting a little too powerful now 👀 3D transforms are finally here! Rotate designs across X, Y and Z axes, play with perspective and depth, and …
+- 2026-11-13 | instagram @thedesignely | ratio 2.02 | vues None | likes 5570 | commentaires 266 | partages None | https://www.instagram.com/reel/Dfrc4Iethao | Okay, Figma is getting a little too powerful now 👀 3D transforms are finally here! Rotate designs across X, Y and Z axes, play with perspective and depth, and …
+- 2026-11-13 | instagram @design4me__ | ratio 3.1 | vues None | likes 3632 | commentaires 1464 | partages None | https://www.instagram.com/reel/DfrcRHsIS3_ | 🚨 free website templates alert! found some really good ones that honestly have no business being free. whether you’re working on your own website or just wanna…
+- 2026-11-12 | instagram @askcatgpt | ratio 3.7 | vues None | likes 9146 | commentaires 201 | partages None | https://www.instagram.com/reel/Dfp_I12BZ_Z | TLDR Claude live editing my UI with me is absolutely bananas… This stuff used to take days guys. DAYS. And WORSE: u had to ASK SOMEBODY ELSE TO HELP YOU 🔪🔪🔪 No…
+- 2026-11-12 | instagram @ceciliakimdesign | ratio 2.38 | vues None | likes 288 | commentaires 10 | partages None | https://www.instagram.com/reel/Dfp6X0DSG3l | launching my first app ✶ part 5 ✶ pricing psychology Part 5 of launching Nessie in 10 days 🦕 I priced Nessie way under the big budgeting apps for a few reasons…
+- 2026-11-11 | instagram @meshtimes | ratio 8.9 | vues None | likes 39408 | commentaires 6888 | partages None | https://www.instagram.com/reel/DfnEUR7toXd | the doors are open!! 🎄 this year’s advent calendar is live ♡ i can’t believe we’re on year 3 already 🥹 in 2024, it started as a little figma template. in 2025,…
+- 2026-11-10 | tiktok @innermudd | ratio 9.14 | vues 135100 | likes 12200 | commentaires 28 | partages 715 | https://www.tiktok.com/@innermudd/video/7706646029948456244 | Just got a new iPad? Here are 3 tricks you should try! 👀 Which one is your favorite? #iPadTips #iPadTricks #AppleTips #iPadHacks #Apple
+- 2026-11-10 | instagram @0xloucash | ratio 4.68 | vues None | likes 5520 | commentaires 5141 | partages None | https://www.instagram.com/reel/DfkawApIS_- | Claude ne sait pas nativement créer des effets sonores, alors voici mon top 3 des repos GitHub pour ajouter des effets sonores/sfx à tes agents ia :) #sfx #cla…
+- 2026-11-10 | instagram @khushidotjpeg | ratio 2.83 | vues None | likes 807 | commentaires 9 | partages None | https://www.instagram.com/reel/Dfjqm_ZOtCb | easy figma gradients pt.1 🎨 the simple way to make a gradient that doesn’t look default. no plugins, no fancy tricks, just the basics done properly. pt.2 is co…
+- 2026-11-10 | instagram @soojintech | ratio 3.63 | vues None | likes 3494 | commentaires 2175 | partages None | https://www.instagram.com/reel/DfkwTctPCbp | Comment “Fable” to get FREE & UNLIMITED AI video generation for 3 days with @higgsfield.ai MCP! 🚀 #higgsfieldpartner #ai #aitools
+- 2026-11-10 | instagram @ux.wheee | ratio 5.41 | vues None | likes 6019 | commentaires 57 | partages None | https://www.instagram.com/p/DfjbV9uCAn6 | didn’t realise this until I started putting this post together, but it was exactly 100 days of unemployment (nov 2025 till feb 2026) . . . [layoff, unemploymen…
+- 2026-11-09 | tiktok @innermudd | ratio 2.14 | vues 31600 | likes 1747 | commentaires 7 | partages 64 | https://www.tiktok.com/@innermudd/video/7706243394267303220 | 4 Mac apps I use almost every day to make my workflow easier and keep everything organized. From managing emails to tracking all my projects, these apps have b…
+- 2026-11-06 | instagram @juicelab.uiux | ratio 9.63 | vues None | likes 1776 | commentaires 51 | partages None | https://www.instagram.com/p/DfZqckAmd0e | Money management should feel effortless, not overwhelming. 💳 Introducing a modern finance dashboard concept designed to make every transaction, card, and finan…
+- 2026-11-06 | instagram @heigijeong | ratio 3.36 | vues None | likes 6279 | commentaires 31 | partages None | https://www.instagram.com/reel/DfZ6iSFCJWn | If you can’t stop thinking about quitting, you should read these two books. They saved me when I was going through my career crisis 🥹 #bookrecs
+- 2026-11-06 | instagram @sandracreatess | ratio 3.8 | vues None | likes 7514 | commentaires 10 | partages None | https://www.instagram.com/p/DfZI8iBNcIP | Happy Fridayyyyy :)))))))
+- 2026-11-06 | instagram @ux.wheee | ratio 2.39 | vues None | likes 2662 | commentaires 42 | partages None | https://www.instagram.com/p/DfZKtCdiHJ3 | side quests are also a way to distract everyone from kalesh(but i can’t guarantee okay)
+- 2026-11-03 | instagram @ellydoesdesign | ratio 8.2 | vues None | likes 1509 | commentaires 682 | partages None | https://www.instagram.com/reel/DfS6GeJSUIj | Comment WEB and I’ll dm u the links 🔗✨
+- 2026-11-03 | instagram @productplaybook_ | ratio 2.58 | vues None | likes 869 | commentaires 22 | partages None | https://www.instagram.com/reel/DfQswhmxkAb | interview questions I got for Research Product Manager (aka Applied AI Product Manager) roles! why spend time making a prototype if the hiring manager didn’t e…
+- 2026-11-02 | instagram @design4me__ | ratio 3.14 | vues None | likes 3680 | commentaires 433 | partages None | https://www.instagram.com/reel/DfPOHlfIVsM | 🚨 new curated website inspo alert!! this time it’s all about mouse interactions! i love when designers put so much creativity into something as simple as movin…
 - 2026-10-30 | instagram @monikaintech | ratio 4.07 | vues None | likes 57 | commentaires 5 | partages None | https://www.instagram.com/p/DfHtDiZDBel | In school, I was sure I would always be mediocre. Today, I went back to my old school and told the eighth graders about it. I was never the top student, and I …
-- 2026-10-27 | instagram @marina_uiux | ratio 2.48 | vues None | likes 10101 | commentaires 1593 | partages None | https://www.instagram.com/reel/DfAGlmIIot7 | Here is how you can make this interactive Koi Fish design of mine ☝🏻 Drop a comment “koi” or use links below 👇🏻 Live link: https://budarina-koi.runable.site/ U…
-- 2026-10-27 | instagram @askcatgpt | ratio 3.04 | vues None | likes 10289 | commentaires 533 | partages None | https://www.instagram.com/reel/De-tjvmiAbk | 
-- 2026-10-22 | instagram @bachynskyi_ui | ratio 6.85 | vues None | likes 4423 | commentaires 2942 | partages None | https://www.instagram.com/reel/DezKlo6OXak | Drop “Wow” for the links and save this for inspiration 👀
-- 2026-10-19 | tiktok @bri_bossy | ratio 5.3 | vues 51800 | likes 8278 | commentaires 160 | partages 538 | https://www.tiktok.com/@bri_bossy/video/7698409257598848289 | Le jeu s’appelle YAP J’ai créé un jeu pour m’aider à m’améliorer en anglais ! Et franchement il est beaucoup trop cool 🌟♥️
-- 2026-10-17 | tiktok @daramint | ratio 11.32 | vues 37400 | likes 4748 | commentaires 40 | partages 120 | https://www.tiktok.com/@daramint/video/7697587941928881440 | A Full Day of Work As A UX/UI Designer 👩‍💻🎧 It’s been a while since my last #dayinmylife vlog! @anua_global #uxdesigner #9to5 #wfhvlog #pdrncream
-- 2026-10-13 | tiktok @daramint | ratio 3.69 | vues 12200 | likes 1477 | commentaires 23 | partages 57 | https://www.tiktok.com/@daramint/video/7696113873622945057 | What to put in your UX Design portfolio, based on where you actually are in your career 👩‍💻🎨 #portfolio #uxui #uxdesigner #portfoliotips #creativecareer
-- 2026-10-08 | tiktok @daramint | ratio 2.16 | vues 7144 | likes 670 | commentaires 23 | partages 40 | https://www.tiktok.com/@daramint/video/7694300991000284448 | #uxdesign #uxui #figmaplugin #designresources #designtools
-- 2026-10-02 | tiktok @hana_siya5 | ratio 4.26 | vues 10300 | likes 644 | commentaires 4 | partages 131 | https://www.tiktok.com/@hana_siya5/video/7692116078805142792 | #fyp #foryou #foryoupage #viral #uiuxdesign
-- 2026-09-28 | tiktok @hana_siya5 | ratio 3.1 | vues 7505 | likes 452 | commentaires 5 | partages 74 | https://www.tiktok.com/@hana_siya5/video/7690656669797190930 | Figma is evolving from a design tool into an entire creative workspace @figma #Figma2026 #explore #UIDesign #UXDesign #aitrend
-- 2026-09-21 | instagram @marina_uiux | ratio 16.55 | vues None | likes 67264 | commentaires 580 | partages None | https://www.instagram.com/reel/Ddj4YmwsnQn | Recap - some projects I’ve experimented with this summer ✨
-- 2026-09-10 | tiktok @tabeadesign | ratio 2.14 | vues 5389 | likes 363 | commentaires 6 | partages 8 | https://www.tiktok.com/@tabeadesign/video/7683864626731289878 | cool girls design cool websites pt. 3 🩵 had the honor of creating the portfolio for floofysocials and I cannot tell you how obsessed I am with how it turned ou…
-- 2026-09-10 | instagram @carol.yaps | ratio 3.29 | vues None | likes 53981 | commentaires 18452 | partages None | https://www.instagram.com/reel/DdIEGaEsvmm | the tutorial is here!! comment “READ” for the full guide to build this yourself <3 Ty y’all for the patience while I pulled the guide together and also for bea…
-- 2026-09-08 | instagram @soojintech | ratio 59.28 | vues None | likes 52370 | commentaires 19937 | partages None | https://www.instagram.com/reel/DdCvFdHsnj1 | Learning AI can feel overwhelming. So I built an advent calendar where you can learn 9 fundamental AI concepts: RAG, inference, embeddings, context windows, to…
-- 2026-09-01 | instagram @juicelab.uiux | ratio 12.01 | vues None | likes 1933 | commentaires 97 | partages None | https://www.instagram.com/p/DcvzsyPEhy8 | Finance, made beautifully simple. A refined fintech experience focused on effortless payments, smarter card management, and seamless money movement. Designed t…
+- 2026-10-27 | instagram @marina_uiux | ratio 2.76 | vues None | likes 10443 | commentaires 1648 | partages None | https://www.instagram.com/reel/DfAGlmIIot7 | Here is how you can make this interactive Koi Fish design of mine ☝🏻 Drop a comment “koi” or use links below 👇🏻 Live link: https://budarina-koi.runable.site/ U…
+- 2026-10-22 | instagram @bachynskyi_ui | ratio 6.88 | vues None | likes 4449 | commentaires 2971 | partages None | https://www.instagram.com/reel/DezKlo6OXak | Drop “Wow” for the links and save this for inspiration 👀
+- 2026-10-19 | tiktok @bri_bossy | ratio 5.23 | vues 51900 | likes 8290 | commentaires 160 | partages 540 | https://www.tiktok.com/@bri_bossy/video/7698409257598848289 | Le jeu s’appelle YAP J’ai créé un jeu pour m’aider à m’améliorer en anglais ! Et franchement il est beaucoup trop cool 🌟♥️
+- 2026-10-17 | tiktok @daramint | ratio 11.29 | vues 37700 | likes 4781 | commentaires 40 | partages 122 | https://www.tiktok.com/@daramint/video/7697587941928881440 | A Full Day of Work As A UX/UI Designer 👩‍💻🎧 It’s been a while since my last #dayinmylife vlog! @anua_global #uxdesigner #9to5 #wfhvlog #pdrncream
+- 2026-10-13 | tiktok @daramint | ratio 3.68 | vues 12300 | likes 1493 | commentaires 23 | partages 57 | https://www.tiktok.com/@daramint/video/7696113873622945057 | What to put in your UX Design portfolio, based on where you actually are in your career 👩‍💻🎨 #portfolio #uxui #uxdesigner #portfoliotips #creativecareer
+- 2026-10-08 | tiktok @daramint | ratio 2.15 | vues 7178 | likes 673 | commentaires 23 | partages 40 | https://www.tiktok.com/@daramint/video/7694300991000284448 | #uxdesign #uxui #figmaplugin #designresources #designtools
+- 2026-10-02 | tiktok @hana_siya5 | ratio 4.0 | vues 10300 | likes 649 | commentaires 4 | partages 131 | https://www.tiktok.com/@hana_siya5/video/7692116078805142792 | #fyp #foryou #foryoupage #viral #uiuxdesign
+- 2026-09-28 | tiktok @hana_siya5 | ratio 2.94 | vues 7571 | likes 458 | commentaires 5 | partages 74 | https://www.tiktok.com/@hana_siya5/video/7690656669797190930 | Figma is evolving from a design tool into an entire creative workspace @figma #Figma2026 #explore #UIDesign #UXDesign #aitrend
+- 2026-09-21 | instagram @marina_uiux | ratio 17.96 | vues None | likes 67980 | commentaires 586 | partages None | https://www.instagram.com/reel/Ddj4YmwsnQn | Recap - some projects I’ve experimented with this summer ✨
+- 2026-09-10 | tiktok @tabeadesign | ratio 2.68 | vues 5401 | likes 364 | commentaires 6 | partages 8 | https://www.tiktok.com/@tabeadesign/video/7683864626731289878 | cool girls design cool websites pt. 3 🩵 had the honor of creating the portfolio for floofysocials and I cannot tell you how obsessed I am with how it turned ou…
+- 2026-09-10 | instagram @carol.yaps | ratio 3.29 | vues None | likes 54007 | commentaires 18491 | partages None | https://www.instagram.com/reel/DdIEGaEsvmm | the tutorial is here!! comment “READ” for the full guide to build this yourself <3 Ty y’all for the patience while I pulled the guide together and also for bea…
+- 2026-09-08 | instagram @soojintech | ratio 55.09 | vues None | likes 53055 | commentaires 20244 | partages None | https://www.instagram.com/reel/DdCvFdHsnj1 | Learning AI can feel overwhelming. So I built an advent calendar where you can learn 9 fundamental AI concepts: RAG, inference, embeddings, context windows, to…
+- 2026-09-01 | instagram @juicelab.uiux | ratio 10.49 | vues None | likes 1935 | commentaires 97 | partages None | https://www.instagram.com/p/DcvzsyPEhy8 | Finance, made beautifully simple. A refined fintech experience focused on effortless payments, smarter card management, and seamless money movement. Designed t…
 
 ## Hashtags et mots-clés TikTok (relevé hebdomadaire)
 
@@ -226,7 +227,8 @@ Relevé du 2026-11-23T16:21:29Z.
     - 2026-11-14 | 7-Point UX Portfolio Formula I’d Use To Get Noticed by Global Product Companies | par Dolly Borade Solanki | https://medium.com/@dollyborade07/7-point-ux-portfolio-formula-id-use-to-get-noticed-by-global-product-companies-71824ab51b7b | ux-research, ux, ux-design, ai, ui-ux-design
     - 2026-11-05 | What I’d Stop Showing in My UX Design Portfolio(And What I’d Show Instead) | par Dolly Borade Solanki | https://medium.com/@dollyborade07/what-id-stop-showing-in-my-ux-design-portfolio-and-what-i-d-show-instead-d847b3bcf7f7 | ux, ui-ux, ux-research, ux-design, ui-ux-design
     - 2026-10-28 | The $3000 UX Designer Blueprint: Skills, Clients, and Pricing Strategies | par Dolly Borade Solanki | https://medium.com/@dollyborade07/the-3000-ux-designer-blueprint-skills-clients-and-pricing-strategies-0879e32a58b6 | ai, ux-design, ui-ux, ui-ux-design, ux
-- Medium : Michal Malewicz (source medium) : 7 articles récents
+- Medium : Michal Malewicz (source medium) : 8 articles récents
+    - 2026-11-25 | SaaS is dead. Time for SoaM. Anthropic just killed most apps. | par Michal Malewicz | https://michalmalewicz.medium.com/saas-is-dead-time-for-soam-anthropic-just-killed-most-apps-e80d1ff1e4b0 | technology, ai, startup, design, web-development
     - 2026-11-22 | These slop patterns kill your client trust online in 2026/2027. | par Michal Malewicz | https://michalmalewicz.medium.com/these-slop-patterns-kill-your-client-trust-online-in-2026-2027-77afac23fe8a | ux-design, design, ux, ui, artificial-intelligence
     - 2026-11-20 | The only way to get rich on Anthropic IPO right now | par Michal Malewicz | https://michalmalewicz.medium.com/the-only-way-to-get-rich-on-anthropic-ipo-right-now-e1b475ed67fb | artificial-intelligence, ai, finance, investing, technology
     - 2026-11-14 | Vibe Coding vs Vice City. GTA 6 vs Anthropic. | par Michal Malewicz | https://michalmalewicz.medium.com/november-19th-brings-the-biggest-threat-for-ai-ever-c823ce5bdbb4 | ai, finance, marketing, artificial-intelligence, technology
@@ -235,16 +237,16 @@ Relevé du 2026-11-23T16:21:29Z.
     - 2026-10-28 | Touchscreen MacBook proves Apple’s out of touch | par Michal Malewicz | https://michalmalewicz.medium.com/touchscreen-macbook-proves-apples-out-of-touch-999981e0722e | design, apple, future, technology, innovation
     - 2026-10-27 | The AI bubble finally burst yesterday. | par Michal Malewicz | https://michalmalewicz.medium.com/the-ai-bubble-finally-burst-yesterday-08c919925f42 | finance, future, technology, ai, artificial-intelligence
 - Medium : Bootcamp (source medium) : 10 articles récents
-    - 2026-11-25 | The Insight Was Only Part of the Work | par Ryan Russell | https://medium.com/design-bootcamp/the-insight-was-only-part-of-the-work-eadf39769413 | ux-research, storytelling, empathy, qualitative-research, design-leadership
-    - 2026-11-25 | Three Mindsets That Changed How I Work | par Thomas Wright | https://medium.com/design-bootcamp/three-mindsets-that-changed-how-i-work-58a6ce8a380b | 
-    - 2026-11-25 | Computer Vision Solved Aiming. “Enemy” Is Still Unsolvable. | par Hayanan | https://medium.com/design-bootcamp/computer-vision-solved-aiming-enemy-is-still-unsolvable-0e8f606f733d | data-science, machine-learning, image-processing, artificial-intelligence, computer-vision
-    - 2026-11-25 | How do you design for a startup with no product or brand? | par John St. Aïmond Banson | https://medium.com/design-bootcamp/how-do-you-design-for-a-startup-with-no-product-or-brand-b82ba6d8a86e | product-design, entrepreneurship, startup, design, branding
-    - 2026-11-25 | “Safe Roleplay” Was the Promise. Testing Said Otherwise. Now New York Has Paused AI Chatbot Toys. | par Amajuoyi Udochukwu Deborah | https://medium.com/design-bootcamp/safe-roleplay-was-the-promise-testing-said-otherwise-now-new-york-has-paused-ai-chatbot-toys-7949cf0f6901 | ux-design, product-management, ai-safety, artificial-intelligence, product-design
-    - 2026-11-25 | Everyone Tells Solo Designers to Build an Agency. In 2026 That Is Backwards. | par Sanjana Agarwal | https://medium.com/design-bootcamp/everyone-tells-solo-designers-to-build-an-agency-in-2026-that-is-backwards-8f7a9929eee2 | 
-    - 2026-11-25 | The Average Designer Now Uses Seven Tools Instead of Three. Nobody Is Shipping Twice as Much. | par Sanjana Agarwal | https://medium.com/design-bootcamp/the-average-designer-now-uses-seven-tools-instead-of-three-nobody-is-shipping-twice-as-much-02a0ffec7a74 | 
-    - 2026-11-25 | How I set up a Figma file so Claude reads the whole brief before it designs | par Nishank Kumbhalwar | https://medium.com/design-bootcamp/how-i-set-up-a-figma-file-so-claude-reads-the-whole-brief-before-it-designs-775232ece807 | design, ai, product-design, claude, ux-design
-    - 2026-11-25 | Your portfolio is starting to sound like everyone else’s | par Hitarth Nayak | https://medium.com/design-bootcamp/your-portfolio-is-starting-to-sound-like-everyone-elses-e21b2976d614 | case-study, artificial-intelligence, freelancing, design, portfolio
-    - 2026-11-24 | Is AI Really Taking Our Jobs? Here’s What 392 Layoffs Actually Said. | par Jayendra More | https://medium.com/design-bootcamp/is-ai-really-taking-our-jobs-heres-what-392-layoffs-actually-said-eb10a60551d6 | future-of-work, careers, artificial-intelligence, product-management, layoffs
+    - 2026-11-26 | An AI Detector Flagged a Debut Novel. The Book Deals Are Being Unwound. | par Amajuoyi Udochukwu Deborah | https://medium.com/design-bootcamp/an-ai-detector-flagged-a-debut-novel-the-book-deals-are-being-unwound-01691e4b6851 | ai-ethics, product-management, ux-design, publishing, artificial-intelligence
+    - 2026-11-26 | 10 Mental Models Product Teams Use Without Naming Them | par Rishi Sharma | https://medium.com/design-bootcamp/10-mental-models-product-teams-use-without-naming-them-eded9263e38d | software-engineering, product-management, mental-models, product-design, ux-design
+    - 2026-11-26 | The AI says “You’re booked.” Prove it. | par Iris Atalay | https://medium.com/design-bootcamp/the-ai-says-youre-booked-prove-it-b501bc6a29da | product-design, artificial-intelligence, prototyping, ux-design, design-interview
+    - 2026-11-26 | The Single Source of Truth (SSOT) | par fernandocomet | https://medium.com/design-bootcamp/the-single-source-of-truth-ssot-8278f7074ab4 | figma, design-systems, code, design
+    - 2026-11-26 | AI changed what I can do as a designer. It didn’t change what makes me a designer. | par Jessy Bou Dagher | https://medium.com/design-bootcamp/ai-changed-what-i-can-do-as-a-designer-it-didnt-change-what-makes-me-a-designer-a1009dc9dedd | product-design, product-designer, ai, ux-design, ui-design
+    - 2026-11-25 | Dub Digger — The Dub Techno index | par Simone Ferraro | https://medium.com/design-bootcamp/dub-digger-the-dub-techno-index-c9a75ceea3a6 | product-design, data-curation, electronic-music, information-architecture, side-project
+    - 2026-11-25 | Calculating tints, shades and tones by hand | par Colin Shanley | https://medium.com/design-bootcamp/calculating-tints-shades-and-tones-by-hand-d9d3915ffc46 | accessibility, ux-design, design, colour-blindness, colour-theory
+    - 2026-11-25 | Clio AI: Designing an AI agent for high-stakes, regulated work | par Elisey Kolev | https://medium.com/design-bootcamp/clio-ai-designing-an-ai-agent-for-high-stakes-regulated-work-e24ef147da65 | ai, ux-design, healthcare, ai-agent, product-design
+    - 2026-11-25 | How I’d Prepare for a Design Interview in 2027: The Questions That Changed and the Ones That Didn’t | par Ayushi Sharma | https://medium.com/design-bootcamp/how-id-prepare-for-a-design-interview-in-2027-the-questions-that-changed-and-the-ones-that-didn-t-e12eaa503802 | design-interview, ux-design, career-advice, product-design, interview
+    - 2026-11-25 | A Creative’s Case for Embracing AI | par Jake Fernandes | https://medium.com/design-bootcamp/a-creatives-case-for-embracing-ai-734138cfea72 | ux, creativity, ep, ai, design
 - Romina Kavcic : The Design System Guide (newsletter) (source web) : 2 articles récents
     - 2026-11-23 | Craft first, AI second | par Romina Kavcic | https://learn.thedesignsystem.guide/p/craft-first-ai-second | 
     - 2026-11-06 | How I use AI | par Romina Kavcic | https://learn.thedesignsystem.guide/p/how-i-use-ai | 

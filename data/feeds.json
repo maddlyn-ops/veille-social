@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T15:31:18Z",
+  "generated_at": "2026-11-26T15:10:39Z",
   "feeds": [
     {
       "name": "Medium : Dolly Borade Solanki",
@@ -146,6 +146,19 @@
       "status": "ok",
       "items": [
         {
+          "title": "SaaS is dead. Time for SoaM. Anthropic just killed most apps.",
+          "url": "https://michalmalewicz.medium.com/saas-is-dead-time-for-soam-anthropic-just-killed-most-apps-e80d1ff1e4b0",
+          "date": "2026-11-25",
+          "author": "Michal Malewicz",
+          "tags": [
+            "technology",
+            "ai",
+            "startup",
+            "design",
+            "web-development"
+          ]
+        },
+        {
           "title": "These slop patterns kill your client trust online in 2026/2027.",
           "url": "https://michalmalewicz.medium.com/these-slop-patterns-kill-your-client-trust-online-in-2026-2027-77afac23fe8a",
           "date": "2026-11-22",
@@ -261,19 +274,6 @@
             "artificial-intelligence",
             "ai"
           ]
-        },
-        {
-          "title": "Revolut went down, and that’s just the beginning.",
-          "url": "https://michalmalewicz.medium.com/revolut-went-down-and-thats-just-the-beginning-76e721389054",
-          "date": "2026-10-20",
-          "author": "Michal Malewicz",
-          "tags": [
-            "finance",
-            "money",
-            "artificial-intelligence",
-            "technology",
-            "ai"
-          ]
         }
       ]
     },
@@ -284,115 +284,132 @@
       "status": "ok",
       "items": [
         {
-          "title": "The Insight Was Only Part of the Work",
-          "url": "https://medium.com/design-bootcamp/the-insight-was-only-part-of-the-work-eadf39769413",
-          "date": "2026-11-25",
-          "author": "Ryan Russell",
-          "tags": [
-            "ux-research",
-            "storytelling",
-            "empathy",
-            "qualitative-research",
-            "design-leadership"
-          ]
-        },
-        {
-          "title": "Three Mindsets That Changed How I Work",
-          "url": "https://medium.com/design-bootcamp/three-mindsets-that-changed-how-i-work-58a6ce8a380b",
-          "date": "2026-11-25",
-          "author": "Thomas Wright",
-          "tags": []
-        },
-        {
-          "title": "Computer Vision Solved Aiming. “Enemy” Is Still Unsolvable.",
-          "url": "https://medium.com/design-bootcamp/computer-vision-solved-aiming-enemy-is-still-unsolvable-0e8f606f733d",
-          "date": "2026-11-25",
-          "author": "Hayanan",
-          "tags": [
-            "data-science",
-            "machine-learning",
-            "image-processing",
-            "artificial-intelligence",
-            "computer-vision"
-          ]
-        },
-        {
-          "title": "How do you design for a startup with no product or brand?",
-          "url": "https://medium.com/design-bootcamp/how-do-you-design-for-a-startup-with-no-product-or-brand-b82ba6d8a86e",
-          "date": "2026-11-25",
-          "author": "John St. Aïmond Banson",
-          "tags": [
-            "product-design",
-            "entrepreneurship",
-            "startup",
-            "design",
-            "branding"
-          ]
-        },
-        {
-          "title": "“Safe Roleplay” Was the Promise. Testing Said Otherwise. Now New York Has Paused AI Chatbot Toys.",
-          "url": "https://medium.com/design-bootcamp/safe-roleplay-was-the-promise-testing-said-otherwise-now-new-york-has-paused-ai-chatbot-toys-7949cf0f6901",
-          "date": "2026-11-25",
+          "title": "An AI Detector Flagged a Debut Novel. The Book Deals Are Being Unwound.",
+          "url": "https://medium.com/design-bootcamp/an-ai-detector-flagged-a-debut-novel-the-book-deals-are-being-unwound-01691e4b6851",
+          "date": "2026-11-26",
           "author": "Amajuoyi Udochukwu Deborah",
           "tags": [
-            "ux-design",
+            "ai-ethics",
             "product-management",
-            "ai-safety",
-            "artificial-intelligence",
-            "product-design"
+            "ux-design",
+            "publishing",
+            "artificial-intelligence"
           ]
         },
         {
-          "title": "Everyone Tells Solo Designers to Build an Agency. In 2026 That Is Backwards.",
-          "url": "https://medium.com/design-bootcamp/everyone-tells-solo-designers-to-build-an-agency-in-2026-that-is-backwards-8f7a9929eee2",
-          "date": "2026-11-25",
-          "author": "Sanjana Agarwal",
-          "tags": []
-        },
-        {
-          "title": "The Average Designer Now Uses Seven Tools Instead of Three. Nobody Is Shipping Twice as Much.",
-          "url": "https://medium.com/design-bootcamp/the-average-designer-now-uses-seven-tools-instead-of-three-nobody-is-shipping-twice-as-much-02a0ffec7a74",
-          "date": "2026-11-25",
-          "author": "Sanjana Agarwal",
-          "tags": []
-        },
-        {
-          "title": "How I set up a Figma file so Claude reads the whole brief before it designs",
-          "url": "https://medium.com/design-bootcamp/how-i-set-up-a-figma-file-so-claude-reads-the-whole-brief-before-it-designs-775232ece807",
-          "date": "2026-11-25",
-          "author": "Nishank Kumbhalwar",
+          "title": "10 Mental Models Product Teams Use Without Naming Them",
+          "url": "https://medium.com/design-bootcamp/10-mental-models-product-teams-use-without-naming-them-eded9263e38d",
+          "date": "2026-11-26",
+          "author": "Rishi Sharma",
           "tags": [
-            "design",
-            "ai",
+            "software-engineering",
+            "product-management",
+            "mental-models",
             "product-design",
-            "claude",
             "ux-design"
           ]
         },
         {
-          "title": "Your portfolio is starting to sound like everyone else’s",
-          "url": "https://medium.com/design-bootcamp/your-portfolio-is-starting-to-sound-like-everyone-elses-e21b2976d614",
-          "date": "2026-11-25",
-          "author": "Hitarth Nayak",
+          "title": "The AI says “You’re booked.” Prove it.",
+          "url": "https://medium.com/design-bootcamp/the-ai-says-youre-booked-prove-it-b501bc6a29da",
+          "date": "2026-11-26",
+          "author": "Iris Atalay",
           "tags": [
-            "case-study",
+            "product-design",
             "artificial-intelligence",
-            "freelancing",
-            "design",
-            "portfolio"
+            "prototyping",
+            "ux-design",
+            "design-interview"
           ]
         },
         {
-          "title": "Is AI Really Taking Our Jobs? Here’s What 392 Layoffs Actually Said.",
-          "url": "https://medium.com/design-bootcamp/is-ai-really-taking-our-jobs-heres-what-392-layoffs-actually-said-eb10a60551d6",
-          "date": "2026-11-24",
-          "author": "Jayendra More",
+          "title": "The Single Source of Truth (SSOT)",
+          "url": "https://medium.com/design-bootcamp/the-single-source-of-truth-ssot-8278f7074ab4",
+          "date": "2026-11-26",
+          "author": "fernandocomet",
           "tags": [
-            "future-of-work",
-            "careers",
-            "artificial-intelligence",
-            "product-management",
-            "layoffs"
+            "figma",
+            "design-systems",
+            "code",
+            "design"
+          ]
+        },
+        {
+          "title": "AI changed what I can do as a designer. It didn’t change what makes me a designer.",
+          "url": "https://medium.com/design-bootcamp/ai-changed-what-i-can-do-as-a-designer-it-didnt-change-what-makes-me-a-designer-a1009dc9dedd",
+          "date": "2026-11-26",
+          "author": "Jessy Bou Dagher",
+          "tags": [
+            "product-design",
+            "product-designer",
+            "ai",
+            "ux-design",
+            "ui-design"
+          ]
+        },
+        {
+          "title": "Dub Digger — The Dub Techno index",
+          "url": "https://medium.com/design-bootcamp/dub-digger-the-dub-techno-index-c9a75ceea3a6",
+          "date": "2026-11-25",
+          "author": "Simone Ferraro",
+          "tags": [
+            "product-design",
+            "data-curation",
+            "electronic-music",
+            "information-architecture",
+            "side-project"
+          ]
+        },
+        {
+          "title": "Calculating tints, shades and tones by hand",
+          "url": "https://medium.com/design-bootcamp/calculating-tints-shades-and-tones-by-hand-d9d3915ffc46",
+          "date": "2026-11-25",
+          "author": "Colin Shanley",
+          "tags": [
+            "accessibility",
+            "ux-design",
+            "design",
+            "colour-blindness",
+            "colour-theory"
+          ]
+        },
+        {
+          "title": "Clio AI: Designing an AI agent for high-stakes, regulated work",
+          "url": "https://medium.com/design-bootcamp/clio-ai-designing-an-ai-agent-for-high-stakes-regulated-work-e24ef147da65",
+          "date": "2026-11-25",
+          "author": "Elisey Kolev",
+          "tags": [
+            "ai",
+            "ux-design",
+            "healthcare",
+            "ai-agent",
+            "product-design"
+          ]
+        },
+        {
+          "title": "How I’d Prepare for a Design Interview in 2027: The Questions That Changed and the Ones That Didn’t",
+          "url": "https://medium.com/design-bootcamp/how-id-prepare-for-a-design-interview-in-2027-the-questions-that-changed-and-the-ones-that-didn-t-e12eaa503802",
+          "date": "2026-11-25",
+          "author": "Ayushi Sharma",
+          "tags": [
+            "design-interview",
+            "ux-design",
+            "career-advice",
+            "product-design",
+            "interview"
+          ]
+        },
+        {
+          "title": "A Creative’s Case for Embracing AI",
+          "url": "https://medium.com/design-bootcamp/a-creatives-case-for-embracing-ai-734138cfea72",
+          "date": "2026-11-25",
+          "author": "Jake Fernandes",
+          "tags": [
+            "ux",
+            "creativity",
+            "ep",
+            "ai",
+            "design"
           ]
         }
       ]
