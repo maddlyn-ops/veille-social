@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:10:39Z",
+  "generated_at": "2026-11-27T14:58:23Z",
   "feeds": [
     {
       "name": "Medium : Dolly Borade Solanki",
@@ -284,6 +284,56 @@
       "status": "ok",
       "items": [
         {
+          "title": "AI Product Design vs. Product Design with AI",
+          "url": "https://medium.com/design-bootcamp/ai-product-design-vs-product-design-with-ai-82b4d7837235",
+          "date": "2026-11-27",
+          "author": "Parthavi Patel",
+          "tags": [
+            "product-design",
+            "ui",
+            "design",
+            "ai",
+            "ux"
+          ]
+        },
+        {
+          "title": "Define success before the test, not after",
+          "url": "https://medium.com/design-bootcamp/define-success-before-the-test-not-after-49c0ff7cca4b",
+          "date": "2026-11-27",
+          "author": "Jérémy Lorent",
+          "tags": [
+            "ux-design",
+            "usability-testing",
+            "ux-research"
+          ]
+        },
+        {
+          "title": "Is it still necessary to think?",
+          "url": "https://medium.com/design-bootcamp/is-it-still-necessary-to-think-f9aa0c09ffbb",
+          "date": "2026-11-27",
+          "author": "Dàniel Dalia",
+          "tags": [
+            "ux-design",
+            "artificial-intelligence",
+            "future-of-work",
+            "ux-research",
+            "innovation"
+          ]
+        },
+        {
+          "title": "Is Dribbble Pro Worth It in 2027? I Sent 43 Proposals and Won No Projects",
+          "url": "https://medium.com/design-bootcamp/is-dribbble-pro-worth-it-in-2027-i-sent-43-proposals-and-won-no-projects-347013a3012f",
+          "date": "2026-11-27",
+          "author": "Muhammad Usama Qaisar",
+          "tags": [
+            "dribbble",
+            "ui-design",
+            "ux-design",
+            "freelancing",
+            "design"
+          ]
+        },
+        {
           "title": "An AI Detector Flagged a Debut Novel. The Book Deals Are Being Unwound.",
           "url": "https://medium.com/design-bootcamp/an-ai-detector-flagged-a-debut-novel-the-book-deals-are-being-unwound-01691e4b6851",
           "date": "2026-11-26",
@@ -358,58 +408,6 @@
             "electronic-music",
             "information-architecture",
             "side-project"
-          ]
-        },
-        {
-          "title": "Calculating tints, shades and tones by hand",
-          "url": "https://medium.com/design-bootcamp/calculating-tints-shades-and-tones-by-hand-d9d3915ffc46",
-          "date": "2026-11-25",
-          "author": "Colin Shanley",
-          "tags": [
-            "accessibility",
-            "ux-design",
-            "design",
-            "colour-blindness",
-            "colour-theory"
-          ]
-        },
-        {
-          "title": "Clio AI: Designing an AI agent for high-stakes, regulated work",
-          "url": "https://medium.com/design-bootcamp/clio-ai-designing-an-ai-agent-for-high-stakes-regulated-work-e24ef147da65",
-          "date": "2026-11-25",
-          "author": "Elisey Kolev",
-          "tags": [
-            "ai",
-            "ux-design",
-            "healthcare",
-            "ai-agent",
-            "product-design"
-          ]
-        },
-        {
-          "title": "How I’d Prepare for a Design Interview in 2027: The Questions That Changed and the Ones That Didn’t",
-          "url": "https://medium.com/design-bootcamp/how-id-prepare-for-a-design-interview-in-2027-the-questions-that-changed-and-the-ones-that-didn-t-e12eaa503802",
-          "date": "2026-11-25",
-          "author": "Ayushi Sharma",
-          "tags": [
-            "design-interview",
-            "ux-design",
-            "career-advice",
-            "product-design",
-            "interview"
-          ]
-        },
-        {
-          "title": "A Creative’s Case for Embracing AI",
-          "url": "https://medium.com/design-bootcamp/a-creatives-case-for-embracing-ai-734138cfea72",
-          "date": "2026-11-25",
-          "author": "Jake Fernandes",
-          "tags": [
-            "ux",
-            "creativity",
-            "ep",
-            "ai",
-            "design"
           ]
         }
       ]
