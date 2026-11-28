@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:58:23Z",
+  "generated_at": "2026-11-28T14:11:55Z",
   "feeds": [
     {
       "name": "Medium : Dolly Borade Solanki",
@@ -284,6 +284,77 @@
       "status": "ok",
       "items": [
         {
+          "title": "The Not-So-Simple World of B2B Product Management",
+          "url": "https://medium.com/design-bootcamp/the-not-so-simple-world-of-b2b-product-management-cf7865966166",
+          "date": "2026-11-28",
+          "author": "Seyifunmi Olafioye",
+          "tags": [
+            "product-management",
+            "b2b"
+          ]
+        },
+        {
+          "title": "6 Things Product Managers Should Know About Customer Retention",
+          "url": "https://medium.com/design-bootcamp/6-things-product-managers-should-know-about-customer-retention-f32f8af9c05e",
+          "date": "2026-11-28",
+          "author": "Seyifunmi Olafioye",
+          "tags": [
+            "product-management",
+            "customer-retention"
+          ]
+        },
+        {
+          "title": "Health infographics: how to make them appealing and accessible",
+          "url": "https://medium.com/design-bootcamp/health-infographics-how-to-make-them-appealing-and-accessible-4da352b7be7b",
+          "date": "2026-11-28",
+          "author": "Cynthia Marinakos",
+          "tags": [
+            "accessibility",
+            "ux",
+            "communication-skills",
+            "ux-design",
+            "web-accessibility"
+          ]
+        },
+        {
+          "title": "Risk Exposure, AI and Bounded Rationality for Decision Making",
+          "url": "https://medium.com/design-bootcamp/risk-exposure-ai-and-bounded-rationality-for-decision-making-bcbf2ad997cf",
+          "date": "2026-11-28",
+          "author": "Casandra Cain",
+          "tags": [
+            "artificial-intelligence",
+            "forecasting",
+            "decision-making",
+            "risk-management",
+            "competitive-advantage"
+          ]
+        },
+        {
+          "title": "Design is blooming because of AI. Here’s how I’m trying not to disappear in it.",
+          "url": "https://medium.com/design-bootcamp/design-is-blooming-because-of-ai-heres-how-i-m-trying-not-to-disappear-in-it-63e792d40ec1",
+          "date": "2026-11-28",
+          "author": "Nishank Kumbhalwar",
+          "tags": [
+            "ai",
+            "personal-growth",
+            "ux",
+            "design-thinking",
+            "design"
+          ]
+        },
+        {
+          "title": "The AI Product Sense Shift Every PM Needs to Make Now",
+          "url": "https://medium.com/design-bootcamp/the-ai-product-sense-shift-every-pm-needs-to-make-now-c45531e069f4",
+          "date": "2026-11-28",
+          "author": "Harshit Goyal",
+          "tags": [
+            "ai",
+            "product-management",
+            "product-sense",
+            "product"
+          ]
+        },
+        {
           "title": "AI Product Design vs. Product Design with AI",
           "url": "https://medium.com/design-bootcamp/ai-product-design-vs-product-design-with-ai-82b4d7837235",
           "date": "2026-11-27",
@@ -331,83 +402,6 @@
             "ux-design",
             "freelancing",
             "design"
-          ]
-        },
-        {
-          "title": "An AI Detector Flagged a Debut Novel. The Book Deals Are Being Unwound.",
-          "url": "https://medium.com/design-bootcamp/an-ai-detector-flagged-a-debut-novel-the-book-deals-are-being-unwound-01691e4b6851",
-          "date": "2026-11-26",
-          "author": "Amajuoyi Udochukwu Deborah",
-          "tags": [
-            "ai-ethics",
-            "product-management",
-            "ux-design",
-            "publishing",
-            "artificial-intelligence"
-          ]
-        },
-        {
-          "title": "10 Mental Models Product Teams Use Without Naming Them",
-          "url": "https://medium.com/design-bootcamp/10-mental-models-product-teams-use-without-naming-them-eded9263e38d",
-          "date": "2026-11-26",
-          "author": "Rishi Sharma",
-          "tags": [
-            "software-engineering",
-            "product-management",
-            "mental-models",
-            "product-design",
-            "ux-design"
-          ]
-        },
-        {
-          "title": "The AI says “You’re booked.” Prove it.",
-          "url": "https://medium.com/design-bootcamp/the-ai-says-youre-booked-prove-it-b501bc6a29da",
-          "date": "2026-11-26",
-          "author": "Iris Atalay",
-          "tags": [
-            "product-design",
-            "artificial-intelligence",
-            "prototyping",
-            "ux-design",
-            "design-interview"
-          ]
-        },
-        {
-          "title": "The Single Source of Truth (SSOT)",
-          "url": "https://medium.com/design-bootcamp/the-single-source-of-truth-ssot-8278f7074ab4",
-          "date": "2026-11-26",
-          "author": "fernandocomet",
-          "tags": [
-            "figma",
-            "design-systems",
-            "code",
-            "design"
-          ]
-        },
-        {
-          "title": "AI changed what I can do as a designer. It didn’t change what makes me a designer.",
-          "url": "https://medium.com/design-bootcamp/ai-changed-what-i-can-do-as-a-designer-it-didnt-change-what-makes-me-a-designer-a1009dc9dedd",
-          "date": "2026-11-26",
-          "author": "Jessy Bou Dagher",
-          "tags": [
-            "product-design",
-            "product-designer",
-            "ai",
-            "ux-design",
-            "ui-design"
-          ]
-        },
-        {
-          "title": "Dub Digger — The Dub Techno index",
-          "url": "https://medium.com/design-bootcamp/dub-digger-the-dub-techno-index-c9a75ceea3a6",
-          "date": "2026-11-25",
-          "author": "Simone Ferraro",
-          "tags": [
-            "product-design",
-            "data-curation",
-            "electronic-music",
-            "information-architecture",
-            "side-project"
           ]
         }
       ]
